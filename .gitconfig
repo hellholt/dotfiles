@@ -1,0 +1,7 @@
+[core]
+	editor = nano
+[user]
+	name = Nathan Douglas
+	email = github@darkdell.net
+[pull]
+	rebase = true
