@@ -4,7 +4,7 @@
 # or non-login, interactive or non-interactive.
 
 # General scripts.
-# bash_segments="options path env library ansible dotfiles ffmpeg filebot hass k8s kasa proxmox r53 reddit torrents beets comics pi host completion aliases";
+bash_segments="options path env library ansible dotfiles ffmpeg filebot hass k8s kasa proxmox r53 reddit torrents beets comics pi host completion aliases";
 for bash_dir in ${bash_segments}; do
   dotfiles_dir="${HOME}/.bash.${bash_dir}.d";
   if test -n "$(shopt -s nullglob; echo "${HOME}"/*.sh)"; then
