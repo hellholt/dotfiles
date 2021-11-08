@@ -2,7 +2,7 @@
 
 # Move the issue to its destination.
 cmx_move_issue() {
-  : "${1?"Usage: ${FUNCNAME} FILE [METADATA] DUPE_DIRECTORY WTF_DIRECTORY"}";
+  : "${1?"Usage: ${FUNCNAME} FILE [METADATA]"}";
   the_filename="${1}";
   the_metadata="${2}";
   dupe_path="~/DuplicateComics";

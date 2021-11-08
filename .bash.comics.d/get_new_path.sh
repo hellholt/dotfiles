@@ -38,7 +38,7 @@ cmx_get_new_path() {
     echo "Unable to construct a valid issue number for ${the_filename}" >&2;
     return;
   fi
-  path_prefix="/leo/media/comics";
+  path_prefix="$(pwd)";
   the_directory="[${the_volume}] ${the_series} (${the_publisher})";
   new_filename="${the_issue}";
   if [ ! -z "${the_title}" ]; then
