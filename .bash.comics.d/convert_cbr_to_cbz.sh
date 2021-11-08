@@ -26,6 +26,7 @@ cmx_convert_cbr_to_cbz() {
     the_dirname="$(realpath "$(dirname "${the_filename}")")";
     the_basename="$(basename "${the_filename}" ".cbr")";
     the_zipname="${the_basename}.cbz";
+    mkdir -p "${HOME}/Temporary";
     the_tempdir="$(mktemp -d -p "${HOME}/Temporary")";
     the_newpath="${the_dirname}/${the_zipname}";
     rm -rf "${the_tempdir}";
