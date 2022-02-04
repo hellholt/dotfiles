@@ -26,25 +26,25 @@ https://feeds.megaphone.fm/behindthebastards
 
 # C
 
-# Common Sense with Dan Carlin
-
 # Crime Junkie
-
+https://feeds.simplecast.com/qm_9xx0g
 # Criminal
+https://feeds.megaphone.fm/VMP7924981569
 
 # D
 
 # The Daily Stoic
-
+https://rss.art19.com/the-daily-stoic
 # Dan Carlin's Hardcore History
-
+http://feeds.feedburner.com/dancarlin/history?format=xml
 # Darknet Diaries
-
+https://feeds.megaphone.fm/darknetdiaries
 # Death, Sex & Money
-
+http://feeds.feedburner.com/deathsexmoney
 # Down These Mean Streets (Old Time Radio Detectives)
-
+https://downthesemeanstreetspodcast.libsyn.com/rss
 # Drilled
+https://www.spreaker.com/show/5103163/episodes/feed
 
 # F
 
