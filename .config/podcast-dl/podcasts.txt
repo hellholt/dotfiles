@@ -48,22 +48,22 @@ https://www.spreaker.com/show/5103163/episodes/feed
 
 # F
 
-# FiveThirtyEight Politics
-
 # Freakonomics Radio
 https://feeds.simplecast.com/Y8lFbOT4
 # Fresh Air
-
+https://feeds.npr.org/381444908/podcast.xml
 
 # G
 
-# Guru- The Dark Side of Enlightenment
+# Guru: The Dark Side of Enlightenment
+https://rss.art19.com/guru
 
 # H
 
-# How Did This Get Made-
-
+# How Did This Get Made?
+https://feeds.simplecast.com/Ao0C24M8
 # How to Build a Happy Life
+https://feeds.megaphone.fm/howto
 
 # I
 
