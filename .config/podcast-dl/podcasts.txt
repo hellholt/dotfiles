@@ -19,13 +19,19 @@ https://feeds.simplecast.com/GdzgJRQH
 
 # B
 
+# Back to the Double R: A Twin Peaks Rewatch
+https://feeds.buzzsprout.com/1707028.rss
 # Bardstown
 https://feeds.megaphone.fm/bardstown
 # Behind the Bastards
 https://feeds.megaphone.fm/behindthebastards
+# Borderland Crimes
+https://feed.podbean.com/borderlandcrimes/feed.xml
 
 # C
 
+# The Creation Stories
+https://feeds.captivate.fm/thecreationstories/
 # Crime Junkie
 https://feeds.simplecast.com/qm_9xx0g
 # Criminal
@@ -60,6 +66,8 @@ https://rss.art19.com/guru
 
 # H
 
+# Hope in Darkness: The Josh Holt Story
+https://rss.art19.com/hope-in-darkness
 # How Did This Get Made?
 https://feeds.simplecast.com/Ao0C24M8
 # How to Build a Happy Life
@@ -131,6 +139,8 @@ http://feeds.feedburner.com/RoguelikeRadio
 
 # S
 
+# The Science of Birds
+https://feeds.buzzsprout.com/937816.rss
 # Self-Hosted
 https://feeds.fireside.fm/selfhosted/rss
 # Snap Judgment
@@ -152,40 +162,45 @@ https://anchor.fm/s/19429938/podcast/rss
 
 # Ten Percent Happier with Dan Harris
 https://rss.art19.com/ten-percent-happier
-
 # Them, That and This
-
+https://anchor.fm/s/11575e84/podcast/rss
 # This American Life
-
+http://feed.thisamericanlife.org/talpodcast
 # Throughline
-
+https://feeds.npr.org/510333/podcast.xml
 # Twin Peaks Rewatch
-
+https://www.idlethumbs.net/feeds/twinpeaks
 # Twin Peaks Unwrapped
+https://twinpeaksunwrapped.podbean.com/feed.xml
 
 # U
 
 # Unsolved Mysteries
-
+https://feeds.megaphone.fm/unsolved-mysteries
 # Up and Vanished
+https://feeds.megaphone.fm/up-and-vanished
 
 # V
 
 # The Vanished Podcast
+https://rss.art19.com/the-vanished-podcast-wondery
 
 # W
 
 # Watch If You Dare
-
-# The Weekly Mix
-
+https://watchifyoudare.podbean.com/feed.xml
+# The Weekly Mix [fka Music That Matters]
+https://www.omnycontent.com/d/playlist/bad5d079-8dcb-4630-8770-aa090049131d/2a8dbc3b-941c-445b-a311-aa400020390f/02c3cab1-f35c-4281-94a8-aa400020391d/podcast.rss
+# Welcome to Night Vale
+http://feeds.nightvalepresents.com/welcometonightvalepodcast
 # Wrongful Conviction
-
+https://www.omnycontent.com/d/playlist/aaea4e69-af51-495e-afc9-a9760146922b/95311bc7-5f16-4a15-90ad-acbd0160120e/9678644f-7e58-4c56-b5a0-acbd01601226/podcast.rss
 # WTF with Marc Maron Podcast
+https://www.omnycontent.com/d/playlist/aaea4e69-af51-495e-afc9-a9760146922b/8a755b22-8f72-4d44-8ff9-ab79013fda25/6b8a5068-9bea-439f-bd4d-ab79013fda2b/podcast.rss
 
 # Y
 
 # You Must Remember This
-
+https://feeds.megaphone.fm/YMRT7068253588
 # You're Wrong About
-
+https://feeds.buzzsprout.com/1112270.rss
