@@ -132,11 +132,11 @@ http://feeds.feedburner.com/RoguelikeRadio
 # S
 
 # Self-Hosted
-
+https://feeds.fireside.fm/selfhosted/rss
 # Snap Judgment
-
+https://snap.feed.snapjudgment.org/
 # Snap Judgment Presents- Spooked
-
+https://feeds.spookedpodcast.org/
 # Something Was Wrong
 
 # Song of the Day
