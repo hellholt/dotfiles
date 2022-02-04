@@ -138,18 +138,20 @@ https://snap.feed.snapjudgment.org/
 # Snap Judgment Presents- Spooked
 https://feeds.spookedpodcast.org/
 # Something Was Wrong
-
-# Song of the Day
-
+https://feeds.simplecast.com/FKx4CI_n
+# Song of the Day [KEXP]
+https://www.omnycontent.com/d/playlist/bad5d079-8dcb-4630-8770-aa090049131d/32b2ac38-5a48-4300-9fa6-aa40002038b5/4ac1c451-4315-4096-ab9b-aa40002038c4/podcast.rss
 # Stuff They Don't Want You To Know
-
+https://feeds.megaphone.fm/stufftheydontwantyoutoknow
 # Stuff You Missed in History Class
-
+https://feeds.megaphone.fm/stuffyoumissedinhistoryclass
 # Suspect
+https://anchor.fm/s/19429938/podcast/rss
 
 # T
 
 # Ten Percent Happier with Dan Harris
+https://rss.art19.com/ten-percent-happier
 
 # Them, That and This
 
