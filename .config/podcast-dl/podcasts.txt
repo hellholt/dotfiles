@@ -27,65 +27,155 @@ https://feeds.megaphone.fm/behindthebastards
 # C
 
 # Common Sense with Dan Carlin
+
 # Crime Junkie
+
 # Criminal
-# Dan Carlin's Hardcore History
-# Darknet Diaries
-# Death, Sex & Money
-# Down These Mean Streets (Old Time Radio Detectives)
-# Drilled
-# FiveThirtyEight Politics
-# Freakonomics Radio
-# Fresh Air
-# Guru- The Dark Side of Enlightenment
-# How Did This Get Made-
-# How to Build a Happy Life
-# In the Dark
-# Invisibilia
-# Killer Psyche
-# Labyrinths- Getting Lost with Amanda Knox
-# Making Sense with Sam Harris
-# Morbid- A True Crime Podcast
-# Murder In Alliance
-# Murder With My Husband
-# My Dad Wrote A Porno
-# Myths and Legends
-# Ologies with Alie Ward
-# Planet Money
-# Q Clearance- The Hunt for QAnon
-# Radio Westeros ASoIaF Podcasts
-# Radiolab
-# Reveal
-# Revolutions
-# Roguelike Radio
-# Self-Hosted
-# Snap Judgment
-# Snap Judgment Presents- Spooked
-# Something Was Wrong
-# Song of the Day
-# Stuff They Don't Want You To Know
-# Stuff You Missed in History Class
-# Suspect
-# Ten Percent Happier with Dan Harris
+
+# D
+
 # The Daily Stoic
-# The Magnus Archives
-# The Moth
-# The Vanished Podcast
-# The Weekly Mix
-# Them, That and This
-# This American Life
-# Throughline
-# Twin Peaks Rewatch
-# Twin Peaks Unwrapped
-# Unsolved Mysteries
-# Up and Vanished
-# WTF with Marc Maron Podcast
-# Watch If You Dare
-# Wrongful Conviction
-# You Must Remember This
-# You're Wrong About
+
+# Dan Carlin's Hardcore History
+
+# Darknet Diaries
+
+# Death, Sex & Money
+
+# Down These Mean Streets (Old Time Radio Detectives)
+
+# Drilled
 
 # F
 
+# FiveThirtyEight Politics
+
 # Freakonomics Radio
 https://feeds.simplecast.com/Y8lFbOT4
+# Fresh Air
+
+
+# G
+
+# Guru- The Dark Side of Enlightenment
+
+# H
+
+# How Did This Get Made-
+
+# How to Build a Happy Life
+
+# I
+
+# In the Dark
+
+# Invisibilia
+
+# K
+
+# Killer Psyche
+
+# L
+
+# Labyrinths- Getting Lost with Amanda Knox
+
+# M
+
+# The Magnus Archives
+
+# Making Sense with Sam Harris
+
+# Morbid- A True Crime Podcast
+
+# The Moth
+
+# Murder In Alliance
+
+# Murder With My Husband
+
+# My Dad Wrote A Porno
+
+# Myths and Legends
+
+# O
+
+# Ologies with Alie Ward
+
+# P
+
+# Planet Money
+
+# Q
+
+# Q Clearance- The Hunt for QAnon
+
+# R
+
+# Radio Westeros ASoIaF Podcasts
+
+# Radiolab
+
+# Reveal
+
+# Revolutions
+
+# Roguelike Radio
+
+# S
+
+# Self-Hosted
+
+# Snap Judgment
+
+# Snap Judgment Presents- Spooked
+
+# Something Was Wrong
+
+# Song of the Day
+
+# Stuff They Don't Want You To Know
+
+# Stuff You Missed in History Class
+
+# Suspect
+
+# T
+
+# Ten Percent Happier with Dan Harris
+
+# Them, That and This
+
+# This American Life
+
+# Throughline
+
+# Twin Peaks Rewatch
+
+# Twin Peaks Unwrapped
+
+# U
+
+# Unsolved Mysteries
+
+# Up and Vanished
+
+# V
+
+# The Vanished Podcast
+
+# W
+
+# Watch If You Dare
+
+# The Weekly Mix
+
+# Wrongful Conviction
+
+# WTF with Marc Maron Podcast
+
+# Y
+
+# You Must Remember This
+
+# You're Wrong About
+
