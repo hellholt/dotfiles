@@ -1,3 +1,90 @@
+# *
+
+# 'The Wire' - Way Down in the Hole
+https://feeds.megaphone.fm/GLT1266862077
+
+# 0-9
+
+# 10 Things That Scare Me
+http://feeds.wnyc.org/10-things-scare-me
+
+# A
+
+# American Scandal
+https://rss.art19.com/american-scandal
+# American Story Tellers
+https://rss.art19.com/american-history-tellers
+# Anatomy of Murder
+https://feeds.simplecast.com/GdzgJRQH
+
+# B
+
+# Bardstown
+https://feeds.megaphone.fm/bardstown
+# Behind the Bastards
+https://feeds.megaphone.fm/behindthebastards
+
+# C
+
+# Common Sense with Dan Carlin
+# Crime Junkie
+# Criminal
+# Dan Carlin's Hardcore History
+# Darknet Diaries
+# Death, Sex & Money
+# Down These Mean Streets (Old Time Radio Detectives)
+# Drilled
+# FiveThirtyEight Politics
+# Freakonomics Radio
+# Fresh Air
+# Guru- The Dark Side of Enlightenment
+# How Did This Get Made-
+# How to Build a Happy Life
+# In the Dark
+# Invisibilia
+# Killer Psyche
+# Labyrinths- Getting Lost with Amanda Knox
+# Making Sense with Sam Harris
+# Morbid- A True Crime Podcast
+# Murder In Alliance
+# Murder With My Husband
+# My Dad Wrote A Porno
+# Myths and Legends
+# Ologies with Alie Ward
+# Planet Money
+# Q Clearance- The Hunt for QAnon
+# Radio Westeros ASoIaF Podcasts
+# Radiolab
+# Reveal
+# Revolutions
+# Roguelike Radio
+# Self-Hosted
+# Snap Judgment
+# Snap Judgment Presents- Spooked
+# Something Was Wrong
+# Song of the Day
+# Stuff They Don't Want You To Know
+# Stuff You Missed in History Class
+# Suspect
+# Ten Percent Happier with Dan Harris
+# The Daily Stoic
+# The Magnus Archives
+# The Moth
+# The Vanished Podcast
+# The Weekly Mix
+# Them, That and This
+# This American Life
+# Throughline
+# Twin Peaks Rewatch
+# Twin Peaks Unwrapped
+# Unsolved Mysteries
+# Up and Vanished
+# WTF with Marc Maron Podcast
+# Watch If You Dare
+# Wrongful Conviction
+# You Must Remember This
+# You're Wrong About
+
 # F
 
 # Freakonomics Radio
