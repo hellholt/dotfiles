@@ -104,26 +104,30 @@ https://rss.art19.com/myths-and-legends
 # O
 
 # Ologies with Alie Ward
+https://feeds.simplecast.com/FO6kxYGj
 
 # P
 
 # Planet Money
+https://feeds.npr.org/510289/podcast.xml
 
 # Q
 
 # Q Clearance- The Hunt for QAnon
+https://feeds.megaphone.fm/HSW1112098164
 
 # R
 
 # Radio Westeros ASoIaF Podcasts
-
+http://rss.acast.com/radiowesteros
 # Radiolab
-
+http://feeds.wnyc.org/radiolab
 # Reveal
-
+http://feeds.revealradio.org/revealpodcast
 # Revolutions
-
+https://revolutionspodcast.libsyn.com/rss
 # Roguelike Radio
+http://feeds.feedburner.com/RoguelikeRadio
 
 # S
 
