@@ -68,34 +68,38 @@ https://feeds.megaphone.fm/howto
 # I
 
 # In the Dark
-
+https://feeds.publicradio.org/public_feeds/in-the-dark/itunes/rss
 # Invisibilia
+https://feeds.npr.org/510307/podcast.xml
 
 # K
 
 # Killer Psyche
+https://rss.art19.com/killer-psyche
 
 # L
 
-# Labyrinths- Getting Lost with Amanda Knox
+# Labyrinths: Getting Lost with Amanda Knox
+https://feeds.megaphone.fm/HSW9972842155
 
 # M
 
 # The Magnus Archives
-
+http://rss.acast.com/themagnusarchives
 # Making Sense with Sam Harris
-
+https://wakingup.libsyn.com/rss
 # Morbid- A True Crime Podcast
-
+https://audioboom.com/channels/4997220.rss
 # The Moth
-
+http://feeds.feedburner.com/themothpodcast
 # Murder In Alliance
-
+https://audioboom.com/channels/5046380.rss
 # Murder With My Husband
-
+https://feeds.megaphone.fm/HSW2364749129
 # My Dad Wrote A Porno
-
+http://rss.acast.com/mydadwroteaporno
 # Myths and Legends
+https://rss.art19.com/myths-and-legends
 
 # O
 
