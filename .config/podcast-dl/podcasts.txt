@@ -23,13 +23,21 @@ https://feeds.simplecast.com/GdzgJRQH
 https://feeds.buzzsprout.com/1707028.rss
 # Bardstown
 https://feeds.megaphone.fm/bardstown
+# Bear Brook
+https://bearbrook.feed.nhpr.org/
 # Behind the Bastards
 https://feeds.megaphone.fm/behindthebastards
+# Believed
+https://feeds.npr.org/510326/podcast.xml
 # Borderland Crimes
 https://feed.podbean.com/borderlandcrimes/feed.xml
+# Broken Harts
+https://feeds.megaphone.fm/HSW2732644812
 
 # C
 
+# The Clearing
+https://feeds.megaphone.fm/the-clearing
 # The Creation Stories
 https://feeds.captivate.fm/thecreationstories/
 # Crime Junkie
@@ -96,6 +104,8 @@ https://feeds.megaphone.fm/HSW9972842155
 http://rss.acast.com/themagnusarchives
 # Making Sense with Sam Harris
 https://wakingup.libsyn.com/rss
+# Man in the Window: The Golden State Killer
+https://rss.art19.com/man-in-the-window
 # Morbid- A True Crime Podcast
 https://audioboom.com/channels/4997220.rss
 # The Moth
@@ -104,6 +114,8 @@ http://feeds.feedburner.com/themothpodcast
 https://audioboom.com/channels/5046380.rss
 # Murder With My Husband
 https://feeds.megaphone.fm/HSW2364749129
+# Murderville
+https://feeds.acast.com/public/shows/c66d3932-72a5-49e9-bc88-ca2080d23735
 # My Dad Wrote A Porno
 http://rss.acast.com/mydadwroteaporno
 # Myths and Legends
@@ -136,13 +148,21 @@ http://feeds.revealradio.org/revealpodcast
 https://revolutionspodcast.libsyn.com/rss
 # Roguelike Radio
 http://feeds.feedburner.com/RoguelikeRadio
+# Root of Evil: The True Story of the Hodel Family and the Black Dahlia
+https://www.omnycontent.com/d/playlist/d83f52e4-2455-47f4-982e-ab790120b954/746fc97b-db2e-4fef-919f-ab850163e13d/8264c1d0-8a91-4e78-827f-ab850163e14b/podcast.rss
 
 # S
 
+# S-Town
+https://anchor.fm/s/3a4615b0/podcast/rss
 # The Science of Birds
 https://feeds.buzzsprout.com/937816.rss
 # Self-Hosted
 https://feeds.fireside.fm/selfhosted/rss
+# Serial
+https://feeds.publicradio.org/public_feeds/in-the-dark/itunes/rss
+# The Shrink Next Door
+https://rss.art19.com/the-shrink-next-door
 # Snap Judgment
 https://snap.feed.snapjudgment.org/
 # Snap Judgment Presents- Spooked
@@ -175,6 +195,8 @@ https://twinpeaksunwrapped.podbean.com/feed.xml
 
 # U
 
+# Unfinished
+https://www.omnycontent.com/d/playlist/aaea4e69-af51-495e-afc9-a9760146922b/cf211900-ef7b-4b40-8c88-ab7b013b52cb/45a27844-ef72-40f7-82c4-ab7b013b710c/podcast.rss
 # Unsolved Mysteries
 https://feeds.megaphone.fm/unsolved-mysteries
 # Up and Vanished
