@@ -24,6 +24,8 @@ https://feeds.simplecast.com/cYQVc__c
 https://feeds.megaphone.fm/albasalix
 # Alice Isn't Dead
 http://feeds.nightvalepresents.com/aliceisntdeadpodcast
+# The Allusionist
+https://feeds.theallusionist.org/Allusionist
 # American Scandal
 https://rss.art19.com/american-scandal
 # American Story Tellers
@@ -43,6 +45,8 @@ https://bearbrook.feed.nhpr.org/
 https://feeds.megaphone.fm/behindthebastards
 # Believed
 https://feeds.npr.org/510326/podcast.xml
+# Better Than Robin Hood?
+https://anchor.fm/s/df14dcc/podcast/rss
 # The Black Tapes
 https://theblacktapes.libsyn.com/rss
 # Book of Lies
@@ -136,6 +140,8 @@ https://rss.art19.com/frigay-the-13th-horror-podcast
 https://girlinspace.libsyn.com/rss
 # Good Luck Sleeping
 https://goodlucksleeping.libsyn.com/rss
+# The Great Albums
+https://thegreatalbums.libsyn.com/rss
 # Grief Burrito Gaming Podcast
 https://feed.podbean.com/griefburrito/feed.xml
 # Guru: The Dark Side of Enlightenment
@@ -172,6 +178,8 @@ https://feeds.megaphone.fm/ADV7475920787
 https://feeds.publicradio.org/public_feeds/in-the-dark/itunes/rss
 # Infectious Groove
 https://www.spreaker.com/show/4661462/episodes/feed
+# The Infinite Monkey Cage
+https://podcasts.files.bbci.co.uk/b00snr0w.rss
 # Invisibilia
 https://feeds.npr.org/510307/podcast.xml
 
@@ -216,6 +224,8 @@ https://rss.art19.com/man-in-the-window
 https://themondayamerican.libsyn.com/rss
 # Morbid- A True Crime Podcast
 https://audioboom.com/channels/4997220.rss
+# More Perfect
+http://feeds.wnyc.org/moreperfect
 # The Moth
 http://feeds.feedburner.com/themothpodcast
 # Murder In Alliance
@@ -230,11 +240,17 @@ https://feeds.simplecast.com/wjQvYtdl
 http://rss.acast.com/mydadwroteaporno
 # My Favorite Murder
 https://feeds.simplecast.com/dI7UJjtl
+# Mystery Show
+https://feeds.megaphone.fm/mysteryshow
 # Myths and Legends
 https://rss.art19.com/myths-and-legends
 
 # N
 
+# Nakedly Examined Music
+https://nakedlyexaminedmusic.com/feed/podcast/
+# Naptime Nancy True Crime Podcast
+http://feeds.soundcloud.com/users/soundcloud:users:601454916/sounds.rss
 # No Such Thing as a Fish
 https://audioboom.com/channels/2399216.rss
 # Nooks and Crannies
@@ -281,6 +297,8 @@ https://www.spreaker.com/show/4442888/episodes/feed
 https://feeds.megaphone.fm/revisionisthistory
 # Revolutions
 https://revolutionspodcast.libsyn.com/rss
+# Riddle Me That! True Crime
+https://www.spreaker.com/login?redirect=https%3A%2F%2Fwww.spreaker.com%2Fcms%2Fshows%2F4630563%2Fdashboard%3Ffilter%3DNETWORK%26network%3D13229097
 # Roguelike Radio
 http://feeds.feedburner.com/RoguelikeRadio
 # Root of Evil: The True Story of the Hodel Family and the Black Dahlia
@@ -302,6 +320,8 @@ https://feeds.fireside.fm/selfhosted/rss
 https://feeds.simplecast.com/xl36XBC2
 # The Shrink Next Door
 https://rss.art19.com/the-shrink-next-door
+# Slow Burn
+http://feeds.megaphone.fm/watergate
 # Small Town Murder
 https://feeds.simplecast.com/j5smh9eZ
 # Snap Judgment
@@ -333,6 +353,8 @@ https://feeds.megaphone.fm/ADL8288293115
 https://rss.art19.com/ten-percent-happier
 # Them, That and This
 https://anchor.fm/s/11575e84/podcast/rss
+# There Might Be Cupcakes
+https://www.spreaker.com/show/4761852/episodes/feed
 # This American Life
 http://feed.thisamericanlife.org/talpodcast
 # This Podcast Will Kill You
@@ -341,6 +363,8 @@ https://www.podchaser.com/podcasts/this-podcast-will-kill-you-582761
 https://feeds.npr.org/510333/podcast.xml
 # Top of the Round
 https://topoftheround.libsyn.com/rss
+# True Crime All the Time
+https://rss.art19.com/true-crime-all-the-time
 # True Crime Garage
 https://feeds.simplecast.com/zatU8XEL
 # The Truth
@@ -384,6 +408,8 @@ https://feeds.megaphone.fm/wefixspacejunk
 http://feeds.nightvalepresents.com/welcometonightvalepodcast
 # The White Vault
 https://feeds.acast.com/public/shows/ff85aaca-80bc-4206-8c0d-cb45bcb4e332
+# Wind of Change
+https://feeds.megaphone.fm/wind-of-change-wide
 # Wolf 359
 https://feeds.acast.com/public/shows/614e5b579de1aa0013021b6b
 # Wrongful Conviction
@@ -393,9 +419,13 @@ https://www.omnycontent.com/d/playlist/aaea4e69-af51-495e-afc9-a9760146922b/8a75
 
 # Y
 
+# Year of Plenty
+https://feeds.buzzsprout.com/143116.rss
 # You Must Remember This
 https://feeds.megaphone.fm/YMRT7068253588
 # You're Wrong About
 https://feeds.buzzsprout.com/1112270.rss
 # Your Brain on Facts
 https://yourbrainonfacts.libsyn.com/rss
+# Your Own Backyard
+https://yourownbackyard.libsyn.com/rss
