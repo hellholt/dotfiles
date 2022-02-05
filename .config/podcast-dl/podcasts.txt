@@ -7,6 +7,8 @@ https://feeds.megaphone.fm/GLT1266862077
 
 # 10 Things That Scare Me
 http://feeds.wnyc.org/10-things-scare-me
+# 99% Invisible
+https://feeds.simplecast.com/BqbsxVfO
 
 # A
 
@@ -44,6 +46,8 @@ https://feeds.megaphone.fm/HSW2732644812
 
 # C
 
+# Casefile True Crime
+https://audioboom.com/channels/4940872.rss
 # The Clearing
 https://feeds.megaphone.fm/the-clearing
 # The Creation Stories
@@ -83,6 +87,8 @@ https://feeds.npr.org/381444908/podcast.xml
 
 # G
 
+# Girl in Space
+https://girlinspace.libsyn.com/rss
 # Grief Burrito Gaming Podcast
 https://feed.podbean.com/griefburrito/feed.xml
 # Guru: The Dark Side of Enlightenment
@@ -99,6 +105,8 @@ https://feeds.megaphone.fm/howto
 
 # I
 
+# Imaginary Worlds
+https://feeds.megaphone.fm/ADV7475920787
 # In the Dark
 https://feeds.publicradio.org/public_feeds/in-the-dark/itunes/rss
 # Invisibilia
@@ -141,6 +149,8 @@ https://audioboom.com/channels/5046380.rss
 https://feeds.megaphone.fm/HSW2364749129
 # Murderville
 https://feeds.acast.com/public/shows/c66d3932-72a5-49e9-bc88-ca2080d23735
+# My Brother, My Brother, and Me
+https://feeds.simplecast.com/wjQvYtdl
 # My Dad Wrote A Porno
 http://rss.acast.com/mydadwroteaporno
 # My Favorite Murder
@@ -227,6 +237,8 @@ http://feed.thisamericanlife.org/talpodcast
 https://www.podchaser.com/podcasts/this-podcast-will-kill-you-582761
 # Throughline
 https://feeds.npr.org/510333/podcast.xml
+# Twenty Thousand Hertz
+http://feeds.megaphone.fm/20k
 # Twin Peaks Rewatch
 https://www.idlethumbs.net/feeds/twinpeaks
 # Twin Peaks Unwrapped
