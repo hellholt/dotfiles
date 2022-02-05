@@ -10,6 +10,10 @@ http://feeds.wnyc.org/10-things-scare-me
 
 # A
 
+# The Adventure Zone
+https://feeds.simplecast.com/cYQVc__c
+# Alice Isn't Dead
+http://feeds.nightvalepresents.com/aliceisntdeadpodcast
 # American Scandal
 https://rss.art19.com/american-scandal
 # American Story Tellers
@@ -29,8 +33,12 @@ https://bearbrook.feed.nhpr.org/
 https://feeds.megaphone.fm/behindthebastards
 # Believed
 https://feeds.npr.org/510326/podcast.xml
+# The Black Tapes
+https://theblacktapes.libsyn.com/rss
 # Borderland Crimes
 https://feed.podbean.com/borderlandcrimes/feed.xml
+# The Bright Sessions
+https://feeds.megaphone.fm/thebrightsessions
 # Broken Harts
 https://feeds.megaphone.fm/HSW2732644812
 
@@ -40,6 +48,8 @@ https://feeds.megaphone.fm/HSW2732644812
 https://feeds.megaphone.fm/the-clearing
 # The Creation Stories
 https://feeds.captivate.fm/thecreationstories/
+# Crime Analyst
+https://audioboom.com/channels/5044584.rss
 # Crime Junkie
 https://feeds.simplecast.com/qm_9xx0g
 # Criminal
@@ -51,10 +61,14 @@ https://feeds.megaphone.fm/VMP7924981569
 https://rss.art19.com/the-daily-stoic
 # Dan Carlin's Hardcore History
 http://feeds.feedburner.com/dancarlin/history?format=xml
+# Dark Poutine: True Crime and Dark History
+https://www.omnycontent.com/d/playlist/fdc2ad13-d199-4e97-b2db-a59300cb6cc2/e03d4e1e-d40b-4706-82d2-a95f010d0639/4f01b694-96f6-408f-9d02-a95f010d064d/podcast.rss
 # Darknet Diaries
 https://feeds.megaphone.fm/darknetdiaries
 # Death, Sex & Money
 http://feeds.feedburner.com/deathsexmoney
+# Dirty John
+https://rss.art19.com/dirty-john
 # Down These Mean Streets (Old Time Radio Detectives)
 https://downthesemeanstreetspodcast.libsyn.com/rss
 # Drilled
@@ -69,6 +83,8 @@ https://feeds.npr.org/381444908/podcast.xml
 
 # G
 
+# Grief Burrito Gaming Podcast
+https://feed.podbean.com/griefburrito/feed.xml
 # Guru: The Dark Side of Enlightenment
 https://rss.art19.com/guru
 
@@ -88,6 +104,11 @@ https://feeds.publicradio.org/public_feeds/in-the-dark/itunes/rss
 # Invisibilia
 https://feeds.npr.org/510307/podcast.xml
 
+# J
+
+# The Jury Room
+https://feed.podbean.com/thejuryroom/feed.xml
+
 # K
 
 # Killer Psyche
@@ -97,6 +118,8 @@ https://rss.art19.com/killer-psyche
 
 # Labyrinths: Getting Lost with Amanda Knox
 https://feeds.megaphone.fm/HSW9972842155
+# Limetown
+http://feeds.megaphone.fm/PPY5621646923
 
 # M
 
@@ -104,6 +127,8 @@ https://feeds.megaphone.fm/HSW9972842155
 http://rss.acast.com/themagnusarchives
 # Making Sense with Sam Harris
 https://wakingup.libsyn.com/rss
+# Malevolent
+https://malevolent.libsyn.com/rss
 # Man in the Window: The Golden State Killer
 https://rss.art19.com/man-in-the-window
 # Morbid- A True Crime Podcast
@@ -118,6 +143,8 @@ https://feeds.megaphone.fm/HSW2364749129
 https://feeds.acast.com/public/shows/c66d3932-72a5-49e9-bc88-ca2080d23735
 # My Dad Wrote A Porno
 http://rss.acast.com/mydadwroteaporno
+# My Favorite Murder
+https://feeds.simplecast.com/dI7UJjtl
 # Myths and Legends
 https://rss.art19.com/myths-and-legends
 
@@ -138,10 +165,14 @@ https://feeds.megaphone.fm/HSW1112098164
 
 # R
 
+# Rabbits
+https://rabbits.libsyn.com/rss
 # Radio Westeros ASoIaF Podcasts
 http://rss.acast.com/radiowesteros
 # Radiolab
 http://feeds.wnyc.org/radiolab
+# Reply All
+https://feeds.megaphone.fm/replyall
 # Reveal
 http://feeds.revealradio.org/revealpodcast
 # Revolutions
@@ -160,23 +191,29 @@ https://feeds.buzzsprout.com/937816.rss
 # Self-Hosted
 https://feeds.fireside.fm/selfhosted/rss
 # Serial
-https://feeds.publicradio.org/public_feeds/in-the-dark/itunes/rss
+https://feeds.simplecast.com/xl36XBC2
 # The Shrink Next Door
 https://rss.art19.com/the-shrink-next-door
 # Snap Judgment
 https://snap.feed.snapjudgment.org/
 # Snap Judgment Presents- Spooked
 https://feeds.spookedpodcast.org/
+# Someone Knows Something
+https://www.cbc.ca/podcasting/includes/sks.xml
 # Something Was Wrong
 https://feeds.simplecast.com/FKx4CI_n
 # Song of the Day [KEXP]
 https://www.omnycontent.com/d/playlist/bad5d079-8dcb-4630-8770-aa090049131d/32b2ac38-5a48-4300-9fa6-aa40002038b5/4ac1c451-4315-4096-ab9b-aa40002038c4/podcast.rss
+# SpyHards
+https://feed.podbean.com/www.spyhards.com/feed.xml
 # Stuff They Don't Want You To Know
 https://feeds.megaphone.fm/stufftheydontwantyoutoknow
 # Stuff You Missed in History Class
 https://feeds.megaphone.fm/stuffyoumissedinhistoryclass
 # Suspect
 https://anchor.fm/s/19429938/podcast/rss
+# Swindled
+https://feeds.megaphone.fm/ADL8288293115
 
 # T
 
@@ -186,6 +223,8 @@ https://rss.art19.com/ten-percent-happier
 https://anchor.fm/s/11575e84/podcast/rss
 # This American Life
 http://feed.thisamericanlife.org/talpodcast
+# This Podcast Will Kill You
+https://www.podchaser.com/podcasts/this-podcast-will-kill-you-582761
 # Throughline
 https://feeds.npr.org/510333/podcast.xml
 # Twin Peaks Rewatch
@@ -215,6 +254,10 @@ https://watchifyoudare.podbean.com/feed.xml
 https://www.omnycontent.com/d/playlist/bad5d079-8dcb-4630-8770-aa090049131d/2a8dbc3b-941c-445b-a311-aa400020390f/02c3cab1-f35c-4281-94a8-aa400020391d/podcast.rss
 # Welcome to Night Vale
 http://feeds.nightvalepresents.com/welcometonightvalepodcast
+# The White Vault
+https://feeds.acast.com/public/shows/ff85aaca-80bc-4206-8c0d-cb45bcb4e332
+# Wolf 359
+https://feeds.acast.com/public/shows/614e5b579de1aa0013021b6b
 # Wrongful Conviction
 https://www.omnycontent.com/d/playlist/aaea4e69-af51-495e-afc9-a9760146922b/95311bc7-5f16-4a15-90ad-acbd0160120e/9678644f-7e58-4c56-b5a0-acbd01601226/podcast.rss
 # WTF with Marc Maron Podcast
