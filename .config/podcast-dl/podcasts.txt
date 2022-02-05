@@ -7,6 +7,10 @@ https://feeds.megaphone.fm/GLT1266862077
 
 # 10 Things That Scare Me
 http://feeds.wnyc.org/10-things-scare-me
+# 10ish
+https://feeds.megaphone.fm/BLU2909536983
+# 3 Hours Later
+https://pinecast.com/feed/3-hours-later
 # 99% Invisible
 https://feeds.simplecast.com/BqbsxVfO
 
@@ -37,6 +41,8 @@ https://feeds.megaphone.fm/behindthebastards
 https://feeds.npr.org/510326/podcast.xml
 # The Black Tapes
 https://theblacktapes.libsyn.com/rss
+# Book of Lies
+https://www.spreaker.com/show/4216099/episodes/feed
 # Borderland Crimes
 https://feed.podbean.com/borderlandcrimes/feed.xml
 # The Bright Sessions
@@ -71,12 +77,25 @@ https://www.omnycontent.com/d/playlist/fdc2ad13-d199-4e97-b2db-a59300cb6cc2/e03d
 https://feeds.megaphone.fm/darknetdiaries
 # Death, Sex & Money
 http://feeds.feedburner.com/deathsexmoney
+# Dice Populi - A Tabletop Roleplaying Anthology Series
+https://feed.podbean.com/dicepopuli/feed.xml
+# Dice Shame
+https://diceshame.libsyn.com/DiceShame
+# The Dimension Door Podcast
+https://pinecast.com/feed/dimension-door-podcast
 # Dirty John
 https://rss.art19.com/dirty-john
 # Down These Mean Streets (Old Time Radio Detectives)
 https://downthesemeanstreetspodcast.libsyn.com/rss
+# Dr. Death
+https://rss.art19.com/dr-death
 # Drilled
 https://www.spreaker.com/show/5103163/episodes/feed
+
+# E
+
+# Encounter Party!
+https://feeds.redcircle.com/793674f9-4d9e-49a9-b8e4-d068b04bcd8e
 
 # F
 
@@ -84,6 +103,8 @@ https://www.spreaker.com/show/5103163/episodes/feed
 https://feeds.simplecast.com/Y8lFbOT4
 # Fresh Air
 https://feeds.npr.org/381444908/podcast.xml
+# FriGay the 13th
+https://rss.art19.com/frigay-the-13th-horror-podcast
 
 # G
 
@@ -96,12 +117,16 @@ https://rss.art19.com/guru
 
 # H
 
+# Hello From the Magic Tavern
+https://rss.art19.com/hello-from-magic-tavern
 # Hope in Darkness: The Josh Holt Story
 https://rss.art19.com/hope-in-darkness
 # How Did This Get Made?
 https://feeds.simplecast.com/Ao0C24M8
 # How to Build a Happy Life
 https://feeds.megaphone.fm/howto
+# Hunting Warhead
+https://www.cbc.ca/podcasting/includes/huntingwarhead.xml
 
 # I
 
@@ -121,6 +146,10 @@ https://feed.podbean.com/thejuryroom/feed.xml
 
 # Killer Psyche
 https://rss.art19.com/killer-psyche
+# Killer Rabbit
+https://feeds.buzzsprout.com/337850.rss
+# King Falls AM
+https://audioboom.com/channels/4256036.rss
 
 # L
 
@@ -158,10 +187,17 @@ https://feeds.simplecast.com/dI7UJjtl
 # Myths and Legends
 https://rss.art19.com/myths-and-legends
 
+# N
+
+# No Such Thing as a Fish
+https://audioboom.com/channels/2399216.rss
+
 # O
 
 # Ologies with Alie Ward
 https://feeds.simplecast.com/FO6kxYGj
+# Oz 9
+https://oz9podcast.libsyn.com/rss
 
 # P
 
@@ -196,6 +232,8 @@ https://www.omnycontent.com/d/playlist/d83f52e4-2455-47f4-982e-ab790120b954/746f
 
 # S-Town
 https://anchor.fm/s/3a4615b0/podcast/rss
+# Sawbones
+https://feeds.simplecast.com/y1LF_sn2
 # The Science of Birds
 https://feeds.buzzsprout.com/937816.rss
 # Self-Hosted
@@ -204,6 +242,8 @@ https://feeds.fireside.fm/selfhosted/rss
 https://feeds.simplecast.com/xl36XBC2
 # The Shrink Next Door
 https://rss.art19.com/the-shrink-next-door
+# Small Town Murder
+https://feeds.simplecast.com/j5smh9eZ
 # Snap Judgment
 https://snap.feed.snapjudgment.org/
 # Snap Judgment Presents- Spooked
@@ -250,6 +290,8 @@ https://twinpeaksunwrapped.podbean.com/feed.xml
 https://www.omnycontent.com/d/playlist/aaea4e69-af51-495e-afc9-a9760146922b/cf211900-ef7b-4b40-8c88-ab7b013b52cb/45a27844-ef72-40f7-82c4-ab7b013b710c/podcast.rss
 # Unsolved Mysteries
 https://feeds.megaphone.fm/unsolved-mysteries
+# Unwell, a Midwestern Gothic Mystery
+https://feeds.megaphone.fm/unwell
 # Up and Vanished
 https://feeds.megaphone.fm/up-and-vanished
 
@@ -264,6 +306,8 @@ https://rss.art19.com/the-vanished-podcast-wondery
 https://watchifyoudare.podbean.com/feed.xml
 # The Weekly Mix [fka Music That Matters]
 https://www.omnycontent.com/d/playlist/bad5d079-8dcb-4630-8770-aa090049131d/2a8dbc3b-941c-445b-a311-aa400020390f/02c3cab1-f35c-4281-94a8-aa400020391d/podcast.rss
+# We Fix Space Junk
+https://feeds.megaphone.fm/wefixspacejunk
 # Welcome to Night Vale
 http://feeds.nightvalepresents.com/welcometonightvalepodcast
 # The White Vault
