@@ -18,6 +18,8 @@ https://feeds.simplecast.com/BqbsxVfO
 
 # The Adventure Zone
 https://feeds.simplecast.com/cYQVc__c
+# Alba Salix, Royal Physician
+https://feeds.megaphone.fm/albasalix
 # Alice Isn't Dead
 http://feeds.nightvalepresents.com/aliceisntdeadpodcast
 # American Scandal
@@ -47,6 +49,8 @@ https://www.spreaker.com/show/4216099/episodes/feed
 https://feed.podbean.com/borderlandcrimes/feed.xml
 # The Bright Sessions
 https://feeds.megaphone.fm/thebrightsessions
+# Bring on the Weird
+https://feeds.megaphone.fm/bringontheweird
 # Broken Harts
 https://feeds.megaphone.fm/HSW2732644812
 
@@ -56,6 +60,8 @@ https://feeds.megaphone.fm/HSW2732644812
 https://audioboom.com/channels/4940872.rss
 # The Clearing
 https://feeds.megaphone.fm/the-clearing
+# Coffincast
+https://anchor.fm/s/34840b0/podcast/rss
 # The Creation Stories
 https://feeds.captivate.fm/thecreationstories/
 # Crime Analyst
@@ -94,6 +100,8 @@ https://www.spreaker.com/show/5103163/episodes/feed
 
 # E
 
+# Ear Hustle
+https://feeds.feedburner.com/earhustlesq
 # Encounter Party!
 https://feeds.redcircle.com/793674f9-4d9e-49a9-b8e4-d068b04bcd8e
 
@@ -110,6 +118,8 @@ https://rss.art19.com/frigay-the-13th-horror-podcast
 
 # Girl in Space
 https://girlinspace.libsyn.com/rss
+# Good Luck Sleeping
+https://goodlucksleeping.libsyn.com/rss
 # Grief Burrito Gaming Podcast
 https://feed.podbean.com/griefburrito/feed.xml
 # Guru: The Dark Side of Enlightenment
@@ -117,8 +127,12 @@ https://rss.art19.com/guru
 
 # H
 
+# Heavyweight
+http://feeds.megaphone.fm/heavyweight
 # Hello From the Magic Tavern
 https://rss.art19.com/hello-from-magic-tavern
+# Homecoming
+https://feeds.megaphone.fm/homecoming
 # Hope in Darkness: The Josh Holt Story
 https://rss.art19.com/hope-in-darkness
 # How Did This Get Made?
@@ -194,6 +208,8 @@ https://audioboom.com/channels/2399216.rss
 
 # O
 
+# Old Gods of Appalachia
+https://access.acast.com/rss/61ba0a431a8cbeb6ea3cf11a/
 # Ologies with Alie Ward
 https://feeds.simplecast.com/FO6kxYGj
 # Oz 9
@@ -221,6 +237,10 @@ http://feeds.wnyc.org/radiolab
 https://feeds.megaphone.fm/replyall
 # Reveal
 http://feeds.revealradio.org/revealpodcast
+# Reverie True Crime
+https://www.spreaker.com/show/4442888/episodes/feed
+# Revisionist History
+https://feeds.megaphone.fm/revisionisthistory
 # Revolutions
 https://revolutionspodcast.libsyn.com/rss
 # Roguelike Radio
@@ -260,6 +280,8 @@ https://feed.podbean.com/www.spyhards.com/feed.xml
 https://feeds.megaphone.fm/stufftheydontwantyoutoknow
 # Stuff You Missed in History Class
 https://feeds.megaphone.fm/stuffyoumissedinhistoryclass
+# Stuff You Should Know
+https://feeds.megaphone.fm/stuffyoushouldknow
 # Suspect
 https://anchor.fm/s/19429938/podcast/rss
 # Swindled
@@ -277,6 +299,10 @@ http://feed.thisamericanlife.org/talpodcast
 https://www.podchaser.com/podcasts/this-podcast-will-kill-you-582761
 # Throughline
 https://feeds.npr.org/510333/podcast.xml
+# Top of the Round
+https://topoftheround.libsyn.com/rss
+# The Truth
+http://feeds.thetruthpodcast.com/thetruthapm
 # Twenty Thousand Hertz
 http://feeds.megaphone.fm/20k
 # Twin Peaks Rewatch
@@ -299,6 +325,10 @@ https://feeds.megaphone.fm/up-and-vanished
 
 # The Vanished Podcast
 https://rss.art19.com/the-vanished-podcast-wondery
+# Verbal Diorama
+https://feeds.captivate.fm/verbaldiorama/
+# Victoriocity
+https://victoriocity.libsyn.com/rss
 
 # W
 
