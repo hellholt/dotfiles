@@ -22,8 +22,12 @@ https://feeds.simplecast.com/BqbsxVfO
 https://feeds.simplecast.com/cYQVc__c
 # Alba Salix, Royal Physician
 https://feeds.megaphone.fm/albasalix
+# The Album Club
+https://www.podcasts.com/rss_feed/b1036836c6dbdf10124d4a603ab87525
 # Alice Isn't Dead
 http://feeds.nightvalepresents.com/aliceisntdeadpodcast
+# All Songs Considered
+https://feeds.npr.org/510019/podcast.xml
 # The Allusionist
 https://feeds.theallusionist.org/Allusionist
 # American Scandal
@@ -66,8 +70,12 @@ https://feeds.megaphone.fm/HSW2732644812
 https://feeds.simplecast.com/uUplVtAS
 # Casefile True Crime
 https://audioboom.com/channels/4940872.rss
+# CATtales
+https://audioboom.com/channels/4867717.rss
 # The Clearing
 https://feeds.megaphone.fm/the-clearing
+# Coding Blocks
+https://www.codingblocks.net/podcast-feed.xml
 # Coffincast
 https://anchor.fm/s/34840b0/podcast/rss
 # Cold
@@ -76,6 +84,8 @@ https://rss.art19.com/alternate_feeds/radiopublic/cold/iflK1omSrLPRbPL7T-z38sBn2
 https://feeds.buzzsprout.com/167223.rss
 # Comedy Bang Bang
 https://feeds.simplecast.com/byb4nhvN
+# Court Junkie
+http://www.podcastone.com/podcast?categoryID2=1983
 # The Creation Stories
 https://feeds.captivate.fm/thecreationstories/
 # Crime Analyst
@@ -95,12 +105,18 @@ http://feeds.feedburner.com/dancarlin/history?format=xml
 https://www.omnycontent.com/d/playlist/fdc2ad13-d199-4e97-b2db-a59300cb6cc2/e03d4e1e-d40b-4706-82d2-a95f010d0639/4f01b694-96f6-408f-9d02-a95f010d064d/podcast.rss
 # Darknet Diaries
 https://feeds.megaphone.fm/darknetdiaries
+# Dead Eyes
+https://www.omnycontent.com/d/playlist/77bedd50-a734-42aa-9c08-ad86013ca0f9/2d19c94e-5da0-4ea5-95b1-ad8d012c3386/3c109dc9-8fa7-4ea7-b84b-ad8d012c3390/podcast.rss
 # Death by Dying
 https://feeds.megaphone.fm/deathbydying
 # Death, Sex & Money
 http://feeds.feedburner.com/deathsexmoney
+# Decent Takes
+https://anchor.fm/s/2fe43930/podcast/rss
 # Deep Into History
 https://anchor.fm/s/f573dd4/podcast/rss
+# Detective Trapp
+https://rss.art19.com/detective-trapp
 # Dice Populi - A Tabletop Roleplaying Anthology Series
 https://feed.podbean.com/dicepopuli/feed.xml
 # Dice Shame
@@ -127,6 +143,8 @@ https://feeds.redcircle.com/793674f9-4d9e-49a9-b8e4-d068b04bcd8e
 
 # F
 
+# Fantasy Friendship
+https://anchor.fm/s/2e099fec/podcast/rss
 # Freakonomics Radio
 https://feeds.simplecast.com/Y8lFbOT4
 # Fresh Air
@@ -155,8 +173,12 @@ http://feeds.megaphone.fm/heavyweight
 https://rss.art19.com/hello-from-magic-tavern
 # Hidden Brain
 https://feeds.simplecast.com/kwWc0lhf
+# The Hilarious World of Depression
+https://feeds.publicradio.org/public_feeds/the-hilarious-world-of-depression/itunes/rss
 # The History Cache
 https://feed.podbean.com/historycachepodcast/feed.xml
+# History of Philosophy Without Any Gaps
+https://feed.podbean.com/hopwag/feed.xml
 # Homecoming
 https://feeds.megaphone.fm/homecoming
 # Hope in Darkness: The Josh Holt Story
@@ -172,8 +194,14 @@ https://www.cbc.ca/podcasting/includes/huntingwarhead.xml
 
 # I Used to Watch This?
 https://feeds.transistor.fm/i-used-to-watch-this
+# I'm in Love With That Song
+https://feeds.megaphone.fm/lovethatsong
 # Imaginary Worlds
 https://feeds.megaphone.fm/ADV7475920787
+# Imagined Life
+https://rss.art19.com/imagined-life
+# In Our Time
+https://podcasts.files.bbci.co.uk/b006qykl.rss
 # In the Dark
 https://feeds.publicradio.org/public_feeds/in-the-dark/itunes/rss
 # Infectious Groove
@@ -222,6 +250,8 @@ https://malevolent.libsyn.com/rss
 https://rss.art19.com/man-in-the-window
 # The Monday American: American History Podcast
 https://themondayamerican.libsyn.com/rss
+# The Mental Illness Happy Hour
+http://mentalpod.libsyn.com/rss
 # Morbid- A True Crime Podcast
 https://audioboom.com/channels/4997220.rss
 # More Perfect
@@ -251,6 +281,8 @@ https://rss.art19.com/myths-and-legends
 https://nakedlyexaminedmusic.com/feed/podcast/
 # Naptime Nancy True Crime Podcast
 http://feeds.soundcloud.com/users/soundcloud:users:601454916/sounds.rss
+# No Life Skills
+https://feeds.buzzsprout.com/1600156.rss
 # No Such Thing as a Fish
 https://audioboom.com/channels/2399216.rss
 # Nooks and Crannies
@@ -262,6 +294,10 @@ https://feed.podbean.com/nooksandcrannies/feed.xml
 https://access.acast.com/rss/61ba0a431a8cbeb6ea3cf11a/
 # Ologies with Alie Ward
 https://feeds.simplecast.com/FO6kxYGj
+# One Year
+https://feeds.megaphone.fm/SLT7210881615
+# Our True Crime Podcast
+https://www.spreaker.com/show/3647242/episodes/feed
 # Oz 9
 https://oz9podcast.libsyn.com/rss
 
@@ -299,6 +335,8 @@ https://feeds.megaphone.fm/revisionisthistory
 https://revolutionspodcast.libsyn.com/rss
 # Riddle Me That! True Crime
 https://www.spreaker.com/login?redirect=https%3A%2F%2Fwww.spreaker.com%2Fcms%2Fshows%2F4630563%2Fdashboard%3Ffilter%3DNETWORK%26network%3D13229097
+# RISK!
+https://feeds.simplecast.com/3gWG8IjT
 # Roguelike Radio
 http://feeds.feedburner.com/RoguelikeRadio
 # Root of Evil: The True Story of the Hodel Family and the Black Dahlia
@@ -328,10 +366,14 @@ https://feeds.simplecast.com/j5smh9eZ
 https://snap.feed.snapjudgment.org/
 # Snap Judgment Presents- Spooked
 https://feeds.spookedpodcast.org/
+# Sold in America
+https://www.omnycontent.com/d/playlist/aaea4e69-af51-495e-afc9-a9760146922b/e165cd7e-dffd-4266-89f1-aa3200e14be9/6f5eb083-1add-46db-a492-aa3200e14bed/podcast.rss
 # Someone Knows Something
 https://www.cbc.ca/podcasting/includes/sks.xml
 # Something Was Wrong
 https://feeds.simplecast.com/FKx4CI_n
+# Song Exploder
+http://feed.songexploder.net/SongExploder
 # Song of the Day [KEXP]
 https://www.omnycontent.com/d/playlist/bad5d079-8dcb-4630-8770-aa090049131d/32b2ac38-5a48-4300-9fa6-aa40002038b5/4ac1c451-4315-4096-ab9b-aa40002038c4/podcast.rss
 # SpyHards
@@ -351,6 +393,8 @@ https://feeds.megaphone.fm/ADL8288293115
 
 # Ten Percent Happier with Dan Harris
 https://rss.art19.com/ten-percent-happier
+# Terrible, Thanks for Asking
+https://feeds.publicradio.org/public_feeds/terrible-thanks-for-asking/itunes/rss
 # Them, That and This
 https://anchor.fm/s/11575e84/podcast/rss
 # There Might Be Cupcakes
@@ -406,6 +450,8 @@ https://www.omnycontent.com/d/playlist/bad5d079-8dcb-4630-8770-aa090049131d/2a8d
 https://feeds.megaphone.fm/wefixspacejunk
 # Welcome to Night Vale
 http://feeds.nightvalepresents.com/welcometonightvalepodcast
+# What the Riff?
+https://feeds.simplecast.com/NMNuUazR
 # The White Vault
 https://feeds.acast.com/public/shows/ff85aaca-80bc-4206-8c0d-cb45bcb4e332
 # Wind of Change
