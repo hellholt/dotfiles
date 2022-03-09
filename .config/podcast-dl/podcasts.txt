@@ -196,10 +196,14 @@ https://www.cbc.ca/podcasting/includes/huntingwarhead.xml
 https://feeds.transistor.fm/i-used-to-watch-this
 # I'm in Love With That Song
 https://feeds.megaphone.fm/lovethatsong
+# Idle Thumbs
+http://www.idlethumbs.net/feeds/idle-thumbs
 # Imaginary Worlds
 https://feeds.megaphone.fm/ADV7475920787
 # Imagined Life
 https://rss.art19.com/imagined-life
+# Important If True
+https://www.idlethumbs.net/feeds/importantiftrue
 # In Our Time
 https://podcasts.files.bbci.co.uk/b006qykl.rss
 # In the Dark
@@ -405,6 +409,8 @@ http://feed.thisamericanlife.org/talpodcast
 https://www.podchaser.com/podcasts/this-podcast-will-kill-you-582761
 # Throughline
 https://feeds.npr.org/510333/podcast.xml
+# Tone Control
+http://www.idlethumbs.net/feeds/tonecontrol
 # Top of the Round
 https://topoftheround.libsyn.com/rss
 # True Crime All the Time
