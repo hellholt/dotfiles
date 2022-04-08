@@ -313,6 +313,8 @@ https://phenomenonpod.libsyn.com/rss
 https://philosophizethis.libsyn.com/rss/
 # Planet Money
 https://feeds.npr.org/510289/podcast.xml
+# Pod Yourself a Gun
+https://podyourselfagun.blubrry.net/feed/podcast/
 
 # Q
 
