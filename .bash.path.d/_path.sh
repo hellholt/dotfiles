@@ -13,6 +13,7 @@ common_paths=(
   '/volume1/@appstore/synocli-file/bin'
   '/volume1/@appstore/synocli-monitor/bin'
   '/volume1/@appstore/synocli-net/bin'
+  '/volume1/@appstore/python38/bin'
 )
 
 for common_path in "${common_paths[@]}"; do
