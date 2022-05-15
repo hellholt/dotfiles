@@ -1,4 +1,4 @@
 bind-addr: 127.0.0.1:8080
-auth: password
-password: 519760f03973adefa103203b
+auth: 'password'
+hashed-password: "$argon2i$v=19$m=4096,t=3,p=1$G2chh496o4wwulyF6gXSjg$LVK/qF0bePz2uHXZhIEe+8N/IM9OUmxoOeRZpYUrpz4"
 cert: false
