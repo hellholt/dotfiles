@@ -464,6 +464,8 @@ https://feeds.simplecast.com/NMNuUazR
 https://feeds.acast.com/public/shows/ff85aaca-80bc-4206-8c0d-cb45bcb4e332
 # Wind of Change
 https://feeds.megaphone.fm/wind-of-change-wide
+# The Wire Stripped
+https://feeds.acast.com/public/shows/f1873bf2-6d8e-4785-8a63-0b28b1a9f640
 # Wolf 359
 https://feeds.acast.com/public/shows/614e5b579de1aa0013021b6b
 # Wrongful Conviction
