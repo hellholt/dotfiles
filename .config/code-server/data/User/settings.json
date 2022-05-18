@@ -26,7 +26,7 @@
       "icon": "terminal-bash",
       "args": [
         "-lc",
-        "/config/ssh-host.sh"
+        "/config/ssh_host.sh"
       ]
     }
   }
