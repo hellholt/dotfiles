@@ -26,7 +26,7 @@
       "icon": "terminal-bash",
       "args": [
         "--init-file",
-        "/config/ssh-host.sh"
+        "/config/ssh_host.sh"
       ]
     }
   }
