@@ -1,4 +1,33 @@
 {
-    "editor.tabSize": 2,
-    "workbench.colorTheme": "Solarized Dark"
+  "editor.tabSize": 2,
+  "workbench.colorTheme": "Solarized Dark",
+  "terminal.integrated.defaultProfile.linux": "host",
+  "terminal.integrated.profiles.linux": {
+    "bash": {
+      "path": "bash",
+      "icon": "terminal-bash"
+    },
+    "zsh": {
+      "path": "zsh"
+    },
+    "fish": {
+      "path": "fish"
+    },
+    "tmux": {
+      "path": "tmux",
+      "icon": "terminal-tmux"
+    },
+    "pwsh": {
+      "path": "pwsh",
+      "icon": "terminal-powershell"
+    },
+    "host": {
+      "path": "bash",
+      "icon": "terminal-bash",
+      "args": [
+        "--init-file",
+        ".config/code-server/ssh-host.sh"
+      ]
+    }
+  }
 }
