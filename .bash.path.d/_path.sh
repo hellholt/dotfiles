@@ -9,6 +9,7 @@ common_paths=(
   '/usr/local/bin'
   '/usr/local/sbin'
   '/volume1/@appstore/Git/bin'
+  '/volume1/@appstore/MediaServer/bin'
   '/volume1/@appstore/Node.js_v14/usr/local/bin'
   '/volume1/@appstore/synocli-disk/bin'
   '/volume1/@appstore/synocli-file/bin'
