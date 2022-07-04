@@ -20,6 +20,7 @@ beets_declutter() {
       -o -iname '*.mp3' \
       -o -iname '*.nfo' \
       -o -iname '*.pdf' \
+      -o -iname '*.pls' \
       -o -iname '*.png' \
       -o -iname '*.sfv' \
       -o -iname '*.txt' \
