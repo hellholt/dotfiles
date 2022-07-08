@@ -18,7 +18,7 @@ beets_nathan_import() {
               echo;
               if [[ "${reply}" =~ ^[Yy]$ ]]; then
                 echo "Importing ${the_album_path} ....";
-                beets_nathan import "${the_album_path}";
+                beets_nathan import "${the_album_path}" < /dev/tty;
               else
                 echo "Skipping ${the_album_path} ....";
               fi;
