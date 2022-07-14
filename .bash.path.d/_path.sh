@@ -6,6 +6,7 @@ common_paths=(
   "$HOME/.local/bin"
   "$HOME/bin"
   "$HOME/python3/bin"
+  '/opt/homebrew/bin'
   '/usr/local/bin'
   '/usr/local/sbin'
   '/volume1/@appstore/Git/bin'
