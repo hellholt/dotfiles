@@ -16,7 +16,7 @@ beets_nathan_import() {
               the_album_name="$(basename "${the_album_path}")";
               read -p "Import ${the_artist_name}: ${the_album_name}? " -n 1 -r reply < /dev/tty;
               echo;
-              if [ -d "${the_album_path/\/All\//\/Nathan\/}"]; then
+              if [ -d "${the_album_path/\/All\//\/Nathan\/}" ]; then
                 echo "Skipping ${the_album_path} because it is already present at the destination...";
               elif [[ "${reply}" =~ ^[Yy]$ ]]; then
                 echo "Importing ${the_album_path} ....";
