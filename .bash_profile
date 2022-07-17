@@ -2,13 +2,11 @@
 
 export BASH_SILENCE_DEPRECATION_WARNING=1
 
-dotfiles_home="/Users/nathan";
-
-if [ -f "${dotfiles_home}/.bash_common" ]; then
-  source "${dotfiles_home}/.bash_common";
+if [ -f "${HOME}/.bash_common" ]; then
+  source "${HOME}/.bash_common";
 fi;
-if [ -f "${dotfiles_home}/.bash_prompt" ]; then
-  source "${dotfiles_home}/.bash_prompt";
+if [ -f "${HOME}/.bash_prompt" ]; then
+  source "${HOME}/.bash_prompt";
 fi;
 
 CARGO_ENV="${HOME}/.cargo/env";
