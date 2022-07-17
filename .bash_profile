@@ -2,14 +2,16 @@
 
 export BASH_SILENCE_DEPRECATION_WARNING=1
 
-if [ -f "${HOME}/.bash_common" ]; then
-  source "${HOME}/.bash_common";
-fi;
-if [ -f "${HOME}/.bash_prompt" ]; then
-  source "${HOME}/.bash_prompt";
-fi;
-
 CARGO_ENV="${HOME}/.cargo/env";
-if [ -f "${CARGO_ENV}" ]; then
-  . "${CARGO_ENV}";
-fi;
+
+source_files=(
+  "${HOME}/.bash_common"
+  "${HOME}/.bash_prompt"
+  "${CARGO_ENV}"
+)
+
+for source_file in "${source_files[@]}"; do
+  if [ -f "${source_file}" ]; then
+    source "${source_file}";
+  fi;
+done;
