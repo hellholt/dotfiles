@@ -6,6 +6,7 @@ beets_nathan_import() {
   artist_expression="${1}";
   album_expression="${2}";
   music_root="${MUSIC_ROOT:-/Music}";
+  path_file="$(mktemp)";
   find "${music_root}/All" -mindepth 3 -maxdepth 3 -type d -iname "*${artist_expression}*" -print \
     | sort -h \
     | while read the_artist_path; do
@@ -21,13 +22,16 @@ beets_nathan_import() {
                 echo;
                 if [[ "${reply}" =~ ^[Yy]$ ]]; then
                   echo "Importing ${the_album_path} ....";
-                  beets_nathan import "${the_album_path}" < /dev/tty;
+                  echo "${the_album_path}" >> "${path_file}";
                 else
                   echo "Skipping ${the_album_path} ....";
                 fi;
               fi;
             done;
       done;
+  cat "${path_file}" | while read the_album_path || [[ -n $the_album_path ]]; do
+    beets_nathan import "${the_album_path}" < /dev/tty;
+  done;
 }
 
 bni() {
