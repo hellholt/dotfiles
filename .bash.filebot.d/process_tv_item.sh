@@ -8,7 +8,7 @@ filebot_process_tv_item() {
   echo "Processing TV Item: ${the_item} ..." >&2;
   export JAVA_OPTS="-Xmx1024m";
   filebot \
-    -script dev:amc \
+    -script fn:amc \
     "${the_item}" \
     --output "${destination}" \
     --action move \
