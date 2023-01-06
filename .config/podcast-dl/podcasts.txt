@@ -315,6 +315,8 @@ https://phenomenonpod.libsyn.com/rss
 https://philosophizethis.libsyn.com/rss/
 # Planet Money
 https://feeds.npr.org/510289/podcast.xml
+# The Plot Thickens
+https://www.omnycontent.com/d/playlist/d83f52e4-2455-47f4-982e-ab790120b954/5a7a823c-9ff1-4b8f-b3e1-ab8a00fb5958/be877694-ac0f-4cff-9d46-ab8a00fbced8/podcast.rss
 # Pod Yourself a Gun
 https://podyourselfagun.blubrry.net/feed/podcast/
 
