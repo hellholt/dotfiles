@@ -11,7 +11,7 @@ filebot_process_tv_item() {
     -script fn:amc \
     "${the_item}" \
     --output "${destination}" \
-    --action move \
+    --action copy \
     -non-strict \
     --order Airdate \
     --conflict auto \
@@ -30,8 +30,4 @@ filebot_process_tv_item() {
     --apply refresh \
     --log all \
     --log-file "${HOME}/filebot.log";
-  if [ -d "${the_item}" ]; then
-    nd_declutter "${the_item}";
-    find "${the_item}" -type d -empty -print -delete;
-  fi;
 }
