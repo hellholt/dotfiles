@@ -351,6 +351,8 @@ https://feeds.simplecast.com/3gWG8IjT
 http://feeds.feedburner.com/RoguelikeRadio
 # Root of Evil: The True Story of the Hodel Family and the Black Dahlia
 https://www.omnycontent.com/d/playlist/d83f52e4-2455-47f4-982e-ab790120b954/746fc97b-db2e-4fef-919f-ab850163e13d/8264c1d0-8a91-4e78-827f-ab850163e14b/podcast.rss
+# Eli Roth's History of Horror
+https://rss.art19.com/eli-roths-history-of-horror-uncut
 
 # S
 
@@ -451,6 +453,8 @@ https://rss.art19.com/the-vanished-podcast-wondery
 https://feeds.captivate.fm/verbaldiorama/
 # Victoriocity
 https://victoriocity.libsyn.com/rss
+# The Video Archives Podcast With Quentin Tarantino and Roger Avary
+https://feeds.simplecast.com/hQ1_tt0K
 
 # W
 
