@@ -26,7 +26,7 @@ filebot_process_tv_item() {
       minFileSize=100000000 \
       excludeList=.excludes \
       seriesFormat="${destination}/{plex.tail}" \
-      exec='sudo chmod -R 777 {quote output}; sudo chown -R 998:users {quote output}' \
+      exec='sudo chmod -R 777 {quote output}; sudo chown -R nathan:users {quote output}' \
     --apply refresh \
     --log all \
     --log-file "${HOME}/filebot.log";
