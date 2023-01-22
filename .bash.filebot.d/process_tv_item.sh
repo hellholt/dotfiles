@@ -29,6 +29,5 @@ filebot_process_tv_item() {
       exec='sudo chmod -R 777 {quote output}; sudo chown -R nathan:users {quote output}' \
     --apply refresh \
     --log all \
-    --log-level INFO \
     --log-file "${HOME}/filebot.log";
 }
