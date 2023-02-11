@@ -8,7 +8,7 @@ ps1_preview() {
   primary_color="$(tput setaf $(echo "${the_config}" | yq '.prompt.colors.primary'))";
   secondary_color="$(tput setaf $(echo "${the_config}" | yq '.prompt.colors.secondary'))";
   tertiary_color="$(tput setaf $(echo "${the_config}" | yq '.prompt.colors.tertiary'))";
-  emoji="$(echo "${the_config}" | yq '.prompt.emoji')";
+  emoji_segment="$(echo "${the_config}" | yq '.prompt.emoji')";
   username_segment="$(printf "$(tput sgr0)$(tput bold)${primary_color}nathan$(tput sgr0)")";
   atsign_segment="$(printf "$(tput sgr0)$(tput bold)@$(tput sgr0)")";
   hostname_segment="$(printf "$(tput sgr0)$(tput bold)${secondary_color}${the_hostname}$(tput sgr0)")";

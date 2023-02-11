@@ -8,6 +8,6 @@ ps1_build() {
   export primary_color="$(echo "${the_config}" | yq '.prompt.colors.primary')";
   export secondary_color="$(echo "${the_config}" | yq '.prompt.colors.secondary')";
   export tertiary_color="$(echo "${the_config}" | yq '.prompt.colors.tertiary')";
-  export emoji="$(echo "${the_config}" | yq '.prompt.emoji')";
+  export emoji_segment="$(echo "${the_config}" | yq '.prompt.emoji')";
   envsubst '$primary_color:$secondary_color:$tertiary_color:$emoji' < "${HOME}/.bash_prompt_template"
 }
