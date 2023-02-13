@@ -102,6 +102,8 @@ https://www.youtube.com/channel/UCfqPst3x4TrBUsYAF83uOBg
 https://www.youtube.com/channel/UCRYhCg0DHloE9gn-PAiAYNg
 # Displaced Gamers
 https://www.youtube.com/channel/UCWoSKWs8h6lFdiEDAjuIfpA
+# The Dungeon Synth Archives
+https://www.youtube.com/@TheDungeonSynthArchives
 
 # E
 
@@ -123,6 +125,8 @@ https://www.youtube.com/channel/UCyNtlmLB73-7gtlBz00XOQQ
 
 # G
 
+# Game Dev Guide
+https://www.youtube.com/c/GameDevGuide
 # Game Maker's Toolkit
 https://www.youtube.com/channel/UCqJ-Xo29CKyLTjn6z2XwYAw
 # Games With Gabe
