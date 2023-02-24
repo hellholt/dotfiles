@@ -1,0 +1,7 @@
+- _Crafting Interpreters_, by Robert Nystrom
+- _The Clean Coder: A Code of Conduct for Professional Programmers_, by Robert C. Martin
+- _Clean Code: A Handbook of Agile Software Craftsmanship_, by Robert C. Martin
+- _Practices of an Agile Developer_, by Venkat Subramaniam and Andy Hunt
+- _Peopleware: Productive Projects and Teams_, by Tom DeMarco and Timothy Lister
+- _Game Programming Patterns_, by Robert Nystrom
+- _Mazes for Programmers_, by James Buck

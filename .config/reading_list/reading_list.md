@@ -1,0 +1,143 @@
+- _Seven Languages in Seven Weeks_, by Bruce A. Tate
+  - _Land of LISP_, by Conrad Barski
+    - _Structure and Interpretation of Computer Programs_ by Harold Abelman and Gerald Sussman
+      - _Paradigms of Artificial Intelligence Programming: Case Studies in Common Lisp_, by Peter Norvig
+        - _Programming Game AI by Example_, by Buckland
+          - _AI for Game Developers_, by Bourg and Seemann
+            - _AI for Games_, by Millington
+      - _How to Design Programs_ by Matthias Felleisen
+        - _Advanced Algorithms and Data Structures_, by Marcello La Rocca
+        - _Algorithms + Data Structures = Programs_ by Niklaus Wirth
+        - _Cracking the Coding Interview_, by Gayle Laakmann McDowell
+        - _The Algorithm Design Manual_, by Steven S. Skiena
+          - _Data Structures and Algorithms for Game Developers_, by Sherrod
+            - _Simulation and Event Modeling for Game Developers_, by
+        - _Introduction to Algorithms_ by Thomas Cormen et al.
+          - _Concrete Mathematics: A Foundation for Computer Science_ by Ronald Graham, Donald Knuth, and Oren Patashnik
+            - _The Art of Computer Programming, Part 1_, by Donald Knuth
+              - _The Art of Computer Programming, Part 2_, by Donald Knuth
+                - _The Art of Computer Programming, Part 3_, by Donald Knuth
+                  - _The Art of Computer Programming, Part 4A_, by Donald Knuth
+                    - _The Art of Computer Programming, Part 4B_, by Donald Knuth
+                      - _Prediction, Learning, and Games_, by Cesa-Bianchi and Lugosi
+                      - _Multiagent Systems_, by Shoham and Leyton-Brown
+                      - _Bandit Algorithms_, by Lattimore and Szepesvari
+  - _Learn You Some Erlang for Great Good_, by Frank Hebert
+  - _Clojure for the Brave and True: Learn the Ultimate Language and Become a Better Programmer_ by Daniel Higginbotham
+  - _Go in Action_, by William Kennedy
+    - _The Go Programming Language_, by Donovan and Kernighan
+      - _100 Go Mistakes and How to Avoid Them_, by Teiva Harsanyi
+        - _Black Hat Go: Go Programming for Hackers and Pentesters_, by Tom Steele et al.
+  - _Adventures in Rule-Based Programming_, by Gary Riley
+  - _Programming Rust: Fast, Safe Systems Development_ by Jim Blandy
+    - _Zero to Production in Rust_ by Palmieri
+      - _Hands-on Rust_, by Herbert Wolverson
+        - _Command-Line Rust_, by Youens-Clark
+          - _Rust Atomics and Locks_, by Mara Bos
+  - _Learning Processing_, by Daniel Shiffman
+    - _The Nature of Code_, by Daniel Shiffman
+- _The Ray Tracer Challenge_, by Jamis Buck
+- _Designing Games_, by Sylvester
+  - _The Art of Game Design_, by Schell
+    - _The Game Design Reader_, by Salen and Zimmerman
+    - _Level Up! The Guide to Great Video Game Design_, by 
+      - _Advanced Game Design_, by Sellers
+        - _Introduction to Game System Design_, by Gazway
+          - _Procedural Storytelling in Game Design_, by Short and Adams
+          - _Procedural Generation in Game Design_, by Short and Adams
+          - _Swords and Circuitry: A Designer's Guide to Computer Role-Playing Games_, by LaMothe
+      - _A Theory of Fun for Game Design_, by Rogers
+      - _Situational Game Design_, by Upton
+      - _Pattern Language for Game Design_, by Barney
+    - _Video Game Level Design_, by Michael Salmond
+      - _Level Design_, by Totten
+        - _An Architectural Approach to Level Design_, by Totten
+- _GraphQL in Action_, by Samer Buna
+
+- _Waltzing With Bears: Managing Risk on Software Projects_ by Tom DeMarco
+- _The Goal: The Theory of Constraints; A Process of Ongoing Improvement_, by Goldratt
+- _Accelerate_, by Nicole Forsgren
+- _The Phoenix Project_, by Gene Kim
+- _Nonviolent Communication_, by Rosenberg
+- _Unity in Action_, by Hocking
+- _Believable Characters for Computer Games_, by
+- _Tricks of the Game PRogramming Gurus_, by
+- _Design It!_, by Keeling
+- _Domain Driven Design_, by Evans
+- _Data-Oriented Programming_, by Sharvit
+- _Designing Data-Intensive Applications_, by Kleppmann
+- _Designing Cloud Data Platforms_, by Danil Zburivsky
+- _Fundamentals of Software Architecture_, by Richards and Ford
+  - _Software Architecture: The Hard Parts_, by Ford and Richards
+- _A Philosophy of Software Design_, by John Ousterhout
+- _Hacking the System Design Interview_, by Stanley Chiang
+- _Learning Domain-Driven Design_, by Khononov
+- _Terraform in Action_, by Scott Winkler
+  - _Infrastructure as Code, Patterns and Practices: With Examples in Python and Terraform_, by Rosemary Wang
+- _Notes on the Synthesis of Form_ by Christopher Alexander
+  - _The Timeless Way of Building_ by Christopher Alexander
+    - _A Pattern Language: Towns, Buildings, Construction_ by Christopher Alexander
+
+- _Five Lines of Code_, by Clausen
+- _Software Mistakes and Tradeoffs_, by Lelek and Skeet
+- _Refactoring: Improving the Design of Existing Code_, by Martin Fowler
+
+- _Unit Testing: Principles, Practices, and Patterns_, by Khorikov
+- _Effective Software Testing_, by Aniche
+- _Effective Software Testing_, by Dustin
+- _Lessons Learned in Software Testing_, by Kaner et al.
+- _Test-Driven Development: By Example_, by Kent Beck
+- _Growing Object-Oriented Software: Guided by Tests_, by Freeman and Pryce
+- _Modern Game Testing_, by Chris Howell
+
+- _Cloud Native DevOps with Kubernetes: Building, Deploying, and Scaling Modern Applications in the Cloud_ by John Arundel
+  - _Production Kubernetes: Building Successful Application Platforms_ by Josh Rosso
+    - _Hacking Kubernetes: Threat-Driven Analysis and Defense_, by Andrew Martin
+    - _Core Kubernetes_, by Jay Vyas
+    - _Kubernetes Best Practices: Blueprints for Building Successful Applications on Kubernetes_, by Brendan Burns
+    - _Certified Kubernetes Administrator Study Guide_, by Muschko
+- _Microservices in Action_, by Morgan Bruce
+- _Microservices: Up and Running_, by Mitra and Nadareishvili
+  - _Building Event-Driven Microservices_, by Bellmore
+  - _Microservices Security in Action: Design secure network and API endpoint security for Microservices applications, with examples using Java, Kubernetes, and Istio_, by Prabath Siriwardena
+- _Observability Engineering_, by Majors
+- _Software Estimation Without Guessing_, by Dimwiddie
+- _Game Engine Architecture_, by Gregory
+- _API Security in Action_, by Madden
+- _Microservices Patterns: With Examples in Java_, by Chris Richardson
+- _Hacking APIs: Breaking Web Application Programming Interfaces_, by Corey Ball
+- _Operations Anti-Patterns, DevOps Solutions_, by Jeffery Smith
+- _Programming Pearls_, by Bentley
+- _Code Complete: A Practical Handbook of Software Construction_ by Steve McConnell
+- _Working Effectively With Legacy Code_ by Michael Feathers
+- _Software Estimation: Demystifying the Black Art_ by Steve McConnell
+- _Websocket: Lightweight Client-Server Communications_ by Andrew Lombardi
+- _High Performance Browser Networking_ by Ilya Grigorik
+- _Learning HTTP/2: A Practical Guide_ by Stephen Ludin
+- _HTTP: The Definitive Guide_ by David Gourley
+
+- _Thinking in Systems: A Primer_, by Donella Meadows
+  - _An Elegant Puzzle: Systems of Engineering Management_, by Will Larson
+
+- _Technology Strategy Patterns_, by Hewitt
+- _Fixing Your Scrum_, by Ripley
+- _The Healthy Programmer_, by Kutner
+- _Agile Metrics in Action_, by Davis
+- _Hacker's Delight_, by Warren
+
+- _Design Patterns: Elements of Reusable Object-Oriented Software_ by Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides
+  - _Elemental Design Patterns_ by Jason Smith
+
+- _Python Workout: 50 Ten-Minute Exercises_, by Reuven Lerner
+  - _Neural Networks from Scratch in Python_, by
+
+- _UNIX Network Programming_, by Stevens
+- _The Design of the UNIX Operating System_, by Maurice Bach
+
+
+- _The Annotated Turing_ by Charles Petzold
+- _Things That Make Us Smart_ by Donald A. Norman
+- _Internet Core Protocols: The Definitive Guide_ by Eric Hall
+- _User Story Mapping_ by Jeff Patton
+- _Crafting Interpreters_ by Robert Nystrom
+
