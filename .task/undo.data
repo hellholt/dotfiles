@@ -1,0 +1,139 @@
+time 1676672345
+new [description:"Initial setup." entry:"1676672345" modified:"1676672345" project:"projects.rust_ray_tracer" status:"pending" uuid:"26b597e8-7086-4c02-a11d-6b357cb67f50"]
+---
+time 1676672368
+new [description:"Chapter 1." entry:"1676672368" modified:"1676672368" project:"projects.rust_ray_tracer" status:"pending" uuid:"a3e08efb-683a-4c61-86b4-9c54e4bcae01"]
+---
+time 1676672404
+old [description:"Initial setup." entry:"1676672345" modified:"1676672345" project:"projects.rust_ray_tracer" status:"pending" uuid:"26b597e8-7086-4c02-a11d-6b357cb67f50"]
+new [description:"Initial setup." entry:"1676672345" modified:"1676672404" project:"projects.rust_ray_tracer" start:"1676672404" status:"pending" uuid:"26b597e8-7086-4c02-a11d-6b357cb67f50"]
+---
+time 1676672568
+old [description:"Initial setup." entry:"1676672345" modified:"1676672404" project:"projects.rust_ray_tracer" start:"1676672404" status:"pending" uuid:"26b597e8-7086-4c02-a11d-6b357cb67f50"]
+new [description:"Initial setup." entry:"1676672345" modified:"1676672568" project:"Projects.Rust Ray Tracer" start:"1676672404" status:"pending" uuid:"26b597e8-7086-4c02-a11d-6b357cb67f50"]
+---
+time 1676672568
+old [description:"Chapter 1." entry:"1676672368" modified:"1676672368" project:"projects.rust_ray_tracer" status:"pending" uuid:"a3e08efb-683a-4c61-86b4-9c54e4bcae01"]
+new [description:"Chapter 1." entry:"1676672368" modified:"1676672568" project:"Projects.Rust Ray Tracer" status:"pending" uuid:"a3e08efb-683a-4c61-86b4-9c54e4bcae01"]
+---
+time 1676749140
+old [description:"Initial setup." entry:"1676672345" modified:"1676672568" project:"Projects.Rust Ray Tracer" start:"1676672404" status:"pending" uuid:"26b597e8-7086-4c02-a11d-6b357cb67f50"]
+new [description:"Initial setup." entry:"1676672345" modified:"1676749140" project:"Projects.Sunhouse" start:"1676672404" status:"pending" uuid:"26b597e8-7086-4c02-a11d-6b357cb67f50"]
+---
+time 1676749140
+old [description:"Chapter 1." entry:"1676672368" modified:"1676672568" project:"Projects.Rust Ray Tracer" status:"pending" uuid:"a3e08efb-683a-4c61-86b4-9c54e4bcae01"]
+new [description:"Chapter 1." entry:"1676672368" modified:"1676749140" project:"Projects.Sunhouse" status:"pending" uuid:"a3e08efb-683a-4c61-86b4-9c54e4bcae01"]
+---
+time 1676749186
+new [description:"_Hugo in Action_, ch. 3" entry:"1676749186" modified:"1676749186" project:"Projects.Darkdell" status:"pending" uuid:"78ddf0a0-8665-4eea-acde-3c654b801105"]
+---
+time 1676749195
+new [description:"_Hugo in Action_, ch. 4" entry:"1676749195" modified:"1676749195" project:"Projects.Darkdell" status:"pending" uuid:"7e017523-7c74-4b1e-95e6-ccfb16940be4"]
+---
+time 1676749199
+new [description:"_Hugo in Action_, ch. 5" entry:"1676749199" modified:"1676749199" project:"Projects.Darkdell" status:"pending" uuid:"ceed6fa0-a32b-4a8b-b588-1efa07cd1ab7"]
+---
+time 1676749224
+new [description:"_Hugo in Action_, ch. 6" entry:"1676749224" modified:"1676749224" project:"Projects.Darkdell" status:"pending" uuid:"1b40888f-4b0a-4368-b89c-c6ae7436d107"]
+---
+time 1676749228
+new [description:"_Hugo in Action_, ch. 7" entry:"1676749228" modified:"1676749228" project:"Projects.Darkdell" status:"pending" uuid:"241dcdf9-3576-480a-8df8-c065df0da657"]
+---
+time 1676749232
+new [description:"_Hugo in Action_, ch. 8" entry:"1676749232" modified:"1676749232" project:"Projects.Darkdell" status:"pending" uuid:"6dfa8a0b-4cff-47ce-92c9-da4482f0bac2"]
+---
+time 1676749236
+new [description:"_Hugo in Action_, ch. 9" entry:"1676749236" modified:"1676749236" project:"Projects.Darkdell" status:"pending" uuid:"78fd4e60-948c-453e-9b5c-4dce05e11ad3"]
+---
+time 1676749240
+new [description:"_Hugo in Action_, ch. 10" entry:"1676749240" modified:"1676749240" project:"Projects.Darkdell" status:"pending" uuid:"3c6ae210-79c5-4315-a9b7-26632821694c"]
+---
+time 1676749244
+new [description:"_Hugo in Action_, ch. 11" entry:"1676749244" modified:"1676749244" project:"Projects.Darkdell" status:"pending" uuid:"f5569ae8-29b3-4764-8334-90ec168fd3ee"]
+---
+time 1676749248
+new [description:"_Hugo in Action_, ch. 12" entry:"1676749248" modified:"1676749248" project:"Projects.Darkdell" status:"pending" uuid:"3aada5fd-d905-4788-88e9-6ed56972b90d"]
+---
+time 1676749252
+new [description:"_Hugo in Action_, ch. 13" entry:"1676749252" modified:"1676749252" project:"Projects.Darkdell" status:"pending" uuid:"378eeb8c-7e5d-4702-9261-4b2ba324d381"]
+---
+time 1676749265
+old [description:"Initial setup." entry:"1676672345" modified:"1676749140" project:"Projects.Sunhouse" start:"1676672404" status:"pending" uuid:"26b597e8-7086-4c02-a11d-6b357cb67f50"]
+new [description:"Initial setup." entry:"1676672345" modified:"1676749265" project:"Projects.Sunhouse" status:"pending" uuid:"26b597e8-7086-4c02-a11d-6b357cb67f50"]
+---
+time 1676749271
+old [description:"_Hugo in Action_, ch. 3" entry:"1676749186" modified:"1676749186" project:"Projects.Darkdell" status:"pending" uuid:"78ddf0a0-8665-4eea-acde-3c654b801105"]
+new [description:"_Hugo in Action_, ch. 3" entry:"1676749186" modified:"1676749271" project:"Projects.Darkdell" start:"1676749271" status:"pending" uuid:"78ddf0a0-8665-4eea-acde-3c654b801105"]
+---
+time 1676749304
+old [description:"_Hugo in Action_, ch. 4" entry:"1676749195" modified:"1676749195" project:"Projects.Darkdell" status:"pending" uuid:"7e017523-7c74-4b1e-95e6-ccfb16940be4"]
+new [dep_78ddf0a0-8665-4eea-acde-3c654b801105:"x" depends:"78ddf0a0-8665-4eea-acde-3c654b801105" description:"_Hugo in Action_, ch. 4" entry:"1676749195" modified:"1676749304" project:"Projects.Darkdell" status:"pending" uuid:"7e017523-7c74-4b1e-95e6-ccfb16940be4"]
+---
+time 1676749312
+old [description:"_Hugo in Action_, ch. 5" entry:"1676749199" modified:"1676749199" project:"Projects.Darkdell" status:"pending" uuid:"ceed6fa0-a32b-4a8b-b588-1efa07cd1ab7"]
+new [dep_7e017523-7c74-4b1e-95e6-ccfb16940be4:"x" depends:"7e017523-7c74-4b1e-95e6-ccfb16940be4" description:"_Hugo in Action_, ch. 5" entry:"1676749199" modified:"1676749312" project:"Projects.Darkdell" status:"pending" uuid:"ceed6fa0-a32b-4a8b-b588-1efa07cd1ab7"]
+---
+time 1676749348
+old [description:"_Hugo in Action_, ch. 6" entry:"1676749224" modified:"1676749224" project:"Projects.Darkdell" status:"pending" uuid:"1b40888f-4b0a-4368-b89c-c6ae7436d107"]
+new [dep_ceed6fa0-a32b-4a8b-b588-1efa07cd1ab7:"x" depends:"ceed6fa0-a32b-4a8b-b588-1efa07cd1ab7" description:"_Hugo in Action_, ch. 6" entry:"1676749224" modified:"1676749348" project:"Projects.Darkdell" status:"pending" uuid:"1b40888f-4b0a-4368-b89c-c6ae7436d107"]
+---
+time 1676749348
+old [description:"_Hugo in Action_, ch. 7" entry:"1676749228" modified:"1676749228" project:"Projects.Darkdell" status:"pending" uuid:"241dcdf9-3576-480a-8df8-c065df0da657"]
+new [dep_1b40888f-4b0a-4368-b89c-c6ae7436d107:"x" depends:"1b40888f-4b0a-4368-b89c-c6ae7436d107" description:"_Hugo in Action_, ch. 7" entry:"1676749228" modified:"1676749348" project:"Projects.Darkdell" status:"pending" uuid:"241dcdf9-3576-480a-8df8-c065df0da657"]
+---
+time 1676749348
+old [description:"_Hugo in Action_, ch. 8" entry:"1676749232" modified:"1676749232" project:"Projects.Darkdell" status:"pending" uuid:"6dfa8a0b-4cff-47ce-92c9-da4482f0bac2"]
+new [dep_241dcdf9-3576-480a-8df8-c065df0da657:"x" depends:"241dcdf9-3576-480a-8df8-c065df0da657" description:"_Hugo in Action_, ch. 8" entry:"1676749232" modified:"1676749348" project:"Projects.Darkdell" status:"pending" uuid:"6dfa8a0b-4cff-47ce-92c9-da4482f0bac2"]
+---
+time 1676749348
+old [description:"_Hugo in Action_, ch. 9" entry:"1676749236" modified:"1676749236" project:"Projects.Darkdell" status:"pending" uuid:"78fd4e60-948c-453e-9b5c-4dce05e11ad3"]
+new [dep_6dfa8a0b-4cff-47ce-92c9-da4482f0bac2:"x" depends:"6dfa8a0b-4cff-47ce-92c9-da4482f0bac2" description:"_Hugo in Action_, ch. 9" entry:"1676749236" modified:"1676749348" project:"Projects.Darkdell" status:"pending" uuid:"78fd4e60-948c-453e-9b5c-4dce05e11ad3"]
+---
+time 1676749348
+old [description:"_Hugo in Action_, ch. 10" entry:"1676749240" modified:"1676749240" project:"Projects.Darkdell" status:"pending" uuid:"3c6ae210-79c5-4315-a9b7-26632821694c"]
+new [dep_78fd4e60-948c-453e-9b5c-4dce05e11ad3:"x" depends:"78fd4e60-948c-453e-9b5c-4dce05e11ad3" description:"_Hugo in Action_, ch. 10" entry:"1676749240" modified:"1676749348" project:"Projects.Darkdell" status:"pending" uuid:"3c6ae210-79c5-4315-a9b7-26632821694c"]
+---
+time 1676749348
+old [description:"_Hugo in Action_, ch. 11" entry:"1676749244" modified:"1676749244" project:"Projects.Darkdell" status:"pending" uuid:"f5569ae8-29b3-4764-8334-90ec168fd3ee"]
+new [dep_3c6ae210-79c5-4315-a9b7-26632821694c:"x" depends:"3c6ae210-79c5-4315-a9b7-26632821694c" description:"_Hugo in Action_, ch. 11" entry:"1676749244" modified:"1676749348" project:"Projects.Darkdell" status:"pending" uuid:"f5569ae8-29b3-4764-8334-90ec168fd3ee"]
+---
+time 1676749348
+old [description:"_Hugo in Action_, ch. 12" entry:"1676749248" modified:"1676749248" project:"Projects.Darkdell" status:"pending" uuid:"3aada5fd-d905-4788-88e9-6ed56972b90d"]
+new [dep_f5569ae8-29b3-4764-8334-90ec168fd3ee:"x" depends:"f5569ae8-29b3-4764-8334-90ec168fd3ee" description:"_Hugo in Action_, ch. 12" entry:"1676749248" modified:"1676749348" project:"Projects.Darkdell" status:"pending" uuid:"3aada5fd-d905-4788-88e9-6ed56972b90d"]
+---
+time 1676749348
+old [description:"_Hugo in Action_, ch. 13" entry:"1676749252" modified:"1676749252" project:"Projects.Darkdell" status:"pending" uuid:"378eeb8c-7e5d-4702-9261-4b2ba324d381"]
+new [dep_3aada5fd-d905-4788-88e9-6ed56972b90d:"x" depends:"3aada5fd-d905-4788-88e9-6ed56972b90d" description:"_Hugo in Action_, ch. 13" entry:"1676749252" modified:"1676749348" project:"Projects.Darkdell" status:"pending" uuid:"378eeb8c-7e5d-4702-9261-4b2ba324d381"]
+---
+time 1676749555
+old [description:"_Hugo in Action_, ch. 3" entry:"1676749186" modified:"1676749271" project:"Projects.Darkdell" start:"1676749271" status:"pending" uuid:"78ddf0a0-8665-4eea-acde-3c654b801105"]
+new [description:"_Hugo in Action_, ch. 3" end:"1676749555" entry:"1676749186" modified:"1676749555" project:"Projects.Darkdell" status:"completed" uuid:"78ddf0a0-8665-4eea-acde-3c654b801105"]
+---
+time 1676749559
+old [dep_78ddf0a0-8665-4eea-acde-3c654b801105:"x" depends:"78ddf0a0-8665-4eea-acde-3c654b801105" description:"_Hugo in Action_, ch. 4" entry:"1676749195" modified:"1676749304" project:"Projects.Darkdell" status:"pending" uuid:"7e017523-7c74-4b1e-95e6-ccfb16940be4"]
+new [dep_78ddf0a0-8665-4eea-acde-3c654b801105:"x" depends:"78ddf0a0-8665-4eea-acde-3c654b801105" description:"_Hugo in Action_, ch. 4" entry:"1676749195" modified:"1676749559" project:"Projects.Darkdell" start:"1676749559" status:"pending" uuid:"7e017523-7c74-4b1e-95e6-ccfb16940be4"]
+---
+time 1676754237
+old [dep_78ddf0a0-8665-4eea-acde-3c654b801105:"x" depends:"78ddf0a0-8665-4eea-acde-3c654b801105" description:"_Hugo in Action_, ch. 4" entry:"1676749195" modified:"1676749559" project:"Projects.Darkdell" start:"1676749559" status:"pending" uuid:"7e017523-7c74-4b1e-95e6-ccfb16940be4"]
+new [dep_78ddf0a0-8665-4eea-acde-3c654b801105:"x" depends:"78ddf0a0-8665-4eea-acde-3c654b801105" description:"_Hugo in Action_, ch. 4" end:"1676754237" entry:"1676749195" modified:"1676754237" project:"Projects.Darkdell" status:"completed" uuid:"7e017523-7c74-4b1e-95e6-ccfb16940be4"]
+---
+time 1676754241
+old [dep_7e017523-7c74-4b1e-95e6-ccfb16940be4:"x" depends:"7e017523-7c74-4b1e-95e6-ccfb16940be4" description:"_Hugo in Action_, ch. 5" entry:"1676749199" modified:"1676749312" project:"Projects.Darkdell" status:"pending" uuid:"ceed6fa0-a32b-4a8b-b588-1efa07cd1ab7"]
+new [dep_7e017523-7c74-4b1e-95e6-ccfb16940be4:"x" depends:"7e017523-7c74-4b1e-95e6-ccfb16940be4" description:"_Hugo in Action_, ch. 5" entry:"1676749199" modified:"1676754241" project:"Projects.Darkdell" start:"1676754241" status:"pending" uuid:"ceed6fa0-a32b-4a8b-b588-1efa07cd1ab7"]
+---
+time 1676765352
+old [dep_7e017523-7c74-4b1e-95e6-ccfb16940be4:"x" depends:"7e017523-7c74-4b1e-95e6-ccfb16940be4" description:"_Hugo in Action_, ch. 5" entry:"1676749199" modified:"1676754241" project:"Projects.Darkdell" start:"1676754241" status:"pending" uuid:"ceed6fa0-a32b-4a8b-b588-1efa07cd1ab7"]
+new [dep_7e017523-7c74-4b1e-95e6-ccfb16940be4:"x" depends:"7e017523-7c74-4b1e-95e6-ccfb16940be4" description:"_Hugo in Action_, ch. 5" end:"1676765352" entry:"1676749199" modified:"1676765352" project:"Projects.Darkdell" status:"completed" uuid:"ceed6fa0-a32b-4a8b-b588-1efa07cd1ab7"]
+---
+time 1676765355
+old [dep_ceed6fa0-a32b-4a8b-b588-1efa07cd1ab7:"x" depends:"ceed6fa0-a32b-4a8b-b588-1efa07cd1ab7" description:"_Hugo in Action_, ch. 6" entry:"1676749224" modified:"1676749348" project:"Projects.Darkdell" status:"pending" uuid:"1b40888f-4b0a-4368-b89c-c6ae7436d107"]
+new [dep_ceed6fa0-a32b-4a8b-b588-1efa07cd1ab7:"x" depends:"ceed6fa0-a32b-4a8b-b588-1efa07cd1ab7" description:"_Hugo in Action_, ch. 6" entry:"1676749224" modified:"1676765355" project:"Projects.Darkdell" start:"1676765355" status:"pending" uuid:"1b40888f-4b0a-4368-b89c-c6ae7436d107"]
+---
+time 1676776348
+old [dep_ceed6fa0-a32b-4a8b-b588-1efa07cd1ab7:"x" depends:"ceed6fa0-a32b-4a8b-b588-1efa07cd1ab7" description:"_Hugo in Action_, ch. 6" entry:"1676749224" modified:"1676765355" project:"Projects.Darkdell" start:"1676765355" status:"pending" uuid:"1b40888f-4b0a-4368-b89c-c6ae7436d107"]
+new [dep_ceed6fa0-a32b-4a8b-b588-1efa07cd1ab7:"x" depends:"ceed6fa0-a32b-4a8b-b588-1efa07cd1ab7" description:"_Hugo in Action_, ch. 6" end:"1676776348" entry:"1676749224" modified:"1676776348" project:"Projects.Darkdell" status:"completed" uuid:"1b40888f-4b0a-4368-b89c-c6ae7436d107"]
+---
+time 1676776356
+old [dep_1b40888f-4b0a-4368-b89c-c6ae7436d107:"x" depends:"1b40888f-4b0a-4368-b89c-c6ae7436d107" description:"_Hugo in Action_, ch. 7" entry:"1676749228" modified:"1676749348" project:"Projects.Darkdell" status:"pending" uuid:"241dcdf9-3576-480a-8df8-c065df0da657"]
+new [dep_1b40888f-4b0a-4368-b89c-c6ae7436d107:"x" depends:"1b40888f-4b0a-4368-b89c-c6ae7436d107" description:"_Hugo in Action_, ch. 7" entry:"1676749228" modified:"1676776356" project:"Projects.Darkdell" start:"1676776356" status:"pending" uuid:"241dcdf9-3576-480a-8df8-c065df0da657"]
+---
