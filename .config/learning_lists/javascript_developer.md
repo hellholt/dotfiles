@@ -4,14 +4,14 @@ JavaScript, often abbreviated JS, is a programming language that is one of the c
 
 Visit the following resources to learn more:
 
-- [JavaScript MDN Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- [W3Schools – JavaScript Tutorial](https://www.w3schools.com/js/)
-- [The Modern JavaScript Tutorial](https://javascript.info/)
-- [Exploring JS: JavaScript books for programmers](https://exploringjs.com/)
-- [Eloquent JavaScript textbook](https://eloquentjavascript.net/)
-- [You Dont Know JS Yet (book series)](https://github.com/getify/You-Dont-Know-JS)
-- [JavaScript Crash Course for Beginners](https://youtu.be/hdI2bqOjy3c?t=2)
-- [Build a Netflix Landing Page Clone with HTML, CSS & JS](https://youtu.be/P7t13SGytRk?t=22)
+- [ ] [JavaScript MDN Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [ ] [W3Schools – JavaScript Tutorial](https://www.w3schools.com/js/)
+- [ ] [The Modern JavaScript Tutorial](https://javascript.info/)
+- [ ] [Exploring JS: JavaScript books for programmers](https://exploringjs.com/)
+- [ ] [Eloquent JavaScript textbook](https://eloquentjavascript.net/)
+- [ ] [You Dont Know JS Yet (book series)](https://github.com/getify/You-Dont-Know-JS)
+- [ ] [JavaScript Crash Course for Beginners](https://youtu.be/hdI2bqOjy3c?t=2)
+- [ ] [Build a Netflix Landing Page Clone with HTML, CSS & JS](https://youtu.be/P7t13SGytRk?t=22)
 
 # What is JavaScript?
 
@@ -19,14 +19,14 @@ JavaScript, often abbreviated JS, is a programming language that is one of the c
 
 Visit the following resources to learn more:
 
-- [JavaScript MDN Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- [W3Schools – JavaScript Tutorial](https://www.w3schools.com/js/)
-- [The Modern JavaScript Tutorial](https://javascript.info/)
-- [A Comprehensive Course on JavaScript with Quizzes and Exercises - CodeGuage](https://www.codeguage.com/courses/js/)
-- [Exploring JS: JavaScript books for programmers](https://exploringjs.com/)
-- [JavaScript Crash Course for Beginners](https://youtu.be/hdI2bqOjy3c?t=2)
-- [Build a Netflix Landing Page Clone with HTML, CSS & JS](https://youtu.be/P7t13SGytRk?t=22)
-- [Learn Javascript - Full course for bignners>](https://www.youtube.com/watch?v=PkZNo7MFNFg)
+- [ ] [JavaScript MDN Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [ ] [W3Schools – JavaScript Tutorial](https://www.w3schools.com/js/)
+- [ ] [The Modern JavaScript Tutorial](https://javascript.info/)
+- [ ] [A Comprehensive Course on JavaScript with Quizzes and Exercises - CodeGuage](https://www.codeguage.com/courses/js/)
+- [ ] [Exploring JS: JavaScript books for programmers](https://exploringjs.com/)
+- [ ] [JavaScript Crash Course for Beginners](https://youtu.be/hdI2bqOjy3c?t=2)
+- [ ] [Build a Netflix Landing Page Clone with HTML, CSS & JS](https://youtu.be/P7t13SGytRk?t=22)
+- [ ] [Learn Javascript - Full course for bignners>](https://www.youtube.com/watch?v=PkZNo7MFNFg)
 
 # History of JavaScript
 
@@ -34,8 +34,8 @@ JavaScript was initially created by Brendan Eich of NetScape and was first annou
 
 Visit the following resources to learn more:
 
-- [Brief History of JavaScript](https://roadmap.sh/guides/history-of-javascript)
-- [The History of JavaScript](https://dev.to/iarchitsharma/the-history-of-javascript-5e98)
+- [ ] [Brief History of JavaScript](https://roadmap.sh/guides/history-of-javascript)
+- [ ] [The History of JavaScript](https://dev.to/iarchitsharma/the-history-of-javascript-5e98)
 
 # Javascript Versions
 
@@ -43,8 +43,8 @@ JavaScript was invented by Brendan Eich, and in 1997 and became an ECMA standard
 
 Visit the following resources to learn more:
 
-- [JavaScript Versions: How JavaScript has changed over the years](https://www.educative.io/blog/javascript-versions-history)
-- [Brief History of JavaScript](https://roadmap.sh/guides/history-of-javascript)
+- [ ] [JavaScript Versions: How JavaScript has changed over the years](https://www.educative.io/blog/javascript-versions-history)
+- [ ] [Brief History of JavaScript](https://roadmap.sh/guides/history-of-javascript)
 
 # How to run Javascript
 
@@ -52,9 +52,9 @@ JavaScript can be run in the browser by including the external script file using
 
 Visit the following resources to learn more:
 
-- [How To Add JavaScript to HTML](https://www.digitalocean.com/community/tutorials/how-to-add-javascript-to-html)
-- [How To Write Your First JavaScript Program](https://www.digitalocean.com/community/tutorials/how-to-write-your-first-javascript-program)
-- [How To Use the JavaScript Developer Console](https://www.digitalocean.com/community/tutorials/how-to-use-the-javascript-developer-console)
+- [ ] [How To Add JavaScript to HTML](https://www.digitalocean.com/community/tutorials/how-to-add-javascript-to-html)
+- [ ] [How To Write Your First JavaScript Program](https://www.digitalocean.com/community/tutorials/how-to-write-your-first-javascript-program)
+- [ ] [How To Use the JavaScript Developer Console](https://www.digitalocean.com/community/tutorials/how-to-use-the-javascript-developer-console)
 
 # Javascript Variables
 
@@ -62,8 +62,8 @@ Most of the time, a JavaScript application needs to work with information. To st
 
 Visit the following resources to learn more:
 
-- [JavaScript Variables](https://javascript.info/variables)
-- [Storing the information you need — Variables](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Variables)
+- [ ] [JavaScript Variables](https://javascript.info/variables)
+- [ ] [Storing the information you need — Variables](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Variables)
 
 # Hoisting
 
@@ -71,8 +71,8 @@ JavaScript Hoisting refers to the process whereby the interpreter appears to mov
 
 Visit the following resources to learn more:
 
-- [What is Hoisting - MDN Docs](https://developer.mozilla.org/en-US/docs/Glossary/Hoisting)
-- [JavaScript Hoisting](https://www.geeksforgeeks.org/javascript-hoisting/)
+- [ ] [What is Hoisting - MDN Docs](https://developer.mozilla.org/en-US/docs/Glossary/Hoisting)
+- [ ] [JavaScript Hoisting](https://www.geeksforgeeks.org/javascript-hoisting/)
 
 # Naming Rules
 
@@ -80,11 +80,11 @@ A variable name should accurately identify your variable. When you create good v
 
 Visit the following resources to learn more:
 
-- [JavaScript Variable Naming Tips - CodeGuage](https://www.codeguage.com/courses/js/variables#Tips_for_naming_variables)
-- [Understanding Variables in JavaScript](https://www.informit.com/articles/article.aspx?p=131025&seqNum=3)
-- [Naming JavaScript Variables](https://www.dummies.com/article/technology/programming-web-design/javascript/naming-javascript-variables-142522/)
-- [JavaScript Naming Conventions](https://www.robinwieruch.de/javascript-naming-conventions/)
-- [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)
+- [ ] [JavaScript Variable Naming Tips - CodeGuage](https://www.codeguage.com/courses/js/variables#Tips_for_naming_variables)
+- [ ] [Understanding Variables in JavaScript](https://www.informit.com/articles/article.aspx?p=131025&seqNum=3)
+- [ ] [Naming JavaScript Variables](https://www.dummies.com/article/technology/programming-web-design/javascript/naming-javascript-variables-142522/)
+- [ ] [JavaScript Naming Conventions](https://www.robinwieruch.de/javascript-naming-conventions/)
+- [ ] [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)
 
 # Datatypes
 
@@ -92,10 +92,10 @@ Data type refers to the type of data that a JavaScript variable can hold. There 
 
 Visit the following resources to learn more:
 
-- [JavaScript Data Types - CodeGuage](https://www.codeguage.com/courses/js/data-types)
-- [JavaScript data types and data structures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)
-- [JavaScript Data Types](https://www.w3schools.com/js/js_datatypes.asp)
-- [JavaScript Data Types](https://javascript.info/types)
+- [ ] [JavaScript Data Types - CodeGuage](https://www.codeguage.com/courses/js/data-types)
+- [ ] [JavaScript data types and data structures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)
+- [ ] [JavaScript Data Types](https://www.w3schools.com/js/js_datatypes.asp)
+- [ ] [JavaScript Data Types](https://javascript.info/types)
 
 # Primitive Types
 
@@ -113,7 +113,7 @@ Most of the time, a primitive value is represented directly at the lowest level 
 
 Visit the following resources to learn more:
 
-- [Primitive](https://developer.mozilla.org/en-US/docs/Glossary/Primitive)
+- [ ] [Primitive](https://developer.mozilla.org/en-US/docs/Glossary/Primitive)
 
 # TypeOf Operator
 
@@ -121,8 +121,8 @@ You can use the typeOf operator to find the data type of a JavaScript variable.
 
 Visit the following resources to learn more:
 
-- [Typeof Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/typeof)
-- [Typeof Live Examples](https://www.w3schools.com/js/tryit.asp?filename=tryjs_typeof_all)
+- [ ] [Typeof Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/typeof)
+- [ ] [Typeof Live Examples](https://www.w3schools.com/js/tryit.asp?filename=tryjs_typeof_all)
 
 # Type Casting
 
@@ -130,10 +130,10 @@ Type conversion (or typecasting) means the transfer of data from one data type t
 
 Visit the following resources to learn more:
 
-- [Type Conversions](https://javascript.info/type-conversions)
-- [JavaScript Type Conversion](https://www.w3schools.com/js/js_type_conversion.asp)
-- [Type Casting in JavaScript](https://www.tutorialspoint.com/type-casting-in-javascript)
-- [JavaScript Type Cast](https://www.geeksforgeeks.org/javascript-type-conversion)
+- [ ] [Type Conversions](https://javascript.info/type-conversions)
+- [ ] [JavaScript Type Conversion](https://www.w3schools.com/js/js_type_conversion.asp)
+- [ ] [Type Casting in JavaScript](https://www.tutorialspoint.com/type-casting-in-javascript)
+- [ ] [JavaScript Type Cast](https://www.geeksforgeeks.org/javascript-type-conversion)
 
 # Type Conversion/Coercion
 
@@ -141,9 +141,9 @@ Type coercion is the automatic or implicit conversion of values from one data ty
 
 Visit the following resources to learn more:
 
-- [Type Conversion - MDN](https://developer.mozilla.org/en-US/docs/Glossary/Type_Conversion)
-- [Type Coercion - MDN](https://developer.mozilla.org/en-US/docs/Glossary/Type_coercion)
-- [Type Conversion and Coercion video](https://www.youtube.com/watch?v=jfQyMPzPTjY)
+- [ ] [Type Conversion - MDN](https://developer.mozilla.org/en-US/docs/Glossary/Type_Conversion)
+- [ ] [Type Coercion - MDN](https://developer.mozilla.org/en-US/docs/Glossary/Type_coercion)
+- [ ] [Type Conversion and Coercion video](https://www.youtube.com/watch?v=jfQyMPzPTjY)
 
 # Explicit Type Casting
 
@@ -151,11 +151,11 @@ Type casting means transferring data from one data type to another by explicitly
 
 Visit the following resources to learn more:
 
-- [Type Conversion](https://www.c-sharpcorner.com/article/type-conversions-in-javascript/)
-- [Type casting](https://www.scaler.com/topics/javascript/type-conversion-in-javascript/)
-- [Data Type Conversion](https://youtu.be/VQLYiFqetZM)
-- [Type conversion](https://developer.mozilla.org/en-US/docs/Glossary/Type_Conversion)
-- [What is typecasting in JavaScript](https://www.tutorialspoint.com/explain-typecasting-in-javascript)
+- [ ] [Type Conversion](https://www.c-sharpcorner.com/article/type-conversions-in-javascript/)
+- [ ] [Type casting](https://www.scaler.com/topics/javascript/type-conversion-in-javascript/)
+- [ ] [Data Type Conversion](https://youtu.be/VQLYiFqetZM)
+- [ ] [Type conversion](https://developer.mozilla.org/en-US/docs/Glossary/Type_Conversion)
+- [ ] [What is typecasting in JavaScript](https://www.tutorialspoint.com/explain-typecasting-in-javascript)
 
 # Implicit Type Casting
 
@@ -163,10 +163,10 @@ Implicit type conversion happens when the compiler or runtime automatically conv
 
 Visit the following resources to learn more:
 
-- [GeeeksForGeeks - JavaScript Tutorials](https://www.geeksforgeeks.org/javascript-type-conversion/)
-- [W3Schools - JavaScript Tutorials](https://www.w3schools.com/js/js_type_conversion.asp)
-- [TutorialsPoint - JavaScript Tutorials](https://www.tutorialspoint.com/explain-typecasting-in-javascript)
-- [What you need to know about Javascripts Implicit Coercion](https://dev.to/promisetochi/what-you-need-to-know-about-javascripts-implicit-coercion-e23)
+- [ ] [GeeeksForGeeks - JavaScript Tutorials](https://www.geeksforgeeks.org/javascript-type-conversion/)
+- [ ] [W3Schools - JavaScript Tutorials](https://www.w3schools.com/js/js_type_conversion.asp)
+- [ ] [TutorialsPoint - JavaScript Tutorials](https://www.tutorialspoint.com/explain-typecasting-in-javascript)
+- [ ] [What you need to know about Javascripts Implicit Coercion](https://dev.to/promisetochi/what-you-need-to-know-about-javascripts-implicit-coercion-e23)
 
 # Data Structures
 
@@ -174,13 +174,13 @@ A Data structure is a format to organize, manage and store data in a way that al
 
 Visit the following resources to learn more:
 
-- [Data structures](https://www.freecodecamp.org/news/data-structures-in-javascript-with-examples/#what-is-a-data-structure)
-- [Introduction to the Stack Data Structure](https://youtu.be/4F-BnR2XwqU)
-- [Introduction to the Queue Data Structure](https://youtu.be/GRA_3Ppl2ZI)
-- [Intro to Recursion: Anatomy of a Recursive Solution](https://youtu.be/yBWlPte6FhA)
-- [Binary Tree Algorithms for Technical Interviews - Full Course](https://youtu.be/fAAZixBzIAI)
-- [Graph Algorithms for Technical Interviews - Full Course](https://youtu.be/tWVWeAqZ0WU)
-- [Dynamic Programming - Learn to Solve Algorithmic Problems & Coding Challenges](https://youtu.be/oBt53YbR9Kk)
+- [ ] [Data structures](https://www.freecodecamp.org/news/data-structures-in-javascript-with-examples/#what-is-a-data-structure)
+- [ ] [Introduction to the Stack Data Structure](https://youtu.be/4F-BnR2XwqU)
+- [ ] [Introduction to the Queue Data Structure](https://youtu.be/GRA_3Ppl2ZI)
+- [ ] [Intro to Recursion: Anatomy of a Recursive Solution](https://youtu.be/yBWlPte6FhA)
+- [ ] [Binary Tree Algorithms for Technical Interviews - Full Course](https://youtu.be/fAAZixBzIAI)
+- [ ] [Graph Algorithms for Technical Interviews - Full Course](https://youtu.be/tWVWeAqZ0WU)
+- [ ] [Dynamic Programming - Learn to Solve Algorithmic Problems & Coding Challenges](https://youtu.be/oBt53YbR9Kk)
 
 # Equality Comparisons
 
@@ -188,8 +188,8 @@ Comparison operators are used in logical statements to determine equality or dif
 
 Visit the following resources to learn more:
 
-- [JavaScript Comparisons](https://www.w3schools.com/js/js_comparisons.asp)
-- [JavaScript Equality Operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators#equality_operators)
+- [ ] [JavaScript Comparisons](https://www.w3schools.com/js/js_comparisons.asp)
+- [ ] [JavaScript Equality Operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators#equality_operators)
 
 # Value Comparison Operators
 
@@ -201,8 +201,8 @@ In javascript, the `==` operator does the type conversion of the operands before
 
 Visit the following resources to learn more:
 
-- [The Difference Between == and === in Javascript](https://www.scaler.com/topics/javascript/difference-between-double-equals-and-triple-equals-in-javascript/)
-- [Equality comparisons and sameness - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Equality_comparisons_and_sameness#same-value_equality_using_object.is)
+- [ ] [The Difference Between == and === in Javascript](https://www.scaler.com/topics/javascript/difference-between-double-equals-and-triple-equals-in-javascript/)
+- [ ] [Equality comparisons and sameness - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Equality_comparisons_and_sameness#same-value_equality_using_object.is)
 
 # Loops and Iterations
 
@@ -219,7 +219,7 @@ for (let step = 0; step < 5; step++) {
 
 Visit the following resources to learn more:
 
-- [Loops and iteration](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration)
+- [ ] [Loops and iteration](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration)
 
 # for...in statement
 
@@ -227,8 +227,8 @@ The for...in statement iterates over all enumerable properties of an object that
 
 Visit the following resources to learn more:
 
-- [for...in statement - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...in)
-- [The for..in loop with examples](https://javascript.info/object#forin)
+- [ ] [for...in statement - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...in)
+- [ ] [The for..in loop with examples](https://javascript.info/object#forin)
 
 # for...of statement
 
@@ -236,7 +236,7 @@ The for...of statement executes a loop that operates on a sequence of values sou
 
 Visit the following resources to learn more:
 
-- [for...of statement - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...of)
+- [ ] [for...of statement - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...of)
 
 # The `for` loop
 
@@ -244,8 +244,8 @@ The `for` loop is a standard control-flow construct in many programming language
 
 Visit the following resources to learn more:
 
-- [JavaScript for Loop - CodeGuage](https://www.codeguage.com/courses/js/loops-for-loop)
-- [The for Loop - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for)
+- [ ] [JavaScript for Loop - CodeGuage](https://www.codeguage.com/courses/js/loops-for-loop)
+- [ ] [The for Loop - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for)
 
 # do...while statement
 
@@ -253,8 +253,8 @@ The `do...while` statement creates a loop that executes a specified statement un
 
 Visit the following resources to learn more:
 
-- [do...while - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/do...while)
-- [JavaScript do...while Loop - W3Schools](https://www.w3schools.com/jsref/jsref_dowhile.asp)
+- [ ] [do...while - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/do...while)
+- [ ] [JavaScript do...while Loop - W3Schools](https://www.w3schools.com/jsref/jsref_dowhile.asp)
 
 # while statement
 
@@ -262,8 +262,8 @@ The `while` statement creates a loop that executes a specified statement as long
 
 Visit the following resources to learn more:
 
-- [While Statement - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/while)
-- [The while Loop - CodeGuage](https://www.codeguage.com/courses/js/loops-while-loop)
+- [ ] [While Statement - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/while)
+- [ ] [The while Loop - CodeGuage](https://www.codeguage.com/courses/js/loops-while-loop)
 
 # Control Flow
 
@@ -278,7 +278,7 @@ We can control the flow of the program through any of these control structures:
   
 Visit the following resources to learn more:
 
-- [Control Flow - MDN](https://developer.mozilla.org/en-US/docs/Glossary/Control_flow)
+- [ ] [Control Flow - MDN](https://developer.mozilla.org/en-US/docs/Glossary/Control_flow)
 
 # Expressions and Operators
 
@@ -286,7 +286,7 @@ At a high level, an expression is a valid unit of code that resolves to a value.
 
 Visit the following resources to learn more:
 
-- [Expressions and operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators)
+- [ ] [Expressions and operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators)
 
 # Assignment Operators
 
@@ -294,8 +294,8 @@ An assignment operator assigns a value to its left operand based on the value of
 
 Visit the following resources to learn more:
 
-- [Assignment Operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators#assignment_operators)
-- [Basic Operators](https://javascript.info/operators#assignment)
+- [ ] [Assignment Operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators#assignment_operators)
+- [ ] [Basic Operators](https://javascript.info/operators#assignment)
 
 # Comparison Operators
 
@@ -303,9 +303,9 @@ Comparison operators are the operators that compare values and return true or fa
 
 Visit the following resources to learn more:
 
-- [W3Schools - JavaScript Tutorials](https://www.w3schools.com/js/js_comparisons.asp)
-- [JavaScript MDN Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators#comparison_operators)
-- [Comparison operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators#comparison_operators)
+- [ ] [W3Schools - JavaScript Tutorials](https://www.w3schools.com/js/js_comparisons.asp)
+- [ ] [JavaScript MDN Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators#comparison_operators)
+- [ ] [Comparison operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators#comparison_operators)
 
 # Arithmetic operators
 
@@ -324,9 +324,9 @@ Arithmetic operators in JavaScript are as follows:
 
 Visit the following resources to learn more:
 
-- [Arithmetic Operators - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators#arithmetic_operators)
-- [Arithmetic Operators - JavaScript.info](https://javascript.info/operators#maths)
-- [JavaScript Arithmetic Operators](https://www.w3schools.com/js/js_arithmetic.asp)
+- [ ] [Arithmetic Operators - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators#arithmetic_operators)
+- [ ] [Arithmetic Operators - JavaScript.info](https://javascript.info/operators#maths)
+- [ ] [JavaScript Arithmetic Operators](https://www.w3schools.com/js/js_arithmetic.asp)
 
 # Bitwise operators
 
@@ -345,8 +345,8 @@ Bitwise operators in JavaScript are as follows:
 
 Visit the following resources to learn more:
 
-- [Bitwise Operators - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators#bitwise_operators)
-- [Bitwise Operators - JavaScript.info](https://javascript.info/operators#bitwise-operators)
+- [ ] [Bitwise Operators - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators#bitwise_operators)
+- [ ] [Bitwise Operators - JavaScript.info](https://javascript.info/operators#bitwise-operators)
 
 # Logical Operators
 
@@ -354,8 +354,8 @@ There are four logical operators in JavaScript: `||` (OR), `&&` (AND), `!` (NOT)
 
 Visit the following resources to learn more:
 
-- [Logical Operators - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators#binary_logical_operators)
-- [Logical Operators - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators#binary_logical_operators)
+- [ ] [Logical Operators - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators#binary_logical_operators)
+- [ ] [Logical Operators - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators#binary_logical_operators)
 
 # BigInt Operators
 
@@ -363,7 +363,7 @@ Most operators that can be used with the `Number` data type will also work with 
 
 Visit the following resources to learn more:
 
-- [BigInt Operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators#bigint_operators)
+- [ ] [BigInt Operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators#bigint_operators)
 
 # String Operators
 
@@ -373,8 +373,8 @@ The shorthand assignment operator `+=` can also be used to concatenate strings.
 
 Visit the following resources to learn more:
 
-- [JavaScript MDN Tutorials](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators#string_operators)
-- [String Concatenation - JavaScript.info](https://javascript.info/operators#string-concatenation-with-binary)
+- [ ] [JavaScript MDN Tutorials](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators#string_operators)
+- [ ] [String Concatenation - JavaScript.info](https://javascript.info/operators#string-concatenation-with-binary)
 
 # Conditional operators
 
@@ -388,8 +388,8 @@ Syntax:
 
 Visit the following resources to learn more:
 
-- [JavaScript MDN Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators#conditional_operator)
-- [W3Schools - JavaScript Tutorials](https://www.w3schools.com/js/js_comparisons.asp)
+- [ ] [JavaScript MDN Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators#conditional_operator)
+- [ ] [W3Schools - JavaScript Tutorials](https://www.w3schools.com/js/js_comparisons.asp)
 
 # Comma operators
 
@@ -397,7 +397,7 @@ The comma operator (`,`) evaluates each of its operands (from left to right) and
 
 Visit the following resources to learn more:
 
-- [Comma operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Comma_Operator)
+- [ ] [Comma operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Comma_Operator)
 
 # Unary Operators
 
@@ -405,8 +405,8 @@ JavaScript Unary Operators are the special operators that consider a single oper
 
 Visit the following resources to learn more:
 
-- [Unary Operators in JavaScript](https://www.educba.com/unary-operators-in-javascript/)
-- [Unary Operators - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators#unary_operators)
+- [ ] [Unary Operators in JavaScript](https://www.educba.com/unary-operators-in-javascript/)
+- [ ] [Unary Operators - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators#unary_operators)
 
 # Relational Operators
 
@@ -414,7 +414,7 @@ Relational operators are also known as comparison operators. They are used to fi
 
 Visit the following resources to learn more:
 
-- [Relational Operators - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators#relational_operators)
+- [ ] [Relational Operators - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators#relational_operators)
 
 # Functions
 
@@ -422,9 +422,9 @@ Functions exist so we can reuse code. They are blocks of code that execute whene
 
 Visit the following resources to learn more:
 
-- [Functions - MDN Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions)
-- [JavaScript Functions - Programming with Mosh](https://youtu.be/N8ap4k_1QEQ)
-- [JavaScript Functions in Detail - CodeGuage](https://www.codeguage.com/courses/js/functions-basics)
+- [ ] [Functions - MDN Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions)
+- [ ] [JavaScript Functions - Programming with Mosh](https://youtu.be/N8ap4k_1QEQ)
+- [ ] [JavaScript Functions in Detail - CodeGuage](https://www.codeguage.com/courses/js/functions-basics)
 
 # Defining and Calling Functions
 
@@ -440,9 +440,9 @@ Visit the following resources to learn more:
 
 Visit the following resources to learn more:
 
-- [Defining Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions#defining_functions)
-- [Calling Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions#calling_functions)
-- [Function Definitions](https://www.w3schools.com/js/js_function_definition.asp)
+- [ ] [Defining Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions#defining_functions)
+- [ ] [Calling Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions#calling_functions)
+- [ ] [Function Definitions](https://www.w3schools.com/js/js_function_definition.asp)
 
 # Arrow Functions
 
@@ -450,8 +450,8 @@ Arrow Function is a new way of creating functions with the '=>' operator with a 
 
 Visit the following resources to learn more:
 
-- [MDN - Arrow Function Expressions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
-- [JavaScript Arrow Function](https://www.w3schools.com/js/js_arrow_function.asp)
+- [ ] [MDN - Arrow Function Expressions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
+- [ ] [JavaScript Arrow Function](https://www.w3schools.com/js/js_arrow_function.asp)
 
 # IIFE
 
@@ -459,8 +459,8 @@ Immediately-Invoked Function Expression is a function that is executed immediate
 
 Visit the following resources to learn more:
 
-- [IIFE — MDN Docs](https://developer.mozilla.org/en-US/docs/Glossary/IIFE)
-- [JavaScript in Plain English - IIFE](https://javascript.plainenglish.io/https-medium-com-javascript-in-plain-english-stop-feeling-iffy-about-using-an-iife-7b0292aba174)
+- [ ] [IIFE — MDN Docs](https://developer.mozilla.org/en-US/docs/Glossary/IIFE)
+- [ ] [JavaScript in Plain English - IIFE](https://javascript.plainenglish.io/https-medium-com-javascript-in-plain-english-stop-feeling-iffy-about-using-an-iife-7b0292aba174)
 
 # Arguments object
 
@@ -468,7 +468,7 @@ The arguments object is an Array-like object accessible inside functions that co
 
 Visit the following resources to learn more:
 
-- [The arguments object - MDN Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/arguments)
+- [ ] [The arguments object - MDN Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/arguments)
 
 # Built in functions
 
@@ -478,9 +478,9 @@ Visit the following resources to learn more:
 
 Visit the following resources to learn more:
 
-- [JavaScript Built-in Functions](https://www.tutorialspoint.com/javascript/javascript_builtin_functions.htm)
-- [Built-in Methods in Javascript](https://dev.to/elpepebenitez/built-in-methods-in-javascript-4bll)
-- [Built-in Functions:](https://www.tutorialride.com/javascript/javascript-built-in-functions.htm)
+- [ ] [JavaScript Built-in Functions](https://www.tutorialspoint.com/javascript/javascript_builtin_functions.htm)
+- [ ] [Built-in Methods in Javascript](https://dev.to/elpepebenitez/built-in-methods-in-javascript-4bll)
+- [ ] [Built-in Functions:](https://www.tutorialride.com/javascript/javascript-built-in-functions.htm)
 
 # This Keyword
 
@@ -495,8 +495,8 @@ In JavaScript, the `this` keyword is a little different compared to other langua
 
 Visit the following resources to learn more:
 
-- [The JavaScript `this` Keyword](https://www.w3schools.com/js/js_this.asp)
-- [This Keyword](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this)
+- [ ] [The JavaScript `this` Keyword](https://www.w3schools.com/js/js_this.asp)
+- [ ] [This Keyword](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this)
 
 # Function Borrowing
 
@@ -504,7 +504,7 @@ Function borrowing allows us to use the methods of one object on a different obj
 
 Visit the following resources to learn more:
 
-- [Function borrowing](https://medium.com/@ensallee/function-borrowing-in-javascript-4bd671e9d7b4)
+- [ ] [Function borrowing](https://medium.com/@ensallee/function-borrowing-in-javascript-4bd671e9d7b4)
 
 # this in a method
 
@@ -512,8 +512,8 @@ Methods are properties of an object which are functions. The value of this insid
 
 Visit the following resources to learn more:
 
-- [`this` in methods](https://javascript.info/object-methods#this-in-methods)
-- [Short and clear post about the `this` keyword](https://www.w3schools.com/js/js_this.asp)
+- [ ] [`this` in methods](https://javascript.info/object-methods#this-in-methods)
+- [ ] [Short and clear post about the `this` keyword](https://www.w3schools.com/js/js_this.asp)
 
 # this in a function
 
@@ -523,7 +523,7 @@ The keyword `this` when used in a function refers to the global object.
 
 Visit the following resources to learn more:
 
-- [this in a function](https://www.w3schools.com/js/js_this.asp)
+- [ ] [this in a function](https://www.w3schools.com/js/js_this.asp)
 
 # Using this alone
 
@@ -533,7 +533,7 @@ The keyword `this` when used alone refers to the global object.
 
 Visit the following resources to learn more:
 
-- [this Alone](https://www.w3schools.com/js/js_this.asp)
+- [ ] [this Alone](https://www.w3schools.com/js/js_this.asp)
 
 # this in event handlers
 
@@ -541,7 +541,7 @@ The keyword `this` when used in an event handler refers to the element that rece
 
 Visit the following resources to learn more:
 
-- [this in Event handlers](https://www.w3schools.com/js/js_this.asp)
+- [ ] [this in Event handlers](https://www.w3schools.com/js/js_this.asp)
 
 # this in arrow functions
 
@@ -549,7 +549,7 @@ The keyword `this` when used in an arrow function refers to the parent object.
 
 Visit the following resources to learn more:
 
-- [this keyword and arrow function](https://stackoverflow.com/questions/66518020/javascript-this-keyword-and-arrow-function)
+- [ ] [this keyword and arrow function](https://stackoverflow.com/questions/66518020/javascript-this-keyword-and-arrow-function)
 
 # Explicit binding
 
@@ -557,8 +557,8 @@ Explicit binding is when you use the `call` or `apply` methods to explicitly set
 
 Visit the following resources to learn more:
 
-- [Explicit Binding](https://medium.com/swlh/javascript-this-ac28f8e0f65d)
-- [Explicit Binding rule for this keyword](https://medium.com/@msinha2801/explicit-binding-rule-for-this-keyword-in-js-712405b0a11)
+- [ ] [Explicit Binding](https://medium.com/swlh/javascript-this-ac28f8e0f65d)
+- [ ] [Explicit Binding rule for this keyword](https://medium.com/@msinha2801/explicit-binding-rule-for-this-keyword-in-js-712405b0a11)
 
 # call() method
 
@@ -566,7 +566,7 @@ The `call()` method calls the function with a reference to the aspire object to 
 
 Visit the following resources to learn more:
 
-- [call() method](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/call)
+- [ ] [call() method](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/call)
 
 # apply() method
 
@@ -574,7 +574,7 @@ Visit the following resources to learn more:
 
 Visit the following resources to learn more:
 
-- [apply() method](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/apply)
+- [ ] [apply() method](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/apply)
 
 # bind() method
 
@@ -582,7 +582,7 @@ The `bind()` method return a new method that has its `this` keyword refers to th
 
 Visit the following resources to learn more:
 
-- [bind() method](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/bind)
+- [ ] [bind() method](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/bind)
 
 # Asynchronous JavaScript
 
@@ -598,7 +598,7 @@ So even though you may not have to implement your own asynchronous functions ver
 
 Visit the following resources to learn more:
 
-- [Asynchronous JavaScript - MDN](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Introducing)
+- [ ] [Asynchronous JavaScript - MDN](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Introducing)
 
 # Event Loop
 
@@ -606,9 +606,9 @@ The Event Loop is one of the most important aspects to understand about Node.js.
 
 Visit the following resources to learn more:
 
-- [The Node.Js Event Loop](https://nodejs.org/en/docs/guides/event-loop-timers-and-nexttick/#what-is-the-event-loop)
-- [JavaScript Visualized: Event Loop](https://dev.to/lydiahallie/javascript-visualized-event-loop-3dif)
-- [What the heck is the event loop anyway?](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
+- [ ] [The Node.Js Event Loop](https://nodejs.org/en/docs/guides/event-loop-timers-and-nexttick/#what-is-the-event-loop)
+- [ ] [JavaScript Visualized: Event Loop](https://dev.to/lydiahallie/javascript-visualized-event-loop-3dif)
+- [ ] [What the heck is the event loop anyway?](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
 
 # setTimeout
 
@@ -616,10 +616,10 @@ The setTimeout runs a function after the specified period expires. Times are dec
 
 Visit the following resources to learn more:
 
-- [JavaScript MDN Docs](https://developer.mozilla.org/en-US/docs/Web/API/setTimeout)
-- [W3Schools – JavaScript - setTimeOut](https://www.w3schools.com/jsref/met_win_settimeout.asp)
-- [setInterval and setTimeout: timing events](https://www.youtube.com/watch?v=kOcFZV3c75I)
-- [setTimeout EXPLAINED in 5 minutes!](https://www.youtube.com/watch?v=z9lJb4D3nJY)
+- [ ] [JavaScript MDN Docs](https://developer.mozilla.org/en-US/docs/Web/API/setTimeout)
+- [ ] [W3Schools – JavaScript - setTimeOut](https://www.w3schools.com/jsref/met_win_settimeout.asp)
+- [ ] [setInterval and setTimeout: timing events](https://www.youtube.com/watch?v=kOcFZV3c75I)
+- [ ] [setTimeout EXPLAINED in 5 minutes!](https://www.youtube.com/watch?v=z9lJb4D3nJY)
 
 # setInterval
 
@@ -629,8 +629,8 @@ The `setInterval()` method helps us to repeatedly execute a function after a fix
 
 Visit the following resources to learn more:
 
-- [Scheduling: setTimeout and setInterval](https://javascript.info/settimeout-setinterval)
-- [What is the use of setInterval() method in JavaScript?](https://www.geeksforgeeks.org/what-is-setinterval-in-javascript/)
+- [ ] [Scheduling: setTimeout and setInterval](https://javascript.info/settimeout-setinterval)
+- [ ] [What is the use of setInterval() method in JavaScript?](https://www.geeksforgeeks.org/what-is-setinterval-in-javascript/)
 
 # Modules
 
@@ -638,9 +638,9 @@ Modules encapsulate all sorts of code like functions and variables and expose al
 
 Visit the following resources to learn more:
 
-- [Modules, introduction](https://javascript.info/modules-intro)
-- [Export and Import](https://javascript.info/import-export)
-- [Dynamic imports](https://javascript.info/modules-dynamic-imports)
+- [ ] [Modules, introduction](https://javascript.info/modules-intro)
+- [ ] [Export and Import](https://javascript.info/import-export)
+- [ ] [Dynamic imports](https://javascript.info/modules-dynamic-imports)
 
 # CommonJS
 
@@ -648,9 +648,9 @@ CommonJS modules are the original way to package JavaScript code for Node.js. No
 
 Visit the following resources to learn more:
 
-- [Modules in Javascript: CJS Section](https://www.freecodecamp.org/news/modules-in-javascript/#commonjsmodules)
-- [How the CJS Module System Works](https://blog.risingstack.com/node-js-at-scale-module-system-commonjs-require/)
-- [How to Import and Export Modules in CJS](https://www.youtube.com/watch?v=XTND4rjATXA)
+- [ ] [Modules in Javascript: CJS Section](https://www.freecodecamp.org/news/modules-in-javascript/#commonjsmodules)
+- [ ] [How the CJS Module System Works](https://blog.risingstack.com/node-js-at-scale-module-system-commonjs-require/)
+- [ ] [How to Import and Export Modules in CJS](https://www.youtube.com/watch?v=XTND4rjATXA)
 
 # ESModules
 
@@ -658,11 +658,11 @@ ESModules is a standard that was introduced with ES6 (2015). The idea was to sta
 
 Visit the following resources to learn more:
 
-- [Introduction to Modules in Javascript](https://www.freecodecamp.org/news/modules-in-javascript/)
-- [Full ESM module overview from MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules)
-- [Full ESM module overview from js.info](https://javascript.info/modules)
-- [Node.js documentation for ESModules](https://nodejs.org/api/esm.html)
-- [JavaScript ES6 Modules Simplified](https://www.youtube.com/watch?v=cRHQNNcYf6s)
+- [ ] [Introduction to Modules in Javascript](https://www.freecodecamp.org/news/modules-in-javascript/)
+- [ ] [Full ESM module overview from MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules)
+- [ ] [Full ESM module overview from js.info](https://javascript.info/modules)
+- [ ] [Node.js documentation for ESModules](https://nodejs.org/api/esm.html)
+- [ ] [JavaScript ES6 Modules Simplified](https://www.youtube.com/watch?v=cRHQNNcYf6s)
 
 # Memory Management
 
@@ -670,8 +670,8 @@ Low-level languages like C, have manual memory management primitives such as mal
 
 Visit the following resources to learn more:
 
-- [JavaScript Garbage Collection](https://javascript.info/garbage-collection)
-- [Memory Management in JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Memory_Management)
+- [ ] [JavaScript Garbage Collection](https://javascript.info/garbage-collection)
+- [ ] [Memory Management in JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Memory_Management)
 
 # Memory lifecycle
 
@@ -685,8 +685,8 @@ The second part is explicit in all languages. The first and last parts are expli
 
 Visit the following resources to learn more:
 
-- [MDN docs - Memory Management](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Memory_Management)
-- [Lifecycle in Memory Management](https://medium.com/swlh/the-lifecycle-of-memory-in-javascript-5b5bffc5ff4c)
+- [ ] [MDN docs - Memory Management](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Memory_Management)
+- [ ] [Lifecycle in Memory Management](https://medium.com/swlh/the-lifecycle-of-memory-in-javascript-5b5bffc5ff4c)
 
 # Garbage Collection
 
@@ -694,8 +694,8 @@ Memory management in JavaScript is performed automatically and invisibly to us. 
 
 Visit the following resources to learn more:
 
-- [JavaScript Garbage Collection](https://javascript.info/garbage-collection)
-- [Memory Management in JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Memory_Management)
+- [ ] [JavaScript Garbage Collection](https://javascript.info/garbage-collection)
+- [ ] [Memory Management in JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Memory_Management)
 
 # Javascript chrome dev tools
 
@@ -707,8 +707,8 @@ NOTE: This isn't a chrome-specific feature, and most browsers (Chromium based or
 
 Visit the following resources to learn more:
 
-- [Official Docs](https://developer.chrome.com/docs/devtools/overview/)
-- [Mastering Chrome Dev Tools](https://www.freecodecamp.org/news/mastering-chrome-developer-tools-next-level-front-end-development-techniques-3ac0b6fe8a3/)
+- [ ] [Official Docs](https://developer.chrome.com/docs/devtools/overview/)
+- [ ] [Mastering Chrome Dev Tools](https://www.freecodecamp.org/news/mastering-chrome-developer-tools-next-level-front-end-development-techniques-3ac0b6fe8a3/)
 
 # Debugging issues
 
@@ -718,7 +718,7 @@ However, for quicker, more complex and easier to handler debugging (which also d
 
 Visit the following resources to learn more:
 
-- [Debugging JavaScript in the sources panel](https://developer.chrome.com/docs/devtools/javascript/)
+- [ ] [Debugging JavaScript in the sources panel](https://developer.chrome.com/docs/devtools/javascript/)
 
 # Debugging Memory Leaks
 
@@ -726,10 +726,10 @@ In JavaScript, memory leaks commonly occur within heap allocated memory, where s
 
 Visit the following resources to learn more:
 
-- [Catching memory leaks with Chrome DevTools](https://medium.com/coding-blocks/catching-memory-leaks-with-chrome-devtools-57b03acb6bb9)
-- [Effective Javascript Debugging](https://medium.com/swlh/effective-javascript-debugging-memory-leaks-75059b2436f6)
-- [Debugging JavaScript memory leaks](https://www.debugbear.com/blog/debugging-javascript-memory-leaks)
-- [Debugging Memory Leaks In Production JavaScript Applications](https://www.jackhoy.com/web-applications/2020/10/21/debugging-memory-leaks-in-nodejs.html)
+- [ ] [Catching memory leaks with Chrome DevTools](https://medium.com/coding-blocks/catching-memory-leaks-with-chrome-devtools-57b03acb6bb9)
+- [ ] [Effective Javascript Debugging](https://medium.com/swlh/effective-javascript-debugging-memory-leaks-75059b2436f6)
+- [ ] [Debugging JavaScript memory leaks](https://www.debugbear.com/blog/debugging-javascript-memory-leaks)
+- [ ] [Debugging Memory Leaks In Production JavaScript Applications](https://www.jackhoy.com/web-applications/2020/10/21/debugging-memory-leaks-in-nodejs.html)
 
 # Debugging performance
 
@@ -741,11 +741,11 @@ When working with remote APIs, you need a way to interact with those APIs. Moder
 
 Visit the following resources to learn more:
 
-- [Fetching data from the server](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Fetching_data)
-- [XMLHttpRequest](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest)
-- [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
-- [Is fetch API better than XMLHTTPRequest](https://medium.com/beginners-guide-to-mobile-web-development/the-fetch-api-2c962591f5c)
-- [Ajax Battle: XMLHttpRequest vs the Fetch API](https://blog.openreplay.com/ajax-battle-xmlhttprequest-vs-the-fetch-api)
+- [ ] [Fetching data from the server](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Fetching_data)
+- [ ] [XMLHttpRequest](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest)
+- [ ] [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
+- [ ] [Is fetch API better than XMLHTTPRequest](https://medium.com/beginners-guide-to-mobile-web-development/the-fetch-api-2c962591f5c)
+- [ ] [Ajax Battle: XMLHttpRequest vs the Fetch API](https://blog.openreplay.com/ajax-battle-xmlhttprequest-vs-the-fetch-api)
 
 # XMLHttpRequest
 
@@ -753,9 +753,9 @@ Visit the following resources to learn more:
 
 Visit the following resources to learn more:
 
-- [Using XMLHttpRequest](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest/Using_XMLHttpRequest)
-- [Network request - XMLHttpRequest](https://javascript.info/xmlhttprequest)
-- [W3Schools](https://www.w3schools.com/xml/xml_http.asp)
+- [ ] [Using XMLHttpRequest](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest/Using_XMLHttpRequest)
+- [ ] [Network request - XMLHttpRequest](https://javascript.info/xmlhttprequest)
+- [ ] [W3Schools](https://www.w3schools.com/xml/xml_http.asp)
 
 # Fetch
 
@@ -763,6 +763,6 @@ The fetch() method in JavaScript is used to request to the server and load the i
 
 Visit the following resources to learn more:
 
-- [Fetch MDN Docs](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
-- [Fetch W3school Docs](https://www.w3schools.com/jsref/api_fetch.asp)
-- [Network request - Fetch](https://javascript.info/fetch)
+- [ ] [Fetch MDN Docs](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
+- [ ] [Fetch W3school Docs](https://www.w3schools.com/jsref/api_fetch.asp)
+- [ ] [Network request - Fetch](https://javascript.info/fetch)

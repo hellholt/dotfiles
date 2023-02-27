@@ -11,8 +11,8 @@ The main benefits of using TypeScript include:
 
 Learn more from the folowing links:
 
-- [Overview of TypeScript](https://www.typescriptlang.org/docs/handbook/typescript-from-scratch.html)
-- [TypeScript Handbook](https://www.typescriptlang.org/docs/handbook/typescript-from-scratch.html)
+- [ ] [Overview of TypeScript](https://www.typescriptlang.org/docs/handbook/typescript-from-scratch.html)
+- [ ] [TypeScript Handbook](https://www.typescriptlang.org/docs/handbook/typescript-from-scratch.html)
 
 # TypeScript vs JavaScript
 
@@ -27,7 +27,7 @@ Here are a few key differences between TypeScript and JavaScript:
 
 Learn more from the following links:
 
-- [Learning JavaScript and TypeScript](https://www.typescriptlang.org/docs/handbook/typescript-from-scratch.html#learning-javascript-and-typescript)
+- [ ] [Learning JavaScript and TypeScript](https://www.typescriptlang.org/docs/handbook/typescript-from-scratch.html#learning-javascript-and-typescript)
 
 # TS/JS Interoperability
 
@@ -62,7 +62,7 @@ You can also create custom types in TypeScript using interfaces, classes, and ty
 
 Learn more from the following links:
 
-- [Transcript - Everyday Types](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html)
+- [ ] [Transcript - Everyday Types](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html)
 
 # boolean
 
@@ -75,7 +75,7 @@ let isFalse: boolean = false;
 
 Learn more from the following links:
 
-- [Number, String, Boolean, Symbol and Object](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#the-primitives-string-number-and-boolean)
+- [ ] [Number, String, Boolean, Symbol and Object](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#the-primitives-string-number-and-boolean)
 
 # number
 
@@ -88,7 +88,7 @@ let floatValue: number = 3.14;
 
 Learn more from the following links:
 
-- [Number, String, Boolean, Symbol and Object](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#the-primitives-string-number-and-boolean)
+- [ ] [Number, String, Boolean, Symbol and Object](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#the-primitives-string-number-and-boolean)
 
 # string
 
@@ -100,7 +100,7 @@ let name: string = 'John Doe';
 
 Learn more from the following link
 
-- [Number, String, Boolean, Symbol and Object](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#the-primitives-string-number-and-boolean)
+- [ ] [Number, String, Boolean, Symbol and Object](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#the-primitives-string-number-and-boolean)
 
 # void
 
@@ -117,7 +117,7 @@ In JavaScript, a function that doesn’t return any value will implicitly return
 
 Learn more from the following links:
 
-- [void - TypeScript Docs](https://www.typescriptlang.org/docs/handbook/2/functions.html#void)
+- [ ] [void - TypeScript Docs](https://www.typescriptlang.org/docs/handbook/2/functions.html#void)
 
 # undefined
 
@@ -141,7 +141,7 @@ function doSomething(x: string | null) {
 
 Learn more from the following links:
 
-- [null and undefined](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#null-and-undefined)
+- [ ] [null and undefined](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#null-and-undefined)
 
 # null
 
@@ -165,7 +165,7 @@ function doSomething(x: string | null) {
 
 Learn more from the following links:
 
-- [null and undefined](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#null-and-undefined)
+- [ ] [null and undefined](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#null-and-undefined)
 
 # Interface
 
@@ -184,7 +184,7 @@ function greet(person: Person) {
 
 Learn more from the following links:
 
-- [Object Types - Interfaces](https://www.typescriptlang.org/docs/handbook/2/objects.html)
+- [ ] [Object Types - Interfaces](https://www.typescriptlang.org/docs/handbook/2/objects.html)
 
 # Class
 
@@ -210,7 +210,7 @@ class Car {
 
 Learn more from the following links:
 
-- [TypeScript Classes](https://www.typescriptlang.org/docs/handbook/2/classes.html)
+- [ ] [TypeScript Classes](https://www.typescriptlang.org/docs/handbook/2/classes.html)
 
 # Enum
 
@@ -233,7 +233,7 @@ If we left off the initializer for `Up`, it would have the value `0` and the res
 
 Learn more from the following links:
 
-- [TypeScript - Enums](https://www.typescriptlang.org/docs/handbook/enums.html)
+- [ ] [TypeScript - Enums](https://www.typescriptlang.org/docs/handbook/enums.html)
 
 # Array
 
@@ -245,7 +245,7 @@ const numbers: number[] = [1, 2, 3];
 
 Learn more from the following links:
 
-- [Arrays](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#arrays)
+- [ ] [Arrays](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#arrays)
 
 # Tuple
 
@@ -265,7 +265,7 @@ const third = pair[2];
 
 Learn more from the following links:
 
-- [Tuple Types](https://www.typescriptlang.org/docs/handbook/2/objects.html#tuple-types)
+- [ ] [Tuple Types](https://www.typescriptlang.org/docs/handbook/2/objects.html#tuple-types)
 
 # Any
 
@@ -287,7 +287,7 @@ const n: number = obj;
 
 Learn more from the following links:
 
-- [any type in TypeScript](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#any)
+- [ ] [any type in TypeScript](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#any)
 
 # Object
 
@@ -307,7 +307,7 @@ printCoord({ x: 3, y: 7 });
 
 Learn more from the following links:
 
-- [Object Types in TypeScript](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#object-types)
+- [ ] [Object Types in TypeScript](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#object-types)
 
 # Unknown
 
@@ -326,7 +326,7 @@ function f2(a: unknown) {
 
 Learn more from the following links:
 
-- [Unknown Type in TypeScript](https://www.typescriptlang.org/docs/handbook/release-notes/typescript-3-0.html#new-unknown-top-type)
+- [ ] [Unknown Type in TypeScript](https://www.typescriptlang.org/docs/handbook/release-notes/typescript-3-0.html#new-unknown-top-type)
 
 # Never
 
@@ -355,7 +355,7 @@ function infiniteLoop(): never {
 
 Learn more from the following links:
 
-- [Never](https://www.typescriptlang.org/docs/handbook/basic-types.html#never)
+- [ ] [Never](https://www.typescriptlang.org/docs/handbook/basic-types.html#never)
 
 # satisfies Keyword
 
@@ -415,7 +415,7 @@ const greenNormalized = palette.green.toUpperCase();
 
 Learn more from the following resources:
 
-- [Satisfies Keyword](https://www.typescriptlang.org/docs/handbook/release-notes/typescript-4-9.html#the-satisfies-operator)
+- [ ] [Satisfies Keyword](https://www.typescriptlang.org/docs/handbook/release-notes/typescript-4-9.html#the-satisfies-operator)
 
 # Combining Types
 
@@ -451,10 +451,10 @@ let value: AB = { a: "hello", b: 42 };
 
 Learn more from the following links:
 
-- [Union Types in TypeScript](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#union-types)
-- [Intersection Types in TypeScript](https://www.typescripttutorial.net/typescript-tutorial/typescript-intersection-types/)
-- [Type Aliases](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#type-aliases)
-- [Keyof Type Operator](https://www.typescriptlang.org/docs/handbook/2/keyof-types.html#handbook-content)
+- [ ] [Union Types in TypeScript](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#union-types)
+- [ ] [Intersection Types in TypeScript](https://www.typescripttutorial.net/typescript-tutorial/typescript-intersection-types/)
+- [ ] [Type Aliases](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#type-aliases)
+- [ ] [Keyof Type Operator](https://www.typescriptlang.org/docs/handbook/2/keyof-types.html#handbook-content)
 
 # Union Types
 
@@ -470,7 +470,7 @@ function combine(input1: string | number, input2: string | number) {
 
 Learn more from the following links:
 
-- [Union Types in TypeScript](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#union-types)
+- [ ] [Union Types in TypeScript](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#union-types)
 
 # Intersection Types
 
@@ -488,7 +488,7 @@ Note that the union type uses the `|` operator that defines a variable which can
 
 Learn more from the following links:
 
-- [Intersection Types in TypeScript](https://www.typescripttutorial.net/typescript-tutorial/typescript-intersection-types/)
+- [ ] [Intersection Types in TypeScript](https://www.typescripttutorial.net/typescript-tutorial/typescript-intersection-types/)
 
 # Type Aliases
 
@@ -508,7 +508,7 @@ In the example above, `Name` and `Age` are type aliases for `string` and `number
 
 Learn more from the following links:
 
-- [Type Aliases](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#type-aliases)
+- [ ] [Type Aliases](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#type-aliases)
 
 # keyof Operator
 
@@ -529,7 +529,7 @@ In this example, `UserKeys` is a type that represents the union of keys from the
 
 Learn more from the following links:
 
-- [Keyof Type Operator](https://www.typescriptlang.org/docs/handbook/2/keyof-types.html#handbook-content)
+- [ ] [Keyof Type Operator](https://www.typescriptlang.org/docs/handbook/2/keyof-types.html#handbook-content)
 
 # Type Guards
 
@@ -537,7 +537,7 @@ Type guards are a way to narrow down the type of a variable. This is useful when
 
 Learn more from the following resources:
 
-- [Type Guards - TypeScript Docs](https://www.typescriptlang.org/docs/handbook/2/narrowing.html#typeof-type-guards)
+- [ ] [Type Guards - TypeScript Docs](https://www.typescriptlang.org/docs/handbook/2/narrowing.html#typeof-type-guards)
 
 # typeof Operator
 
@@ -555,7 +555,7 @@ if (typeof value === "string") {
 
 Learn more from the following links:
 
-- [Type Guards and Differentiating Types](https://www.typescriptlang.org/docs/handbook/2/narrowing.html#typeof-type-guards)
+- [ ] [Type Guards and Differentiating Types](https://www.typescriptlang.org/docs/handbook/2/narrowing.html#typeof-type-guards)
 
 # instanceOf operator
 
@@ -583,7 +583,7 @@ if (pet instanceof Bird) {
 
 Learn more from the following links:
 
-- [instanceOf Operator](https://www.typescriptlang.org/docs/handbook/2/narrowing.html#instanceof-narrowing)
+- [ ] [instanceOf Operator](https://www.typescriptlang.org/docs/handbook/2/narrowing.html#instanceof-narrowing)
 
 # Equality
 
@@ -606,7 +606,7 @@ When we checked that `x` and `y` are both equal in the above example, TypeScript
 
 Learn more from the following links:
 
-- [Equality Narrowing](https://www.typescriptlang.org/docs/handbook/2/narrowing.html#equality-narrowing)
+- [ ] [Equality Narrowing](https://www.typescriptlang.org/docs/handbook/2/narrowing.html#equality-narrowing)
 
 # Truthiness
 
@@ -626,7 +626,7 @@ function getUsersOnlineMessage(numUsersOnline: number) {
 
 Learn more from the following links:
 
-- [Truthiness Narrowing](https://www.typescriptlang.org/docs/handbook/2/narrowing.html#truthiness-narrowing)
+- [ ] [Truthiness Narrowing](https://www.typescriptlang.org/docs/handbook/2/narrowing.html#truthiness-narrowing)
 
 # Type Predicates
 
@@ -649,7 +649,7 @@ function example(x: unknown) {
 
 Learn more from the following links:
 
-- [Type Guards and Differentiating Types](https://www.typescriptlang.org/docs/handbook/2/narrowing.html#using-type-predicates)
+- [ ] [Type Guards and Differentiating Types](https://www.typescriptlang.org/docs/handbook/2/narrowing.html#using-type-predicates)
 
 # Functions
 
@@ -676,7 +676,7 @@ console.log(result);    // 3
 
 Learn more from the following links:
 
-- [Functions in TypeScript](https://www.typescriptlang.org/docs/handbook/2/functions.html)
+- [ ] [Functions in TypeScript](https://www.typescriptlang.org/docs/handbook/2/functions.html)
 
 # Typing Functions
 
@@ -710,7 +710,7 @@ divide = (a, b) => {
 
 Learn more from the following links:
 
-- [TypeScript Functions](https://www.typescriptlang.org/docs/handbook/2/functions.html)
+- [ ] [TypeScript Functions](https://www.typescriptlang.org/docs/handbook/2/functions.html)
 
 # Function Overloading
 
@@ -730,7 +730,7 @@ console.log(add("Hello", " World"));    // "Hello World"
 
 Learn more from the following links:
 
-- [Function Overloads](https://www.typescriptlang.org/docs/handbook/2/functions.html#function-overloads)
+- [ ] [Function Overloads](https://www.typescriptlang.org/docs/handbook/2/functions.html#function-overloads)
 
 # Interfaces
 
@@ -754,7 +754,7 @@ In this example, the `User` interface defines the structure of the `user` object
 
 Learn more from the following links:
 
-- [TypeScript - Interfaces](https://www.typescriptlang.org/docs/handbook/2/objects.html)
+- [ ] [TypeScript - Interfaces](https://www.typescriptlang.org/docs/handbook/2/objects.html)
 
 # Types vs Interfaces
 
@@ -790,8 +790,8 @@ const person: Person = {
 
 Learn more from the following links:
 
-- [Interfaces vs. Type Aliases](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#differences-between-type-aliases-and-interfaces)
-- [Interfaces vs Types in TypeScript](https://stackoverflow.com/questions/37233735/interfaces-vs-types-in-typescript)
+- [ ] [Interfaces vs. Type Aliases](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#differences-between-type-aliases-and-interfaces)
+- [ ] [Interfaces vs Types in TypeScript](https://stackoverflow.com/questions/37233735/interfaces-vs-types-in-typescript)
 
 # Extending Interfaces
 
@@ -818,7 +818,7 @@ In this example, the `Square` interface extends the `Shape` interface and adds a
 
 Learn more from the following links:
 
-- [Extending Interfaces](https://www.typescriptlang.org/docs/handbook/2/objects.html)
+- [ ] [Extending Interfaces](https://www.typescriptlang.org/docs/handbook/2/objects.html)
 
 # Interface Declaration
 
@@ -840,7 +840,7 @@ In this example, the Person interface defines four properties: `firstName`, `las
 
 Learn more from the following links:
 
-- [Extending Interfaces](https://www.typescriptlang.org/docs/handbook/2/objects.html)
+- [ ] [Extending Interfaces](https://www.typescriptlang.org/docs/handbook/2/objects.html)
 
 # Hybrid Types
 
@@ -894,7 +894,7 @@ In this example, the `Animal` class has a name field, a constructor that sets th
 
 Learn more from the following resources:
 
-- [Tutorial - Classes](https://www.typescriptlang.org/docs/handbook/2/classes.html)
+- [ ] [Tutorial - Classes](https://www.typescriptlang.org/docs/handbook/2/classes.html)
 
 # Constructor Params
 
@@ -910,7 +910,7 @@ In this example, the constructor has two parameters: name and age. name has a pr
 
 Learn more from the following links:
 
-- [TypeScript - Construct](https://www.typescriptlang.org/docs/handbook/2/classes.html#constructors)
+- [ ] [TypeScript - Construct](https://www.typescriptlang.org/docs/handbook/2/classes.html#constructors)
 
 # Constructor Overloading
 
@@ -931,7 +931,7 @@ Note that, similar to function overloading, we only have one implementation of t
 
 Learn more from the following resources:
 
-- [Constructors - TypeScript](https://www.typescriptlang.org/docs/handbook/2/classes.html#constructors)
+- [ ] [Constructors - TypeScript](https://www.typescriptlang.org/docs/handbook/2/classes.html#constructors)
 
 # Access Modifiers
 
@@ -945,7 +945,7 @@ Access modifiers in TypeScript allow you to define the level of visibility and a
 
 Learn more from the following resources:
 
-- [TypeScript Access Modifiers](https://www.typescripttutorial.net/typescript-tutorial/typescript-access-modifiers/)
+- [ ] [TypeScript Access Modifiers](https://www.typescripttutorial.net/typescript-tutorial/typescript-access-modifiers/)
 
 # Abstract Classes
 
@@ -969,7 +969,7 @@ class Dog extends Animal {
 
 Learn more from the following resources:
 
-- [Abstract Classes](https://www.typescriptlang.org/docs/handbook/2/classes.html#abstract-classes-and-members)
+- [ ] [Abstract Classes](https://www.typescriptlang.org/docs/handbook/2/classes.html#abstract-classes-and-members)
 
 # Inheritance vs Polymorphism
 
@@ -1009,7 +1009,7 @@ animal.makeSound(); // Output: Meow
 
 Learn more from the following resources:
 
-- [Inheritance and Polymorphism In TypeScript](https://www.youtube.com/watch?v=Sn6K57YSuwU)
+- [ ] [Inheritance and Polymorphism In TypeScript](https://www.youtube.com/watch?v=Sn6K57YSuwU)
 
 # Method Overriding
 
@@ -1040,7 +1040,7 @@ In this example, the `Dog` class overrides the makeSound method defined in the A
 
 Learn more from the following resources:
 
-- [TypeScript - Overriding Methods](https://www.typescriptlang.org/docs/handbook/2/classes.html#overriding-methods)
+- [ ] [TypeScript - Overriding Methods](https://www.typescriptlang.org/docs/handbook/2/classes.html#overriding-methods)
 
 # Generics
 
@@ -1060,7 +1060,7 @@ In this example, the `identity` function takes a single argument of any data typ
 
 Learn more from the following resources:
 
-- [Hello World of Generics](https://www.typescriptlang.org/docs/handbook/2/generics.html#hello-world-of-generics)
+- [ ] [Hello World of Generics](https://www.typescriptlang.org/docs/handbook/2/generics.html#hello-world-of-generics)
 
 # Generic Types
 
@@ -1095,7 +1095,7 @@ myGenericNumber.add = function(x, y) { return x + y; };
 
 Learn more from the following resources:
 
-- [Hello World of Generics](https://www.typescriptlang.org/docs/handbook/2/generics.html#hello-world-of-generics)
+- [ ] [Hello World of Generics](https://www.typescriptlang.org/docs/handbook/2/generics.html#hello-world-of-generics)
 
 # Generic Constraints
 
@@ -1123,7 +1123,7 @@ In this example, the `Lengthwise` interface defines a `length` property. The `lo
 
 Learn more from the following resources:
 
-- [Generic Constraints - TypeScript](https://www.typescriptlang.org/docs/handbook/2/generics.html#generic-constraints)
+- [ ] [Generic Constraints - TypeScript](https://www.typescriptlang.org/docs/handbook/2/generics.html#generic-constraints)
 
 # Utility Types
 
@@ -1138,7 +1138,7 @@ TypeScript provides several utility types that can be used to manipulate and tra
 
 Learn more from the following links:
 
-- [TypeScript - Utility Types](https://www.typescriptlang.org/docs/handbook/utility-types.html)
+- [ ] [TypeScript - Utility Types](https://www.typescriptlang.org/docs/handbook/utility-types.html)
 
 # Partial
 
@@ -1170,7 +1170,7 @@ console.log(newUser);
 
 Learn more from the following links:
 
-- [Partial<Type>](https://www.typescriptlang.org/docs/handbook/utility-types.html#partialtype)
+- [ ] [Partial<Type>](https://www.typescriptlang.org/docs/handbook/utility-types.html#partialtype)
 
 # Pick
 
@@ -1193,7 +1193,7 @@ const todo: TodoPreview = {
 
 Learn more from the following links:
 
-- [Pick<Type, Keys>](https://www.typescriptlang.org/docs/handbook/utility-types.html#picktype-keys)
+- [ ] [Pick<Type, Keys>](https://www.typescriptlang.org/docs/handbook/utility-types.html#picktype-keys)
 
 # Omit
 
@@ -1225,7 +1225,7 @@ const todoInfo: TodoInfo = {
 
 Learn more from the following links:
 
-- [Omit<Type, Keys>](https://www.typescriptlang.org/docs/handbook/utility-types.html#omittype-keys)
+- [ ] [Omit<Type, Keys>](https://www.typescriptlang.org/docs/handbook/utility-types.html#omittype-keys)
 
 # Readonly
 
@@ -1246,7 +1246,7 @@ todo.title = "Hello";
 
 Learn more from the following links:
 
-- [Readonly<Type>](https://www.typescriptlang.org/docs/handbook/utility-types.html#readonlytype)
+- [ ] [Readonly<Type>](https://www.typescriptlang.org/docs/handbook/utility-types.html#readonlytype)
 
 # Record
 
@@ -1269,7 +1269,7 @@ const cats: Record<CatName, CatInfo> = {
 
 Learn more from the following links:
 
-- [Record<Keys, Type>](https://www.typescriptlang.org/docs/handbook/utility-types.html#recordkeys-type)
+- [ ] [Record<Keys, Type>](https://www.typescriptlang.org/docs/handbook/utility-types.html#recordkeys-type)
 
 # Exclude
 
@@ -1283,7 +1283,7 @@ type T2 = Exclude<string | number | (() => void), Function>;  // string | number
 
 Learn more from the following links:
 
-- [Exclude<UnionType, ExcludedMembers>](https://www.typescriptlang.org/docs/handbook/utility-types.html#excludeuniontype-excludedmembers)
+- [ ] [Exclude<UnionType, ExcludedMembers>](https://www.typescriptlang.org/docs/handbook/utility-types.html#excludeuniontype-excludedmembers)
 
 # Extract
 
@@ -1296,7 +1296,7 @@ type T0 = Extract<"a" | "b" | "c", "a" | "f">;
 
 Learn more from the following links:
 
-- [Extract<Type, Union>](https://www.typescriptlang.org/docs/handbook/utility-types.html#extracttype-union)
+- [ ] [Extract<Type, Union>](https://www.typescriptlang.org/docs/handbook/utility-types.html#extracttype-union)
 
 # Non Nullable
 
@@ -1312,7 +1312,7 @@ type T1 = NonNullable<string[] | null | undefined>;
 
 Learn more from the following links:
 
-- [NonNullable<Type>](https://www.typescriptlang.org/docs/handbook/utility-types.html#nonnullabletype)
+- [ ] [NonNullable<Type>](https://www.typescriptlang.org/docs/handbook/utility-types.html#nonnullabletype)
 
 # Parameters
 
@@ -1350,7 +1350,7 @@ type T7 = Parameters<Function>;
 
 Learn more from the following links:
 
-- [Parameters<Type>](https://www.typescriptlang.org/docs/handbook/utility-types.html#parameterstype)
+- [ ] [Parameters<Type>](https://www.typescriptlang.org/docs/handbook/utility-types.html#parameterstype)
 
 # ReturnType
 
@@ -1391,7 +1391,7 @@ type T8 = ReturnType<Function>;
 
 Learn more from the following links:
 
-- [ReturnType<Type>](https://www.typescriptlang.org/docs/handbook/utility-types.html#returntypetype)
+- [ ] [ReturnType<Type>](https://www.typescriptlang.org/docs/handbook/utility-types.html#returntypetype)
 
 # InstanceType
 
@@ -1421,7 +1421,7 @@ type T4 = InstanceType<Function>;
 
 Learn more from the following links:
 
-- [InstanceType<Type>](https://www.typescriptlang.org/docs/handbook/utility-types.html#instancetypetype)
+- [ ] [InstanceType<Type>](https://www.typescriptlang.org/docs/handbook/utility-types.html#instancetypetype)
 
 # Awaited
 
@@ -1440,7 +1440,7 @@ type C = Awaited<boolean | Promise<number>>;
 
 Learn more from the following links:
 
-- [Awaited<Type>](https://www.typescriptlang.org/docs/handbook/utility-types.html#awaitedtype)
+- [ ] [Awaited<Type>](https://www.typescriptlang.org/docs/handbook/utility-types.html#awaitedtype)
 
 # Advanced Types
 
@@ -1458,8 +1458,8 @@ These advanced types allow for more complex and expressive type systems, and ena
 
 Learn more from the following links:
 
-- [Advanced Topics](https://www.typescriptlang.org/docs/handbook/type-compatibility.html#advanced-topics)
-- [Tutorial of Typescript - Advanced Types](https://www.youtube.com/playlist?list=PLw5h0DiJ-9PBIgIyd2ZA1CVnJf0BLFJg2)
+- [ ] [Advanced Topics](https://www.typescriptlang.org/docs/handbook/type-compatibility.html#advanced-topics)
+- [ ] [Tutorial of Typescript - Advanced Types](https://www.youtube.com/playlist?list=PLw5h0DiJ-9PBIgIyd2ZA1CVnJf0BLFJg2)
 
 # Mapped Types
 
@@ -1480,7 +1480,7 @@ In this example, the `Readonly` mapped type takes an object type `T` and creates
 
 Learn more from the following links:
 
-- [Mapped Types](https://www.typescriptlang.org/docs/handbook/2/mapped-types.html#handbook-content)
+- [ ] [Mapped Types](https://www.typescriptlang.org/docs/handbook/2/mapped-types.html#handbook-content)
 
 # Conditional Types
 
@@ -1499,8 +1499,8 @@ In this example, the Extends conditional type takes two types T and U and return
 
 Learn more from the following links:
 
-- [Conditional Types](https://www.typescriptlang.org/docs/handbook/2/conditional-types.html#handbook-content)
-- [Conditional Types - Advanced TypeScript](https://www.youtube.com/watch?v=QFWrbNehKk0)
+- [ ] [Conditional Types](https://www.typescriptlang.org/docs/handbook/2/conditional-types.html#handbook-content)
+- [ ] [Conditional Types - Advanced TypeScript](https://www.youtube.com/watch?v=QFWrbNehKk0)
 
 # Literal Types
 
@@ -1519,7 +1519,7 @@ In this example, the `Age` literal type is created by using the number `42` as a
 
 Learn more from the following links:
 
-- [Literal Types](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#literal-types)
+- [ ] [Literal Types](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#literal-types)
 
 # Template Literal Types
 
@@ -1538,7 +1538,7 @@ In this example, the `Name` template literal type is created by concatenating th
 
 Learn more from the following links:
 
-- [Template Literal Types](https://www.typescriptlang.org/docs/handbook/2/template-literal-types.html#handbook-content)
+- [ ] [Template Literal Types](https://www.typescriptlang.org/docs/handbook/2/template-literal-types.html#handbook-content)
 
 # Recursive Types
 
@@ -1582,8 +1582,8 @@ MyModule.doSomething(); // Output: "Doing something..."
 
 Learn more from the following links:
 
-- [Modules](https://www.typescriptlang.org/docs/handbook/modules.html#handbook-content)
-- [TypeScript - Modules](https://www.youtube.com/watch?v=EpOPR03z4Vw)
+- [ ] [Modules](https://www.typescriptlang.org/docs/handbook/modules.html#handbook-content)
+- [ ] [TypeScript - Modules](https://www.youtube.com/watch?v=EpOPR03z4Vw)
 
 # Namespaces
 
@@ -1608,9 +1608,9 @@ In this example, we use the `namespace` keyword in the "myNamespace.ts" file to 
 
 Learn more from the following resources:
 
-- [Overview of Namespaces](https://www.typescriptlang.org/docs/handbook/namespaces.html)
-- [Namespaces and Modules](https://www.typescriptlang.org/docs/handbook/namespaces-and-modules.html)
-- [TypeScript - Using Namespaces](https://typescriptlang.org/docs/handbook/namespaces-and-modules.html#using-namespaces)
+- [ ] [Overview of Namespaces](https://www.typescriptlang.org/docs/handbook/namespaces.html)
+- [ ] [Namespaces and Modules](https://www.typescriptlang.org/docs/handbook/namespaces-and-modules.html)
+- [ ] [TypeScript - Using Namespaces](https://typescriptlang.org/docs/handbook/namespaces-and-modules.html#using-namespaces)
 
 # Ambient Modules
 
@@ -1633,7 +1633,7 @@ In this example, we declare an ambient module "my-module" in the `myModule.d.ts`
 
 Learn more from the following links:
 
-- [Ambient Modules](https://www.typescriptlang.org/docs/handbook/modules.html#ambient-modules)
+- [ ] [Ambient Modules](https://www.typescriptlang.org/docs/handbook/modules.html#ambient-modules)
 
 # External Modules
 
@@ -1656,8 +1656,8 @@ In this example, we use the "export" keyword in the "myModule.ts" file to export
 
 Learn more from the following links:
 
-- [External Module](https://www.javatpoint.com/typescript-module)
-- [TypeScript - External Module](https://learncodeweb.com/typescript/modules-in-typescript-explain-with-an-example/)
+- [ ] [External Module](https://www.javatpoint.com/typescript-module)
+- [ ] [TypeScript - External Module](https://learncodeweb.com/typescript/modules-in-typescript-explain-with-an-example/)
 
 # Namespace Augmentation
 
@@ -1691,7 +1691,7 @@ In this example, we use namespace augmentation to add a new function "newFunctio
 
 Learn more from the following links:
 
-- [Module Augmentation](https://www.typescriptlang.org/docs/handbook/declaration-merging.html#module-augmentation)
+- [ ] [Module Augmentation](https://www.typescriptlang.org/docs/handbook/declaration-merging.html#module-augmentation)
 
 # Global Augmentation
 
@@ -1719,7 +1719,7 @@ In this example, we declare a new namespace "NodeJS" and add an interface "Globa
 
 Learn more from the following links:
 
-- [Global augmentation](https://www.typescriptlang.org/docs/handbook/declaration-merging.html#global-augmentation)
+- [ ] [Global augmentation](https://www.typescriptlang.org/docs/handbook/declaration-merging.html#global-augmentation)
 
 # Ecosystem
 
@@ -1731,8 +1731,8 @@ Prettier is an opinionated code formatter with support for JavaScript, HTML, CSS
 
 Visit the following resources to learn more:
 
-- [Prettier Website](https://prettier.io)
-- [Why Prettier](https://prettier.io/docs/en/why-prettier.html)
+- [ ] [Prettier Website](https://prettier.io)
+- [ ] [Why Prettier](https://prettier.io/docs/en/why-prettier.html)
 
 # Linting
 
@@ -1740,21 +1740,21 @@ With ESLint you can impose the coding standard using a certain set of standalone
 
 Visit the following resources to learn more:
 
-- [ESLint Official Website](https://eslint.org/)
-- [Introduction to ESLint](https://dev.to/shivambmgupta/eslint-what-why-when-how-5f1d)
-- [ESLint Quickstart - find errors automatically](https://www.youtube.com/watch?v=qhuFviJn-es)
+- [ ] [ESLint Official Website](https://eslint.org/)
+- [ ] [Introduction to ESLint](https://dev.to/shivambmgupta/eslint-what-why-when-how-5f1d)
+- [ ] [ESLint Quickstart - find errors automatically](https://www.youtube.com/watch?v=qhuFviJn-es)
 
 # Useful Packages
 
 TypeScript has a large ecosystem of packages that can be used to extend the language or to add functionality to your project. Here is the list of some of the most useful packages.
 
-- [zod](https://zod.dev/): A TypeScript-first data validation library
-- [ts-morph](https://github.com/dsherret/ts-morph): A TypeScript-first API for manipulating TypeScript code
-- [ts-node](https://typestrong.org/ts-node/): A TypeScript execution and REPL for node.js
-- [ts-jest](https://github.com/kulshekhar/ts-jest): A Jest transformer with source map support that lets you use Jest to test projects written in TypeScript.
-- [typesync](https://github.com/jeffijoe/typesync): Install missing TypeScript typings for dependencies in your package.json.
-- [tsd](https://github.com/SamVerschueren/tsd) - TypeScript Definition Manager
-- [type-fest](https://github.com/sindresorhus/type-fest) - A collection of essential TypeScript types
+- [ ] [zod](https://zod.dev/): A TypeScript-first data validation library
+- [ ] [ts-morph](https://github.com/dsherret/ts-morph): A TypeScript-first API for manipulating TypeScript code
+- [ ] [ts-node](https://typestrong.org/ts-node/): A TypeScript execution and REPL for node.js
+- [ ] [ts-jest](https://github.com/kulshekhar/ts-jest): A Jest transformer with source map support that lets you use Jest to test projects written in TypeScript.
+- [ ] [typesync](https://github.com/jeffijoe/typesync): Install missing TypeScript typings for dependencies in your package.json.
+- [ ] [tsd](https://github.com/SamVerschueren/tsd) - TypeScript Definition Manager
+- [ ] [type-fest](https://github.com/sindresorhus/type-fest) - A collection of essential TypeScript types
 
 # Build Tools
 
@@ -1764,11 +1764,11 @@ Common usages of task runners include numerous development tasks such as: spinni
 
 Visit the following resources to learn more:
 
-- [webpack is a static module bundler for modern JavaScript applications](https://webpack.js.org/)
-- [Vite Next Generation Frontend Tooling](https://vitejs.dev)
-- [Parcel is a zero configuration build tool for the web](https://parceljs.org/)
-- [esbuild is an extremely fast JavaScript bundler and minifier](https://esbuild.github.io/)
-- [swc is a super-fast compiler written in Rust](https://swc.rs/)
-- [tsup is a zero-config TypeScript build tool](https://tsup.egoist.sh/)
-- [Rollup is a module bundler for JavaScript](https://rollupjs.org/guide/en/)
-- [tsdx is a zero-config CLI for TypeScript package development](https://tsdx.io/)
+- [ ] [webpack is a static module bundler for modern JavaScript applications](https://webpack.js.org/)
+- [ ] [Vite Next Generation Frontend Tooling](https://vitejs.dev)
+- [ ] [Parcel is a zero configuration build tool for the web](https://parceljs.org/)
+- [ ] [esbuild is an extremely fast JavaScript bundler and minifier](https://esbuild.github.io/)
+- [ ] [swc is a super-fast compiler written in Rust](https://swc.rs/)
+- [ ] [tsup is a zero-config TypeScript build tool](https://tsup.egoist.sh/)
+- [ ] [Rollup is a module bundler for JavaScript](https://rollupjs.org/guide/en/)
+- [ ] [tsdx is a zero-config CLI for TypeScript package development](https://tsdx.io/)

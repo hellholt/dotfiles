@@ -8,13 +8,13 @@ Python is a multi-paradigm language. Being an interpreted language, code is exec
 
 Visit the following resources to learn more:
 
-- [Visit Dedicated Python Roadmap](/python)
-- [Python Website](https://www.python.org/)
-- [Python Getting Started](https://www.python.org/about/gettingstarted/)
-- [Automate the Boring Stuff](https://automatetheboringstuff.com/)
-- [W3Schools - Python Tutorial](https://www.w3schools.com/python/)
-- [Python Crash Course](https://ehmatthes.github.io/pcc/)
-- [Codecademy - Learn Python 3](https://www.codecademy.com/learn/learn-python-3)
+- [ ] [Visit Dedicated Python Roadmap](/python)
+- [ ] [Python Website](https://www.python.org/)
+- [ ] [Python Getting Started](https://www.python.org/about/gettingstarted/)
+- [ ] [Automate the Boring Stuff](https://automatetheboringstuff.com/)
+- [ ] [W3Schools - Python Tutorial](https://www.w3schools.com/python/)
+- [ ] [Python Crash Course](https://ehmatthes.github.io/pcc/)
+- [ ] [Codecademy - Learn Python 3](https://www.codecademy.com/learn/learn-python-3)
 
 # Ruby
 
@@ -22,9 +22,9 @@ Ruby is a high-level, interpreted programming language that blends Perl, Smallta
 
 Visit the following resources to learn more:
 
-- [Ruby Website](https://www.ruby-lang.org/en/)
-- [Learn Ruby in 20 minutes](https://www.ruby-lang.org/en/documentation/quickstart/)
-- [Learn Ruby | Codecademy](https://www.codecademy.com/learn/learn-ruby)
+- [ ] [Ruby Website](https://www.ruby-lang.org/en/)
+- [ ] [Learn Ruby in 20 minutes](https://www.ruby-lang.org/en/documentation/quickstart/)
+- [ ] [Learn Ruby | Codecademy](https://www.codecademy.com/learn/learn-ruby)
 
 # JavaScript
 
@@ -32,16 +32,16 @@ JavaScript allows you to add interactivity to your pages. Common examples that y
 
 Visit the following resources to learn more:
 
-- [Visit Dedicated JavaScript Roadmap](/javascript)
-- [W3Schools – JavaScript Tutorial](https://www.w3schools.com/js/)
-- [The Modern JavaScript Tutorial](https://javascript.info/)
-- [Codecademy - Learn JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)
-- [JavaScript Crash Course for Beginners](https://youtu.be/hdI2bqOjy3c)
-- [Node.js Crash Course](https://www.youtube.com/watch?v=fBNz5xF-Kx4)
-- [Node.js Tutorial for Beginners](https://www.youtube.com/watch?v=TlB_eWDSMt4)
-- [W3Schools – Node.js Tutorial](https://www.w3schools.com/nodejs/)
-- [What is NPM?](https://www.w3schools.com/nodejs/nodejs_npm.asp)
-- [Official Documentation](https://nodejs.dev/en/learn/)
+- [ ] [Visit Dedicated JavaScript Roadmap](/javascript)
+- [ ] [W3Schools – JavaScript Tutorial](https://www.w3schools.com/js/)
+- [ ] [The Modern JavaScript Tutorial](https://javascript.info/)
+- [ ] [Codecademy - Learn JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)
+- [ ] [JavaScript Crash Course for Beginners](https://youtu.be/hdI2bqOjy3c)
+- [ ] [Node.js Crash Course](https://www.youtube.com/watch?v=fBNz5xF-Kx4)
+- [ ] [Node.js Tutorial for Beginners](https://www.youtube.com/watch?v=TlB_eWDSMt4)
+- [ ] [W3Schools – Node.js Tutorial](https://www.w3schools.com/nodejs/)
+- [ ] [What is NPM?](https://www.w3schools.com/nodejs/nodejs_npm.asp)
+- [ ] [Official Documentation](https://nodejs.dev/en/learn/)
 
 # Go
 
@@ -49,13 +49,13 @@ Go is an open source programming language supported by Google. Go can be used to
 
 Visit the following resources to learn more:
 
-- [Visit Dedicated Go Roadmap](/golang)
-- [A Tour of Go – Go Basics](https://go.dev/tour/welcome/1)
-- [Go Reference Documentation](https://go.dev/doc/)
-- [Go by Example - annotated example programs](https://gobyexample.com/)
-- [Learn Go | Codecademy](https://www.codecademy.com/learn/learn-go)
-- [W3Schools Go Tutorial](https://www.w3schools.com/go/)
-- [Making a RESTful JSON API in Go](https://thenewstack.io/make-a-restful-json-api-go/)
+- [ ] [Visit Dedicated Go Roadmap](/golang)
+- [ ] [A Tour of Go – Go Basics](https://go.dev/tour/welcome/1)
+- [ ] [Go Reference Documentation](https://go.dev/doc/)
+- [ ] [Go by Example - annotated example programs](https://gobyexample.com/)
+- [ ] [Learn Go | Codecademy](https://www.codecademy.com/learn/learn-go)
+- [ ] [W3Schools Go Tutorial](https://www.w3schools.com/go/)
+- [ ] [Making a RESTful JSON API in Go](https://thenewstack.io/make-a-restful-json-api-go/)
 
 # Rust
 
@@ -63,12 +63,12 @@ Rust is a modern systems programming language focusing on safety, speed, and con
 
 Visit the following resources to learn more:
 
-- [The Rust Programming Language - online book](https://doc.rust-lang.org/book/)
-- [Rust by Example - collection of runnable examples](https://doc.rust-lang.org/stable/rust-by-example/index.html)
-- [The Rust Programming Book - Video Version](https://youtube.com/playlist?list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8)
-- [Comprehensive Rust by Google - Learn Rust in 4 Days](https://google.github.io/comprehensive-rust/)
-- [Microsoft Learn Course](https://learn.microsoft.com/en-us/training/paths/rust-first-steps/)
-- [Quick Rust Guide](https://sivanaikk.github.io/rust/)
+- [ ] [The Rust Programming Language - online book](https://doc.rust-lang.org/book/)
+- [ ] [Rust by Example - collection of runnable examples](https://doc.rust-lang.org/stable/rust-by-example/index.html)
+- [ ] [The Rust Programming Book - Video Version](https://youtube.com/playlist?list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8)
+- [ ] [Comprehensive Rust by Google - Learn Rust in 4 Days](https://google.github.io/comprehensive-rust/)
+- [ ] [Microsoft Learn Course](https://learn.microsoft.com/en-us/training/paths/rust-first-steps/)
+- [ ] [Quick Rust Guide](https://sivanaikk.github.io/rust/)
 
 # Operating System
 
@@ -76,9 +76,9 @@ An Operating System is a program that manages a computer’s resources, especial
 
 Visit the following resources to learn more:
 
-- [What is an operating system?](https://edu.gcfglobal.org/en/computerbasics/understanding-operating-systems/1/)
-- [Operating Systems: Crash Course Computer Science #18](https://www.youtube.com/watch?v=26QPDBe-NB8&ab_channel=CrashCourse)
-- [Introduction to Operating System](https://www.youtube.com/watch?v=vBURTt97EkA&list=PL9hkZBQk8d1zEGbY7ShWCZ2n1gtxqkRrS&index=1)
+- [ ] [What is an operating system?](https://edu.gcfglobal.org/en/computerbasics/understanding-operating-systems/1/)
+- [ ] [Operating Systems: Crash Course Computer Science #18](https://www.youtube.com/watch?v=26QPDBe-NB8&ab_channel=CrashCourse)
+- [ ] [Introduction to Operating System](https://www.youtube.com/watch?v=vBURTt97EkA&list=PL9hkZBQk8d1zEGbY7ShWCZ2n1gtxqkRrS&index=1)
 
 # Networking
 
@@ -88,9 +88,9 @@ Begin by studying the [OSI Model](https://en.wikipedia.org/wiki/OSI_model). This
 
 Visit the following resources to learn more:
 
-- [What is Computer Networking?](https://aws.amazon.com/what-is/computer-networking/)
-- [Full Networking Course](https://youtu.be/IPvYjXCsTg8)
-- [OSI Model Explained](https://www.youtube.com/watch?v=dV8mjZd1OtU)
+- [ ] [What is Computer Networking?](https://aws.amazon.com/what-is/computer-networking/)
+- [ ] [Full Networking Course](https://youtu.be/IPvYjXCsTg8)
+- [ ] [OSI Model Explained](https://www.youtube.com/watch?v=dV8mjZd1OtU)
 
 # I/O Management
 
@@ -98,9 +98,9 @@ One of the important jobs of an Operating System is to manage various I/O device
 
 Visit the following resources to learn more:
 
-- [Operating System - I/O Hardware](https://www.tutorialspoint.com/operating_system/os_io_hardware.htm)
-- [IO Management](https://www.omscs-notes.com/operating-systems/io-management/)
-- [Basics of OS (I/O Structure)](https://www.youtube.com/watch?v=F18RiREDkwE)
+- [ ] [Operating System - I/O Hardware](https://www.tutorialspoint.com/operating_system/os_io_hardware.htm)
+- [ ] [IO Management](https://www.omscs-notes.com/operating-systems/io-management/)
+- [ ] [Basics of OS (I/O Structure)](https://www.youtube.com/watch?v=F18RiREDkwE)
 
 # Virtualization
 
@@ -108,9 +108,9 @@ Virtualization is the creation of a virtual -- rather than actual -- version of 
 
 Visit the following resources to learn more:
 
-- [What is Virtualization? and its types?](https://www.techtarget.com/searchitoperations/definition/virtualization)
-- [What is Hypervisor and VM?](https://opensource.com/resources/virtualization)
-- [Containers vs VM](https://www.atlassian.com/microservices/cloud-computing/containers-vs-vms)
+- [ ] [What is Virtualization? and its types?](https://www.techtarget.com/searchitoperations/definition/virtualization)
+- [ ] [What is Hypervisor and VM?](https://opensource.com/resources/virtualization)
+- [ ] [Containers vs VM](https://www.atlassian.com/microservices/cloud-computing/containers-vs-vms)
 
 # Memory Management
 
@@ -120,8 +120,8 @@ To achieve a degree of multiprogramming and proper utilization of memory, memory
 
 Visit the following resources to learn more:
 
-- [Demystifying memory management in modern programming languages](https://dev.to/deepu105/demystifying-memory-management-in-modern-programming-languages-ddd)
-- [Memory Management in Operating System](https://www.geeksforgeeks.org/memory-management-in-operating-system/)
+- [ ] [Demystifying memory management in modern programming languages](https://dev.to/deepu105/demystifying-memory-management-in-modern-programming-languages-ddd)
+- [ ] [Memory Management in Operating System](https://www.geeksforgeeks.org/memory-management-in-operating-system/)
 
 # File System
 
@@ -129,7 +129,7 @@ A file is a named collection of related information recorded on secondary storag
 
 Visit the following resources to learn more:
 
-- [Operating System - File System](https://www.tutorialspoint.com/operating_system/os_file_system.htm)
+- [ ] [Operating System - File System](https://www.tutorialspoint.com/operating_system/os_file_system.htm)
 
 # Sockets
 
@@ -139,10 +139,10 @@ e.g. `http://192.168.0.1:8080`
 
 Visit the following resources to learn more:
 
-- [What are Sockets?](https://www.geeksforgeeks.org/socket-in-computer-network/)
-- [Types of Sockets](https://www.tutorialspoint.com/unix_sockets/what_is_socket.htm)
-- [Port vs Socket](https://www.baeldung.com/cs/port-vs-socket)
-- [Socket.io Library Bidirectional and low-latency communication for every platform](https://socket.io/)
+- [ ] [What are Sockets?](https://www.geeksforgeeks.org/socket-in-computer-network/)
+- [ ] [Types of Sockets](https://www.tutorialspoint.com/unix_sockets/what_is_socket.htm)
+- [ ] [Port vs Socket](https://www.baeldung.com/cs/port-vs-socket)
+- [ ] [Socket.io Library Bidirectional and low-latency communication for every platform](https://socket.io/)
 
 # POSIX Basics
 
@@ -156,9 +156,9 @@ POSIX also adds a standard for exit codes, filesystem semantics, and several oth
 
 Visit the following resources to learn more:
 
-- [POSIX standard by IEEE](https://pubs.opengroup.org/onlinepubs/9699919799/)
-- [Summary of some POSIX implementations](https://unix.stackexchange.com/a/220877)
-- [A guide to POSIX](https://www.baeldung.com/linux/posix)
+- [ ] [POSIX standard by IEEE](https://pubs.opengroup.org/onlinepubs/9699919799/)
+- [ ] [Summary of some POSIX implementations](https://unix.stackexchange.com/a/220877)
+- [ ] [A guide to POSIX](https://www.baeldung.com/linux/posix)
 
 # Processes
 
@@ -171,10 +171,10 @@ A process means program in execution. It generally takes an input, processes it 
 
 Visit the following resources to learn more:
 
-- [Intro to Process Management](https://www.geeksforgeeks.org/introduction-of-process-management/)
-- [Process Management in Linux](https://www.geeksforgeeks.org/process-management-in-linux/)
-- [Process related commands in Linux](https://www.geeksforgeeks.org/processes-in-linuxunix/)
-- [Process vs Thread](https://www.geeksforgeeks.org/difference-between-process-and-thread/)
+- [ ] [Intro to Process Management](https://www.geeksforgeeks.org/introduction-of-process-management/)
+- [ ] [Process Management in Linux](https://www.geeksforgeeks.org/process-management-in-linux/)
+- [ ] [Process related commands in Linux](https://www.geeksforgeeks.org/processes-in-linuxunix/)
+- [ ] [Process vs Thread](https://www.geeksforgeeks.org/difference-between-process-and-thread/)
 
 # Startup Management (init.d)
 
@@ -184,9 +184,9 @@ It has following syntax: `$ service [service_name] [action]` e.g. `$ service ssh
 
 Visit the following resources to learn more:
 
-- [Linux Booting Process](https://www.freecodecamp.org/news/the-linux-booting-process-6-steps-described-in-detail/)
-- [What is init.d?](https://www.geeksforgeeks.org/what-is-init-d-in-linux-service-management/)
-- [What are Daemons in Linux?](https://itsfoss.com/linux-daemons/)
+- [ ] [Linux Booting Process](https://www.freecodecamp.org/news/the-linux-booting-process-6-steps-described-in-detail/)
+- [ ] [What is init.d?](https://www.geeksforgeeks.org/what-is-init-d-in-linux-service-management/)
+- [ ] [What are Daemons in Linux?](https://itsfoss.com/linux-daemons/)
 
 # Service Management (systemd)
 
@@ -196,9 +196,9 @@ e.g. `$ systemctl start [service-name]`, `$ systemctl poweroff`
 
 Visit the following resources to learn more:
 
-- [What is systemd? and its commands](https://www.geeksforgeeks.org/linux-systemd-and-its-components/)
-- [init.d vs systemd](https://uace.github.io/learning/init-vs-systemd-what-is-an-init-daemon)
-- [Why Systemd as a replacement of init.d?](https://www.tecmint.com/systemd-replaces-init-in-linux/)
+- [ ] [What is systemd? and its commands](https://www.geeksforgeeks.org/linux-systemd-and-its-components/)
+- [ ] [init.d vs systemd](https://uace.github.io/learning/init-vs-systemd-what-is-an-init-daemon)
+- [ ] [Why Systemd as a replacement of init.d?](https://www.tecmint.com/systemd-replaces-init-in-linux/)
 
 # Thread in OS
 
@@ -213,12 +213,12 @@ Each thread has its own program counter, stack, and set of registers. But the th
 
 Visit the following resources to learn more:
 
-- [Process Synchronization](https://www.geeksforgeeks.org/introduction-of-process-synchronization/)
-- [What is Thread in OS?](https://www.geeksforgeeks.org/thread-in-operating-system/)
-- [Process vs Thread & Multi-Threading](https://www.scaler.com/topics/operating-system/threads-in-operating-system/)
-- [What Concurrency in OS?](https://www.geeksforgeeks.org/concurrency-in-operating-system/)
-- [Threads vs Concurrency](https://medium.com/@azizomarck/how-is-concurrency-different-from-parallelism-334b6d5c869a)
-- [How Concurrency is achieved in Threads](https://medium.com/@akhandmishra/operating-system-threads-and-concurrency-aec2036b90f8)
+- [ ] [Process Synchronization](https://www.geeksforgeeks.org/introduction-of-process-synchronization/)
+- [ ] [What is Thread in OS?](https://www.geeksforgeeks.org/thread-in-operating-system/)
+- [ ] [Process vs Thread & Multi-Threading](https://www.scaler.com/topics/operating-system/threads-in-operating-system/)
+- [ ] [What Concurrency in OS?](https://www.geeksforgeeks.org/concurrency-in-operating-system/)
+- [ ] [Threads vs Concurrency](https://medium.com/@azizomarck/how-is-concurrency-different-from-parallelism-334b6d5c869a)
+- [ ] [How Concurrency is achieved in Threads](https://medium.com/@akhandmishra/operating-system-threads-and-concurrency-aec2036b90f8)
 
 # Managing Servers
 
@@ -234,7 +234,7 @@ A network protocol is an established set of rules that determine how data is tra
 
 Visit the following resources to learn more:
 
-- [What Is a Network Protocol, and How Does It Work?](https://www.comptia.org/content/guides/what-is-a-network-protocol)
+- [ ] [What Is a Network Protocol, and How Does It Work?](https://www.comptia.org/content/guides/what-is-a-network-protocol)
 
 # OSI Model
 
@@ -242,10 +242,10 @@ Open Systems Interconnection (OSI) model is a **conceptual** model consists of 7
 
 Visit the following resources to learn more:
 
-- [What is OSI Model?](https://www.cloudflare.com/en-gb/learning/ddos/glossary/open-systems-interconnection-model-osi/)
-- [OSI Model](https://www.youtube.com/watch?v=dV8mjZd1OtU)
-- [What is TCP/IP Model?](https://www.geeksforgeeks.org/tcp-ip-model/)
-- [OSI vs TCP/IP Model](https://www.youtube.com/watch?v=F5rni9fr1yE)
+- [ ] [What is OSI Model?](https://www.cloudflare.com/en-gb/learning/ddos/glossary/open-systems-interconnection-model-osi/)
+- [ ] [OSI Model](https://www.youtube.com/watch?v=dV8mjZd1OtU)
+- [ ] [What is TCP/IP Model?](https://www.geeksforgeeks.org/tcp-ip-model/)
+- [ ] [OSI vs TCP/IP Model](https://www.youtube.com/watch?v=F5rni9fr1yE)
 
 # DNS
 
@@ -253,10 +253,10 @@ DNS (**D**omain **N**ame **S**ystem) is the phonebook of the Internet. Humans ac
 
 Visit the following resources to learn more:
 
-- [What is DNS?](https://www.cloudflare.com/en-gb/learning/dns/what-is-dns/)
-- [HOw DNS works (comic)](https://howdns.works/)
-- [DNS and How does it Work?](https://www.youtube.com/watch?v=Wj0od2ag5sk)
-- [DNS Records](https://www.youtube.com/watch?v=7lxgpKh_fRY)
+- [ ] [What is DNS?](https://www.cloudflare.com/en-gb/learning/dns/what-is-dns/)
+- [ ] [HOw DNS works (comic)](https://howdns.works/)
+- [ ] [DNS and How does it Work?](https://www.youtube.com/watch?v=Wj0od2ag5sk)
+- [ ] [DNS Records](https://www.youtube.com/watch?v=7lxgpKh_fRY)
 
 # HTTP
 
@@ -264,11 +264,11 @@ HTTP is the `TCP/IP` based application layer communication protocol which standa
 
 Visit the following resources to learn more:
 
-- [What is HTTP?](https://www.cloudflare.com/en-gb/learning/ddos/glossary/hypertext-transfer-protocol-http/)
-- [An overview of HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)
-- [Journey to HTTP/2](https://kamranahmed.info/blog/2016/08/13/http-in-depth)
-- [HTTP/3 From A To Z: Core Concepts](https://www.smashingmagazine.com/2021/08/http3-core-concepts-part1/)
-- [HTTP Crash Course & Exploration](https://www.youtube.com/watch?v=iYM2zFP3Zn0)
+- [ ] [What is HTTP?](https://www.cloudflare.com/en-gb/learning/ddos/glossary/hypertext-transfer-protocol-http/)
+- [ ] [An overview of HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)
+- [ ] [Journey to HTTP/2](https://kamranahmed.info/blog/2016/08/13/http-in-depth)
+- [ ] [HTTP/3 From A To Z: Core Concepts](https://www.smashingmagazine.com/2021/08/http3-core-concepts-part1/)
+- [ ] [HTTP Crash Course & Exploration](https://www.youtube.com/watch?v=iYM2zFP3Zn0)
 
 # HTTPS
 
@@ -278,10 +278,10 @@ HTTPS (**H**ypertext **T**ransfer **P**rotocol **S**ecure) is the secure version
 
 Visit the following resources to learn more:
 
-- [What is HTTPS?](https://www.cloudflare.com/en-gb/learning/ssl/what-is-https/)
-- [Why HTTPS Matters](https://developers.google.com/web/fundamentals/security/encrypt-in-transit/why-https)
-- [Enabling HTTPS on Your Servers](https://developers.google.com/web/fundamentals/security/encrypt-in-transit/enable-https)
-- [How HTTPS works (comic)](https://howhttps.works/)
+- [ ] [What is HTTPS?](https://www.cloudflare.com/en-gb/learning/ssl/what-is-https/)
+- [ ] [Why HTTPS Matters](https://developers.google.com/web/fundamentals/security/encrypt-in-transit/why-https)
+- [ ] [Enabling HTTPS on Your Servers](https://developers.google.com/web/fundamentals/security/encrypt-in-transit/enable-https)
+- [ ] [How HTTPS works (comic)](https://howhttps.works/)
 
 # FTP
 
@@ -289,8 +289,8 @@ File Transfer Protocol(FTP) is `TCP/IP` based application layer communication pr
 
 Visit the following resources to learn more:
 
-- [What is FTP?](https://www.geeksforgeeks.org/file-transfer-protocol-ftp-in-application-layer/)
-- [FTP vs SFTP vs FTPS](https://www.fortinet.com/resources/cyberglossary/file-transfer-protocol-ftp-meaning)
+- [ ] [What is FTP?](https://www.geeksforgeeks.org/file-transfer-protocol-ftp-in-application-layer/)
+- [ ] [FTP vs SFTP vs FTPS](https://www.fortinet.com/resources/cyberglossary/file-transfer-protocol-ftp-meaning)
 
 # SSL/TLS
 
@@ -298,10 +298,10 @@ Secure Sockets Layer (SSL) and Transport Layer Security (TLS) are cryptographic 
 
 Visit the following resources to learn more:
 
-- [Cloudflare - What is SSL?](https://www.cloudflare.com/learning/ssl/what-is-ssl/)
-- [Cloudflare - What is TLS?](https://www.cloudflare.com/en-gb/learning/ssl/transport-layer-security-tls/)
-- [Wikipedia - SSL/TLS](https://en.wikipedia.org/wiki/Transport_Layer_Security)
-- [SSH vs SSL vs TLS](https://www.youtube.com/watch?v=k3rFFLmQCuY)
+- [ ] [Cloudflare - What is SSL?](https://www.cloudflare.com/learning/ssl/what-is-ssl/)
+- [ ] [Cloudflare - What is TLS?](https://www.cloudflare.com/en-gb/learning/ssl/transport-layer-security-tls/)
+- [ ] [Wikipedia - SSL/TLS](https://en.wikipedia.org/wiki/Transport_Layer_Security)
+- [ ] [SSH vs SSL vs TLS](https://www.youtube.com/watch?v=k3rFFLmQCuY)
 
 # SSH
 
@@ -311,9 +311,9 @@ The SSH (**S**ecure **Sh**ell) is a network communication protocol that enables 
 
 Visit the following resources to learn more:
 
-- [SSH Intro](https://www.baeldung.com/cs/ssh-intro)
-- [What is SSH?](https://www.ssh.com/academy/ssh/protocol)
-- [SFTP using SSH](https://www.goanywhere.com/blog/how-sftp-works)
+- [ ] [SSH Intro](https://www.baeldung.com/cs/ssh-intro)
+- [ ] [What is SSH?](https://www.ssh.com/academy/ssh/protocol)
+- [ ] [SFTP using SSH](https://www.goanywhere.com/blog/how-sftp-works)
 
 # Port Forwarding
 
@@ -321,8 +321,8 @@ Port forwarding, sometimes called **port mapping**, allows computers or services
 
 Visit the following resources to learn more:
 
-- [What is Port Forwarding?](https://learn.g2.com/port-forwarding)
-- [Types of Port Forwarding](https://cybernews.com/what-is-vpn/port-forwarding/)
+- [ ] [What is Port Forwarding?](https://learn.g2.com/port-forwarding)
+- [ ] [Types of Port Forwarding](https://cybernews.com/what-is-vpn/port-forwarding/)
 
 # Setting up x
 
@@ -338,8 +338,8 @@ A Reverse Proxy server is a type of proxy server that typically sits behind the 
 
 Visit the following resources to learn more:
 
-- [What is Reverse Proxy?](https://www.cloudflare.com/en-gb/learning/cdn/glossary/reverse-proxy/)
-- [NGINX documentation](https://www.nginx.com/resources/glossary/reverse-proxy-server/)
+- [ ] [What is Reverse Proxy?](https://www.cloudflare.com/en-gb/learning/cdn/glossary/reverse-proxy/)
+- [ ] [NGINX documentation](https://www.nginx.com/resources/glossary/reverse-proxy-server/)
 
 # Caching server
 
@@ -347,9 +347,9 @@ A cache server is a **dedicated network server** or service acting as a server t
 
 Visit the following resources to learn more:
 
-- [What is Caching?](https://www.cloudflare.com/en-gb/learning/cdn/what-is-caching/)
-- [What is Cache Server?](https://networkencyclopedia.com/cache-server/)
-- [Site Cache vs Browser Cache vs Server Cache](https://wp-rocket.me/blog/different-types-of-caching/)
+- [ ] [What is Caching?](https://www.cloudflare.com/en-gb/learning/cdn/what-is-caching/)
+- [ ] [What is Cache Server?](https://networkencyclopedia.com/cache-server/)
+- [ ] [Site Cache vs Browser Cache vs Server Cache](https://wp-rocket.me/blog/different-types-of-caching/)
 
 # Forward Proxy
 
@@ -363,8 +363,8 @@ Forward Proxy, often called proxy server is a server that sits in front of a gro
 
 Visit the following resources to learn more:
 
-- [What is Forward Proxy?](https://www.fortinet.com/resources/cyberglossary/proxy-server)
-- [Forward vs Reverse Proxy](https://oxylabs.io/blog/reverse-proxy-vs-forward-proxy)
+- [ ] [What is Forward Proxy?](https://www.fortinet.com/resources/cyberglossary/proxy-server)
+- [ ] [Forward vs Reverse Proxy](https://oxylabs.io/blog/reverse-proxy-vs-forward-proxy)
 
 # Load Balancer
 
@@ -372,8 +372,8 @@ Load Balancer acts as the **traffic cop** sitting in front of your servers and r
 
 Visit the following resources to learn more:
 
-- [What is Load Balancing?](https://www.nginx.com/resources/glossary/load-balancing/)
-- [Load Balancing concepts and algorithms](https://www.cloudflare.com/en-gb/learning/performance/what-is-load-balancing/)
+- [ ] [What is Load Balancing?](https://www.nginx.com/resources/glossary/load-balancing/)
+- [ ] [Load Balancing concepts and algorithms](https://www.cloudflare.com/en-gb/learning/performance/what-is-load-balancing/)
 
 # Firewall
 
@@ -381,12 +381,12 @@ Firewall is a **network security device** that monitors and filters incoming and
 
 Visit the following resources to learn more:
 
-- [What is Firewall?](https://www.checkpoint.com/cyber-hub/network-security/what-is-firewall/)
-- [Types of Firewall](https://www.cisco.com/c/en_in/products/security/firewalls/what-is-a-firewall.html)
-- [Introduction of Firewall in Computer Network](https://www.geeksforgeeks.org/introduction-of-firewall-in-computer-network/)
-- [What is Firewall in Computer Network?](https://www.geeksforgeeks.org/introduction-of-firewall-in-computer-network/)
-- [Why do we need Firewalls?](https://www.tutorialspoint.com/what-is-a-firewall-and-why-do-you-need-one)
-- [Firewalls and Network Security - SimpliLearn](https://www.youtube.com/watch?v=9GZlVOafYTg)
+- [ ] [What is Firewall?](https://www.checkpoint.com/cyber-hub/network-security/what-is-firewall/)
+- [ ] [Types of Firewall](https://www.cisco.com/c/en_in/products/security/firewalls/what-is-a-firewall.html)
+- [ ] [Introduction of Firewall in Computer Network](https://www.geeksforgeeks.org/introduction-of-firewall-in-computer-network/)
+- [ ] [What is Firewall in Computer Network?](https://www.geeksforgeeks.org/introduction-of-firewall-in-computer-network/)
+- [ ] [Why do we need Firewalls?](https://www.tutorialspoint.com/what-is-a-firewall-and-why-do-you-need-one)
+- [ ] [Firewalls and Network Security - SimpliLearn](https://www.youtube.com/watch?v=9GZlVOafYTg)
 
 # Nginx
 
@@ -394,8 +394,8 @@ NGINX is a powerful web server and uses a non-threaded, event-driven architectur
 
 Visit the following resources to learn more:
 
-- [Official Website](https://nginx.org/)
-- [NGINX Explained in 100 Seconds](https://www.youtube.com/watch?v=JKxlsvZXG7c)
+- [ ] [Official Website](https://nginx.org/)
+- [ ] [NGINX Explained in 100 Seconds](https://www.youtube.com/watch?v=JKxlsvZXG7c)
 
 # Apache
 
@@ -403,8 +403,8 @@ Apache is a free, open-source HTTP server, available on many operating systems, 
 
 Visit the following resources to learn more:
 
-- [Apache Server Website](https://httpd.apache.org/)
-- [What is Apache Web Server?](https://www.youtube.com/watch?v=kaaenHXO4t4)
+- [ ] [Apache Server Website](https://httpd.apache.org/)
+- [ ] [What is Apache Web Server?](https://www.youtube.com/watch?v=kaaenHXO4t4)
 
 # Tomcat
 
@@ -412,9 +412,9 @@ Tomcat is an open source implementation of the Jakarta Servlet, Jakarta Server P
 
 Visit the following resources to learn more:
 
-- [Tomcat Website](https://tomcat.apache.org/)
-- [Official Documentation(Tomcat 10.0)](https://tomcat.apache.org/tomcat-10.0-doc/index.html)
-- [Apache Tomcat](https://www.youtube.com/c/ApacheTomcatOfficial)
+- [ ] [Tomcat Website](https://tomcat.apache.org/)
+- [ ] [Official Documentation(Tomcat 10.0)](https://tomcat.apache.org/tomcat-10.0-doc/index.html)
+- [ ] [Apache Tomcat](https://www.youtube.com/c/ApacheTomcatOfficial)
 
 # MS IIS
 
@@ -422,8 +422,8 @@ Internet Information Services (IIS) for Windows® Server is a flexible, secure a
 
 Visit the following resources to learn more:
 
-- [Official Website](https://www.iis.net/)
-- [Learn Windows Web Server IIS](https://www.youtube.com/watch?v=1VdxPWwtISA)
+- [ ] [Official Website](https://www.iis.net/)
+- [ ] [Learn Windows Web Server IIS](https://www.youtube.com/watch?v=1VdxPWwtISA)
 
 # Infrastructure as Code
 
@@ -433,10 +433,10 @@ The term Infrastructure as Code encompasses everything from bootstrapping to con
 
 Visit the following resources to learn more:
 
-- [What is Infrastructure as Code?](https://www.youtube.com/watch?v=zWw2wuiKd5o)
-- [What is Infrastructure as Code? Difference of Infrastructure as Code Tools](https://www.youtube.com/watch?v=POPP2WTJ8es)
-- [GUIs, CLI, APIs: Learn Basic Terms of Infrastructure-as-Code](https://thenewstack.io/guis-cli-apis-learn-basic-terms-of-infrastructure-as-code/)
-- [Understanding Infrastructure as Code (IaC) in less than 10 minutes](https://www.novatec-gmbh.de/en/blog/understanding-infrastructure-as-code-iac-in-less-than-10-minutes/)
+- [ ] [What is Infrastructure as Code?](https://www.youtube.com/watch?v=zWw2wuiKd5o)
+- [ ] [What is Infrastructure as Code? Difference of Infrastructure as Code Tools](https://www.youtube.com/watch?v=POPP2WTJ8es)
+- [ ] [GUIs, CLI, APIs: Learn Basic Terms of Infrastructure-as-Code](https://thenewstack.io/guis-cli-apis-learn-basic-terms-of-infrastructure-as-code/)
+- [ ] [Understanding Infrastructure as Code (IaC) in less than 10 minutes](https://www.novatec-gmbh.de/en/blog/understanding-infrastructure-as-code-iac-in-less-than-10-minutes/)
 
 # Docker
 
@@ -444,10 +444,10 @@ Docker is a software platform that allows you to build, test, and deploy applica
 
 Visit the following resources to learn more:
 
-- [Docker Website](https://www.docker.com/)
-- [Docker Documentation](https://docs.docker.com/)
-- [Docker Tutorial for Beginners](https://www.youtube.com/watch?v=pTFZFxd4hOI)
-- [Docker Full Course for Beginners](https://www.youtube.com/watch?v=3c-iBn73dDE)
+- [ ] [Docker Website](https://www.docker.com/)
+- [ ] [Docker Documentation](https://docs.docker.com/)
+- [ ] [Docker Tutorial for Beginners](https://www.youtube.com/watch?v=pTFZFxd4hOI)
+- [ ] [Docker Full Course for Beginners](https://www.youtube.com/watch?v=3c-iBn73dDE)
 
 # Containers
 
@@ -457,10 +457,10 @@ These images are designed for portability, allowing for full local testing of a 
 
 Visit the following resources to learn more:
 
-- [What are Containers?](https://cloud.google.com/learn/what-are-containers)
-- [What is a Container?](https://www.docker.com/resources/what-container/)
-- [What are Containers?](https://www.youtube.com/playlist?list=PLawsLZMfND4nz-WDBZIj8-nbzGFD4S9oz)
-- [Articles about Containers - The New Stack](https://thenewstack.io/category/containers/)
+- [ ] [What are Containers?](https://cloud.google.com/learn/what-are-containers)
+- [ ] [What is a Container?](https://www.docker.com/resources/what-container/)
+- [ ] [What are Containers?](https://www.youtube.com/playlist?list=PLawsLZMfND4nz-WDBZIj8-nbzGFD4S9oz)
+- [ ] [Articles about Containers - The New Stack](https://thenewstack.io/category/containers/)
 
 # LXC
 
@@ -468,9 +468,9 @@ LXC is a well-known Linux container runtime that consists of tools, templates, a
 
 Visit the following resources to learn more:
 
-- [LXC Website](https://linuxcontainers.org/)
-- [LXC Documentation](https://linuxcontainers.org/lxc/documentation/)
-- [Getting started with LXC containers](https://www.youtube.com/watch?v=CWmkSj_B-wo)
+- [ ] [LXC Website](https://linuxcontainers.org/)
+- [ ] [LXC Documentation](https://linuxcontainers.org/lxc/documentation/)
+- [ ] [Getting started with LXC containers](https://www.youtube.com/watch?v=CWmkSj_B-wo)
 
 # Docker Swarm
 
@@ -478,11 +478,11 @@ A Docker Swarm is a group of either physical or virtual machines that are runnin
 
 Visit the following resources to learn more:
 
-- [Official Website](https://www.docker.com/)
-- [Docker Swarm Documentation](https://docs.docker.com/engine/swarm/)
-- [Docker Swarm Tutorial for Beginners](https://www.youtube.com/watch?v=Tm0Q5zr3FL4)
-- [Tutorial: Manage Docker Swarm with Portainer](https://thenewstack.io/tutorial-manage-docker-swarm-with-portainer/)
-- [Tutorial: Create a Docker Swarm with Persistent Storage Using GlusterFS](https://thenewstack.io/tutorial-create-a-docker-swarm-with-persistent-storage-using-glusterfs/)
+- [ ] [Official Website](https://www.docker.com/)
+- [ ] [Docker Swarm Documentation](https://docs.docker.com/engine/swarm/)
+- [ ] [Docker Swarm Tutorial for Beginners](https://www.youtube.com/watch?v=Tm0Q5zr3FL4)
+- [ ] [Tutorial: Manage Docker Swarm with Portainer](https://thenewstack.io/tutorial-manage-docker-swarm-with-portainer/)
+- [ ] [Tutorial: Create a Docker Swarm with Persistent Storage Using GlusterFS](https://thenewstack.io/tutorial-create-a-docker-swarm-with-persistent-storage-using-glusterfs/)
 
 # Kubernetes
 
@@ -492,11 +492,11 @@ The popularity of Kubernetes has made it an increasingly important skill for the
 
 Visit the following resources to learn more:
 
-- [Kubernetes Website](https://kubernetes.io/)
-- [Kubernetes Documentation](https://kubernetes.io/docs/home/)
-- [Kubernetes Crash Course for Absolute Beginners](https://www.youtube.com/watch?v=s_o8dwzRlu4)
-- [Primer: How Kubernetes Came to Be, What It Is, and Why You Should Care](https://thenewstack.io/primer-how-kubernetes-came-to-be-what-it-is-and-why-you-should-care/)
-- [Kubernetes: An Overview](https://thenewstack.io/kubernetes-an-overview/)
+- [ ] [Kubernetes Website](https://kubernetes.io/)
+- [ ] [Kubernetes Documentation](https://kubernetes.io/docs/home/)
+- [ ] [Kubernetes Crash Course for Absolute Beginners](https://www.youtube.com/watch?v=s_o8dwzRlu4)
+- [ ] [Primer: How Kubernetes Came to Be, What It Is, and Why You Should Care](https://thenewstack.io/primer-how-kubernetes-came-to-be-what-it-is-and-why-you-should-care/)
+- [ ] [Kubernetes: An Overview](https://thenewstack.io/kubernetes-an-overview/)
 
 # Nomad
 
@@ -504,9 +504,9 @@ Visit the following resources to learn more:
 
 Visit the following resources to learn more:
 
-- [Nomad Website](https://www.nomadproject.io/)
-- [Nomad Documentation](https://www.nomadproject.io/docs)
-- [Nomad Tutorials](https://learn.hashicorp.com/nomad)
+- [ ] [Nomad Website](https://www.nomadproject.io/)
+- [ ] [Nomad Documentation](https://www.nomadproject.io/docs)
+- [ ] [Nomad Tutorials](https://learn.hashicorp.com/nomad)
 
 # CI/CD
 
@@ -516,10 +516,10 @@ Specifically, CI/CD introduces ongoing automation and continuous monitoring thro
 
 Visit the following resources to learn more:
 
-- [CI vs CD](https://www.atlassian.com/continuous-delivery/principles/continuous-integration-vs-delivery-vs-deployment)
-- [What is CI/CD?](https://www.redhat.com/en/topics/devops/what-is-ci-cd)
-- [CI/CD Pipeline: A Gentle Introduction](https://semaphoreci.com/blog/cicd-pipeline)
-- [DevOps CI/CD Explained in 100 Seconds](https://www.youtube.com/watch?v=scEDHsr3APg)
+- [ ] [CI vs CD](https://www.atlassian.com/continuous-delivery/principles/continuous-integration-vs-delivery-vs-deployment)
+- [ ] [What is CI/CD?](https://www.redhat.com/en/topics/devops/what-is-ci-cd)
+- [ ] [CI/CD Pipeline: A Gentle Introduction](https://semaphoreci.com/blog/cicd-pipeline)
+- [ ] [DevOps CI/CD Explained in 100 Seconds](https://www.youtube.com/watch?v=scEDHsr3APg)
 
 # GitLab CI
 
@@ -527,11 +527,11 @@ GitLab offers a CI/CD service that can be used as a SaaS offering or self-manage
 
 Visit the following resources to learn more:
 
-- [GitLab Website](https://gitlab.com/)
-- [GitLab Documentation](https://docs.gitlab.com/)
-- [Get Started with GitLab CI](https://docs.gitlab.com/ee/ci/quick_start/)
-- [Learn GitLab Tutorials](https://docs.gitlab.com/ee/tutorials/)
-- [GitLab CI/CD Examples](https://docs.gitlab.com/ee/ci/examples/)
+- [ ] [GitLab Website](https://gitlab.com/)
+- [ ] [GitLab Documentation](https://docs.gitlab.com/)
+- [ ] [Get Started with GitLab CI](https://docs.gitlab.com/ee/ci/quick_start/)
+- [ ] [Learn GitLab Tutorials](https://docs.gitlab.com/ee/tutorials/)
+- [ ] [GitLab CI/CD Examples](https://docs.gitlab.com/ee/ci/examples/)
 
 # Jenkins
 
@@ -539,9 +539,9 @@ Jenkins is an open-source CI/CD automation server. Jenkins is primarily used for
 
 Visit the following resources to learn more:
 
-- [Jenkins Website](https://www.jenkins.io/)
-- [Official Jenkins Handbook](https://www.jenkins.io/doc/book/)
-- [Jenkins Getting Started Guide](https://www.jenkins.io/doc/pipeline/tour/getting-started/)
+- [ ] [Jenkins Website](https://www.jenkins.io/)
+- [ ] [Official Jenkins Handbook](https://www.jenkins.io/doc/book/)
+- [ ] [Jenkins Getting Started Guide](https://www.jenkins.io/doc/pipeline/tour/getting-started/)
 
 # GitHub Actions
 
@@ -549,10 +549,10 @@ Automate, customize, and execute your software development workflows right in yo
 
 Visit the following resources to learn more:
 
-- [GitHub Actions Documentation](https://docs.github.com/en/actions)
-- [Learn GitHub Actions](https://docs.github.com/en/actions/learn-github-actions)
-- [GitHub Actions - Supercharge your GitHub Flow](https://youtu.be/cP0I9w2coGU)
-- [Automate your Workflow with GitHub Actions](https://www.youtube.com/watch?v=nyKZTKQS_EQ)
+- [ ] [GitHub Actions Documentation](https://docs.github.com/en/actions)
+- [ ] [Learn GitHub Actions](https://docs.github.com/en/actions/learn-github-actions)
+- [ ] [GitHub Actions - Supercharge your GitHub Flow](https://youtu.be/cP0I9w2coGU)
+- [ ] [Automate your Workflow with GitHub Actions](https://www.youtube.com/watch?v=nyKZTKQS_EQ)
 
 # Travis CI
 
@@ -560,9 +560,9 @@ Travis CI is a CI/CD service that is primarily used for building and testing pro
 
 Visit the following resources to learn more:
 
-- [Travis CI Website](https://www.travis-ci.com/)
-- [Travis CI Documentation](https://docs.travis-ci.com/)
-- [Travis CI Tutorial](https://docs.travis-ci.com/user/tutorial/)
+- [ ] [Travis CI Website](https://www.travis-ci.com/)
+- [ ] [Travis CI Documentation](https://docs.travis-ci.com/)
+- [ ] [Travis CI Tutorial](https://docs.travis-ci.com/user/tutorial/)
 
 # TeamCity
 
@@ -570,10 +570,10 @@ TeamCity is a CI/CD service provided by JetBrains. TeamCity can be used as a Saa
 
 Visit the following resources to learn more:
 
-- [TeamCity Website](https://www.jetbrains.com/teamcity/)
-- [Official Documentation](https://www.jetbrains.com/help/teamcity/teamcity-documentation.html)
-- [TeamCity Tutorials](https://www.jetbrains.com/teamcity/tutorials/)
-- [TeamCity Learning Portal](https://www.jetbrains.com/teamcity/learn/)
+- [ ] [TeamCity Website](https://www.jetbrains.com/teamcity/)
+- [ ] [Official Documentation](https://www.jetbrains.com/help/teamcity/teamcity-documentation.html)
+- [ ] [TeamCity Tutorials](https://www.jetbrains.com/teamcity/tutorials/)
+- [ ] [TeamCity Learning Portal](https://www.jetbrains.com/teamcity/learn/)
 
 # Azure DevOps
 
@@ -581,9 +581,9 @@ Azure DevOps is developed by Microsoft as a full scale application lifecycle man
 
 Visit the following resources to learn more:
 
-- [Azure DevOps Website](https://azure.microsoft.com/en-us/services/devops/#overview)
-- [Official Documentation](https://docs.microsoft.com/en-us/azure/devops/?view=azure-devops&viewFallbackFrom=vsts)
-- [Azure DevOps Getting Started Guide](https://docs.microsoft.com/en-us/azure/devops/user-guide/sign-up-invite-teammates?view=azure-devops)
+- [ ] [Azure DevOps Website](https://azure.microsoft.com/en-us/services/devops/#overview)
+- [ ] [Official Documentation](https://docs.microsoft.com/en-us/azure/devops/?view=azure-devops&viewFallbackFrom=vsts)
+- [ ] [Azure DevOps Getting Started Guide](https://docs.microsoft.com/en-us/azure/devops/user-guide/sign-up-invite-teammates?view=azure-devops)
 
 # CircleCI
 
@@ -591,9 +591,9 @@ CircleCI is a CI/CD service that can be integrated with GitHub, BitBucket and Gi
 
 Visit the following resources to learn more:
 
-- [CircleCI Website](https://circleci.com/)
-- [CircleCI Documentation](https://circleci.com/docs)
-- [Configuration Tutorial](https://circleci.com/docs/config-intro)
+- [ ] [CircleCI Website](https://circleci.com/)
+- [ ] [CircleCI Documentation](https://circleci.com/docs)
+- [ ] [Configuration Tutorial](https://circleci.com/docs/config-intro)
 
 # Drone
 
@@ -601,9 +601,9 @@ Drone is a CI/CD service offering by [Harness](https://harness.io/). Each build 
 
 Visit the following resources to learn more:
 
-- [Drone Website](https://www.drone.io/)
-- [Official Documentation](https://docs.drone.io/)
-- [Drone Getting Started Guide](https://docs.drone.io/server/overview/)
+- [ ] [Drone Website](https://www.drone.io/)
+- [ ] [Official Documentation](https://docs.drone.io/)
+- [ ] [Drone Getting Started Guide](https://docs.drone.io/server/overview/)
 
 # Monitoring
 
@@ -611,8 +611,8 @@ DevOps monitoring entails overseeing the entire development process from plannin
 
 Visit the following resources to learn more:
 
-- [DevOps Monitoring](https://www.atlassian.com/devops/devops-tools/devops-monitoring)
-- [The Hows, Whys and Whats of Monitoring Microservices](https://thenewstack.io/the-hows-whys-and-whats-of-monitoring-microservices/)
+- [ ] [DevOps Monitoring](https://www.atlassian.com/devops/devops-tools/devops-monitoring)
+- [ ] [The Hows, Whys and Whats of Monitoring Microservices](https://thenewstack.io/the-hows-whys-and-whats-of-monitoring-microservices/)
 
 # Cloud Providers
 
@@ -620,8 +620,8 @@ Cloud providers provide a layer of APIs to abstract infrastructure and provision
 
 Visit the following resources to learn more:
 
-- [Cloud service provider](https://www.techtarget.com/searchitchannel/definition/cloud-service-provider-cloud-provider)
-- [What are Cloud Providers?](https://www.redhat.com/en/topics/cloud-computing/what-are-cloud-providers)
+- [ ] [Cloud service provider](https://www.techtarget.com/searchitchannel/definition/cloud-service-provider-cloud-provider)
+- [ ] [What are Cloud Providers?](https://www.redhat.com/en/topics/cloud-computing/what-are-cloud-providers)
 
 # AWS
 
@@ -631,16 +631,16 @@ AWS service is an online platform that provides scalable and cost-effective clou
 
 Visit the following resources to learn more:
 
-- [AWS Website](https://aws.amazon.com/)
-- [AWS Documentation](https://docs.aws.amazon.com/)
-- [Sign up for AWS](https://portal.aws.amazon.com/billing/signup)
-- [How to learn AWS](https://cs.fyi/guide/how-to-learn-aws/)
-- [AWS Ramp Up Guide](https://d1.awsstatic.com/training-and-certification/ramp-up_guides/Ramp-Up_Guide_CloudPractitioner.pdf)
-- [Cloud Practitioner Essentials](https://explore.skillbuilder.aws/learn/course/external/view/elearning/134/aws-cloud-practitioner-essentials)
-- [AWS Guide by SimpliLearn](https://www.simplilearn.com/tutorials/aws-tutorial/what-is-aws)
-- [AWS Tutorial for Beginners](https://www.youtube.com/watch?v=k1RI5locZE4&t=129s)
-- [AWS Course for Beginners](https://www.coursera.org/learn/aws-cloud-technical-essentials?specialization=aws-devops)
-- [DevOps on AWS Course](https://www.coursera.org/specializations/aws-devops?#courses)
+- [ ] [AWS Website](https://aws.amazon.com/)
+- [ ] [AWS Documentation](https://docs.aws.amazon.com/)
+- [ ] [Sign up for AWS](https://portal.aws.amazon.com/billing/signup)
+- [ ] [How to learn AWS](https://cs.fyi/guide/how-to-learn-aws/)
+- [ ] [AWS Ramp Up Guide](https://d1.awsstatic.com/training-and-certification/ramp-up_guides/Ramp-Up_Guide_CloudPractitioner.pdf)
+- [ ] [Cloud Practitioner Essentials](https://explore.skillbuilder.aws/learn/course/external/view/elearning/134/aws-cloud-practitioner-essentials)
+- [ ] [AWS Guide by SimpliLearn](https://www.simplilearn.com/tutorials/aws-tutorial/what-is-aws)
+- [ ] [AWS Tutorial for Beginners](https://www.youtube.com/watch?v=k1RI5locZE4&t=129s)
+- [ ] [AWS Course for Beginners](https://www.coursera.org/learn/aws-cloud-technical-essentials?specialization=aws-devops)
+- [ ] [DevOps on AWS Course](https://www.coursera.org/specializations/aws-devops?#courses)
 
 # Google Cloud
 
@@ -648,12 +648,12 @@ Google Cloud is Google's cloud computing service offering, providing over 150 pr
 
 Visit the following resources to learn more:
 
-- [Google Cloud Website](https://cloud.google.com/)
-- [Official Documentation](https://cloud.google.com/docs)
-- [Google Cloud Get Started Guide](https://cloud.google.com/docs/get-started/)
-- [Coursera Complete Course for Google Cloud](https://www.coursera.org/professional-certificates/cloud-engineering-gcp#courses)
-- [Google Cloud by Edureka on You-Tube](https://www.youtube.com/watch?v=IUU6OR8yHCc)
-- [5 Tips to Become a Google Cloud Certified Professional Architect](https://thenewstack.io/5-tips-to-become-a-google-cloud-certified-professional-architect/)
+- [ ] [Google Cloud Website](https://cloud.google.com/)
+- [ ] [Official Documentation](https://cloud.google.com/docs)
+- [ ] [Google Cloud Get Started Guide](https://cloud.google.com/docs/get-started/)
+- [ ] [Coursera Complete Course for Google Cloud](https://www.coursera.org/professional-certificates/cloud-engineering-gcp#courses)
+- [ ] [Google Cloud by Edureka on You-Tube](https://www.youtube.com/watch?v=IUU6OR8yHCc)
+- [ ] [5 Tips to Become a Google Cloud Certified Professional Architect](https://thenewstack.io/5-tips-to-become-a-google-cloud-certified-professional-architect/)
 
 # Azure
 
@@ -661,10 +661,10 @@ Microsoft Azure is a cloud computing service operated by Microsoft. Azure curren
 
 Visit the following resources to learn more:
 
-- [Azure Website](https://azure.microsoft.com/en-us/)
-- [Official Documentation](https://docs.microsoft.com/en-us/azure/)
-- [Azure Get Started Guide](https://azure.microsoft.com/en-ca/get-started/#explore-azure)
-- [Get to know Azure](https://azure.microsoft.com/en-us/explore/)
+- [ ] [Azure Website](https://azure.microsoft.com/en-us/)
+- [ ] [Official Documentation](https://docs.microsoft.com/en-us/azure/)
+- [ ] [Azure Get Started Guide](https://azure.microsoft.com/en-ca/get-started/#explore-azure)
+- [ ] [Get to know Azure](https://azure.microsoft.com/en-us/explore/)
 
 # Heroku
 
@@ -672,9 +672,9 @@ Heroku is a cloud platform as a service subsidiary of Salesforce. Heroku officia
 
 Visit the following resources to learn more:
 
-- [Heroku Website](https://www.heroku.com/)
-- [Official Documentation](https://devcenter.heroku.com/)
-- [Heroku Get Started Guide](https://devcenter.heroku.com/start)
+- [ ] [Heroku Website](https://www.heroku.com/)
+- [ ] [Official Documentation](https://devcenter.heroku.com/)
+- [ ] [Heroku Get Started Guide](https://devcenter.heroku.com/start)
 
 # Alibaba Cloud
 
@@ -682,9 +682,9 @@ Alibaba Cloud is a cloud computing service, offering over 100 products and servi
 
 Visit the following resources to learn more:
 
-- [Alibaba Cloud Website](https://www.alibabacloud.com/)
-- [Official Documentation](https://www.alibabacloud.com/help/en/)
-- [Alibaba Cloud Getting Started Guide](https://www.alibabacloud.com/getting-started)
+- [ ] [Alibaba Cloud Website](https://www.alibabacloud.com/)
+- [ ] [Official Documentation](https://www.alibabacloud.com/help/en/)
+- [ ] [Alibaba Cloud Getting Started Guide](https://www.alibabacloud.com/getting-started)
 
 # DigitalOcean
 
@@ -692,9 +692,9 @@ DigitalOcean is a cloud computing service offering products and services in Comp
 
 Visit the following resources to learn more:
 
-- [DigitalOcean Website](https://www.digitalocean.com/)
-- [Official Documentation](https://docs.digitalocean.com/products/)
-- [DigitalOcean Get Started Guide](https://docs.digitalocean.com/products/getting-started/)
+- [ ] [DigitalOcean Website](https://www.digitalocean.com/)
+- [ ] [Official Documentation](https://docs.digitalocean.com/products/)
+- [ ] [DigitalOcean Get Started Guide](https://docs.digitalocean.com/products/getting-started/)
 
 # Linode
 
@@ -702,9 +702,9 @@ Linode is a cloud computing service owned by Akamai Technologies. Linode positio
 
 Visit the following resources to learn more:
 
-- [Linode Website](https://www.linode.com/)
-- [Official Documentation](https://www.linode.com/docs/)
-- [Linode Getting Started Guide](https://www.linode.com/docs/guides/getting-started/)
+- [ ] [Linode Website](https://www.linode.com/)
+- [ ] [Official Documentation](https://www.linode.com/docs/)
+- [ ] [Linode Getting Started Guide](https://www.linode.com/docs/guides/getting-started/)
 
 # Vultr
 
@@ -712,8 +712,8 @@ Vultr is an infrastructure focussed cloud computing service, available in 25 loc
 
 Visit the following resources to learn more:
 
-- [Vultr Website](https://www.vultr.com/)
-- [Official Documentation](https://www.vultr.com/docs/)
+- [ ] [Vultr Website](https://www.vultr.com/)
+- [ ] [Official Documentation](https://www.vultr.com/docs/)
 
 # IBM Cloud
 
@@ -721,11 +721,11 @@ IBM cloud computing is a set of cloud computing services that offers both platfo
 
 Visit the following resources to learn more:
 
-- [IBM cloud](https://www.ibm.com/cloud)
-- [IBM Cloud Documentation](https://cloud.ibm.com/docs)
-- [IBM Cloud Essentials](https://www.coursera.org/learn/ibm-cloud-essentials)
-- [IBM Cloud Training](https://www.ibm.com/training/cloud)
-- [Introduction to IBM Cloud](https://www.youtube.com/watch?v=HzugDzl2cfg)
-- [Developing in IBM Cloud](https://www.youtube.com/watch?v=Bsy6mhRc7ZA)
-- [IBM Cloud Foundation Skills Series](https://youtube.com/playlist?list=PLmesOgYt3nKCfsXqx-A5k1bP7t146U4rz)
-- [The Beginners Guide to IBM Cloud](https://developer.ibm.com/components/cloud-ibm/tutorials/)
+- [ ] [IBM cloud](https://www.ibm.com/cloud)
+- [ ] [IBM Cloud Documentation](https://cloud.ibm.com/docs)
+- [ ] [IBM Cloud Essentials](https://www.coursera.org/learn/ibm-cloud-essentials)
+- [ ] [IBM Cloud Training](https://www.ibm.com/training/cloud)
+- [ ] [Introduction to IBM Cloud](https://www.youtube.com/watch?v=HzugDzl2cfg)
+- [ ] [Developing in IBM Cloud](https://www.youtube.com/watch?v=Bsy6mhRc7ZA)
+- [ ] [IBM Cloud Foundation Skills Series](https://youtube.com/playlist?list=PLmesOgYt3nKCfsXqx-A5k1bP7t146U4rz)
+- [ ] [The Beginners Guide to IBM Cloud](https://developer.ibm.com/components/cloud-ibm/tutorials/)

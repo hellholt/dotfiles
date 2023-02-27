@@ -9,7 +9,7 @@ Get basic understanding of Postgres key terms and basic RDBMS concepts.
 - **Relational model**: domains, attributes, tuples, relations, constraints, NULL.
 - **Databases high-level concepts**: ACID, MVCC, transactions, write-ahead log, query processing.
 - **Links**:
-  - [Postgres Glossary](https://www.postgresql.org/docs/13/glossary.html)
+  - [ ] [Postgres Glossary](https://www.postgresql.org/docs/13/glossary.html)
   - SQL and Relational Theory - Christopher J. Date, 2009
   - Database Design and Relational Theory - Christopher J. Date, 2012
 
@@ -24,8 +24,8 @@ Get practical skills of how to set up and run Postgres to get a working environm
 - Connect to Postgres using `psql`.
 - Deploy database service in cloud environment (AWS, GCE, Azure, Heroku, DigitalOcean, etc...).
 - **Links**:
-  - [Official download and install instructions](https://www.postgresql.org/download/)
-  - [Official Docker images](https://hub.docker.com/_/postgres)
+  - [ ] [Official download and install instructions](https://www.postgresql.org/download/)
+  - [ ] [Official Docker images](https://hub.docker.com/_/postgres)
 
 ## Learn SQL concepts
 
@@ -37,10 +37,10 @@ Get practical skills of how to create and manipulate database objects and how to
 - **DDL queries**: managing tables and schemas (create, alter, drop).
 - Import and export data using `COPY`.
 - **Links**:
-  - [DB Fiddle](https://www.db-fiddle.com/)
-  - [PostgreSQL Tutorial](https://www.postgresqltutorial.com/)
-  - [PostgreSQL SQL Getting Started](https://www.postgresql.org/docs/current/tutorial-sql.html)  
-  - [The SQL Language](https://www.postgresql.org/docs/current/sql.html)
+  - [ ] [DB Fiddle](https://www.db-fiddle.com/)
+  - [ ] [PostgreSQL Tutorial](https://www.postgresqltutorial.com/)
+  - [ ] [PostgreSQL SQL Getting Started](https://www.postgresql.org/docs/current/tutorial-sql.html)  
+  - [ ] [The SQL Language](https://www.postgresql.org/docs/current/sql.html)
 
 ## Learn how to configure Postgres
 
@@ -57,7 +57,7 @@ Get understanding of the main aspects of how Postgres could be configured. Deep 
   - Adding extra extensions
   - ...keep exploring other configuration options
 - **Links**:
-  - [Postgresqlco.nf](http://postgresqlco.nf/)
+  - [ ] [Postgresqlco.nf](http://postgresqlco.nf/)
 
 ## Learn Postgres security concepts
 
@@ -67,8 +67,8 @@ Get understanding about basic security concepts and common ways of how to deploy
 - **Objects privileges**: grant/revoke, default privileges.
 - **Advanced topics** - row-level security, selinux.
 - **Links**:
-  - [Client authentication](https://www.postgresql.org/docs/current/client-authentication.html)  
-  - [Roles and users managements](https://www.postgresql.org/docs/current/user-manag.html)
+  - [ ] [Client authentication](https://www.postgresql.org/docs/current/client-authentication.html)  
+  - [ ] [Roles and users managements](https://www.postgresql.org/docs/current/user-manag.html)
 
 ## Develop infrastructure DBA skills
 
@@ -125,19 +125,19 @@ Here is important to continuously extend and develop existing knowledge about Po
   - Vacuum processing
   - Buffer management
   - Lock management
-  - [Physical storage and file layout](https://www.postgresql.org/docs/current/storage.html)
-  - [System catalog](https://www.postgresql.org/docs/current/catalogs.html)
+  - [ ] [Physical storage and file layout](https://www.postgresql.org/docs/current/storage.html)
+  - [ ] [System catalog](https://www.postgresql.org/docs/current/catalogs.html)
 - **Fine-grained tuning**:
   - Per-user, per-database settings
-  - [Storage parameters](https://www.postgresql.org/docs/current/sql-createtable.html#SQL-CREATETABLE-STORAGE-PARAMETERS)
+  - [ ] [Storage parameters](https://www.postgresql.org/docs/current/sql-createtable.html#SQL-CREATETABLE-STORAGE-PARAMETERS)
   - Workload-dependant tuning: OLTP, OLAP, HTAP
 - **Advanced SQL topics**:
   - PL/pgSQL, procedures and functions, triggers
   - Aggregate and window functions
   - Recursive CTE
 - **Links**:
-  - [The Internals of PostgreSQL](http://www.interdb.jp/pg/index.html) for database administrators and system developers
-  - [PL/pgSQL Guide](https://www.postgresql.org/docs/current/plpgsql.html)
+  - [ ] [The Internals of PostgreSQL](http://www.interdb.jp/pg/index.html) for database administrators and system developers
+  - [ ] [PL/pgSQL Guide](https://www.postgresql.org/docs/current/plpgsql.html)
 
 ## Learn Postgres troubleshooting techniques
 
@@ -153,18 +153,18 @@ Get basic understanding about troubleshooting tools and get practical skills of 
 - **Postgres tools**
   - `pgcenter` - *personal recommendation*
 - **Query analyzing**:
-  - [EXPLAIN](https://www.postgresql.org/docs/current/sql-explain.html)
-  - [Depesz](https://explain.depesz.com/) online EXPLAIN visualization tool
-  - [PEV](https://tatiyants.com/pev/#/plans) online EXPLAIN visualization tool
-  - [Tensor](https://explain.tensor.ru/) online EXPLAIN visualization tool, RU language only
+  - [ ] [EXPLAIN](https://www.postgresql.org/docs/current/sql-explain.html)
+  - [ ] [Depesz](https://explain.depesz.com/) online EXPLAIN visualization tool
+  - [ ] [PEV](https://tatiyants.com/pev/#/plans) online EXPLAIN visualization tool
+  - [ ] [Tensor](https://explain.tensor.ru/) online EXPLAIN visualization tool, RU language only
 - **Log analyzing**:
   - `pgBadger`
   - Ad-hoc analyzing using `grep`, `awk`, `sed`, etc.
 - **External tracing/profiling tools**: `gdb`, `strace`, `perf-tools`, `ebpf`, core dumps
 - **Troubleshooting methods**: USE, RED, Golden signals
 - **Links**:
-  - [Linux Performance](http://www.brendangregg.com/linuxperf.html) by Brendan Gregg
-  - [USE Method](http://www.brendangregg.com/usemethod.html)
+  - [ ] [Linux Performance](http://www.brendangregg.com/linuxperf.html) by Brendan Gregg
+  - [ ] [USE Method](http://www.brendangregg.com/usemethod.html)
 
 ## Learn SQL optimization techniques
 
@@ -174,7 +174,7 @@ Get understanding and practical skills of how to optimize SQL queries.
 - SQL queries patterns and anti-patterns
 - SQL schema design patterns and anti-patterns
 - **Links**:
-  - [Use the Index, Luke](https://use-the-index-luke.com/) - a Guide to Database Performance for Developers
+  - [ ] [Use the Index, Luke](https://use-the-index-luke.com/) - a Guide to Database Performance for Developers
 - **Books**:
   - SQL Antipatterns: Avoiding the Pitfalls of Database Programming - Bill Karwin, 2010
 

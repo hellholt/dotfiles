@@ -8,10 +8,10 @@ Spring is an open-source framework that provides a comprehensive programming and
 
 You can learn more about Spring Core from the links below:
 
-- [Official website](https://spring.io/)
-- [Official Documentation](https://spring.io/why-spring)
-- [Getting Started with Spring](https://spring.io/guides/gs/spring-boot/)
-- [Spring Core Tutorial](https://www.tutorialspoint.com/spring/index.htm)
+- [ ] [Official website](https://spring.io/)
+- [ ] [Official Documentation](https://spring.io/why-spring)
+- [ ] [Getting Started with Spring](https://spring.io/guides/gs/spring-boot/)
+- [ ] [Spring Core Tutorial](https://www.tutorialspoint.com/spring/index.htm)
 
 # Configuration
 
@@ -19,10 +19,10 @@ Spring Core Configuration is the process of configuring the Spring Framework, wh
 
 To learn more about Spring Core Configuration from the links below:
 
-- [Spring Framework Documentation](https://docs.spring.io/spring/docs/current/spring-framework-reference/)
-- ["Spring Configuration" tutorial](https://www.baeldung.com/project-configuration-with-spring)
-- ["Spring Framework" tutorial](https://www.tutorialspoint.com/spring/index.htm)
-- ["Spring Core" video tutorial](https://www.youtube.com/watch?v=GB8k2-Egfv0)
+- [ ] [Spring Framework Documentation](https://docs.spring.io/spring/docs/current/spring-framework-reference/)
+- [ ] ["Spring Configuration" tutorial](https://www.baeldung.com/project-configuration-with-spring)
+- [ ] ["Spring Framework" tutorial](https://www.tutorialspoint.com/spring/index.htm)
+- [ ] ["Spring Core" video tutorial](https://www.youtube.com/watch?v=GB8k2-Egfv0)
 
 # Dependency Injection
 
@@ -30,9 +30,9 @@ Spring Boot uses the Spring Framework's Inversion of Control (IoC) container to 
 
 Visit the following links for more resources:
 
-- [Spring Dependency Injection](https://www.baeldung.com/spring-dependency-injection)
-- [Dependency Injection Using Spring Boot](https://medium.com/edureka/what-is-dependency-injection-5006b53af782)
-- [Dependency Injection in Spring](https://www.javatpoint.com/dependency-injection-in-spring)
+- [ ] [Spring Dependency Injection](https://www.baeldung.com/spring-dependency-injection)
+- [ ] [Dependency Injection Using Spring Boot](https://medium.com/edureka/what-is-dependency-injection-5006b53af782)
+- [ ] [Dependency Injection in Spring](https://www.javatpoint.com/dependency-injection-in-spring)
 
 # Spring IOC
 
@@ -57,10 +57,10 @@ Overall, Spring IoC container provides a central location to manage the lifecycl
 
 More more resources, check out the following links:
 
-- [Spring IoC, Spring Bean Example Tutorial](https://www.digitalocean.com/community/tutorials/spring-ioc-bean-example-tutorial)
-- [Intro to Inversion of Control with Spring](https://www.baeldung.com/inversion-control-and-dependency-injection-in-spring)
-- [IoC Container](https://www.javatpoint.com/ioc-container)
-- [Spring – IoC Container](https://www.geeksforgeeks.org/spring-ioc-container/)
+- [ ] [Spring IoC, Spring Bean Example Tutorial](https://www.digitalocean.com/community/tutorials/spring-ioc-bean-example-tutorial)
+- [ ] [Intro to Inversion of Control with Spring](https://www.baeldung.com/inversion-control-and-dependency-injection-in-spring)
+- [ ] [IoC Container](https://www.javatpoint.com/ioc-container)
+- [ ] [Spring – IoC Container](https://www.geeksforgeeks.org/spring-ioc-container/)
 
 # Spring AOP
 
@@ -70,9 +70,9 @@ Spring AOP allows developers to separate the implementation of these cross-cutti
 
 For more resources, visit the following links:
 
-- [Spring AOP Tutorial](https://www.simplilearn.com/tutorials/spring-tutorial/spring-aop-aspect-oriented-programming)
-- [AOP with Spring Framework](https://www.tutorialspoint.com/spring/aop_with_spring.htm)
-- [Spring AOP Tutorial](https://howtodoinjava.com/spring-aop-tutorial/)
+- [ ] [Spring AOP Tutorial](https://www.simplilearn.com/tutorials/spring-tutorial/spring-aop-aspect-oriented-programming)
+- [ ] [AOP with Spring Framework](https://www.tutorialspoint.com/spring/aop_with_spring.htm)
+- [ ] [Spring AOP Tutorial](https://howtodoinjava.com/spring-aop-tutorial/)
 
 # Spring MVC
 
@@ -82,9 +82,9 @@ Spring MVC provides a powerful and flexible way to build web applications, and i
 
 For more resources, visit the following links:
 
-- [Spring MVC Tutorial](https://www.javatpoint.com/spring-mvc-tutorial)
-- [Spring - MVC Framework](https://www.tutorialspoint.com/spring/spring_web_mvc_framework.htm)
-- [Web MVC framework](https://docs.spring.io/spring-framework/docs/3.2.x/spring-framework-reference/html/mvc.html)
+- [ ] [Spring MVC Tutorial](https://www.javatpoint.com/spring-mvc-tutorial)
+- [ ] [Spring - MVC Framework](https://www.tutorialspoint.com/spring/spring_web_mvc_framework.htm)
+- [ ] [Web MVC framework](https://docs.spring.io/spring-framework/docs/3.2.x/spring-framework-reference/html/mvc.html)
 
 # Annotations
 
@@ -104,9 +104,9 @@ These are just a few examples of the many annotations that are available in Spri
 
 Visit the following link for more details on annotations in spring boot:
 
-- [Spring Annotations](https://www.digitalocean.com/community/tutorials/spring-annotations)
-- [Spring Boot Annotations](https://www.javatpoint.com/spring-boot-annotations)
-- [Annotations in Spring](https://www.techferry.com/articles/spring-annotations.html)
+- [ ] [Spring Annotations](https://www.digitalocean.com/community/tutorials/spring-annotations)
+- [ ] [Spring Boot Annotations](https://www.javatpoint.com/spring-boot-annotations)
+- [ ] [Annotations in Spring](https://www.techferry.com/articles/spring-annotations.html)
 
 # Spring Bean Scope
 
@@ -127,9 +127,9 @@ It is very important to choose the right scope for a bean, as it can affect the 
 
 Visit the following links for more resources:
 
-- [Spring - Bean Scopes](https://www.tutorialspoint.com/spring/spring_bean_scopes.htm)
-- [Quick Guide to Spring Bean Scopes](https://www.baeldung.com/spring-bean-scopes)
-- [Spring Bean Scopes](https://www.digitalocean.com/community/tutorials/spring-bean-scopes)
+- [ ] [Spring - Bean Scopes](https://www.tutorialspoint.com/spring/spring_bean_scopes.htm)
+- [ ] [Quick Guide to Spring Bean Scopes](https://www.baeldung.com/spring-bean-scopes)
+- [ ] [Spring Bean Scopes](https://www.digitalocean.com/community/tutorials/spring-bean-scopes)
 
 # Spring security
 
@@ -137,9 +137,9 @@ Spring Security is a framework for securing Java-based applications. It is a pow
 
 Visit the following links for more resources:
 
-- [Spring Security](https://spring.io/projects/spring-security)
-- [Spring Security Introduction](https://www.javatpoint.com/spring-security-introduction)
-- [What is Spring security](https://www.javadevjournal.com/spring/what-is-spring-security/)
+- [ ] [Spring Security](https://spring.io/projects/spring-security)
+- [ ] [Spring Security Introduction](https://www.javatpoint.com/spring-security-introduction)
+- [ ] [What is Spring security](https://www.javadevjournal.com/spring/what-is-spring-security/)
 
 # Authentication
 
@@ -147,9 +147,9 @@ Spring Security is a framework for securing Java-based applications. One of its 
 
 For more info, visit the following resources:
 
-- [Spring Authentication](https://docs.spring.io/spring-security/reference/features/authentication/index.html)
-- [Spring Security Basic Authentication](https://www.baeldung.com/spring-security-basic-authentication)
-- [Spring Security Authentication](https://spring.io/projects/spring-security)
+- [ ] [Spring Authentication](https://docs.spring.io/spring-security/reference/features/authentication/index.html)
+- [ ] [Spring Security Basic Authentication](https://www.baeldung.com/spring-security-basic-authentication)
+- [ ] [Spring Security Authentication](https://spring.io/projects/spring-security)
 
 # Authorization
 
@@ -157,9 +157,9 @@ Spring Security supports a variety of authentication mechanisms, such as usernam
 
 Visit the following links for more information:
 
-- [Spring Authorization](https://docs.spring.io/spring-security/reference/servlet/authorization/index.html)
-- [Advanced authorization in Spring](https://docs.spring.io/spring-security/site/docs/5.2.11.RELEASE/reference/html/authorization.html)
-- [Spring Security: Authentication and Authorization In-Depth](https://www.marcobehler.com/guides/spring-security)
+- [ ] [Spring Authorization](https://docs.spring.io/spring-security/reference/servlet/authorization/index.html)
+- [ ] [Advanced authorization in Spring](https://docs.spring.io/spring-security/site/docs/5.2.11.RELEASE/reference/html/authorization.html)
+- [ ] [Spring Security: Authentication and Authorization In-Depth](https://www.marcobehler.com/guides/spring-security)
 
 # OAuth2
 
@@ -167,9 +167,9 @@ Spring Security OAuth2 library provides support for both the authorization code 
 
 Learn more about Oauth2 from the following resources:
 
-- [Spring Boot - OAuth2 with JWT](https://www.tutorialspoint.com/spring_boot/spring_boot_oauth2_with_jwt.htm)
-- [Spring Boot and OAuth2](https://spring.io/guides/tutorials/spring-boot-oauth2/)
-- [Spring Security](https://www.tutorialspoint.com/spring_security/spring_security_with_oauth2.htm)
+- [ ] [Spring Boot - OAuth2 with JWT](https://www.tutorialspoint.com/spring_boot/spring_boot_oauth2_with_jwt.htm)
+- [ ] [Spring Boot and OAuth2](https://spring.io/guides/tutorials/spring-boot-oauth2/)
+- [ ] [Spring Security](https://www.tutorialspoint.com/spring_security/spring_security_with_oauth2.htm)
 
 # JWT Authentication
 
@@ -177,9 +177,9 @@ Spring Security can be used to implement JWT Authentication and Authorization to
 
 For more resources, visit the following links:
 
-- [JWT Token Authentication in Spring](https://springframework.guru/jwt-authentication-in-spring-microservices-jwt-token/)
-- [Spring Security with JWT for REST API](https://www.toptal.com/spring/spring-security-tutorial)
-- [Spring Security - JWT](https://www.tutorialspoint.com/spring_security/spring_security_with_jwt.htm)
+- [ ] [JWT Token Authentication in Spring](https://springframework.guru/jwt-authentication-in-spring-microservices-jwt-token/)
+- [ ] [Spring Security with JWT for REST API](https://www.toptal.com/spring/spring-security-tutorial)
+- [ ] [Spring Security - JWT](https://www.tutorialspoint.com/spring_security/spring_security_with_jwt.htm)
 
 # Hibernate
 
@@ -187,9 +187,9 @@ Hibernate is a Java framework that provides an object-relational mapping to an o
 
 For more resources, visit the following links:
 
-- [Difference Between Spring vs Hibernate](https://www.educba.com/spring-vs-hibernate/)
-- [Spring Boot – Integrating Hibernate and JPA](https://www.geeksforgeeks.org/spring-boot-integrating-hibernate-and-jpa/)
-- [Spring Hibernate Integration Example](https://www.digitalocean.com/community/tutorials/spring-hibernate-integration-example-tutorial)
+- [ ] [Difference Between Spring vs Hibernate](https://www.educba.com/spring-vs-hibernate/)
+- [ ] [Spring Boot – Integrating Hibernate and JPA](https://www.geeksforgeeks.org/spring-boot-integrating-hibernate-and-jpa/)
+- [ ] [Spring Hibernate Integration Example](https://www.digitalocean.com/community/tutorials/spring-hibernate-integration-example-tutorial)
 
 # Transactions
 
@@ -199,9 +199,9 @@ In hibernate framework, we have Transaction interface that defines the unit of w
 
 For more information, visit the following links:
 
-- [Hibernate Transaction Management Example](https://www.javatpoint.com/hibernate-transaction-management-example)
-- [Hibernate Transaction Management](https://www.javaguides.net/2018/12/hibernate-transaction-management-tutorial.html)
-- [Hibernate Transaction](https://www.w3schools.blog/hibernate-transaction-management)
+- [ ] [Hibernate Transaction Management Example](https://www.javatpoint.com/hibernate-transaction-management-example)
+- [ ] [Hibernate Transaction Management](https://www.javaguides.net/2018/12/hibernate-transaction-management-tutorial.html)
+- [ ] [Hibernate Transaction](https://www.w3schools.blog/hibernate-transaction-management)
 
 # Relationships
 
@@ -216,9 +216,9 @@ Here are the four tyeps of relationships we can have between objects in Hibernat
 
 Visit the following links for more information:
 
-- [Hibernate Relationships In Depth](https://www.java4s.com/hibernate/hibernate-relationships-in-depth/)
-- [Guide to JPA with Hibernate - Relationship Mapping](https://stackabuse.com/a-guide-to-jpa-with-hibernate-relationship-mapping/)
-- [Hibernate Mapping](https://dzone.com/articles/hibernate-mapping)
+- [ ] [Hibernate Relationships In Depth](https://www.java4s.com/hibernate/hibernate-relationships-in-depth/)
+- [ ] [Guide to JPA with Hibernate - Relationship Mapping](https://stackabuse.com/a-guide-to-jpa-with-hibernate-relationship-mapping/)
+- [ ] [Hibernate Mapping](https://dzone.com/articles/hibernate-mapping)
 
 # Entity lifecycle
 
@@ -233,9 +233,9 @@ There are mainly four states of the Hibernate Lifecycle :
 
 For more resources, visit the following links:
 
-- [Hibernate Lifecycle](https://www.geeksforgeeks.org/hibernate-lifecycle/)
-- [Entity Lifecycle in Hibernate](https://www.javatpoint.com/hibernate-lifecycle)
-- [Hibernate Entity Lifecycle & and its state](https://www.baeldung.com/hibernate-entity-lifecycle)
+- [ ] [Hibernate Lifecycle](https://www.geeksforgeeks.org/hibernate-lifecycle/)
+- [ ] [Entity Lifecycle in Hibernate](https://www.javatpoint.com/hibernate-lifecycle)
+- [ ] [Hibernate Entity Lifecycle & and its state](https://www.baeldung.com/hibernate-entity-lifecycle)
 
 # Spring Data
 
@@ -243,9 +243,9 @@ Spring Data is a collection of projects for data access in Spring-based applicat
 
 For more resources, visit the following links:
 
-- [Spring Data](https://spring.io/projects/spring-data)
-- [Spring Data – One API To Rule Them All?](https://www.infoq.com/articles/spring-data-intro/)
-- [What is JPA, Spring Data and Spring Data JPA](https://www.amitph.com/jpa-and-spring-data-jpa/)
+- [ ] [Spring Data](https://spring.io/projects/spring-data)
+- [ ] [Spring Data – One API To Rule Them All?](https://www.infoq.com/articles/spring-data-intro/)
+- [ ] [What is JPA, Spring Data and Spring Data JPA](https://www.amitph.com/jpa-and-spring-data-jpa/)
 
 # Spring Data JPA
 
@@ -253,9 +253,9 @@ Spring Data JPA is a library that makes it easy to implement Java Persistence AP
 
 For more resources, visit the following links:
 
-- [Spring Data JPA](https://spring.io/projects/spring-data-jpa)
-- [Introduction to Spring Data JPA](https://www.baeldung.com/the-persistence-layer-with-spring-data-jpa)
-- [Spring Data JPA Tutorial](https://www.javatpoint.com/spring-and-jpa-integration)
+- [ ] [Spring Data JPA](https://spring.io/projects/spring-data-jpa)
+- [ ] [Introduction to Spring Data JPA](https://www.baeldung.com/the-persistence-layer-with-spring-data-jpa)
+- [ ] [Spring Data JPA Tutorial](https://www.javatpoint.com/spring-and-jpa-integration)
 
 # Spring Data Mongodb
 
@@ -265,9 +265,9 @@ The Spring Data MongoDB project provides integration with the MongoDB document d
 
 For more resources on spring data mongodb, visit the following links:
 
-- [Spring Data MongoDB](https://spring.io/projects/spring-data-mongodb)
-- [Introduction to Spring Data MongoDB](https://www.baeldung.com/spring-data-mongodb-tutorial)
-- [Spring Boot Integration with MongoDB Tutorial](https://www.mongodb.com/compatibility/spring-boot)
+- [ ] [Spring Data MongoDB](https://spring.io/projects/spring-data-mongodb)
+- [ ] [Introduction to Spring Data MongoDB](https://www.baeldung.com/spring-data-mongodb-tutorial)
+- [ ] [Spring Boot Integration with MongoDB Tutorial](https://www.mongodb.com/compatibility/spring-boot)
 
 # Spring Data JDBC
 
@@ -275,9 +275,9 @@ Spring Data JDBC is a part of the Spring Data project that provides support for 
 
 Visit the following links for more resources on spring data jdbc:
 
-- [Spring Data JDBC](https://spring.io/projects/spring-data-jdbc)
-- [Spring Data JDBC - Reference Documentation](https://docs.spring.io/spring-data/jdbc/docs/current/reference/html/)
-- [Introduction to Spring Data JDBC](https://www.baeldung.com/spring-data-jdbc-intro)
+- [ ] [Spring Data JDBC](https://spring.io/projects/spring-data-jdbc)
+- [ ] [Spring Data JDBC - Reference Documentation](https://docs.spring.io/spring-data/jdbc/docs/current/reference/html/)
+- [ ] [Introduction to Spring Data JDBC](https://www.baeldung.com/spring-data-jdbc-intro)
 
 # Microservices
 
@@ -285,9 +285,9 @@ Spring Microservices is a framework that makes it easier to build and manage mic
 
 For more resources, visit the following links:
 
-- [Microservices with Spring](https://spring.io/microservices)
-- [Microservices Tutorial](https://www.javatpoint.com/microservices)
-- [Microservices with Spring Boot](https://medium.com/omarelgabrys-blog/microservices-with-spring-boot-intro-to-microservices-part-1-c0d24cd422c3)
+- [ ] [Microservices with Spring](https://spring.io/microservices)
+- [ ] [Microservices Tutorial](https://www.javatpoint.com/microservices)
+- [ ] [Microservices with Spring Boot](https://medium.com/omarelgabrys-blog/microservices-with-spring-boot-intro-to-microservices-part-1-c0d24cd422c3)
 
 # Spring MVC
 
@@ -297,9 +297,9 @@ In Spring MVC, the application is divided into three main components: the Model,
 
 For more information, visit the following links:
 
-- [Spring MVC Tutorial](https://www.javatpoint.com/spring-mvc-tutorial)
-- [Spring - MVC Framework](https://www.tutorialspoint.com/spring/spring_web_mvc_framework.htm)
-- [Spring MVC Tutorial – Everything You Need To Know](https://www.edureka.co/blog/spring-mvc-tutorial/)
+- [ ] [Spring MVC Tutorial](https://www.javatpoint.com/spring-mvc-tutorial)
+- [ ] [Spring - MVC Framework](https://www.tutorialspoint.com/spring/spring_web_mvc_framework.htm)
+- [ ] [Spring MVC Tutorial – Everything You Need To Know](https://www.edureka.co/blog/spring-mvc-tutorial/)
 
 # Servlet
 
@@ -307,9 +307,9 @@ A Spring servlet is a Java class that serves as the central point for handling r
 
 For more information, visit the following links:
 
-- [DispatcherServlet and web.xml in Spring Boot](https://www.baeldung.com/spring-boot-dispatcherservlet-web-xml)
-- [The DispatcherServlet](https://docs.spring.io/spring-framework/docs/3.0.0.M4/spring-framework-reference/html/ch15s02.html)
-- [What is Dispatcher Servlet in Spring?](https://www.geeksforgeeks.org/what-is-dispatcher-servlet-in-sprin)
+- [ ] [DispatcherServlet and web.xml in Spring Boot](https://www.baeldung.com/spring-boot-dispatcherservlet-web-xml)
+- [ ] [The DispatcherServlet](https://docs.spring.io/spring-framework/docs/3.0.0.M4/spring-framework-reference/html/ch15s02.html)
+- [ ] [What is Dispatcher Servlet in Spring?](https://www.geeksforgeeks.org/what-is-dispatcher-servlet-in-sprin)
 
 # JSP Files
 
@@ -319,9 +319,9 @@ In a Spring MVC application that uses JSPs, the view component of the MVC patter
 
 Visit the following links for more resources:
 
-- [Spring MVC with JSP View](https://www.geeksforgeeks.org/spring-mvc-with-jsp-view/)
-- [Spring Boot With JavaServer Pages (JSP)](https://www.baeldung.com/spring-boot-jsp)
-- [Spring MVC: from JSP and Tiles to Thymeleaf](https://spring.io/blog/2012/10/30/spring-mvc-from-jsp-and-tiles-to-thymeleaf/)
+- [ ] [Spring MVC with JSP View](https://www.geeksforgeeks.org/spring-mvc-with-jsp-view/)
+- [ ] [Spring Boot With JavaServer Pages (JSP)](https://www.baeldung.com/spring-boot-jsp)
+- [ ] [Spring MVC: from JSP and Tiles to Thymeleaf](https://spring.io/blog/2012/10/30/spring-mvc-from-jsp-and-tiles-to-thymeleaf/)
 
 # Architecture
 
@@ -329,9 +329,9 @@ The Spring MVC (Model-View-Controller) is a web application framework that is pa
 
 For more resources, visit the following resources:
 
-- [Spring MVC Tutorial](https://www.javatpoint.com/spring-mvc-tutorial)
-- [Spring – MVC Framework](https://www.geeksforgeeks.org/spring-mvc-framework/)
-- [Overview of Spring MVC Architecture](https://terasolunaorg.github.io/guideline/1.0.1.RELEASE/en/Overview/SpringMVCOverview.html)
+- [ ] [Spring MVC Tutorial](https://www.javatpoint.com/spring-mvc-tutorial)
+- [ ] [Spring – MVC Framework](https://www.geeksforgeeks.org/spring-mvc-framework/)
+- [ ] [Overview of Spring MVC Architecture](https://terasolunaorg.github.io/guideline/1.0.1.RELEASE/en/Overview/SpringMVCOverview.html)
 
 # Components
 
@@ -350,8 +350,8 @@ There are other supporting components that are used to manage the lifecycle of t
 
 For more information, visit the following links:
 
-- [Spring Boot vs Spring MVC: How do They Compare?](https://rollbar.com/blog/spring-boot-vs-spring-mvc-how-do-they-compare/)
-- [Spring MVC components](http://makble.com/spring-mvc-components)
+- [ ] [Spring Boot vs Spring MVC: How do They Compare?](https://rollbar.com/blog/spring-boot-vs-spring-mvc-how-do-they-compare/)
+- [ ] [Spring MVC components](http://makble.com/spring-mvc-components)
 
 # Testing
 
@@ -359,9 +359,9 @@ Spring provides a set of testing utilities that make it easy to test the various
 
 For more information, visit the following links:
 
-- [Spring Testing](https://industrialphysics.com/knowledgebase/articles/spring-testing/)
-- [What Is Spring Testing?](https://www.developer.com/design/what-is-spring-testing/)
-- [Complete Guide To Spring Testing](https://www.lambdatest.com/blog/spring-testing/)
+- [ ] [Spring Testing](https://industrialphysics.com/knowledgebase/articles/spring-testing/)
+- [ ] [What Is Spring Testing?](https://www.developer.com/design/what-is-spring-testing/)
+- [ ] [Complete Guide To Spring Testing](https://www.lambdatest.com/blog/spring-testing/)
 
 # JPA Test
 
@@ -379,9 +379,9 @@ Testing the persistence layer separately from the rest of the application allows
 
 Visit the following links for more information on JPA testing:
 
-- [Testing JPA Queries with Spring Boot and @DataJpaTest](https://reflectoring.io/spring-boot-data-jpa-test/)
-- [@DataJpaTest example for Spring Data Repository Unit Test](https://www.bezkoder.com/spring-boot-unit-test-jpa-repo-datajpatest/)
-- [Testing in Spring Boot](https://www.baeldung.com/spring-boot-testing)
+- [ ] [Testing JPA Queries with Spring Boot and @DataJpaTest](https://reflectoring.io/spring-boot-data-jpa-test/)
+- [ ] [@DataJpaTest example for Spring Data Repository Unit Test](https://www.bezkoder.com/spring-boot-unit-test-jpa-repo-datajpatest/)
+- [ ] [Testing in Spring Boot](https://www.baeldung.com/spring-boot-testing)
 
 # Mock MVC
 
@@ -389,9 +389,9 @@ Spring's MockMvc is a class that allows you to test Spring MVC controllers witho
 
 For more information, visit the following link:
 
-- [Spring MockMVC tutorial](https://zetcode.com/spring/mockmvc/)
-- [Spring Boot MockMVC Example](https://howtodoinjava.com/spring-boot2/testing/spring-boot-mockmvc-example/)
-- [Integration Testing in Spring](https://baeldung.com/integration-testing-in-spring)
+- [ ] [Spring MockMVC tutorial](https://zetcode.com/spring/mockmvc/)
+- [ ] [Spring Boot MockMVC Example](https://howtodoinjava.com/spring-boot2/testing/spring-boot-mockmvc-example/)
+- [ ] [Integration Testing in Spring](https://baeldung.com/integration-testing-in-spring)
 
 # @SpringBootTest annotation
 
@@ -399,9 +399,9 @@ For more information, visit the following link:
 
 For more information, visit the following links:
 
-- [Testing with Spring Boot and @SpringBootTest](https://reflectoring.io/spring-boot-test/)
-- [Annotation Interface SpringBootTest](https://docs.spring.io/spring-boot/docs/current/api/org/springframework/boot/test/context/SpringBootTest.html)
-- [Testing in Spring Boot](https://www.baeldung.com/spring-boot-testing)
+- [ ] [Testing with Spring Boot and @SpringBootTest](https://reflectoring.io/spring-boot-test/)
+- [ ] [Annotation Interface SpringBootTest](https://docs.spring.io/spring-boot/docs/current/api/org/springframework/boot/test/context/SpringBootTest.html)
+- [ ] [Testing in Spring Boot](https://www.baeldung.com/spring-boot-testing)
 
 # @MockBean Annotation
 
@@ -409,6 +409,6 @@ For more information, visit the following links:
 
 For more information, visit the following links:
 
-- [Mockito.mock() vs @Mock vs @MockBean](https://www.baeldung.com/java-spring-mockito-mock-mockbean)
-- [Spring Boot @MockBean Example](https://howtodoinjava.com/spring-boot2/testing/spring-mockbean-annotation/)
-- [Annotation Interface MockBean](https://docs.spring.io/spring-boot/docs/current/api/org/springframework/boot/test/mock/mockito/MockBean.html)
+- [ ] [Mockito.mock() vs @Mock vs @MockBean](https://www.baeldung.com/java-spring-mockito-mock-mockbean)
+- [ ] [Spring Boot @MockBean Example](https://howtodoinjava.com/spring-boot2/testing/spring-mockbean-annotation/)
+- [ ] [Annotation Interface MockBean](https://docs.spring.io/spring-boot/docs/current/api/org/springframework/boot/test/mock/mockito/MockBean.html)

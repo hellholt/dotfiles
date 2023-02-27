@@ -4,11 +4,11 @@ Python is a high-level, interpreted, general-purpose programming language. Its d
 
 Visit the following resources to learn more:
 
-- [Official Website: Python](https://www.python.org/)
-- [Tutorial Series: How to Code in Python](https://www.digitalocean.com/community/tutorials/how-to-write-your-first-python-3-program)
-- [Python Wikipedia](https://en.wikipedia.org/wiki/Python_(programming_language))
-- [Googles Python Class](https://developers.google.com/edu/python)
-- [W3Schools - Python Tutorial](https://www.w3schools.com/python)
+- [ ] [Official Website: Python](https://www.python.org/)
+- [ ] [Tutorial Series: How to Code in Python](https://www.digitalocean.com/community/tutorials/how-to-write-your-first-python-3-program)
+- [ ] [Python Wikipedia](https://en.wikipedia.org/wiki/Python_(programming_language))
+- [ ] [Googles Python Class](https://developers.google.com/edu/python)
+- [ ] [W3Schools - Python Tutorial](https://www.w3schools.com/python)
 
 # Basic Syntax
 
@@ -16,10 +16,10 @@ Setup the environment for python and get started with the basics.
 
 Visit the following resources to learn more:
 
-- [W3Schools - Python](https://www.w3schools.com/python/)
-- [Python for Beginners - Learn Python in 1 Hour](https://www.youtube.com/watch?v=kqtD5dpn9C8)
-- [Python Basics](https://www.tutorialspoint.com/python/python_basic_syntax.htm)
-- [Learn X in Y Minutes / Python](https://learnxinyminutes.com/docs/python/)
+- [ ] [W3Schools - Python](https://www.w3schools.com/python/)
+- [ ] [Python for Beginners - Learn Python in 1 Hour](https://www.youtube.com/watch?v=kqtD5dpn9C8)
+- [ ] [Python Basics](https://www.tutorialspoint.com/python/python_basic_syntax.htm)
+- [ ] [Learn X in Y Minutes / Python](https://learnxinyminutes.com/docs/python/)
 
 ## Variables
 
@@ -27,12 +27,12 @@ Variables are used to store information to be referenced and manipulated in a co
 
 Visit the following resources to learn more:
 
-- [Variables in Python](https://realpython.com/python-variables)
-- [W3Schools — Python Variables](https://www.w3schools.com/python/python_variables.asp)
-- [Python Variables - Geeks for Geeks](https://www.geeksforgeeks.org/python-variables/)
-- [Python Data Types](https://www.w3schools.com/python/python_datatypes.asp)
-- [Basic Data Types in Python](https://realpython.com/python-data-types/)
-- [Python for Beginners: Data Types](https://thenewstack.io/python-for-beginners-data-types/)
+- [ ] [Variables in Python](https://realpython.com/python-variables)
+- [ ] [W3Schools — Python Variables](https://www.w3schools.com/python/python_variables.asp)
+- [ ] [Python Variables - Geeks for Geeks](https://www.geeksforgeeks.org/python-variables/)
+- [ ] [Python Data Types](https://www.w3schools.com/python/python_datatypes.asp)
+- [ ] [Basic Data Types in Python](https://realpython.com/python-data-types/)
+- [ ] [Python for Beginners: Data Types](https://thenewstack.io/python-for-beginners-data-types/)
 
 # Conditionals
 
@@ -40,9 +40,9 @@ Conditional Statements in Python perform different actions depending on whether 
 
 Visit the following resources to learn more:
 
-- [Python Conditional Statements: IF…Else, ELIF & Switch Case](https://www.guru99.com/if-loop-python-conditional-structures.html)
-- [Conditional Statements in Python](https://realpython.com/python-conditional-statements/)
-- [How to use a match statement in Python](https://learnpython.com/blog/python-match-case-statement/)
+- [ ] [Python Conditional Statements: IF…Else, ELIF & Switch Case](https://www.guru99.com/if-loop-python-conditional-structures.html)
+- [ ] [Conditional Statements in Python](https://realpython.com/python-conditional-statements/)
+- [ ] [How to use a match statement in Python](https://learnpython.com/blog/python-match-case-statement/)
 
 ## Typecasting
 
@@ -50,12 +50,12 @@ The process of converting the value of one data type (integer, string, float, et
 
 Visit the following resources to learn more:
 
-- [Type Conversion and Casting](https://www.programiz.com/python-programming/type-conversion-and-casting)
-- [Type Casting in Python with Examples](https://www.geeksforgeeks.org/type-casting-in-python-implicit-and-explicit-with-examples/)
-- [Python Exceptions: An Introduction](https://realpython.com/python-exceptions/)
-- [Errors and Exceptions](https://docs.python.org/3/tutorial/errors.html)
-- [Python Exception Handling](https://www.programiz.com/python-programming/exception-handling)
-- [Python Try Except](https://www.w3schools.com/python/python_try_except.asp)
+- [ ] [Type Conversion and Casting](https://www.programiz.com/python-programming/type-conversion-and-casting)
+- [ ] [Type Casting in Python with Examples](https://www.geeksforgeeks.org/type-casting-in-python-implicit-and-explicit-with-examples/)
+- [ ] [Python Exceptions: An Introduction](https://realpython.com/python-exceptions/)
+- [ ] [Errors and Exceptions](https://docs.python.org/3/tutorial/errors.html)
+- [ ] [Python Exception Handling](https://www.programiz.com/python-programming/exception-handling)
+- [ ] [Python Try Except](https://www.w3schools.com/python/python_try_except.asp)
 
 # Functions
 
@@ -65,10 +65,10 @@ In Python, you define a function with the `def` keyword, then write the function
 
 Visit the following resources to learn more:
 
-- [Python Functions – How to Define and Call a Function](https://www.freecodecamp.org/news/python-functions-define-and-call-a-function/)
-- [Python Functions - W3Schools](https://www.w3schools.com/python/python_functions.asp)
-- [Python Functions](https://www.geeksforgeeks.org/python-functions/)
-- [Built-in Functions in Python](https://docs.python.org/3/library/functions.html)
+- [ ] [Python Functions – How to Define and Call a Function](https://www.freecodecamp.org/news/python-functions-define-and-call-a-function/)
+- [ ] [Python Functions - W3Schools](https://www.w3schools.com/python/python_functions.asp)
+- [ ] [Python Functions](https://www.geeksforgeeks.org/python-functions/)
+- [ ] [Built-in Functions in Python](https://docs.python.org/3/library/functions.html)
 
 # Lists, Tuples, Sets, and Dictionaries
 
@@ -82,11 +82,11 @@ Visit the following resources to learn more:
 
 Visit the following resources to learn more:
 
-- [Difference Between List, Tuple, Set and Dictionary in Python](https://www.youtube.com/watch?v=n0krwG38SHI)
-- [Differences and Applications of List, Tuple, Set and Dictionary in Python](https://www.geeksforgeeks.org/differences-and-applications-of-list-tuple-set-and-dictionary-in-python/)
-- [Tuples vs. Lists vs. Sets in Python](https://jerrynsh.com/tuples-vs-lists-vs-sets-in-python/)
-- [Python for Beginners: Lists](https://thenewstack.io/python-for-beginners-lists/)
-- [Python for Beginners: When and How to Use Tuples](https://thenewstack.io/python-for-beginners-when-and-how-to-use-tuples/)
+- [ ] [Difference Between List, Tuple, Set and Dictionary in Python](https://www.youtube.com/watch?v=n0krwG38SHI)
+- [ ] [Differences and Applications of List, Tuple, Set and Dictionary in Python](https://www.geeksforgeeks.org/differences-and-applications-of-list-tuple-set-and-dictionary-in-python/)
+- [ ] [Tuples vs. Lists vs. Sets in Python](https://jerrynsh.com/tuples-vs-lists-vs-sets-in-python/)
+- [ ] [Python for Beginners: Lists](https://thenewstack.io/python-for-beginners-lists/)
+- [ ] [Python for Beginners: When and How to Use Tuples](https://thenewstack.io/python-for-beginners-when-and-how-to-use-tuples/)
 
 # String Methods
 
@@ -96,9 +96,9 @@ Below Given resources can be utilised to learn more about them.
 
 Visit the following resources to learn more:
 
-- [Practical String Methods applications](https://www.youtube.com/watch?v=Ctqi5Y4X-jA&t=11s)
-- [Comprehensive Study of String methods](https://www.w3schools.com/python/python_ref_string.asp)
-- [String Slicing in Python](https://www.geeksforgeeks.org/string-slicing-in-python/)
+- [ ] [Practical String Methods applications](https://www.youtube.com/watch?v=Ctqi5Y4X-jA&t=11s)
+- [ ] [Comprehensive Study of String methods](https://www.w3schools.com/python/python_ref_string.asp)
+- [ ] [String Slicing in Python](https://www.geeksforgeeks.org/string-slicing-in-python/)
 
 # Data Structures and Algorithms
 
@@ -106,8 +106,8 @@ A data structure is a named location that can be used to store and organize data
 
 Visit the following resources to learn more:
 
-- [Learn DS & Algorithms](https://www.programiz.com/dsa)
-- [Data Structures Illustrated](https://www.youtube.com/playlist?list=PLkZYeFmDuaN2-KUIv-mvbjfKszIGJ4FaY)
+- [ ] [Learn DS & Algorithms](https://www.programiz.com/dsa)
+- [ ] [Data Structures Illustrated](https://www.youtube.com/playlist?list=PLkZYeFmDuaN2-KUIv-mvbjfKszIGJ4FaY)
 
 # Arrays and Linked lists
 
@@ -115,12 +115,12 @@ Arrays store elements in contiguous memory locations, resulting in easily calcul
 
 Visit the following resources to learn more:
 
-- [Linked Lists vs Arrays](https://www.geeksforgeeks.org/linked-list-vs-array/)
-- [Python Array Tutorial](https://www.freecodecamp.org/news/python-array-tutorial-define-index-methods/)
-- [Python Arrays](https://www.geeksforgeeks.org/python-arrays/)
-- [Arrays in Python](https://www.edureka.co/blog/arrays-in-python/)
-- [Array Data Structure | Illustrated Data Structures](https://www.youtube.com/watch?v=QJNwK2uJyGs)
-- [Linked List Data Structure | Illustrated Data Structures](https://www.youtube.com/watch?v=odW9FU8jPRQ)
+- [ ] [Linked Lists vs Arrays](https://www.geeksforgeeks.org/linked-list-vs-array/)
+- [ ] [Python Array Tutorial](https://www.freecodecamp.org/news/python-array-tutorial-define-index-methods/)
+- [ ] [Python Arrays](https://www.geeksforgeeks.org/python-arrays/)
+- [ ] [Arrays in Python](https://www.edureka.co/blog/arrays-in-python/)
+- [ ] [Array Data Structure | Illustrated Data Structures](https://www.youtube.com/watch?v=QJNwK2uJyGs)
+- [ ] [Linked List Data Structure | Illustrated Data Structures](https://www.youtube.com/watch?v=odW9FU8jPRQ)
 
 # Heaps Stacks and Queues
 
@@ -132,14 +132,14 @@ Visit the following resources to learn more:
 
 Visit the following resources to learn more:
 
-- [Heaps, Stacks, Queues](https://stephanosterburg.gitbook.io/scrapbook/coding/coding-interview/data-structures/heaps-stacks-queues)
-- [Stack Data Structure | Illustrated Data Structures](https://www.youtube.com/watch?v=I5lq6sCuABE)
-- [Queue Data Structure | Illustrated Data Structures](https://www.youtube.com/watch?v=mDCi1lXd9hc)
-- [Stack in Python](https://www.geeksforgeeks.org/stack-in-python/)
-- [How to Implement Python Stack?](https://realpython.com/how-to-implement-python-stack/)
-- [Queue in Python](https://www.geeksforgeeks.org/queue-in-python/)
-- [Python Stacks, Queues, and Priority Queues in Practice](https://realpython.com/queue-in-python/)
-- [Heap Implementation in Python](https://www.educative.io/answers/heap-implementation-in-python)
+- [ ] [Heaps, Stacks, Queues](https://stephanosterburg.gitbook.io/scrapbook/coding/coding-interview/data-structures/heaps-stacks-queues)
+- [ ] [Stack Data Structure | Illustrated Data Structures](https://www.youtube.com/watch?v=I5lq6sCuABE)
+- [ ] [Queue Data Structure | Illustrated Data Structures](https://www.youtube.com/watch?v=mDCi1lXd9hc)
+- [ ] [Stack in Python](https://www.geeksforgeeks.org/stack-in-python/)
+- [ ] [How to Implement Python Stack?](https://realpython.com/how-to-implement-python-stack/)
+- [ ] [Queue in Python](https://www.geeksforgeeks.org/queue-in-python/)
+- [ ] [Python Stacks, Queues, and Priority Queues in Practice](https://realpython.com/queue-in-python/)
+- [ ] [Heap Implementation in Python](https://www.educative.io/answers/heap-implementation-in-python)
 
 # Hash Tables
 
@@ -147,9 +147,9 @@ Hash Table, Map, HashMap, Dictionary or Associative are all the names of the sam
 
 Visit the following resources to learn more:
 
-- [Hash Table Data Structure | Illustrated Data Structures](https://www.youtube.com/watch?v=jalSiaIi8j4)
-- [Hash Tables and Hashmaps in Python](https://www.edureka.co/blog/hash-tables-and-hashmaps-in-python/)
-- [Build a Hash Table in Python](https://realpython.com/python-hash-table/)
+- [ ] [Hash Table Data Structure | Illustrated Data Structures](https://www.youtube.com/watch?v=jalSiaIi8j4)
+- [ ] [Hash Tables and Hashmaps in Python](https://www.edureka.co/blog/hash-tables-and-hashmaps-in-python/)
+- [ ] [Build a Hash Table in Python](https://realpython.com/python-hash-table/)
 
 # Binary Search Trees
 
@@ -157,9 +157,9 @@ A binary search tree, also called an ordered or sorted binary tree, is a rooted 
 
 Visit the following resources to learn more:
 
-- [Tree Data Structure | Illustrated Data Structures](https://www.youtube.com/watch?v=S2W3SXGPVyU)
-- [How to Implement Binary Search Tree in Python](https://www.section.io/engineering-education/implementing-binary-search-tree-using-python/)
-- [Problem Set](https://www.geeksforgeeks.org/binary-search-tree-data-structure/?ref=gcse)
+- [ ] [Tree Data Structure | Illustrated Data Structures](https://www.youtube.com/watch?v=S2W3SXGPVyU)
+- [ ] [How to Implement Binary Search Tree in Python](https://www.section.io/engineering-education/implementing-binary-search-tree-using-python/)
+- [ ] [Problem Set](https://www.geeksforgeeks.org/binary-search-tree-data-structure/?ref=gcse)
 
 # Recursion
 
@@ -167,8 +167,8 @@ Recursion is a method of solving a computational problem where the solution depe
 
 Visit the following resources to learn more:
 
-- [Recursion in Python](https://www.geeksforgeeks.org/recursion/)
-- [Recursion in Python: An Introduction](https://realpython.com/python-recursion/)
+- [ ] [Recursion in Python](https://www.geeksforgeeks.org/recursion/)
+- [ ] [Recursion in Python: An Introduction](https://realpython.com/python-recursion/)
 
 # Sorting Algorithms
 
@@ -178,8 +178,8 @@ The importance of sorting lies in the fact that data searching can be optimized 
 
 Visit the following resources to learn more:
 
-- [Sorting Algorithms in Python](https://realpython.com/sorting-algorithms-python/)
-- [Python - Sorting Algorithms](https://www.tutorialspoint.com/python_data_structure/python_sorting_algorithms.htm)
+- [ ] [Sorting Algorithms in Python](https://realpython.com/sorting-algorithms-python/)
+- [ ] [Python - Sorting Algorithms](https://www.tutorialspoint.com/python_data_structure/python_sorting_algorithms.htm)
 
 # Advanced Topics
 
@@ -191,9 +191,9 @@ A regular expression is a sequence of characters that specifies a search pattern
 
 Visit the following resources to learn more:
 
-- [Regular Expressions in Python](https://docs.python.org/3/library/re.html)
-- [Python Regular Expressions](https://developers.google.com/edu/python/regular-expressions)
-- [Python - Regular Expressions](https://www.tutorialspoint.com/python/python_reg_expressions.htm)
+- [ ] [Regular Expressions in Python](https://docs.python.org/3/library/re.html)
+- [ ] [Python Regular Expressions](https://developers.google.com/edu/python/regular-expressions)
+- [ ] [Python - Regular Expressions](https://www.tutorialspoint.com/python/python_reg_expressions.htm)
 
 # Decorators
 
@@ -201,9 +201,9 @@ decorator is a design pattern in Python that allows a user to add new functional
 
 Visit the following resources to learn more:
 
-- [Python Decorators](https://www.datacamp.com/tutorial/decorators-python)
-- [Decorators in Python](https://www.geeksforgeeks.org/decorators-in-python/)
-- [Decorators in Python](https://www.youtube.com/watch?v=FXUUSfJO_J4)
+- [ ] [Python Decorators](https://www.datacamp.com/tutorial/decorators-python)
+- [ ] [Decorators in Python](https://www.geeksforgeeks.org/decorators-in-python/)
+- [ ] [Decorators in Python](https://www.youtube.com/watch?v=FXUUSfJO_J4)
 
 # Lambdas
 
@@ -211,8 +211,8 @@ Python Lambda Functions are anonymous function means that the function is withou
 
 Visit the following resources to learn more:
 
-- [Python Lambda Functions](https://www.geeksforgeeks.org/python-lambda-anonymous-functions-filter-map-reduce/)
-- [Lambdas in Python](https://www.w3schools.com/python/python_lambda.asp)
+- [ ] [Python Lambda Functions](https://www.geeksforgeeks.org/python-lambda-anonymous-functions-filter-map-reduce/)
+- [ ] [Lambdas in Python](https://www.w3schools.com/python/python_lambda.asp)
 
 # Iterators
 
@@ -220,8 +220,8 @@ An iterator is an object that contains a countable number of values. An iterator
 
 Visit the following resources to learn more:
 
-- [Iterators in Python](https://www.w3schools.com/python/python_iterators.asp)
-- [Python Iterators](https://www.geeksforgeeks.org/iterators-in-python/)
+- [ ] [Iterators in Python](https://www.w3schools.com/python/python_iterators.asp)
+- [ ] [Python Iterators](https://www.geeksforgeeks.org/iterators-in-python/)
 
 # List Comprehensions
 
@@ -229,8 +229,8 @@ List comprehensions are a concise way to create a list using a single line of co
 
 Visit the following resources to learn more:
 
-- [Python - List Comprehension](https://www.w3schools.com/python/python_lists_comprehension.asp)
-- [Python List Comprehensions](https://docs.python.org/3/tutorial/datastructures.html#list-comprehensions)
+- [ ] [Python - List Comprehension](https://www.w3schools.com/python/python_lists_comprehension.asp)
+- [ ] [Python List Comprehensions](https://docs.python.org/3/tutorial/datastructures.html#list-comprehensions)
 
 # Generator Compressions
 
@@ -240,9 +240,9 @@ Generator comprehensions are a useful tool for creating generators that generate
 
 Visit the following resources to learn more:
 
-- [Python Generator Expressions](https://www.pythontutorial.net/advanced-python/python-generator-expressions/)
-- [List Comprehensions in Python and Generator Expressions](https://djangostars.com/blog/list-comprehensions-and-generator-expressions/)
-- [Python | Generator Expressions](https://www.geeksforgeeks.org/generator-expressions/)
+- [ ] [Python Generator Expressions](https://www.pythontutorial.net/advanced-python/python-generator-expressions/)
+- [ ] [List Comprehensions in Python and Generator Expressions](https://djangostars.com/blog/list-comprehensions-and-generator-expressions/)
+- [ ] [Python | Generator Expressions](https://www.geeksforgeeks.org/generator-expressions/)
 
 # Python Paradigms
 
@@ -257,7 +257,7 @@ Python's support for multiple paradigms makes it a versatile and flexible langua
 
 Visit the following resources to learn more:
 
-- [Programming Paradigms in Python](https://www.geeksforgeeks.org/programming-paradigms-in-python/)
+- [ ] [Programming Paradigms in Python](https://www.geeksforgeeks.org/programming-paradigms-in-python/)
 
 # Version Control Systems
 
@@ -265,9 +265,9 @@ Version control systems allow you to track changes to your codebase/files over t
 
 Visit the following resources to learn more:
 
-- [Version Control System Introduction](https://www.youtube.com/watch?v=zbKdDsNNOhg)
-- [Git & GitHub Crash Course For Beginners](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
-- [Learn Git in 20 Minutes](https://youtu.be/Y9XZQO1n_7c?t=21)
+- [ ] [Version Control System Introduction](https://www.youtube.com/watch?v=zbKdDsNNOhg)
+- [ ] [Git & GitHub Crash Course For Beginners](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
+- [ ] [Learn Git in 20 Minutes](https://youtu.be/Y9XZQO1n_7c?t=21)
 
 # Git
 
@@ -275,9 +275,9 @@ Visit the following resources to learn more:
 
 Visit the following resources to learn more:
 
-- [Version Control System Introduction](https://www.youtube.com/watch?v=zbKdDsNNOhg)
-- [Git & GitHub Crash Course For Beginners](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
-- [Learn Git in 20 Minutes](https://youtu.be/Y9XZQO1n_7c?t=21)
+- [ ] [Version Control System Introduction](https://www.youtube.com/watch?v=zbKdDsNNOhg)
+- [ ] [Git & GitHub Crash Course For Beginners](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
+- [ ] [Learn Git in 20 Minutes](https://youtu.be/Y9XZQO1n_7c?t=21)
 
 # Repo Hosting Services
 
@@ -285,9 +285,9 @@ There are different repository hosting services with the most famous one being G
 
 Visit the following resources to learn more:
 
-- [GitHub: Where the world builds software](https://github.com)
-- [GitLab: Iterate faster, innovate together](https://gitlab.com)
-- [BitBucket: The Git solution for professional teams](https://bitbucket.com)
+- [ ] [GitHub: Where the world builds software](https://github.com)
+- [ ] [GitLab: Iterate faster, innovate together](https://gitlab.com)
+- [ ] [BitBucket: The Git solution for professional teams](https://bitbucket.com)
 
 # GitHub
 
@@ -295,11 +295,11 @@ Visit the following resources to learn more:
 
 Visit the following resources to learn more:
 
-- [GitHub: Quickstart](https://docs.github.com/en/get-started/quickstart/hello-world)
-- [What is GitHub?](https://www.youtube.com/watch?v=w3jLJU7DT5E)
-- [Git vs. GitHub: Whats the difference?](https://www.youtube.com/watch?v=wpISo9TNjfU)
-- [Git and GitHub for Beginners](https://www.youtube.com/watch?v=RGOj5yH7evk)
-- [Git and GitHub - CS50 Beyond 2019](https://www.youtube.com/watch?v=eulnSXkhE7I)
+- [ ] [GitHub: Quickstart](https://docs.github.com/en/get-started/quickstart/hello-world)
+- [ ] [What is GitHub?](https://www.youtube.com/watch?v=w3jLJU7DT5E)
+- [ ] [Git vs. GitHub: Whats the difference?](https://www.youtube.com/watch?v=wpISo9TNjfU)
+- [ ] [Git and GitHub for Beginners](https://www.youtube.com/watch?v=RGOj5yH7evk)
+- [ ] [Git and GitHub - CS50 Beyond 2019](https://www.youtube.com/watch?v=eulnSXkhE7I)
 
 # GitLab
 
@@ -307,8 +307,8 @@ Visit the following resources to learn more:
 
 Visit the following resources to learn more:
 
-- [GitLab Website](https://gitlab.com/)
-- [GitLab Documentation](https://docs.gitlab.com/)
+- [ ] [GitLab Website](https://gitlab.com/)
+- [ ] [GitLab Documentation](https://docs.gitlab.com/)
 
 # BitBucket
 
@@ -316,8 +316,8 @@ Visit the following resources to learn more:
 
 Visit the following resources to learn more:
 
-- [BitBucket Website](https://bitbucket.com/)
-- [How to use BitBucket?](https://bitbucket.org/product/guides)
+- [ ] [BitBucket Website](https://bitbucket.com/)
+- [ ] [How to use BitBucket?](https://bitbucket.org/product/guides)
 
 # Package Managers
 
@@ -325,8 +325,8 @@ Package managers allow you to manage the dependencies (external code written by 
 
 `PyPI` and `Pip` are the most common contenders but here are some other options available as well:
 
-- [**Poetry**](https://python-poetry.org/) : Manages dependencies via isolation
-- [**PIPX**](https://github.com/pypa/pipx) : Isolation-based app deployment, so you don't have to affect the system or user PIP libraries. It enables you to try individual python CLI tools without affecting other dependencies.
+- [ ] [**Poetry**](https://python-poetry.org/) : Manages dependencies via isolation
+- [ ] [**PIPX**](https://github.com/pypa/pipx) : Isolation-based app deployment, so you don't have to affect the system or user PIP libraries. It enables you to try individual python CLI tools without affecting other dependencies.
 
 # PyPI
 
@@ -334,9 +334,9 @@ PyPI, typically pronounced pie-pee-eye, is a repository containing several hundr
 
 Visit the following resources to learn more:
 
-- [PyPI Official Website](https://pypi.org/)
-- [Getting Started with Pip and PyPI in Python](https://www.youtube.com/watch?v=bPSfNKvhooA)
-- [How to Publish an Open-Source Python Package to PyPI](https://realpython.com/pypi-publish-python-package/)
+- [ ] [PyPI Official Website](https://pypi.org/)
+- [ ] [Getting Started with Pip and PyPI in Python](https://www.youtube.com/watch?v=bPSfNKvhooA)
+- [ ] [How to Publish an Open-Source Python Package to PyPI](https://realpython.com/pypi-publish-python-package/)
 
 # Pip
 
@@ -344,8 +344,8 @@ The standard package manager for Python is pip. It allows you to install and man
 
 Visit the following resources to learn more:
 
-- [Using Pythons pip to Manage Your Projects Dependencies](https://realpython.com/what-is-pip/)
-- [Python PIP Introduction](https://www.w3schools.com/python/python_pip.asp)
+- [ ] [Using Pythons pip to Manage Your Projects Dependencies](https://realpython.com/what-is-pip/)
+- [ ] [Python PIP Introduction](https://www.w3schools.com/python/python_pip.asp)
 
 # Conda
 
@@ -355,7 +355,7 @@ Conda as a package manager helps you find and install packages. If you need a pa
 
 Visit the following resources to learn more:
 
-- [Conda Docs](https://docs.conda.io/en/latest/)
+- [ ] [Conda Docs](https://docs.conda.io/en/latest/)
 
 # Python Frameworks
 
@@ -364,7 +364,7 @@ Frameworks automate the common implementation of common solutions which gives th
 Frameworks make the life of web developers easier by giving them a structure for app development. They provide common patterns in a web application that are fast, reliable and easily maintainable.
 Visit the following resources to learn more:
 
-- [Pyscript: A Browser-Based Python Framework for the 99%](https://thenewstack.io/pyscript-a-browser-based-python-framework/)
+- [ ] [Pyscript: A Browser-Based Python Framework for the 99%](https://thenewstack.io/pyscript-a-browser-based-python-framework/)
 
 # FastAPI
 
@@ -374,9 +374,9 @@ A key to building software that meets requirements without defects is testing. S
 
 Visit the following resources to learn more:
 
-- [What is Software Testing?](https://www.guru99.com/software-testing-introduction-importance.html)
-- [Testing Pyramid](https://www.browserstack.com/guide/testing-pyramid-for-test-automation)
-- [Automate Quality, Security Checks for Python Library Dependencies](https://thenewstack.io/automate-quality-security-checks-for-python-library-dependencies/)
+- [ ] [What is Software Testing?](https://www.guru99.com/software-testing-introduction-importance.html)
+- [ ] [Testing Pyramid](https://www.browserstack.com/guide/testing-pyramid-for-test-automation)
+- [ ] [Automate Quality, Security Checks for Python Library Dependencies](https://thenewstack.io/automate-quality-security-checks-for-python-library-dependencies/)
 
 # PyUnit / Unittest
 
@@ -384,9 +384,9 @@ PyUnit is an easy way to create unit testing programs and UnitTests with Python.
 
 Visit the following resources to learn more:
 
-- [How To Use unittest to Write a Test Case for a Function in Python](https://www.digitalocean.com/community/tutorials/how-to-use-unittest-to-write-a-test-case-for-a-function-in-python)
-- [PyUnit Docs](https://wiki.python.org/moin/PyUnit%C2%A0)
-- [A Gentle Introduction to Unit Testing in Python](https://machinelearningmastery.com/a-gentle-introduction-to-unit-testing-in-python/)
+- [ ] [How To Use unittest to Write a Test Case for a Function in Python](https://www.digitalocean.com/community/tutorials/how-to-use-unittest-to-write-a-test-case-for-a-function-in-python)
+- [ ] [PyUnit Docs](https://wiki.python.org/moin/PyUnit%C2%A0)
+- [ ] [A Gentle Introduction to Unit Testing in Python](https://machinelearningmastery.com/a-gentle-introduction-to-unit-testing-in-python/)
 
 # pytest
 
@@ -394,8 +394,8 @@ pytest is a mature full-featured Python testing tool that helps you write better
 
 Visit the following resources to learn more:
 
-- [Official Docs](https://docs.pytest.org/)
-- [Pytest Tutorial](https://www.tutorialspoint.com/pytest/index.htm)
+- [ ] [Official Docs](https://docs.pytest.org/)
+- [ ] [Pytest Tutorial](https://www.tutorialspoint.com/pytest/index.htm)
 
 # Doctest
 
@@ -403,8 +403,8 @@ Python’s standard library comes equipped with a test framework module called d
 
 Visit the following resources to learn more:
 
-- [Doctest module reference](https://docs.python.org/3/library/doctest.html)
-- [How To Write Doctests in Python](https://www.digitalocean.com/community/tutorials/how-to-write-doctests-in-python)
+- [ ] [Doctest module reference](https://docs.python.org/3/library/doctest.html)
+- [ ] [How To Write Doctests in Python](https://www.digitalocean.com/community/tutorials/how-to-write-doctests-in-python)
 
 # Nose
 
@@ -412,5 +412,5 @@ Nose is another opensource testing framework that extends `unittest` to provide 
 
 Visit the following resources to learn more:
 
-- [Introduction to Nose](https://nose.readthedocs.io/en/latest/)
-- [Getting Started With Nose In Python](https://www.lambdatest.com/blog/selenium-python-nose-tutorial/)
+- [ ] [Introduction to Nose](https://nose.readthedocs.io/en/latest/)
+- [ ] [Getting Started With Nose In Python](https://www.lambdatest.com/blog/selenium-python-nose-tutorial/)

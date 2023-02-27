@@ -20,8 +20,8 @@ Quality Assurance in Software Testing is defined as a procedure to ensure the qu
 
 Visit the following resources to learn more:
 
-- [What is Quality Assurance(QA)? Process, Methods, Examples](https://www.guru99.com/all-about-quality-assurance.html)
-- [What Do Software Testers Do?](https://www.ministryoftesting.com/dojo/lessons/what-do-software-testers-do-version-0-1)
+- [ ] [What is Quality Assurance(QA)? Process, Methods, Examples](https://www.guru99.com/all-about-quality-assurance.html)
+- [ ] [What Do Software Testers Do?](https://www.ministryoftesting.com/dojo/lessons/what-do-software-testers-do-version-0-1)
 
 # Tester Mindset
 
@@ -37,8 +37,8 @@ A few important points:
 
 Visit the following resources to learn more:
 
-- [The Software Tester’s Mindset](https://softwaretester.careers/the-software-testers-mindset/)
-- [How to Think Like a Tester](https://medium.com/@blakenorrish/how-to-think-like-a-tester-7a174ff6aeaf)
+- [ ] [The Software Tester’s Mindset](https://softwaretester.careers/the-software-testers-mindset/)
+- [ ] [How to Think Like a Tester](https://medium.com/@blakenorrish/how-to-think-like-a-tester-7a174ff6aeaf)
 
 # Test Oracles
 
@@ -46,7 +46,7 @@ A test oracle is a mechanism; different from the program itself that can be used
 
 Visit the following resources to learn more:
 
-- [What are Test Oracles](https://ecomputernotes.com/software-engineering/what-are-test-oracles)
+- [ ] [What are Test Oracles](https://ecomputernotes.com/software-engineering/what-are-test-oracles)
 
 # Test Prioritization
 
@@ -54,10 +54,10 @@ Test prioritization is ordering the test cases to be conducted eventually. Prior
 
 Visit the following resources to learn more:
 
-- [A Tour of what is Test Prioritization?](https://www.browserstack.com/guide/test-case-prioritization)
-- [Test Prioritization](https://www.professionalqa.com/test-prioritization)
-- [Learn about Test Prioritization](https://www.geeksforgeeks.org/test-case-prioritization-in-software-testing/)
-- [Test Prioritization fundamentals!](https://testomat.io/features/test-case-priorities/)
+- [ ] [A Tour of what is Test Prioritization?](https://www.browserstack.com/guide/test-case-prioritization)
+- [ ] [Test Prioritization](https://www.professionalqa.com/test-prioritization)
+- [ ] [Learn about Test Prioritization](https://www.geeksforgeeks.org/test-case-prioritization-in-software-testing/)
+- [ ] [Test Prioritization fundamentals!](https://testomat.io/features/test-case-priorities/)
 
 # SDLC
 
@@ -65,8 +65,8 @@ The Software Development Life Cycle (SDLC) is a process followed for a software 
 
 Visit the following resources to learn more:
 
-- [QA Role In SDLC: Why Is Quality Assurance Important In IT](https://cadabra.studio/blog/why-is-quality-assurance-important-qa-role-in-sdlc/)
-- [SDLC Overview](https://www.tutorialspoint.com/sdlc/sdlc_overview.htm)
+- [ ] [QA Role In SDLC: Why Is Quality Assurance Important In IT](https://cadabra.studio/blog/why-is-quality-assurance-important-qa-role-in-sdlc/)
+- [ ] [SDLC Overview](https://www.tutorialspoint.com/sdlc/sdlc_overview.htm)
 
 # Waterfall Model
 
@@ -74,7 +74,7 @@ Waterfall Model is a sequential model that divides software development into pre
 
 Visit the following resources to learn more:
 
-- [What is Waterfall Model in SDLC? Advantages and Disadvantages](https://www.guru99.com/what-is-sdlc-or-waterfall-model.html)
+- [ ] [What is Waterfall Model in SDLC? Advantages and Disadvantages](https://www.guru99.com/what-is-sdlc-or-waterfall-model.html)
 
 # V Model
 
@@ -82,8 +82,8 @@ V Model is a highly disciplined SDLC model that has a testing phase parallel to 
 
 Visit the following resources to learn more:
 
-- [V-Model in Software Testing](https://www.guru99.com/v-model-software-testing.html)
-- [SDLC V-Model](https://www.geeksforgeeks.org/software-engineering-sdlc-v-model/)
+- [ ] [V-Model in Software Testing](https://www.guru99.com/v-model-software-testing.html)
+- [ ] [SDLC V-Model](https://www.geeksforgeeks.org/software-engineering-sdlc-v-model/)
 
 # QA Manual Testing
 
@@ -91,8 +91,8 @@ Manual Testing is a type of software testing in which test cases are executed ma
 
 Visit the following resources to learn more:
 
-- [Manual Testing Tutorial: What is, Types, Concepts](https://www.guru99.com/manual-testing.html)
-- [Manual Testing](https://www.javatpoint.com/manual-testing)
+- [ ] [Manual Testing Tutorial: What is, Types, Concepts](https://www.guru99.com/manual-testing.html)
+- [ ] [Manual Testing](https://www.javatpoint.com/manual-testing)
 
 # TDD - Test Driven Development
 
@@ -100,8 +100,8 @@ Test Driven Development (TDD) is software development approach in which test cas
 
 Visit the following resources to learn more:
 
-- [What is Test Driven Development (TDD)? Tutorial with Example](https://www.guru99.com/test-driven-development.html)
-- [Introduction to Test Driven Development (TDD)](https://pt.coursera.org/learn/test-and-behavior-driven-development-tdd-bdd)
+- [ ] [What is Test Driven Development (TDD)? Tutorial with Example](https://www.guru99.com/test-driven-development.html)
+- [ ] [Introduction to Test Driven Development (TDD)](https://pt.coursera.org/learn/test-and-behavior-driven-development-tdd-bdd)
 
 # Test Planning
 
@@ -109,7 +109,7 @@ A Test Plan is a detailed document that describes the test strategy, objectives,
 
 Visit the following resources to learn more:
 
-- [Test Plan: What is, How to Create (with Example)](https://www.guru99.com/what-everybody-ought-to-know-about-test-planing.html)
+- [ ] [Test Plan: What is, How to Create (with Example)](https://www.guru99.com/what-everybody-ought-to-know-about-test-planing.html)
 
 # Test Cases and Scenarios
 
@@ -119,8 +119,8 @@ A Test Scenario is defined as any functionality that can be tested. It is a coll
 
 Visit the following resources to learn more:
 
-- [Test Case vs Test Scenario – Difference Between Them](https://www.guru99.com/test-case-vs-test-scenario.html)
-- [How to Write Test Cases in Software Testing with Examples](https://www.guru99.com/test-case.html)
+- [ ] [Test Case vs Test Scenario – Difference Between Them](https://www.guru99.com/test-case-vs-test-scenario.html)
+- [ ] [How to Write Test Cases in Software Testing with Examples](https://www.guru99.com/test-case.html)
 
 # Reporting
 
@@ -128,9 +128,9 @@ Communicating the QA and testing team outputs can be interpreted in several diff
 
 Visit the following resources to learn more:
 
-- [Defect Management Process in Software Testing](https://www.guru99.com/defect-management-process.html)
-- [Writing clear bug reports](https://automationhacks.io/2020/07/25/writing-clear-bug-reports/)
-- [The Art Of The Bug Report](https://www.ministryoftesting.com/dojo/series/the-testing-planet-2019/lessons/the-art-of-the-bug-report)
+- [ ] [Defect Management Process in Software Testing](https://www.guru99.com/defect-management-process.html)
+- [ ] [Writing clear bug reports](https://automationhacks.io/2020/07/25/writing-clear-bug-reports/)
+- [ ] [The Art Of The Bug Report](https://www.ministryoftesting.com/dojo/series/the-testing-planet-2019/lessons/the-art-of-the-bug-report)
 
 # Compatibility
 
@@ -138,7 +138,7 @@ Compatibility is nothing but the capability of existing or living together. Comp
 
 Visit the following resources to learn more:
 
-- [What is Compatibility Testing? Forward & Backward Example](https://www.guru99.com/compatibility-testing.html)
+- [ ] [What is Compatibility Testing? Forward & Backward Example](https://www.guru99.com/compatibility-testing.html)
 
 # Verification and Validation
 
@@ -148,8 +148,8 @@ Validation in Software Engineering is a dynamic mechanism of testing and validat
 
 Visit the following resources to learn more:
 
-- [Differences Between Verification and Validation](https://www.guru99.com/verification-v-s-validation-in-a-software-testing.html)
-- [Design Verification & Validation Process](https://www.guru99.com/design-verification-process.html)
+- [ ] [Differences Between Verification and Validation](https://www.guru99.com/verification-v-s-validation-in-a-software-testing.html)
+- [ ] [Design Verification & Validation Process](https://www.guru99.com/design-verification-process.html)
 
 # Automated Testing
 
@@ -159,9 +159,9 @@ Automated testing is the application of software tools to automate a human-drive
 
 Visit the following resources to learn more:
 
-- [What is Automated Testing?](https://www.atlassian.com/continuous-delivery/software-testing/automated-testing)
-- [Testing Pyramid](https://www.browserstack.com/guide/testing-pyramid-for-test-automation)
-- [Learning Path with different programming language](https://testautomationu.applitools.com/learningpaths.html)
+- [ ] [What is Automated Testing?](https://www.atlassian.com/continuous-delivery/software-testing/automated-testing)
+- [ ] [Testing Pyramid](https://www.browserstack.com/guide/testing-pyramid-for-test-automation)
+- [ ] [Learning Path with different programming language](https://testautomationu.applitools.com/learningpaths.html)
 
 # Non Functional Testing
 
@@ -173,8 +173,8 @@ Email testing allows you to view your email before sending it out to your subscr
 
 Visit the following resources to learn more:
 
-- [About Email Testing](https://www.campaignmonitor.com/blog/email-marketing/how-email-testing-and-rendering-works-and-why-its-important/)
-- [Checklist: How to Test and QA an Email](https://sponge.io/checklist-how-to-test-and-qa-an-email/)
+- [ ] [About Email Testing](https://www.campaignmonitor.com/blog/email-marketing/how-email-testing-and-rendering-works-and-why-its-important/)
+- [ ] [Checklist: How to Test and QA an Email](https://sponge.io/checklist-how-to-test-and-qa-an-email/)
 
 # Mailinator
 
@@ -182,8 +182,8 @@ Mailinator allows Developers and QA Testing teams to automatically test their SM
 
 Visit the following resources to learn more:
 
-- [Mailinator](https://www.mailinator.com/)
-- [Mailinator Official Docs](https://www.mailinator.com/docs/index.html#mailinator)
+- [ ] [Mailinator](https://www.mailinator.com/)
+- [ ] [Mailinator Official Docs](https://www.mailinator.com/docs/index.html#mailinator)
 
 # Gmail Tester
 
@@ -191,8 +191,8 @@ Gmail-tester is a simple Node.js Gmail client which checks/returns email message
 
 Visit the following resources to learn more:
 
-- [Gmail-tester Website](https://www.npmjs.com/package/gmail-tester)
-- [Using the gmail-tester + Puppeteer to poll Gmail inbox](https://medium.com/@sergtimosh/using-gmail-tester-puppeteer-to-poll-gmail-inbox-65bbee17618c)
+- [ ] [Gmail-tester Website](https://www.npmjs.com/package/gmail-tester)
+- [ ] [Using the gmail-tester + Puppeteer to poll Gmail inbox](https://medium.com/@sergtimosh/using-gmail-tester-puppeteer-to-poll-gmail-inbox-65bbee17618c)
 
 # QA reporting
 
@@ -202,8 +202,8 @@ So basically, test reports should document all of the test cases that were perfo
 
 Visit the following resources to learn more:
 
-- [How do you write a QA report?](https://www.netguru.com/blog/how-to-write-qa-report)
-- [How To Write QA Test Summary Report? [13 Easy Steps]](https://www.qatouch.com/blog/how-to-write-qa-test-summary-report/)
+- [ ] [How do you write a QA report?](https://www.netguru.com/blog/how-to-write-qa-report)
+- [ ] [How To Write QA Test Summary Report? [13 Easy Steps]](https://www.qatouch.com/blog/how-to-write-qa-test-summary-report/)
 
 # JUnit
 
@@ -211,7 +211,7 @@ JUnit is known as a unit testing framework used for the Java programming languag
 
 Visit the following resources to learn more:
 
-- [What is JUnit?](https://www.tutorialspoint.com/junit/junit_test_framework.htm)
+- [ ] [What is JUnit?](https://www.tutorialspoint.com/junit/junit_test_framework.htm)
 
 # Allure
 
@@ -219,8 +219,8 @@ Allure Report is a flexible, lightweight multi-language test reporting tool. It 
 
 Visit the following resources to learn more:
 
-- [Allure](https://qameta.io/)
-- [Allure Official Docs](https://docs.qameta.io/allure-report/)
+- [ ] [Allure](https://qameta.io/)
+- [ ] [Allure Official Docs](https://docs.qameta.io/allure-report/)
 
 # Test Rail
 
@@ -228,9 +228,9 @@ TestRail is a web-based test management tool used by testers, developers and oth
 
 Visit the following resources to learn more:
 
-- [Testrail](https://www.gurock.com/testrail/)
-- [Testrail Official Docs](https://support.gurock.com/hc/en-us/)
-- [Testrail Tutorial Docs](https://www.tutorialspoint.com/testrail/testrail_introduction.htm)
+- [ ] [Testrail](https://www.gurock.com/testrail/)
+- [ ] [Testrail Official Docs](https://support.gurock.com/hc/en-us/)
+- [ ] [Testrail Tutorial Docs](https://www.tutorialspoint.com/testrail/testrail_introduction.htm)
 
 # Monitoring and Logs
 
@@ -242,10 +242,10 @@ Grafana is the open-source platform for monitoring and observability. It allows 
 
 Visit the following resources to learn more:
 
-- [Grafana Website](https://grafana.com/)
-- [Grafana Official Documentation](https://grafana.com/docs/)
-- [Grafana Community](https://community.grafana.com/)
-- [Grafana Webinars and Videos](https://grafana.com/videos/)
+- [ ] [Grafana Website](https://grafana.com/)
+- [ ] [Grafana Official Documentation](https://grafana.com/docs/)
+- [ ] [Grafana Community](https://community.grafana.com/)
+- [ ] [Grafana Webinars and Videos](https://grafana.com/videos/)
 
 # New Relic
 
@@ -253,8 +253,8 @@ New Relic is an observability platform that helps you build better software. You
 
 Visit the following resources to learn more:
 
-- [New Relic Website](https://newrelic.com/)
-- [Learn New Relic](https://learn.newrelic.com/)
+- [ ] [New Relic Website](https://newrelic.com/)
+- [ ] [Learn New Relic](https://learn.newrelic.com/)
 
 # Run scope
 
@@ -264,7 +264,7 @@ Create simple monitors with dynamic data for even the most complex use cases. Mo
 
 Visit the following resources to learn more:
 
-- [Runscope Website](https://www.runscope.com)
+- [ ] [Runscope Website](https://www.runscope.com)
 
 # Sentry
 
@@ -272,7 +272,7 @@ Sentry tracks your software performance, measuring metrics like throughput and l
 
 Visit the following resources to learn more:
 
-- [Sentry Website](https://sentry.io)
+- [ ] [Sentry Website](https://sentry.io)
 
 # Kibana
 
@@ -280,8 +280,8 @@ Kibana is a free and open user interface that lets you visualize your Elasticsea
 
 Visit the following resources to learn more:
 
-- [Elastic Kibana Website](https://www.elastic.co/kibana/)
-- [Learn Kibana](https://www.elastic.co/training/free)
+- [ ] [Elastic Kibana Website](https://www.elastic.co/kibana/)
+- [ ] [Learn Kibana](https://www.elastic.co/training/free)
 
 # Datadog
 
@@ -289,8 +289,8 @@ Datadog is a monitoring and analytics platform for large-scale applications. It 
 
 Visit the following resources to learn more:
 
-- [Datadog Website](https://www.datadoghq.com/)
-- [Official Documentation](https://docs.datadoghq.com/)
+- [ ] [Datadog Website](https://www.datadoghq.com/)
+- [ ] [Official Documentation](https://docs.datadoghq.com/)
 
 # PagerDuty
 
@@ -298,8 +298,8 @@ Through its SaaS-based platform, PagerDuty empowers developers, DevOps, IT opera
 
 Visit the following resources to learn more:
 
-- [PagerDuty Website](https://www.pagerduty.com/)
-- [Learn PagerDuty](https://university.pagerduty.com/)
+- [ ] [PagerDuty Website](https://www.pagerduty.com/)
+- [ ] [Learn PagerDuty](https://university.pagerduty.com/)
 
 # Version Control Systems
 
@@ -307,9 +307,9 @@ Version control/source control systems allow developers to track and control cha
 
 Visit the following resources to learn more:
 
-- [Git](https://git-scm.com/)
-- [Mercurial](https://www.mercurial-scm.org/)
-- [What is Version Control?](https://www.atlassian.com/git/tutorials/what-is-version-control)
+- [ ] [Git](https://git-scm.com/)
+- [ ] [Mercurial](https://www.mercurial-scm.org/)
+- [ ] [What is Version Control?](https://www.atlassian.com/git/tutorials/what-is-version-control)
 
 # Git
 
@@ -317,10 +317,10 @@ Visit the following resources to learn more:
 
 Visit the following resources to learn more:
 
-- [Learn Git on the command line](https://github.com/jlord/git-it-electron)
-- [Version Control System Introduction](https://www.youtube.com/watch?v=zbKdDsNNOhg)
-- [Git & GitHub Crash Course For Beginners](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
-- [Learn Git in 20 Minutes](https://youtu.be/Y9XZQO1n_7c?t=21)
+- [ ] [Learn Git on the command line](https://github.com/jlord/git-it-electron)
+- [ ] [Version Control System Introduction](https://www.youtube.com/watch?v=zbKdDsNNOhg)
+- [ ] [Git & GitHub Crash Course For Beginners](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
+- [ ] [Learn Git in 20 Minutes](https://youtu.be/Y9XZQO1n_7c?t=21)
 
 # Repo Hosting Services
 
@@ -328,9 +328,9 @@ There are different repository hosting services with the most famous one being G
 
 Visit the following resources to learn more:
 
-- [GitHub: Where the world builds software](https://github.com)
-- [GitLab: Iterate faster, innovate together](https://gitlab.com)
-- [BitBucket: The Git solution for professional teams](https://bitbucket.com)
+- [ ] [GitHub: Where the world builds software](https://github.com)
+- [ ] [GitLab: Iterate faster, innovate together](https://gitlab.com)
+- [ ] [BitBucket: The Git solution for professional teams](https://bitbucket.com)
 
 # GitLab
 
@@ -338,8 +338,8 @@ GitLab is a provider of internet hosting for software development and version co
 
 Visit the following resources to learn more:
 
-- [GitLab Website](https://gitlab.com/)
-- [GitLab Documentation](https://docs.gitlab.com/)
+- [ ] [GitLab Website](https://gitlab.com/)
+- [ ] [GitLab Documentation](https://docs.gitlab.com/)
 
 # Bitbucket
 
@@ -349,12 +349,12 @@ Bitbucket offers hosting options via Bitbucket Cloud (Atlassian's servers), Bitb
 
 Visit the following resources to learn more:
 
-- [Bitbucket Website](https://bitbucket.org/product)
-- [A brief overview of Bitbucket](https://bitbucket.org/product/guides/getting-started/overview#a-brief-overview-of-bitbucket)
-- [Getting started with Bitbucket](https://bitbucket.org/product/guides/basics/bitbucket-interface)
-- [Using Git with Bitbucket Cloud](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud)
-- [Bitbucket tutorial | How to use Bitbucket Cloud](https://www.youtube.com/watch?v=M44nEyd_5To)
-- [Bitbucket Tutorial | Bitbucket for Beginners](https://www.youtube.com/watch?v=i5T-DB8tb4A)
+- [ ] [Bitbucket Website](https://bitbucket.org/product)
+- [ ] [A brief overview of Bitbucket](https://bitbucket.org/product/guides/getting-started/overview#a-brief-overview-of-bitbucket)
+- [ ] [Getting started with Bitbucket](https://bitbucket.org/product/guides/basics/bitbucket-interface)
+- [ ] [Using Git with Bitbucket Cloud](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud)
+- [ ] [Bitbucket tutorial | How to use Bitbucket Cloud](https://www.youtube.com/watch?v=M44nEyd_5To)
+- [ ] [Bitbucket Tutorial | Bitbucket for Beginners](https://www.youtube.com/watch?v=i5T-DB8tb4A)
 
 # GitHub
 
@@ -362,13 +362,13 @@ GitHub is a provider of Internet hosting for software development and version co
 
 Visit the following resources to learn more:
 
-- [GitHub Website](https://github.com)
-- [GitHub Documentation](https://docs.github.com/en/get-started/quickstart)
-- [What is GitHub?](https://www.youtube.com/watch?v=w3jLJU7DT5E)
-- [Git vs. GitHub: Whats the difference?](https://www.youtube.com/watch?v=wpISo9TNjfU)
-- [Git and GitHub for Beginners](https://www.youtube.com/watch?v=RGOj5yH7evk)
-- [Git and GitHub - CS50 Beyond 2019](https://www.youtube.com/watch?v=eulnSXkhE7I)
-- [How to Use Git in a Professional Dev Team](https://ooloo.io/project/github-flow)
+- [ ] [GitHub Website](https://github.com)
+- [ ] [GitHub Documentation](https://docs.github.com/en/get-started/quickstart)
+- [ ] [What is GitHub?](https://www.youtube.com/watch?v=w3jLJU7DT5E)
+- [ ] [Git vs. GitHub: Whats the difference?](https://www.youtube.com/watch?v=wpISo9TNjfU)
+- [ ] [Git and GitHub for Beginners](https://www.youtube.com/watch?v=RGOj5yH7evk)
+- [ ] [Git and GitHub - CS50 Beyond 2019](https://www.youtube.com/watch?v=eulnSXkhE7I)
+- [ ] [How to Use Git in a Professional Dev Team](https://ooloo.io/project/github-flow)
 
 # CI / CD
 
@@ -378,9 +378,9 @@ Continuous Delivery is a software engineering method in which a team develops so
 
 Visit the following resources to learn more:
 
-- [What is CI/CD? Continuous Integration and Continuous Delivery](https://www.guru99.com/continuous-integration.html)
-- [Continuous Integration vs Delivery vs Deployment](https://www.guru99.com/continuous-integration-vs-delivery-vs-deployment.html)
-- [CI/CD Pipeline: Learn with Example](https://www.guru99.com/ci-cd-pipeline.html)
+- [ ] [What is CI/CD? Continuous Integration and Continuous Delivery](https://www.guru99.com/continuous-integration.html)
+- [ ] [Continuous Integration vs Delivery vs Deployment](https://www.guru99.com/continuous-integration-vs-delivery-vs-deployment.html)
+- [ ] [CI/CD Pipeline: Learn with Example](https://www.guru99.com/ci-cd-pipeline.html)
 
 # Jenkins
 
@@ -388,9 +388,9 @@ Jenkins is an open-source CI/CD automation server. Jenkins is primarily used for
 
 Visit the following resources to learn more:
 
-- [Jenkins Website](https://www.jenkins.io/)
-- [Official Jenkins Handbook](https://www.jenkins.io/doc/book/)
-- [Jenkins Getting Started Guide](https://www.jenkins.io/doc/pipeline/tour/getting-started/)
+- [ ] [Jenkins Website](https://www.jenkins.io/)
+- [ ] [Official Jenkins Handbook](https://www.jenkins.io/doc/book/)
+- [ ] [Jenkins Getting Started Guide](https://www.jenkins.io/doc/pipeline/tour/getting-started/)
 
 # Travis CI
 
@@ -398,9 +398,9 @@ Travis CI is a CI/CD service that is primarily used for building and testing pro
 
 Visit the following resources to learn more:
 
-- [Travis CI Website](https://www.travis-ci.com/)
-- [Travis CI Documentation](https://docs.travis-ci.com/)
-- [Travis CI Tutorial](https://docs.travis-ci.com/user/tutorial/)
+- [ ] [Travis CI Website](https://www.travis-ci.com/)
+- [ ] [Travis CI Documentation](https://docs.travis-ci.com/)
+- [ ] [Travis CI Tutorial](https://docs.travis-ci.com/user/tutorial/)
 
 # CircleCI
 
@@ -408,9 +408,9 @@ CircleCI is a CI/CD service that can be integrated with GitHub, BitBucket and Gi
 
 Visit the following resources to learn more:
 
-- [CircleCI Website](https://circleci.com/)
-- [CircleCI Documentation](https://circleci.com/docs)
-- [Configuration Tutorial](https://circleci.com/docs/config-intro)
+- [ ] [CircleCI Website](https://circleci.com/)
+- [ ] [CircleCI Documentation](https://circleci.com/docs)
+- [ ] [Configuration Tutorial](https://circleci.com/docs/config-intro)
 
 # Drone
 
@@ -418,9 +418,9 @@ Drone is a CI/CD service offering by [Harness](https://harness.io/). Each build 
 
 Visit the following resources to learn more:
 
-- [Drone Website](https://www.drone.io/)
-- [Official Documentation](https://docs.drone.io/)
-- [Drone Getting Started Guide](https://docs.drone.io/server/overview/)
+- [ ] [Drone Website](https://www.drone.io/)
+- [ ] [Official Documentation](https://docs.drone.io/)
+- [ ] [Drone Getting Started Guide](https://docs.drone.io/server/overview/)
 
 # GitLab CI
 
@@ -428,11 +428,11 @@ GitLab offers a CI/CD service that can be used as a SaaS offering or self-manage
 
 Visit the following resources to learn more:
 
-- [GitLab Website](https://gitlab.com/)
-- [GitLab Documentation](https://docs.gitlab.com/)
-- [Get Started with GitLab CI](https://docs.gitlab.com/ee/ci/quick_start/)
-- [Learn GitLab Tutorials](https://docs.gitlab.com/ee/tutorials/)
-- [GitLab CI/CD Examples](https://docs.gitlab.com/ee/ci/examples/)
+- [ ] [GitLab Website](https://gitlab.com/)
+- [ ] [GitLab Documentation](https://docs.gitlab.com/)
+- [ ] [Get Started with GitLab CI](https://docs.gitlab.com/ee/ci/quick_start/)
+- [ ] [Learn GitLab Tutorials](https://docs.gitlab.com/ee/tutorials/)
+- [ ] [GitLab CI/CD Examples](https://docs.gitlab.com/ee/ci/examples/)
 
 # Bamboo
 
@@ -440,9 +440,9 @@ Bamboo is a CI/CD service provided by Atlassian. Bamboo is primarily used for au
 
 Visit the following resources to learn more:
 
-- [Bamboo Website](https://www.atlassian.com/software/bamboo)
-- [Official Documentation](https://confluence.atlassian.com/bamboo/bamboo-documentation-289276551.html)
-- [Bamboo Getting Started Guide](https://confluence.atlassian.com/bamboo/getting-started-with-bamboo-289277283.html)
+- [ ] [Bamboo Website](https://www.atlassian.com/software/bamboo)
+- [ ] [Official Documentation](https://confluence.atlassian.com/bamboo/bamboo-documentation-289276551.html)
+- [ ] [Bamboo Getting Started Guide](https://confluence.atlassian.com/bamboo/getting-started-with-bamboo-289277283.html)
 
 # TeamCity
 
@@ -450,10 +450,10 @@ TeamCity is a CI/CD service provided by JetBrains. TeamCity can be used as a Saa
 
 Visit the following resources to learn more:
 
-- [TeamCity Website](https://www.jetbrains.com/teamcity/)
-- [Official Documentation](https://www.jetbrains.com/help/teamcity/teamcity-documentation.html)
-- [TeamCity Tutorials](https://www.jetbrains.com/teamcity/tutorials/)
-- [TeamCity Learning Portal](https://www.jetbrains.com/teamcity/learn/)
+- [ ] [TeamCity Website](https://www.jetbrains.com/teamcity/)
+- [ ] [Official Documentation](https://www.jetbrains.com/help/teamcity/teamcity-documentation.html)
+- [ ] [TeamCity Tutorials](https://www.jetbrains.com/teamcity/tutorials/)
+- [ ] [TeamCity Learning Portal](https://www.jetbrains.com/teamcity/learn/)
 
 # Azure DevOps
 
@@ -461,9 +461,9 @@ Azure DevOps is developed by Microsoft as a full scale application lifecycle man
 
 Visit the following resources to learn more:
 
-- [Azure DevOps Website](https://azure.microsoft.com/en-us/services/devops/#overview)
-- [Official Documentation](https://docs.microsoft.com/en-us/azure/devops/?view=azure-devops&viewFallbackFrom=vsts)
-- [Azure DevOps Getting Started Guide](https://docs.microsoft.com/en-us/azure/devops/user-guide/sign-up-invite-teammates?view=azure-devops)
+- [ ] [Azure DevOps Website](https://azure.microsoft.com/en-us/services/devops/#overview)
+- [ ] [Official Documentation](https://docs.microsoft.com/en-us/azure/devops/?view=azure-devops&viewFallbackFrom=vsts)
+- [ ] [Azure DevOps Getting Started Guide](https://docs.microsoft.com/en-us/azure/devops/user-guide/sign-up-invite-teammates?view=azure-devops)
 
 # Headless Testing
 
@@ -477,7 +477,7 @@ A few example cases where one may use headless browser testing include:
 
 Visit the following resources to learn more:
 
-- [What is Headless Browser Testing and Why is it Important?](https://www.browserstack.com/guide/what-is-headless-browser-testing)
+- [ ] [What is Headless Browser Testing and Why is it Important?](https://www.browserstack.com/guide/what-is-headless-browser-testing)
 
 # Zombie.js
 
@@ -485,8 +485,8 @@ Zombie.js allows you to run Unit or Integration tests without a real web browser
 
 Visit the following resources to learn more:
 
-- [Zombie.js Website](http://zombie.js.org/)
-- [Getting Started with Zombie.js](https://www.packt.com/getting-started-zombiejs/)
+- [ ] [Zombie.js Website](http://zombie.js.org/)
+- [ ] [Getting Started with Zombie.js](https://www.packt.com/getting-started-zombiejs/)
 
 # Playwright
 
@@ -494,8 +494,8 @@ Playwright is an open-source test automation library initially developed by Micr
 
 Visit the following resources to learn more:
 
-- [Playwright Website](https://playwright.dev/)
-- [Playwright Tutorial: Learn Basics and Setup](https://www.browserstack.com/guide/playwright-tutorial)
+- [ ] [Playwright Website](https://playwright.dev/)
+- [ ] [Playwright Tutorial: Learn Basics and Setup](https://www.browserstack.com/guide/playwright-tutorial)
 
 # Puppeteer
 
@@ -503,8 +503,8 @@ Puppeteer is a Node library that provides a high-level API to control headless C
 
 Visit the following resources to learn more:
 
-- [Puppeteer Website](https://pptr.dev/)
-- [How to Use Puppeteer With Node.js](https://www.freecodecamp.org/news/how-to-use-puppeteer-with-nodejs/)
+- [ ] [Puppeteer Website](https://pptr.dev/)
+- [ ] [How to Use Puppeteer With Node.js](https://www.freecodecamp.org/news/how-to-use-puppeteer-with-nodejs/)
 
 # Cypress
 
@@ -512,9 +512,9 @@ Cypress framework is a JavaScript-based end-to-end testing framework built on to
 
 Visit the following resources to learn more:
 
-- [Official Website](https://www.cypress.io/)
-- [Official Documentation](https://docs.cypress.io/guides/overview/why-cypress#Other)
-- [Cypress End-to-End Testing](https://www.youtube.com/watch?v=7N63cMKosIE)
+- [ ] [Official Website](https://www.cypress.io/)
+- [ ] [Official Documentation](https://docs.cypress.io/guides/overview/why-cypress#Other)
+- [ ] [Cypress End-to-End Testing](https://www.youtube.com/watch?v=7N63cMKosIE)
 
 # Headless Chrome
 
@@ -522,7 +522,7 @@ Headless Chrome is a way to run the Chrome browser in a headless environment wit
 
 Visit the following resources to learn more:
 
-- [Headless Chromium](https://chromium.googlesource.com/chromium/src/+/lkgr/headless/README.md)
+- [ ] [Headless Chromium](https://chromium.googlesource.com/chromium/src/+/lkgr/headless/README.md)
 
 # Headless Fox
 
@@ -530,7 +530,7 @@ Headless Browser Testing is a process of running the browser tests without the t
 
 Visit the following resources to learn more:
 
-- [Using Headless Mode in Firefox](https://hacks.mozilla.org/2017/12/using-headless-mode-in-firefox/)
+- [ ] [Using Headless Mode in Firefox](https://hacks.mozilla.org/2017/12/using-headless-mode-in-firefox/)
 
 # HtmlUnit
 
@@ -540,5 +540,5 @@ HtmlUnit is not a generic unit testing framework. It is specifically a way to si
 
 Visit the following resources to learn more:
 
-- [HtmlUnit Website](https://htmlunit.sourceforge.io/)
-- [Introduction to HtmlUnit](https://www.baeldung.com/htmlunit)
+- [ ] [HtmlUnit Website](https://htmlunit.sourceforge.io/)
+- [ ] [Introduction to HtmlUnit](https://www.baeldung.com/htmlunit)

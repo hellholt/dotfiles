@@ -8,9 +8,9 @@ Describes how an application is built including its components, how they interac
 
 Visit the following resources to learn more:
 
-- [What is Software Architecture in Software Engineering?](https://webcache.googleusercontent.com/search?q=cache:ya4xvYaEckQJ:https://www.future-processing.com/blog/what-is-software-architecture-in-software-engineering/&cd=1&hl=es-419&ct=clnk&gl=ar)
-- [An Introduction to Software Architecture Patterns](https://www.freecodecamp.org/news/an-introduction-to-software-architecture-patterns/)
-- [Software Architecture: It might not be what you think it is](https://www.infoq.com/articles/what-software-architecture/)
+- [ ] [What is Software Architecture in Software Engineering?](https://webcache.googleusercontent.com/search?q=cache:ya4xvYaEckQJ:https://www.future-processing.com/blog/what-is-software-architecture-in-software-engineering/&cd=1&hl=es-419&ct=clnk&gl=ar)
+- [ ] [An Introduction to Software Architecture Patterns](https://www.freecodecamp.org/news/an-introduction-to-software-architecture-patterns/)
+- [ ] [Software Architecture: It might not be what you think it is](https://www.infoq.com/articles/what-software-architecture/)
 
 # What is Software Architect?
 
@@ -18,7 +18,7 @@ An expert developer who design software solutions from the ground up, making hig
 
 Visit the following resources to learn more:
 
-- [12 Skills a Software Architect Needs](https://www.redhat.com/architect/what-is-software-architect)
+- [ ] [12 Skills a Software Architect Needs](https://www.redhat.com/architect/what-is-software-architect)
 
 # Important Skills
 
@@ -144,11 +144,11 @@ Your ideas are great and you have communicated them well but still nobody wants 
 
 Visit the following resources to learn more:
 
-- [Visit Dedicated Java Roadmap](/java)
-- [Java Basics](https://www.w3schools.com/java/)
-- [Learn the basics of Kotlin](https://blog.teamtreehouse.com/absolute-beginners-guide-kotlin)
-- [Kotlin Docs](https://kotlinlang.org/docs/reference/basic-syntax.html)
-- [Scala Tutorial](https://docs.scala-lang.org/tour/basics.html)
+- [ ] [Visit Dedicated Java Roadmap](/java)
+- [ ] [Java Basics](https://www.w3schools.com/java/)
+- [ ] [Learn the basics of Kotlin](https://blog.teamtreehouse.com/absolute-beginners-guide-kotlin)
+- [ ] [Kotlin Docs](https://kotlinlang.org/docs/reference/basic-syntax.html)
+- [ ] [Scala Tutorial](https://docs.scala-lang.org/tour/basics.html)
 
 # Python
 
@@ -156,13 +156,13 @@ Python is a multi-paradigm language. Being an interpreted language, code is exec
 
 Visit the following resources to learn more:
 
-- [Visit Dedicated Python Roadmap](/python)
-- [Python Website](https://www.python.org/)
-- [Python Getting Started](https://www.python.org/about/gettingstarted/)
-- [Automate the Boring Stuff](https://automatetheboringstuff.com/)
-- [W3Schools - Python Tutorial](https://www.w3schools.com/python/)
-- [Python Crash Course](https://ehmatthes.github.io/pcc/)
-- [Codecademy - Learn Python 3](https://www.codecademy.com/learn/learn-python-3)
+- [ ] [Visit Dedicated Python Roadmap](/python)
+- [ ] [Python Website](https://www.python.org/)
+- [ ] [Python Getting Started](https://www.python.org/about/gettingstarted/)
+- [ ] [Automate the Boring Stuff](https://automatetheboringstuff.com/)
+- [ ] [W3Schools - Python Tutorial](https://www.w3schools.com/python/)
+- [ ] [Python Crash Course](https://ehmatthes.github.io/pcc/)
+- [ ] [Codecademy - Learn Python 3](https://www.codecademy.com/learn/learn-python-3)
 
 # Ruby
 
@@ -170,9 +170,9 @@ Ruby is a high-level, interpreted programming language that blends Perl, Smallta
 
 Visit the following resources to learn more:
 
-- [Ruby Website](https://www.ruby-lang.org/en/)
-- [Learn Ruby in 20 minutes](https://www.ruby-lang.org/en/documentation/quickstart/)
-- [Learn Ruby | Codecademy](https://www.codecademy.com/learn/learn-ruby)
+- [ ] [Ruby Website](https://www.ruby-lang.org/en/)
+- [ ] [Learn Ruby in 20 minutes](https://www.ruby-lang.org/en/documentation/quickstart/)
+- [ ] [Learn Ruby | Codecademy](https://www.codecademy.com/learn/learn-ruby)
 
 # Go
 
@@ -180,12 +180,12 @@ Go is an open source programming language supported by Google. Go can be used to
 
 Visit the following resources to learn more:
 
-- [Visit Dedicated Go Roadmap](/golang)
-- [A Tour of Go – Go Basics](https://go.dev/tour/welcome/1)
-- [Go Reference Documentation](https://go.dev/doc/)
-- [Go by Example - annotated example programs](https://gobyexample.com/)
-- [Learn Go | Codecademy](https://www.codecademy.com/learn/learn-go)
-- [W3Schools Go Tutorial](https://www.w3schools.com/go/)
+- [ ] [Visit Dedicated Go Roadmap](/golang)
+- [ ] [A Tour of Go – Go Basics](https://go.dev/tour/welcome/1)
+- [ ] [Go Reference Documentation](https://go.dev/doc/)
+- [ ] [Go by Example - annotated example programs](https://gobyexample.com/)
+- [ ] [Learn Go | Codecademy](https://www.codecademy.com/learn/learn-go)
+- [ ] [W3Schools Go Tutorial](https://www.w3schools.com/go/)
 
 # JavaScript
 
@@ -193,19 +193,19 @@ JavaScript allows you to add interactivity to your pages. Common examples that y
 
 Visit the following resources to learn more:
 
-- [Visit Dedicated JavaScript Roadmap](/javascript)
-- [W3Schools – JavaScript Tutorial](https://www.w3schools.com/js/)
-- [The Modern JavaScript Tutorial](https://javascript.info/)
-- [Codecademy - Learn JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)
-- [JavaScript Crash Course for Beginners](https://youtu.be/hdI2bqOjy3c)
-- [Node.js Crash Course](https://www.youtube.com/watch?v=fBNz5xF-Kx4)
-- [Node.js Tutorial for Beginners](https://www.youtube.com/watch?v=TlB_eWDSMt4)
-- [Official Website](https://www.typescriptlang.org/)
-- [Official Docs for Deep Dives](https://www.typescriptlang.org/docs/)
-- [The TypeScript Handbook](https://www.typescriptlang.org/docs/handbook/intro.html)
-- [TypeScript Tutorial](https://www.tutorialspoint.com/typescript/index.htm)
-- [Scrimba — TypeScript Basics](https://scrimba.com/learn/typescript)
-- [TypeScript for Beginners](https://www.youtube.com/watch?v=BwuLxPH8IDs)
+- [ ] [Visit Dedicated JavaScript Roadmap](/javascript)
+- [ ] [W3Schools – JavaScript Tutorial](https://www.w3schools.com/js/)
+- [ ] [The Modern JavaScript Tutorial](https://javascript.info/)
+- [ ] [Codecademy - Learn JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)
+- [ ] [JavaScript Crash Course for Beginners](https://youtu.be/hdI2bqOjy3c)
+- [ ] [Node.js Crash Course](https://www.youtube.com/watch?v=fBNz5xF-Kx4)
+- [ ] [Node.js Tutorial for Beginners](https://www.youtube.com/watch?v=TlB_eWDSMt4)
+- [ ] [Official Website](https://www.typescriptlang.org/)
+- [ ] [Official Docs for Deep Dives](https://www.typescriptlang.org/docs/)
+- [ ] [The TypeScript Handbook](https://www.typescriptlang.org/docs/handbook/intro.html)
+- [ ] [TypeScript Tutorial](https://www.tutorialspoint.com/typescript/index.htm)
+- [ ] [Scrimba — TypeScript Basics](https://scrimba.com/learn/typescript)
+- [ ] [TypeScript for Beginners](https://www.youtube.com/watch?v=BwuLxPH8IDs)
 
 # .NET Framework
 
@@ -215,12 +215,12 @@ Officially supported languages in .NET: C#, F#, Visual Basic.
 
 Visit the following resources to learn more:
 
-- [.NET Website](https://dotnet.microsoft.com/en-us/)
-- [What is .NET?](https://dotnet.microsoft.com/en-us/learn/dotnet/what-is-dotnet)
-- [Why Choose .NET?](https://dotnet.microsoft.com/en-us/platform/why-choose-dotnet)
-- [C# Documentation](https://learn.microsoft.com/en-us/dotnet/csharp/?WT.mc_id=dotnet-35129-website)
-- [F# Documentation](https://learn.microsoft.com/en-us/dotnet/fsharp/?WT.mc_id=dotnet-35129-website)
-- [Visual Basic Documentation](https://learn.microsoft.com/en-us/dotnet/visual-basic/?WT.mc_id=dotnet-35129-website)
+- [ ] [.NET Website](https://dotnet.microsoft.com/en-us/)
+- [ ] [What is .NET?](https://dotnet.microsoft.com/en-us/learn/dotnet/what-is-dotnet)
+- [ ] [Why Choose .NET?](https://dotnet.microsoft.com/en-us/platform/why-choose-dotnet)
+- [ ] [C# Documentation](https://learn.microsoft.com/en-us/dotnet/csharp/?WT.mc_id=dotnet-35129-website)
+- [ ] [F# Documentation](https://learn.microsoft.com/en-us/dotnet/fsharp/?WT.mc_id=dotnet-35129-website)
+- [ ] [Visual Basic Documentation](https://learn.microsoft.com/en-us/dotnet/visual-basic/?WT.mc_id=dotnet-35129-website)
 
 # Patterns and design principles
 
@@ -230,11 +230,11 @@ Object-oriented programming (OOP) is a computer programming model that organizes
 
 Visit the following resources to learn more:
 
-- [Basic concepts of object-oriented programming](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object-oriented_programming)
-- [geeksforgeeks - OOP Concepts](https://www.geeksforgeeks.org/object-oriented-programming-oops-concept-in-java/)
-- [w3schools - OOP Concepts](https://www.w3schools.com/java/java_oop.asp)
-- [FreeCodeCamp - (OOP) in C++](https://www.youtube.com/watch?v=wN0x9eZLix4)
-- [FreeCodeCamp - (OPP) in Python](https://www.youtube.com/watch?v=Ej_02ICOIgs)
+- [ ] [Basic concepts of object-oriented programming](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object-oriented_programming)
+- [ ] [geeksforgeeks - OOP Concepts](https://www.geeksforgeeks.org/object-oriented-programming-oops-concept-in-java/)
+- [ ] [w3schools - OOP Concepts](https://www.w3schools.com/java/java_oop.asp)
+- [ ] [FreeCodeCamp - (OOP) in C++](https://www.youtube.com/watch?v=wN0x9eZLix4)
+- [ ] [FreeCodeCamp - (OPP) in Python](https://www.youtube.com/watch?v=Ej_02ICOIgs)
 
 # MVC MVP MVVM
 
@@ -247,7 +247,7 @@ Another variant of the MVC is the model-view-viewmodel pattern. The Model-view-v
 
 Visit the following resources to learn more:
 
-- [MVC, MVP and MVVM Design Pattern](https://medium.com/@ankit.sinhal/mvc-mvp-and-mvvm-design-pattern-6e169567bbad)
+- [ ] [MVC, MVP and MVVM Design Pattern](https://medium.com/@ankit.sinhal/mvc-mvp-and-mvvm-design-pattern-6e169567bbad)
 
 # CQRS eventual consistency
 
@@ -255,8 +255,8 @@ CQRS (Segregation of Responsibility for Command Queries) is an architecture patt
 
 Visit the following resources to learn more:
 
-- [CQRS](https://martinfowler.com/bliki/CQRS.html)
-- [Introduction to CQRS](https://learn.microsoft.com/en-us/azure/architecture/patterns/cqrs)
+- [ ] [CQRS](https://martinfowler.com/bliki/CQRS.html)
+- [ ] [Introduction to CQRS](https://learn.microsoft.com/en-us/azure/architecture/patterns/cqrs)
 
 # Actors
 
@@ -264,8 +264,8 @@ Actor Model is a model that represents actors as the basic unit of a system, the
 
 Visit the following resources to learn more:
 
-- [Actor Model Explained](https://www.youtube.com/watch?v=ELwEdb_pD0k)
-- [The actor model in 10 minutes](https://www.brianstorti.com/the-actor-model/)
+- [ ] [Actor Model Explained](https://www.youtube.com/watch?v=ELwEdb_pD0k)
+- [ ] [The actor model in 10 minutes](https://www.brianstorti.com/the-actor-model/)
 
 # ACID & CAP Theorem
 
@@ -277,12 +277,12 @@ ACID is an acronym that stands for Atomicity, Consistency, Isolation, Durability
 
 Visit the following resources to learn more:
 
-- [What is CAP Theorem?](https://www.bmc.com/blogs/cap-theorem/)
-- [CAP Theorem - Wikipedia](https://en.wikipedia.org/wiki/CAP_theorem)
-- [An Illustrated Proof of the CAP Theorem](https://mwhittaker.github.io/blog/an_illustrated_proof_of_the_cap_theorem/)
-- [CAP Theorem and its applications in NoSQL Databases](https://www.ibm.com/uk-en/cloud/learn/cap-theorem)
-- [What is CAP Theorem?](https://www.youtube.com/watch?v=_RbsFXWRZ10)
-- [ACID - Wikipedia](https://en.wikipedia.org/wiki/ACID)
+- [ ] [What is CAP Theorem?](https://www.bmc.com/blogs/cap-theorem/)
+- [ ] [CAP Theorem - Wikipedia](https://en.wikipedia.org/wiki/CAP_theorem)
+- [ ] [An Illustrated Proof of the CAP Theorem](https://mwhittaker.github.io/blog/an_illustrated_proof_of_the_cap_theorem/)
+- [ ] [CAP Theorem and its applications in NoSQL Databases](https://www.ibm.com/uk-en/cloud/learn/cap-theorem)
+- [ ] [What is CAP Theorem?](https://www.youtube.com/watch?v=_RbsFXWRZ10)
+- [ ] [ACID - Wikipedia](https://en.wikipedia.org/wiki/ACID)
 
 # SOLID
 
@@ -296,8 +296,8 @@ SOLID is a set of principles applied to object-oriented design (OOD) to create m
 
 Visit the following resources to learn more:
 
-- [SOLID Principles](https://www.baeldung.com/solid-principles)
-- [SOLID: The First 5 Principles of Object Oriented Design](https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
+- [ ] [SOLID Principles](https://www.baeldung.com/solid-principles)
+- [ ] [SOLID: The First 5 Principles of Object Oriented Design](https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
 
 # Domain-Driven Design
 
@@ -313,7 +313,7 @@ DDD connects the implementation to an evolving model and it is predicated on the
 
 Visit the following resources to learn more:
 
-- [Domain Driven Design Quickly](https://matfrs2.github.io/RS2/predavanja/literatura/Avram%20A,%20Marinescu%20F.%20-%20Domain%20Driven%20Design%20Quickly.pdf)
+- [ ] [Domain Driven Design Quickly](https://matfrs2.github.io/RS2/predavanja/literatura/Avram%20A,%20Marinescu%20F.%20-%20Domain%20Driven%20Design%20Quickly.pdf)
 
 # Test Driven Development
 
@@ -321,9 +321,9 @@ Test driven development (TDD) is the process of writing tests for software's req
 
 Visit the following resources to learn more:
 
-- [What is Test Driven Development (TDD)?](https://www.guru99.com/test-driven-development.html)
-- [Test-driven development](https://www.ibm.com/garage/method/practices/code/practice_test_driven_development/)
-- [Agile in Practice: Test Driven Development](https://youtu.be/uGaNkTahrIw)
+- [ ] [What is Test Driven Development (TDD)?](https://www.guru99.com/test-driven-development.html)
+- [ ] [Test-driven development](https://www.ibm.com/garage/method/practices/code/practice_test_driven_development/)
+- [ ] [Agile in Practice: Test Driven Development](https://youtu.be/uGaNkTahrIw)
 
 # Architect tools
 
@@ -333,9 +333,9 @@ Git is a free and open source distributed version control system designed to han
 
 Visit the following resources to learn more:
 
-- [Git](https://git-scm.com/)
-- [Git Documentation](https://git-scm.com/doc)
-- [All about Git](https://www.atlassian.com/git/tutorials/what-is-git)
+- [ ] [Git](https://git-scm.com/)
+- [ ] [Git Documentation](https://git-scm.com/doc)
+- [ ] [All about Git](https://www.atlassian.com/git/tutorials/what-is-git)
 
 # Slack
 
@@ -343,9 +343,9 @@ Slack is a messaging app for business that connects people to the information th
 
 Visit the following resources to learn more:
 
-- [Slack](https://slack.com)
-- [What is Slack?](https://www.youtube.com/watch?v=q19RtuCHt1Q)
-- [Getting Started](https://slack.com/intl/en-in/help/categories/360000049043)
+- [ ] [Slack](https://slack.com)
+- [ ] [What is Slack?](https://www.youtube.com/watch?v=q19RtuCHt1Q)
+- [ ] [Getting Started](https://slack.com/intl/en-in/help/categories/360000049043)
 
 # Trello
 
@@ -353,9 +353,9 @@ Trello is the visual tool that empowers your team to manage any type of project,
 
 Visit the following resources to learn more:
 
-- [Trello](https://trello.com)
-- [A Tour Of Trello](https://www.youtube.com/watch?v=AyfupeWS0yY)
-- [Trello Guide](https://trello.com/guide)
+- [ ] [Trello](https://trello.com)
+- [ ] [A Tour Of Trello](https://www.youtube.com/watch?v=AyfupeWS0yY)
+- [ ] [Trello Guide](https://trello.com/guide)
 
 # Atlassian tools
 
@@ -398,14 +398,14 @@ Jira Align is an Enterprise Agile Planning platform that helps improve visibilit
 
 Visit the following resources to learn more:
 
-- [Jira Service Desk](https://www.atlassian.com/software/jira/service-management/features/service-desk)
-- [Jira Core](https://www.atlassian.com/software/jira/work-management)
-- [Confluence](https://www.atlassian.com/wac/software/confluence?)
-- [Bitbucket](https://bitbucket.org/product/)
-- [Statuspage](https://www.atlassian.com/software/statuspage)
-- [Opsgenie](https://www.atlassian.com/software/opsgenie)
-- [Advanced Roadmaps for Jira](https://www.atlassian.com/software/jira/features/roadmaps)
-- [Jira Align](https://www.atlassian.com/software/jira/align)
+- [ ] [Jira Service Desk](https://www.atlassian.com/software/jira/service-management/features/service-desk)
+- [ ] [Jira Core](https://www.atlassian.com/software/jira/work-management)
+- [ ] [Confluence](https://www.atlassian.com/wac/software/confluence?)
+- [ ] [Bitbucket](https://bitbucket.org/product/)
+- [ ] [Statuspage](https://www.atlassian.com/software/statuspage)
+- [ ] [Opsgenie](https://www.atlassian.com/software/opsgenie)
+- [ ] [Advanced Roadmaps for Jira](https://www.atlassian.com/software/jira/features/roadmaps)
+- [ ] [Jira Align](https://www.atlassian.com/software/jira/align)
 
 # Architectures
 
@@ -415,8 +415,8 @@ Serverless architecture (also known as serverless computing or function as a ser
 
 Visit the following resources to learn more:
 
-- [Serverless Architectures By AWS](https://aws.amazon.com/lambda/serverless-architectures-learn-more/)
-- [Serverless in Detail](https://martinfowler.com/articles/serverless.html)
+- [ ] [Serverless Architectures By AWS](https://aws.amazon.com/lambda/serverless-architectures-learn-more/)
+- [ ] [Serverless in Detail](https://martinfowler.com/articles/serverless.html)
 
 # Microservices
 
@@ -424,16 +424,16 @@ Microservices are an architectural approach to software development that allows 
 
 Visit the following resources to learn more:
 
-- [Introduction to microservices](https://developer.ibm.com/learningpaths/get-started-application-modernization/intro-microservices/introduction/)
-- [Microservice Patterns and Resources by Chris Richardson](https://microservices.io/index.html)
-- [Microservices AntiPatterns and Pitfalls - Mark Richards](https://www.oreilly.com/content/microservices-antipatterns-and-pitfalls/)
-- [Building Microservices, 2nd Edition - Sam Newman](https://samnewman.io/books/building_microservices_2nd_edition/)
+- [ ] [Introduction to microservices](https://developer.ibm.com/learningpaths/get-started-application-modernization/intro-microservices/introduction/)
+- [ ] [Microservice Patterns and Resources by Chris Richardson](https://microservices.io/index.html)
+- [ ] [Microservices AntiPatterns and Pitfalls - Mark Richards](https://www.oreilly.com/content/microservices-antipatterns-and-pitfalls/)
+- [ ] [Building Microservices, 2nd Edition - Sam Newman](https://samnewman.io/books/building_microservices_2nd_edition/)
 
 # Client server architecture
 
 Visit the following resources to learn more:
 
-- [What is Client-Server Architecture](https://www.simplilearn.com/what-is-client-server-architecture-article)
+- [ ] [What is Client-Server Architecture](https://www.simplilearn.com/what-is-client-server-architecture-article)
 
 # Layered Architecture
 
@@ -459,7 +459,7 @@ Overall, while layered architecture has many benefits, it is important to carefu
 
 Visit the following resources to learn more:
 
-- [Free Distributed Systems book from Maarten van Steen](https://www.distributed-systems.net/index.php/books/ds3/)
+- [ ] [Free Distributed Systems book from Maarten van Steen](https://www.distributed-systems.net/index.php/books/ds3/)
 
 # Service oriented
 
@@ -474,8 +474,8 @@ SOA provides four different service types:
 
 Visit the following resources to learn more:
 
-- [SOA Architecture By AWS](https://aws.amazon.com/what-is/service-oriented-architecture/)
-- [SOA Architecture](https://www.geeksforgeeks.org/service-oriented-architecture/)
+- [ ] [SOA Architecture By AWS](https://aws.amazon.com/what-is/service-oriented-architecture/)
+- [ ] [SOA Architecture](https://www.geeksforgeeks.org/service-oriented-architecture/)
 
 # Security
 
@@ -485,9 +485,9 @@ Hashing algorithms are used to generate a unique value for a given input. This v
 
 Visit the following resources to learn more:
 
-- [Hashing Algorithms and Security - Computerphile](https://www.youtube.com/watch?v=b4b8ktEV4Bg)
-- [Top Hashing Algorithms In Cryptography | MD5 and SHA 256 Algorithms Expalined | Simplilearn](https://www.youtube.com/watch?v=Plp4F3ZfC7A)
-- [SHA: Secure Hashing Algorithm - Computerphile](https://www.youtube.com/watch?v=DMtFhACPnTY)
+- [ ] [Hashing Algorithms and Security - Computerphile](https://www.youtube.com/watch?v=b4b8ktEV4Bg)
+- [ ] [Top Hashing Algorithms In Cryptography | MD5 and SHA 256 Algorithms Expalined | Simplilearn](https://www.youtube.com/watch?v=Plp4F3ZfC7A)
+- [ ] [SHA: Secure Hashing Algorithm - Computerphile](https://www.youtube.com/watch?v=DMtFhACPnTY)
 
 # PKI
 
@@ -524,21 +524,21 @@ OWASP or Open Web Application Security Project is an online community that produ
 
 Visit the following resources to learn more:
 
-- [Wikipedia - OWASP](https://en.wikipedia.org/wiki/OWASP)
-- [OWASP Web Application Security Testing Checklist](https://github.com/0xRadi/OWASP-Web-Checklist)
-- [OWASP Top 10 Security Risks](https://sucuri.net/guides/owasp-top-10-security-vulnerabilities-2021/)
-- [OWASP Cheatsheets](https://cheatsheetseries.owasp.org/cheatsheets/AJAX_Security_Cheat_Sheet.html)
+- [ ] [Wikipedia - OWASP](https://en.wikipedia.org/wiki/OWASP)
+- [ ] [OWASP Web Application Security Testing Checklist](https://github.com/0xRadi/OWASP-Web-Checklist)
+- [ ] [OWASP Top 10 Security Risks](https://sucuri.net/guides/owasp-top-10-security-vulnerabilities-2021/)
+- [ ] [OWASP Cheatsheets](https://cheatsheetseries.owasp.org/cheatsheets/AJAX_Security_Cheat_Sheet.html)
 
 # Auth strategies
 
 Visit the following resources to learn more:
 
-- [JSON Web Token - Handbook](https://auth0.com/resources/ebooks/jwt-handbook)
-- [SAML Overview](https://www.youtube.com/watch?v=i8wFExDSZv0)
-- [A Devlopers Guide to SAML](https://www.youtube.com/watch?v=l-6QSEqDJPo)
-- [SAML 2.0: Technical Overview](https://www.youtube.com/watch?v=SvppXbpv-5k)
-- [An Illustrated Guide to OAuth and OpenID Connect](https://www.youtube.com/watch?v=t18YB3xDfXI)
-- [OAuth 2.0 & OpenID Connect (OIDC): Technical Overview](https://www.youtube.com/watch?v=rTzlF-U9Y6Y)
+- [ ] [JSON Web Token - Handbook](https://auth0.com/resources/ebooks/jwt-handbook)
+- [ ] [SAML Overview](https://www.youtube.com/watch?v=i8wFExDSZv0)
+- [ ] [A Devlopers Guide to SAML](https://www.youtube.com/watch?v=l-6QSEqDJPo)
+- [ ] [SAML 2.0: Technical Overview](https://www.youtube.com/watch?v=SvppXbpv-5k)
+- [ ] [An Illustrated Guide to OAuth and OpenID Connect](https://www.youtube.com/watch?v=t18YB3xDfXI)
+- [ ] [OAuth 2.0 & OpenID Connect (OIDC): Technical Overview](https://www.youtube.com/watch?v=rTzlF-U9Y6Y)
 
 # Working with data
 
@@ -550,8 +550,8 @@ Hadoop MapReduce is a software framework for easily writing applications which p
 
 Visit the following resources to learn more:
 
-- [Spark vs Hadoop MapReduce](https://www.integrate.io/blog/apache-spark-vs-hadoop-mapreduce)
-- [Hadoop explained in 5 minutes](https://www.youtube.com/watch?v=aReuLtY0YMI)
+- [ ] [Spark vs Hadoop MapReduce](https://www.integrate.io/blog/apache-spark-vs-hadoop-mapreduce)
+- [ ] [Hadoop explained in 5 minutes](https://www.youtube.com/watch?v=aReuLtY0YMI)
 
 # ETL Datawarehouses
 
@@ -565,8 +565,8 @@ ETL tools enable data integration strategies by allowing companies to gather dat
 
 Visit the following resources to learn more:
 
-- [What is ETL?](https://www.snowflake.com/guides/what-etl)
-- [ETL explained](https://www.youtube.com/watch?v=OW5OgsLpDCQ)
+- [ ] [What is ETL?](https://www.snowflake.com/guides/what-etl)
+- [ ] [ETL explained](https://www.youtube.com/watch?v=OW5OgsLpDCQ)
 
 # Sql databases
 
@@ -578,7 +578,7 @@ Examples of SQL Databases
 
 Visit the following resources to learn more:
 
-- [SQL Databases](https://www.openlogic.com/blog/what-sql-database)
+- [ ] [SQL Databases](https://www.openlogic.com/blog/what-sql-database)
 
 # Nosql databases
 
@@ -592,7 +592,7 @@ Types of NoSQL databases
 
 Visit the following resources to learn more:
 
-- [NoSQL Databases](https://www.mongodb.com/nosql-explained)
+- [ ] [NoSQL Databases](https://www.mongodb.com/nosql-explained)
 
 # Apis and integrations
 
@@ -606,10 +606,10 @@ gRPC uses the protocol buffer language to define the structure of the data that 
 
 Visit the following resources to learn more:
 
-- [gRPC Website](https://grpc.io/)
-- [gRPC Introduction](https://grpc.io/docs/what-is-grpc/introduction/)
-- [gRPC Core Concepts](https://grpc.io/docs/what-is-grpc/core-concepts/)
-- [Stephane Maarek - gRPC Introduction](https://youtu.be/XRXTsQwyZSU)
+- [ ] [gRPC Website](https://grpc.io/)
+- [ ] [gRPC Introduction](https://grpc.io/docs/what-is-grpc/introduction/)
+- [ ] [gRPC Core Concepts](https://grpc.io/docs/what-is-grpc/core-concepts/)
+- [ ] [Stephane Maarek - gRPC Introduction](https://youtu.be/XRXTsQwyZSU)
 
 # Esb soap
 
@@ -619,7 +619,7 @@ GraphQL is a query language for APIs and a runtime for fulfilling those queries 
 
 Visit the following resources to learn more:
 
-- [Apollo GraphQL Tutorials](https://www.apollographql.com/tutorials/)
+- [ ] [Apollo GraphQL Tutorials](https://www.apollographql.com/tutorials/)
 
 # REST
 
@@ -627,10 +627,10 @@ REST, or REpresentational State Transfer, is an architectural style for providin
 
 Visit the following resources to learn more:
 
-- [What is REST?](https://www.codecademy.com/article/what-is-rest)
-- [What is a REST API?](https://www.redhat.com/en/topics/api/what-is-a-rest-api)
-- [Roy Fieldings dissertation chapter, Representational State Transfer (REST)](https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm)
-- [Learn REST: A RESTful Tutorial](https://restapitutorial.com/)
+- [ ] [What is REST?](https://www.codecademy.com/article/what-is-rest)
+- [ ] [What is a REST API?](https://www.redhat.com/en/topics/api/what-is-a-rest-api)
+- [ ] [Roy Fieldings dissertation chapter, Representational State Transfer (REST)](https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm)
+- [ ] [Learn REST: A RESTful Tutorial](https://restapitutorial.com/)
 
 # BPM BPEL
 
@@ -649,9 +649,9 @@ Programmers use BPEL to define how a business process that involves web services
 
 Visit the following resources to learn more:
 
-- [What is BPM?](https://www.redhat.com/en/topics/automation/what-is-business-process-management)
-- [BPEL described](https://www.ibm.com/docs/en/baw/19.x?topic=SS8JB4_19.x/com.ibm.wbpm.wid.main.doc/prodoverview/topics/cbpelproc.html)
-- [BPM vs BPEL](https://www.youtube.com/watch?v=V6nr5dnb1JQ)
+- [ ] [What is BPM?](https://www.redhat.com/en/topics/automation/what-is-business-process-management)
+- [ ] [BPEL described](https://www.ibm.com/docs/en/baw/19.x?topic=SS8JB4_19.x/com.ibm.wbpm.wid.main.doc/prodoverview/topics/cbpelproc.html)
+- [ ] [BPM vs BPEL](https://www.youtube.com/watch?v=V6nr5dnb1JQ)
 
 # Messaging queues
 
@@ -659,8 +659,8 @@ Message queuing makes it possible for applications to communicate asynchronously
 
 Visit the following resources to learn more:
 
-- [Messaging Queues](https://aws.amazon.com/message-queue/)
-- [Messaging Queues Tutorial](https://www.tutorialspoint.com/inter_process_communication/inter_process_communication_message_queues.htm)
+- [ ] [Messaging Queues](https://aws.amazon.com/message-queue/)
+- [ ] [Messaging Queues Tutorial](https://www.tutorialspoint.com/inter_process_communication/inter_process_communication_message_queues.htm)
 
 # Web and mobile
 
@@ -672,10 +672,10 @@ Reactive programming describes a design paradigm that relies on asynchronous pro
 
 Visit the following resources to learn more:
 
-- [Learning Functional Programming](https://youtube.com/watch?v=e-5obm1G_FY)
-- [Functional Programming with JavaScript](https://www.telerik.com/blogs/functional-programming-javascript)
-- [What is Functional Programming?](https://www.freecodecamp.org/news/functional-programming-in-javascript/)
-- [What is Reactive Programming?](https://www.techtarget.com/searchapparchitecture/definition/reactive-programming)
+- [ ] [Learning Functional Programming](https://youtube.com/watch?v=e-5obm1G_FY)
+- [ ] [Functional Programming with JavaScript](https://www.telerik.com/blogs/functional-programming-javascript)
+- [ ] [What is Functional Programming?](https://www.freecodecamp.org/news/functional-programming-in-javascript/)
+- [ ] [What is Reactive Programming?](https://www.techtarget.com/searchapparchitecture/definition/reactive-programming)
 
 # React
 
@@ -683,19 +683,19 @@ React is the most popular front-end JavaScript library for building user interfa
 
 Visit the following resources to learn more:
 
-- [Visit Dedicated React Roadmap](/react)
-- [React Website](https://reactjs.org/)
-- [Official Getting Started](https://reactjs.org/tutorial/tutorial.html)
-- [Beta React Docs](https://beta.reactjs.org/)
-- [The Beginners Guide to React](https://egghead.io/courses/the-beginner-s-guide-to-react)
-- [React JS Course for Beginners](https://www.youtube.com/watch?v=nTeuhbP7wdE)
-- [React Course - Beginners Tutorial for React JavaScript Library [2022]](https://www.youtube.com/watch?v=bMknfKXIFA8)
-- [Understanding Reacts UI Rendering Process](https://www.youtube.com/watch?v=i793Qm6kv3U)
-- [Vue.js Website](https://vuejs.org/)
-- [Official Getting Started](https://vuejs.org/v2/guide/)
-- [Vue.js Course for Beginners](https://www.youtube.com/watch?v=FXpIoQ_rT_c)
-- [Vue.js Crash Course](https://www.youtube.com/watch?v=qZXt1Aom3Cs)
-- [Official - Getting started with Angular](https://angular.io/start)
+- [ ] [Visit Dedicated React Roadmap](/react)
+- [ ] [React Website](https://reactjs.org/)
+- [ ] [Official Getting Started](https://reactjs.org/tutorial/tutorial.html)
+- [ ] [Beta React Docs](https://beta.reactjs.org/)
+- [ ] [The Beginners Guide to React](https://egghead.io/courses/the-beginner-s-guide-to-react)
+- [ ] [React JS Course for Beginners](https://www.youtube.com/watch?v=nTeuhbP7wdE)
+- [ ] [React Course - Beginners Tutorial for React JavaScript Library [2022]](https://www.youtube.com/watch?v=bMknfKXIFA8)
+- [ ] [Understanding Reacts UI Rendering Process](https://www.youtube.com/watch?v=i793Qm6kv3U)
+- [ ] [Vue.js Website](https://vuejs.org/)
+- [ ] [Official Getting Started](https://vuejs.org/v2/guide/)
+- [ ] [Vue.js Course for Beginners](https://www.youtube.com/watch?v=FXpIoQ_rT_c)
+- [ ] [Vue.js Crash Course](https://www.youtube.com/watch?v=qZXt1Aom3Cs)
+- [ ] [Official - Getting started with Angular](https://angular.io/start)
 
 # SPA vs SSG vs SSR
 
@@ -705,8 +705,8 @@ Visit the following resources to learn more:
 
 Visit the following resources to learn more:
 
-- [Web design patterns — SSR, SSG, and SPA](https://medium.com/codex/web-design-patterns-ssr-ssg-and-spa-fadad7673dfe)
-- [Rendering on the Web](https://web.dev/rendering-on-the-web/)
+- [ ] [Web design patterns — SSR, SSG, and SPA](https://medium.com/codex/web-design-patterns-ssr-ssg-and-spa-fadad7673dfe)
+- [ ] [Rendering on the Web](https://web.dev/rendering-on-the-web/)
 
 # PWA
 
@@ -714,10 +714,10 @@ Progressive Web Apps (PWAs) are websites that are progressively enhanced to func
 
 Visit the following resources to learn more:
 
-- [Progressive Web Apps for Beginners](https://www.freecodecamp.org/news/what-are-progressive-web-apps/)
-- [Learn PWA](https://web.dev/learn/pwa/)
-- [MDN Web Docs: Progressive Web Apps](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/)
-- [Build a Progressive Web App](https://www.youtube.com/watch?v=sFsRylCQblw)
+- [ ] [Progressive Web Apps for Beginners](https://www.freecodecamp.org/news/what-are-progressive-web-apps/)
+- [ ] [Learn PWA](https://web.dev/learn/pwa/)
+- [ ] [MDN Web Docs: Progressive Web Apps](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/)
+- [ ] [Build a Progressive Web App](https://www.youtube.com/watch?v=sFsRylCQblw)
 
 # Microfrontends
 
@@ -725,8 +725,8 @@ Microfrontends is an architectural style where independently deliverable fronten
 
 Visit the following resources to learn more:
 
-- [Micro-Frontends Course - Beginner to Expert](https://www.youtube.com/watch?v=lKKsjpH09dU)
-- [Micro Frontends](https://micro-frontends.org/)
+- [ ] [Micro-Frontends Course - Beginner to Expert](https://www.youtube.com/watch?v=lKKsjpH09dU)
+- [ ] [Micro Frontends](https://micro-frontends.org/)
 
 # W3c and WHATWG Standards
 
@@ -736,8 +736,8 @@ Web Hypertext Application Technology Working Group (WHATWG) is another set of we
 
 Visit the following resources to learn more:
 
-- [W3C Standards](https://www.w3.org/standards/)
-- [WHATWG Standards](https://spec.whatwg.org/)
+- [ ] [W3C Standards](https://www.w3.org/standards/)
+- [ ] [WHATWG Standards](https://spec.whatwg.org/)
 
 # Architect frameworks
 
@@ -747,8 +747,8 @@ The guide to the Business Analysis Body of Knowledge (BABOK Guide) is a book fro
 
 Visit the following resources to learn more:
 
-- [Official Website](https://www.iiba.org/career-resources/a-business-analysis-professionals-foundation-for-success/babok/)
-- [Wikipedia](https://en.wikipedia.org/wiki/A_Guide_to_the_Business_Analysis_Body_of_Knowledge)
+- [ ] [Official Website](https://www.iiba.org/career-resources/a-business-analysis-professionals-foundation-for-success/babok/)
+- [ ] [Wikipedia](https://en.wikipedia.org/wiki/A_Guide_to_the_Business_Analysis_Body_of_Knowledge)
 
 # Iaf
 
@@ -756,8 +756,8 @@ The Integrated Architecture Framework (IAF) is an enterprise architecture framew
 
 Visit the following resources to learn more:
 
-- [Official PDF](https://www.capgemini.com/wp-content/uploads/2018/03/architecture-for-the-information-age.pdf)
-- [Wikipedia](https://en.wikipedia.org/wiki/Integrated_Architecture_Framework)
+- [ ] [Official PDF](https://www.capgemini.com/wp-content/uploads/2018/03/architecture-for-the-information-age.pdf)
+- [ ] [Wikipedia](https://en.wikipedia.org/wiki/Integrated_Architecture_Framework)
 
 # UML
 
@@ -765,10 +765,10 @@ The Unified Modeling Language, or UML, is a modeling language that is intended t
 
 Visit the following resources to learn more:
 
-- [UML Website](https://www.uml.org)
-- [The Unified Modeling Language Reference Manual (Second Edition)](https://personal.utdallas.edu/~chung/Fujitsu/UML_2.0/Rumbaugh--UML_2.0_Reference_CD.pdf)
-- [IBM Docs](https://www.ibm.com/docs/en/rational-soft-arch/9.6.1?topic=files-uml-pattern-frameworks)
-- [Wikipedia](https://en.wikipedia.org/wiki/Unified_Modeling_Language)
+- [ ] [UML Website](https://www.uml.org)
+- [ ] [The Unified Modeling Language Reference Manual (Second Edition)](https://personal.utdallas.edu/~chung/Fujitsu/UML_2.0/Rumbaugh--UML_2.0_Reference_CD.pdf)
+- [ ] [IBM Docs](https://www.ibm.com/docs/en/rational-soft-arch/9.6.1?topic=files-uml-pattern-frameworks)
+- [ ] [Wikipedia](https://en.wikipedia.org/wiki/Unified_Modeling_Language)
 
 # Togaf
 
@@ -776,8 +776,8 @@ The TOGAF content framework provides a detailed model of architectural work prod
 
 Visit the following resources to learn more:
 
-- [Official Website](https://www.opengroup.org/togaf)
-- [Wikipedia](https://en.wikipedia.org/wiki/The_Open_Group_Architecture_Framework)
+- [ ] [Official Website](https://www.opengroup.org/togaf)
+- [ ] [Wikipedia](https://en.wikipedia.org/wiki/The_Open_Group_Architecture_Framework)
 
 # Management
 
@@ -789,9 +789,9 @@ The OSI and TCP/IP model is used to help the developer to design their system fo
 
 Visit the following resources to learn more:
 
-- [Cloudflare - What is the OSI model](https://www.cloudflare.com/learning/ddos/glossary/open-systems-interconnection-model-osi/)
-- [Geeksforgeeks - Layers of OSI model](https://www.geeksforgeeks.org/layers-of-osi-model/)
-- [Geeksforgeeks - TCP/IP model](https://www.geeksforgeeks.org/tcp-ip-model/)
+- [ ] [Cloudflare - What is the OSI model](https://www.cloudflare.com/learning/ddos/glossary/open-systems-interconnection-model-osi/)
+- [ ] [Geeksforgeeks - Layers of OSI model](https://www.geeksforgeeks.org/layers-of-osi-model/)
+- [ ] [Geeksforgeeks - TCP/IP model](https://www.geeksforgeeks.org/tcp-ip-model/)
 
 # Http Https
 
@@ -803,14 +803,14 @@ HTTPS (**H**ypertext **T**ransfer **P**rotocol **S**ecure) is the secure version
 
 Visit the following resources to learn more:
 
-- [What is HTTP?](https://www.cloudflare.com/en-gb/learning/ddos/glossary/hypertext-transfer-protocol-http/)
-- [An overview of HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)
-- [Journey to HTTP/2](https://kamranahmed.info/blog/2016/08/13/http-in-depth)
-- [HTTP/3 From A To Z: Core Concepts](https://www.smashingmagazine.com/2021/08/http3-core-concepts-part1/)
-- [What is HTTPS?](https://www.cloudflare.com/en-gb/learning/ssl/what-is-https/)
-- [Why HTTPS Matters](https://developers.google.com/web/fundamentals/security/encrypt-in-transit/why-https)
-- [Enabling HTTPS on Your Servers](https://developers.google.com/web/fundamentals/security/encrypt-in-transit/enable-https)
-- [HTTP Crash Course & Exploration](https://www.youtube.com/watch?v=iYM2zFP3Zn0)
+- [ ] [What is HTTP?](https://www.cloudflare.com/en-gb/learning/ddos/glossary/hypertext-transfer-protocol-http/)
+- [ ] [An overview of HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)
+- [ ] [Journey to HTTP/2](https://kamranahmed.info/blog/2016/08/13/http-in-depth)
+- [ ] [HTTP/3 From A To Z: Core Concepts](https://www.smashingmagazine.com/2021/08/http3-core-concepts-part1/)
+- [ ] [What is HTTPS?](https://www.cloudflare.com/en-gb/learning/ssl/what-is-https/)
+- [ ] [Why HTTPS Matters](https://developers.google.com/web/fundamentals/security/encrypt-in-transit/why-https)
+- [ ] [Enabling HTTPS on Your Servers](https://developers.google.com/web/fundamentals/security/encrypt-in-transit/enable-https)
+- [ ] [HTTP Crash Course & Exploration](https://www.youtube.com/watch?v=iYM2zFP3Zn0)
 
 # Proxies
 
@@ -830,11 +830,11 @@ The term Infrastructure as Code encompasses everything from bootstrapping to con
 
 Visit the following resources to learn more:
 
-- [What is Infrastructure as Code?](https://www.youtube.com/watch?v=zWw2wuiKd5o)
-- [What is Infrastructure as Code? Difference of Infrastructure as Code Tools](https://www.youtube.com/watch?v=POPP2WTJ8es)
-- [Video introduction to infrastructure as code](https://www.youtube.com/watch?v=zWw2wuiKd5o)
-- [GUIs, CLI, APIs: Learn Basic Terms of Infrastructure-as-Code](https://thenewstack.io/guis-cli-apis-learn-basic-terms-of-infrastructure-as-code/)
-- [What is infrastructure as code](https://www.redhat.com/en/topics/automation/what-is-infrastructure-as-code-iac)
+- [ ] [What is Infrastructure as Code?](https://www.youtube.com/watch?v=zWw2wuiKd5o)
+- [ ] [What is Infrastructure as Code? Difference of Infrastructure as Code Tools](https://www.youtube.com/watch?v=POPP2WTJ8es)
+- [ ] [Video introduction to infrastructure as code](https://www.youtube.com/watch?v=zWw2wuiKd5o)
+- [ ] [GUIs, CLI, APIs: Learn Basic Terms of Infrastructure-as-Code](https://thenewstack.io/guis-cli-apis-learn-basic-terms-of-infrastructure-as-code/)
+- [ ] [What is infrastructure as code](https://www.redhat.com/en/topics/automation/what-is-infrastructure-as-code-iac)
 
 # Cloud providers
 
@@ -846,9 +846,9 @@ There are still servers in serverless, but they are abstracted away from app dev
 
 Visit the following resources to learn more:
 
-- [What is serverless?](https://www.redhat.com/en/topics/cloud-native-apps/what-is-serverless)
-- [What is serverless computing?](https://www.cloudflare.com/learning/serverless/what-is-serverless/)
-- [Serverless on AWS](https://aws.amazon.com/serverless/)
+- [ ] [What is serverless?](https://www.redhat.com/en/topics/cloud-native-apps/what-is-serverless)
+- [ ] [What is serverless computing?](https://www.cloudflare.com/learning/serverless/what-is-serverless/)
+- [ ] [Serverless on AWS](https://aws.amazon.com/serverless/)
 
 # Linux / Unix
 
@@ -856,10 +856,10 @@ Knowledge of UNIX is a must for almost all kind of development as most of the co
 
 Visit the following resources to learn more:
 
-- [Linux Operating System - Crash Course](https://www.youtube.com/watch?v=ROjZy1WbCIA)
-- [Coursera - Unix Courses](https://www.coursera.org/courses?query=unix)
-- [Linux Basics](https://dev.to/rudrakshi99/linux-basics-2onj)
-- [Unix / Linux Tutorial](https://www.tutorialspoint.com/unix/index.htm)
+- [ ] [Linux Operating System - Crash Course](https://www.youtube.com/watch?v=ROjZy1WbCIA)
+- [ ] [Coursera - Unix Courses](https://www.coursera.org/courses?query=unix)
+- [ ] [Linux Basics](https://dev.to/rudrakshi99/linux-basics-2onj)
+- [ ] [Unix / Linux Tutorial](https://www.tutorialspoint.com/unix/index.htm)
 
 # Service Mesh
 
@@ -867,9 +867,9 @@ A Service Mesh is a dedicated infrastructure layer for handling service-to-servi
 
 Visit the following resources to learn more:
 
-- [Service Mesh explained in 15 Minutes](https://youtu.be/16fgzklcF7Y)
-- [Red Hat - What is a Service Mesh?](https://www.redhat.com/en/topics/microservices/what-is-a-service-mesh)
-- [Kubernetes Service Mesh - Blog Post](https://platform9.com/blog/kubernetes-service-mesh-a-comparison-of-istio-linkerd-and-consul/)
+- [ ] [Service Mesh explained in 15 Minutes](https://youtu.be/16fgzklcF7Y)
+- [ ] [Red Hat - What is a Service Mesh?](https://www.redhat.com/en/topics/microservices/what-is-a-service-mesh)
+- [ ] [Kubernetes Service Mesh - Blog Post](https://platform9.com/blog/kubernetes-service-mesh-a-comparison-of-istio-linkerd-and-consul/)
 
 # CI / CD
 
@@ -877,8 +877,8 @@ CI/CD is a method to frequently deliver apps to customers by introducing automat
 
 Visit the following resources to learn more:
 
-- [What is CI/CD?](https://www.redhat.com/en/topics/devops/what-is-ci-cd)
-- [What is CI/CD? Continuous integration and continuous delivery explained](https://www.infoworld.com/article/3271126/what-is-cicd-continuous-integration-and-continuous-delivery-explained.html)
+- [ ] [What is CI/CD?](https://www.redhat.com/en/topics/devops/what-is-ci-cd)
+- [ ] [What is CI/CD? Continuous integration and continuous delivery explained](https://www.infoworld.com/article/3271126/what-is-cicd-continuous-integration-and-continuous-delivery-explained.html)
 
 # Containers
 
@@ -888,10 +888,10 @@ These images are designed for portability, allowing for full local testing of a 
 
 Visit the following resources to learn more:
 
-- [What are Containers?](https://cloud.google.com/learn/what-are-containers)
-- [What is a Container?](https://www.docker.com/resources/what-container/)
-- [What are Containers?](https://www.youtube.com/playlist?list=PLawsLZMfND4nz-WDBZIj8-nbzGFD4S9oz)
-- [Articles about Containers - The New Stack](https://thenewstack.io/category/containers/)
+- [ ] [What are Containers?](https://cloud.google.com/learn/what-are-containers)
+- [ ] [What is a Container?](https://www.docker.com/resources/what-container/)
+- [ ] [What are Containers?](https://www.youtube.com/playlist?list=PLawsLZMfND4nz-WDBZIj8-nbzGFD4S9oz)
+- [ ] [Articles about Containers - The New Stack](https://thenewstack.io/category/containers/)
 
 # Cloud Design Patterns
 
@@ -901,7 +901,7 @@ The link below has cloud design patterns where each pattern describes the proble
 
 Visit the following resources to learn more:
 
-- [Cloud Design Patterns](https://learn.microsoft.com/en-us/azure/architecture/patterns/)
+- [ ] [Cloud Design Patterns](https://learn.microsoft.com/en-us/azure/architecture/patterns/)
 
 # Enterprise software
 
@@ -911,8 +911,8 @@ Microsoft Dynamics 365 is a combination of both Enterprise Resource Planning (ER
 
 Visit the following resources to learn more:
 
-- [Everything you ever wanted to know about Microsoft Dynamics](https://www.nigelfrank.com/insights/everything-you-ever-wanted-to-know-about-dynamics-crm)
-- [What is Microsoft Dynamics?](https://www.youtube.com/watch?v=ogfclHWgqgE)
+- [ ] [Everything you ever wanted to know about Microsoft Dynamics](https://www.nigelfrank.com/insights/everything-you-ever-wanted-to-know-about-dynamics-crm)
+- [ ] [What is Microsoft Dynamics?](https://www.youtube.com/watch?v=ogfclHWgqgE)
 
 # Sap epr hana business objects
 
@@ -924,8 +924,8 @@ IBM BPM is a comprehensive business process management platform. It provides a r
 
 Visit the following resources to learn more:
 
-- [BPM overview](https://www.ibm.com/docs/en/bpm/8.5.5?topic=manager-business-process-overview)
-- [BPM Demo](https://www.youtube.com/watch?v=6yn4nCWMNLI)
+- [ ] [BPM overview](https://www.ibm.com/docs/en/bpm/8.5.5?topic=manager-business-process-overview)
+- [ ] [BPM Demo](https://www.youtube.com/watch?v=6yn4nCWMNLI)
 
 # Salesforce
 
@@ -933,5 +933,5 @@ Salesforce is a cloud platform helping companies to manage relationships with th
 
 Visit the following resources to learn more:
 
-- [What is Salesforce and what is it used for?](https://ascendix.com/blog/what-is-salesforce-what-salesforce-is-used-for/)
-- [What is Salesforce?](https://www.youtube.com/watch?v=xx2sK-QiBjw)
+- [ ] [What is Salesforce and what is it used for?](https://ascendix.com/blog/what-is-salesforce-what-salesforce-is-used-for/)
+- [ ] [What is Salesforce?](https://www.youtube.com/watch?v=xx2sK-QiBjw)

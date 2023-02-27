@@ -4,7 +4,7 @@ Learn the common concepts of Go like variables, loops, conditional statements, f
 
 Visit the following resources to learn more:
 
-- [Official Go Tutorial](https://go.dev/doc/tutorial/)
+- [ ] [Official Go Tutorial](https://go.dev/doc/tutorial/)
 
 # Basic Syntax
 
@@ -12,9 +12,9 @@ Learn about the basic syntax of Go, such as how the go programs are executed, pa
 
 Visit the following resources to learn more:
 
-- [Go Tutorial: Getting started](https://go.dev/doc/tutorial/getting-started)
-- [Go by Example: Hello World](https://gobyexample.com/hello-world)
-- [W3schools : Go Syntax](https://www.w3schools.com/go/go_syntax.php)
+- [ ] [Go Tutorial: Getting started](https://go.dev/doc/tutorial/getting-started)
+- [ ] [Go by Example: Hello World](https://gobyexample.com/hello-world)
+- [ ] [W3schools : Go Syntax](https://www.w3schools.com/go/go_syntax.php)
 
 # Variables in Go
 
@@ -22,9 +22,9 @@ Variable is the name given to a memory location to store a value of a specific [
 
 Visit the following resources to learn more:
 
-- [Go Variables](https://go.dev/tour/basics/8)
-- [Go by Example: Variables](https://gobyexample.com/variables)
-- [w3schools Go variables](https://www.w3schools.com/go/go_variables.php)
+- [ ] [Go Variables](https://go.dev/tour/basics/8)
+- [ ] [Go by Example: Variables](https://gobyexample.com/variables)
+- [ ] [w3schools Go variables](https://www.w3schools.com/go/go_variables.php)
 
 # Data Types
 
@@ -34,9 +34,9 @@ To learn more about types in Go, visit these resources :
 
 Visit the following resources to learn more:
 
-- [Basic data types](https://www.w3schools.com/go/go_data_types.php)
-- [Tour of Go: types](https://go.dev/tour/basics/11)
-- [Go types with examples](https://golangbyexample.com/all-data-types-in-golang-with-examples/)
+- [ ] [Basic data types](https://www.w3schools.com/go/go_data_types.php)
+- [ ] [Tour of Go: types](https://go.dev/tour/basics/11)
+- [ ] [Go types with examples](https://golangbyexample.com/all-data-types-in-golang-with-examples/)
 
 # For Loop
 
@@ -48,10 +48,10 @@ Go has only one looping construct, the `for` loop. The basic `for` loop has thre
 
 Visit the following resources to learn more:
 
-- [For Loop in Golang](https://go.dev/tour/flowcontrol/1)
-- [Effective Go: For loop](https://go.dev/doc/effective_go#for)
-- [Go by Example: For loop](https://gobyexample.com/for)
-- [5 basic for loop patterns](https://yourbasic.org/golang/for-loop/)
+- [ ] [For Loop in Golang](https://go.dev/tour/flowcontrol/1)
+- [ ] [Effective Go: For loop](https://go.dev/doc/effective_go#for)
+- [ ] [Go by Example: For loop](https://gobyexample.com/for)
+- [ ] [5 basic for loop patterns](https://yourbasic.org/golang/for-loop/)
 
 # Range
 
@@ -59,9 +59,9 @@ Visit the following resources to learn more:
 
 Visit the following resources to learn more:
 
-- [Go Ranges](https://go.dev/tour/moretypes/16)
-- [Go by Example: Range](https://gobyexample.com/range)
-- [Go ranges basic patterns](https://yourbasic.org/golang/for-loop-range-array-slice-map-channel/)
+- [ ] [Go Ranges](https://go.dev/tour/moretypes/16)
+- [ ] [Go by Example: Range](https://gobyexample.com/range)
+- [ ] [Go ranges basic patterns](https://yourbasic.org/golang/for-loop-range-array-slice-map-channel/)
 
 # Errors/Panic/Recover
 
@@ -73,9 +73,9 @@ Panic recovery in Go depends on a feature of the language called deferred functi
 
 Visit the following resources to learn more:
 
-- [Error handling and Go](https://go.dev/blog/error-handling-and-go)
-- [Go Defer, Panic and Recover](https://go.dev/blog/defer-panic-and-recover)
-- [Effective error handling in Go](https://earthly.dev/blog/golang-errors/)
+- [ ] [Error handling and Go](https://go.dev/blog/error-handling-and-go)
+- [ ] [Go Defer, Panic and Recover](https://go.dev/blog/defer-panic-and-recover)
+- [ ] [Effective error handling in Go](https://earthly.dev/blog/golang-errors/)
 
 # Conditional Statements
 
@@ -87,10 +87,10 @@ Conditional statements are used to run code only if a certain condition is true;
 
 Visit the following resources to learn more:
 
-- [Effective Go: if statement](https://go.dev/doc/effective_go#if)
-- [Basic conditional patterns](https://yourbasic.org/golang/if-else-statement/)
-- [Go by Example: If-Else](https://gobyexample.com/if-else)
-- [Golang programs switch case](https://www.golangprograms.com/golang-if-else-statements.html)
+- [ ] [Effective Go: if statement](https://go.dev/doc/effective_go#if)
+- [ ] [Basic conditional patterns](https://yourbasic.org/golang/if-else-statement/)
+- [ ] [Go by Example: If-Else](https://gobyexample.com/if-else)
+- [ ] [Golang programs switch case](https://www.golangprograms.com/golang-if-else-statements.html)
 
 # Functions
 
@@ -103,8 +103,8 @@ Discover how functions work in Go, the list of resources below will cover :
 
 Visit the following resources to learn more:
 
-- [Go by Example: Functions](https://gobyexample.com/functions)
-- [Functions in go](https://www.golangprograms.com/go-language/functions.html)
+- [ ] [Go by Example: Functions](https://gobyexample.com/functions)
+- [ ] [Functions in go](https://www.golangprograms.com/go-language/functions.html)
 
 # Packages
 
@@ -112,12 +112,12 @@ Packages are the most powerful part of the Go language. The purpose of a package
 
 Visit the following resources to learn more:
 
-- [How to create a package in Go](https://www.golang-book.com/books/intro/11)
-- [How to manage external dependencies in Go](https://go.dev/doc/modules/managing-dependencies)
-- [Go Packages explorer](https://pkg.go.dev/)
-- [Standard library](https://pkg.go.dev/std)
-- [Packages in Golang](https://www.geeksforgeeks.org/packages-in-golang/)
-- [Go Packages](https://www.programiz.com/golang/packages)
+- [ ] [How to create a package in Go](https://www.golang-book.com/books/intro/11)
+- [ ] [How to manage external dependencies in Go](https://go.dev/doc/modules/managing-dependencies)
+- [ ] [Go Packages explorer](https://pkg.go.dev/)
+- [ ] [Standard library](https://pkg.go.dev/std)
+- [ ] [Packages in Golang](https://www.geeksforgeeks.org/packages-in-golang/)
+- [ ] [Go Packages](https://www.programiz.com/golang/packages)
 
 # Type Casting
 
@@ -125,9 +125,9 @@ Go doesn't support automatic type conversion, but it allows type casting, which 
 
 Visit the following resources to learn more:
 
-- [Geeks for Geeks: Type casting](https://www.geeksforgeeks.org/type-casting-or-type-conversion-in-golang/)
-- [Tour of Go: Type Casting Basics](https://go.dev/tour/basics/13)
-- [Go Docs: Type Casting](https://golangdocs.com/type-casting-in-golang)
+- [ ] [Geeks for Geeks: Type casting](https://www.geeksforgeeks.org/type-casting-or-type-conversion-in-golang/)
+- [ ] [Tour of Go: Type Casting Basics](https://go.dev/tour/basics/13)
+- [ ] [Go Docs: Type Casting](https://golangdocs.com/type-casting-in-golang)
 
 # Type Inference
 
@@ -135,8 +135,8 @@ Type inference gives go the capability to detect the type of a value without bei
 
 Visit the following resources to learn more:
 
-- [Go Variables: Type Inference](https://www.callicoder.com/golang-variables-zero-values-type-inference/#type-inference)
-- [Tour of Go: Type Inference](https://go.dev/tour/basics/14)
+- [ ] [Go Variables: Type Inference](https://www.callicoder.com/golang-variables-zero-values-type-inference/#type-inference)
+- [ ] [Tour of Go: Type Inference](https://go.dev/tour/basics/14)
 
 # Arrays
 
@@ -144,9 +144,9 @@ In Go an `array` is a collection of elements of the same type with a **fixed** s
 
 Visit the following resources to learn more:
 
-- [Go Arrays](https://go.dev/tour/moretypes/6)
-- [Effective Go: Arrays](https://go.dev/doc/effective_go#arrays)
-- [Learn Go Programming - Arrays (by freeCodeCamp on YouTube)](https://youtu.be/YS4e4q9oBaU?t=6473)
+- [ ] [Go Arrays](https://go.dev/tour/moretypes/6)
+- [ ] [Effective Go: Arrays](https://go.dev/doc/effective_go#arrays)
+- [ ] [Learn Go Programming - Arrays (by freeCodeCamp on YouTube)](https://youtu.be/YS4e4q9oBaU?t=6473)
 
 # Slices
 
@@ -154,10 +154,10 @@ Slices are similar to arrays but are more powerful and flexible. Like arrays, sl
 
 Visit the following resources to learn more:
 
-- [Go Slices](https://go.dev/tour/moretypes/7)
-- [Effective Go: Slices](https://go.dev/doc/effective_go#slices)
-- [Slices in Go](https://www.w3schools.com/go/go_slices.php)
-- [Learn Go Programming - Slices (by freeCodeCamp on YouTube)](https://youtu.be/YS4e4q9oBaU?t=6473)
+- [ ] [Go Slices](https://go.dev/tour/moretypes/7)
+- [ ] [Effective Go: Slices](https://go.dev/doc/effective_go#slices)
+- [ ] [Slices in Go](https://www.w3schools.com/go/go_slices.php)
+- [ ] [Learn Go Programming - Slices (by freeCodeCamp on YouTube)](https://youtu.be/YS4e4q9oBaU?t=6473)
 
 # Maps
 
@@ -165,10 +165,10 @@ Maps are the data structure in Go, where we use whenever we want to have mapping
 
 Visit the following resources to learn more:
 
-- [Go Maps](https://go.dev/tour/moretypes/19)
-- [Effective Go: Maps](https://go.dev/doc/effective_go#maps)
-- [Maps in Go](https://www.w3schools.com/go/go_maps.php)
-- [Golang Tutorial #15 - Maps (by Tech With Tim on YouTube)](https://www.youtube.com/watch?v=yJE2RC37BF4)
+- [ ] [Go Maps](https://go.dev/tour/moretypes/19)
+- [ ] [Effective Go: Maps](https://go.dev/doc/effective_go#maps)
+- [ ] [Maps in Go](https://www.w3schools.com/go/go_maps.php)
+- [ ] [Golang Tutorial #15 - Maps (by Tech With Tim on YouTube)](https://www.youtube.com/watch?v=yJE2RC37BF4)
 
 # Make
 
@@ -176,10 +176,10 @@ Golang's built-in function make, helps us create and initialize slices, maps and
 
 Visit the following resources to learn more:
 
-- [Effective Go: Allocation with make](https://go.dev/doc/effective_go#allocation_make)
-- [Create a slice with make](https://www.golangprograms.com/how-to-create-slice-using-make-function-in-golang.html)
-- [Create a map with make](https://www.golangprograms.com/golang-package-examples/how-to-create-map-using-the-make-function-in-go.html)
-- [Create a channel with make](https://www.programiz.com/golang/channel#channel)
+- [ ] [Effective Go: Allocation with make](https://go.dev/doc/effective_go#allocation_make)
+- [ ] [Create a slice with make](https://www.golangprograms.com/how-to-create-slice-using-make-function-in-golang.html)
+- [ ] [Create a map with make](https://www.golangprograms.com/golang-package-examples/how-to-create-map-using-the-make-function-in-go.html)
+- [ ] [Create a channel with make](https://www.programiz.com/golang/channel#channel)
 
 # Structs
 
@@ -187,9 +187,9 @@ Structs are user-defined types that help us create a collection of data describi
 
 Visit the following resources to learn more:
 
-- [Go Structs](https://go.dev/tour/moretypes/2)
-- [Go by Example: Structs](https://gobyexample.com/structs)
-- [Structs in Go](https://www.youtube.com/watch?v=NMTN543WVQY)
+- [ ] [Go Structs](https://go.dev/tour/moretypes/2)
+- [ ] [Go by Example: Structs](https://gobyexample.com/structs)
+- [ ] [Structs in Go](https://www.youtube.com/watch?v=NMTN543WVQY)
 
 # Go advanced
 
@@ -201,13 +201,13 @@ Modules are identified by a module path that is declared in the first line of th
 
 Visit the following resources to learn more:
 
-- [Go Modules](https://go.dev/blog/using-go-modules)
-- [Go Modules](https://www.youtube.com/watch?v=9cV1KESTJRc)
-- [DigitalOcean: How to use Go Modules](https://www.digitalocean.com/community/tutorials/how-to-use-go-modules)
-- [Go Modules Explained in 5 Minutes (by Golang Dojo on YouTube)](https://youtu.be/7xSxIwWJ9R4)
-- [How to create a module in Go](https://go.dev/doc/tutorial/create-module)
-- [How to use modules in Go](https://go.dev/blog/using-go-modules)
-- [How to modify existing projects to use Go modules](https://jfrog.com/blog/converting-projects-for-go-modules/)
+- [ ] [Go Modules](https://go.dev/blog/using-go-modules)
+- [ ] [Go Modules](https://www.youtube.com/watch?v=9cV1KESTJRc)
+- [ ] [DigitalOcean: How to use Go Modules](https://www.digitalocean.com/community/tutorials/how-to-use-go-modules)
+- [ ] [Go Modules Explained in 5 Minutes (by Golang Dojo on YouTube)](https://youtu.be/7xSxIwWJ9R4)
+- [ ] [How to create a module in Go](https://go.dev/doc/tutorial/create-module)
+- [ ] [How to use modules in Go](https://go.dev/blog/using-go-modules)
+- [ ] [How to modify existing projects to use Go modules](https://jfrog.com/blog/converting-projects-for-go-modules/)
 
 # Working with json
 
@@ -215,9 +215,9 @@ JSON (JavaScript Object Notation) is a simple data interchange format. Syntactic
 
 Visit the following resources to learn more:
 
-- [JSON](https://go.dev/blog/json)
-- [Guide to JSON in Golang](https://www.sohamkamani.com/golang/json/)
-- [JSON to GO](https://mholt.github.io/json-to-go/)
+- [ ] [JSON](https://go.dev/blog/json)
+- [ ] [Guide to JSON in Golang](https://www.sohamkamani.com/golang/json/)
+- [ ] [JSON to GO](https://mholt.github.io/json-to-go/)
 
 # Types and type assertions
 
@@ -225,8 +225,8 @@ Type assertions in Golang provide access to the exact type of variable of an int
 
  Visit the following resources to learn more:
 
-- [Types Assertions](https://go.dev/tour/methods/15)
-- [Type Assertion](https://www.geeksforgeeks.org/type-assertions-in-golang/)
+- [ ] [Types Assertions](https://go.dev/tour/methods/15)
+- [ ] [Type Assertion](https://www.geeksforgeeks.org/type-assertions-in-golang/)
 
 # Interfaces
 
@@ -234,12 +234,12 @@ An interface in Go, is a type that defines a set of methods. If we have a type (
 
 Visit the following resources to learn more:
 
-- [Go Interfaces](https://go.dev/tour/methods/9)
-- [Effective Go: Interfaces](https://go.dev/doc/effective_go#interfaces)
-- [Go by Example: Interfaces](https://gobyexample.com/interfaces)
-- [Golang Tutorial #22 - Interfaces (by Tech With Tim on YouTube)](https://www.youtube.com/watch?v=lh_Uv2imp14)
-- [Learn Go Interfaces](https://www.youtube.com/watch?v=KB3ysH8cupY)
-- [Understanding Go Interfaces](https://www.youtube.com/watch?v=qJKQZKGZgf0)
+- [ ] [Go Interfaces](https://go.dev/tour/methods/9)
+- [ ] [Effective Go: Interfaces](https://go.dev/doc/effective_go#interfaces)
+- [ ] [Go by Example: Interfaces](https://gobyexample.com/interfaces)
+- [ ] [Golang Tutorial #22 - Interfaces (by Tech With Tim on YouTube)](https://www.youtube.com/watch?v=lh_Uv2imp14)
+- [ ] [Learn Go Interfaces](https://www.youtube.com/watch?v=KB3ysH8cupY)
+- [ ] [Understanding Go Interfaces](https://www.youtube.com/watch?v=qJKQZKGZgf0)
 
 # Context
 
@@ -247,11 +247,11 @@ The `context` package provides a standard way to solve the problem of managing t
 
 Visit the following resources to learn more:
 
-- [Go Context](https://pkg.go.dev/context)
-- [Go by Example: Context](https://gobyexample.com/context)
-- [Digital Ocean: How to Use Contexts in Go](https://www.digitalocean.com/community/tutorials/how-to-use-contexts-in-go)
-- [Context in Go](https://www.youtube.com/watch?v=LSzR0VEraWw)
-- [Understanding Contexts in Go](https://youtu.be/h2RdcrMLQAo)
+- [ ] [Go Context](https://pkg.go.dev/context)
+- [ ] [Go by Example: Context](https://gobyexample.com/context)
+- [ ] [Digital Ocean: How to Use Contexts in Go](https://www.digitalocean.com/community/tutorials/how-to-use-contexts-in-go)
+- [ ] [Context in Go](https://www.youtube.com/watch?v=LSzR0VEraWw)
+- [ ] [Understanding Contexts in Go](https://youtu.be/h2RdcrMLQAo)
 
 # Goroutines  
 
@@ -261,13 +261,13 @@ In Go, each of these concurrent tasks are called `Goroutines`.
 
 Visit the following resources to learn more:
 
-- [Goroutines](https://go.dev/tour/concurrency/1)
-- [Effective Go: Goroutines](https://go.dev/doc/effective_go#goroutines)
-- [Goroutines in Golang](https://www.geeksforgeeks.org/goroutines-concurrency-in-golang)
-- [GoRoutines](https://www.youtube.com/watch?v=LvgVSSpwND8)
-- [Understanding Concurrency](https://www.youtube.com/watch?v=V-0ifUKCkBI)
-- [Go by Example: Goroutines](https://gobyexample.com/goroutines)
-- [Golang Goroutine Basics You MUST Learn! (by Golang Dojo on YouTube)](https://youtu.be/oHIbeTmmTaA)
+- [ ] [Goroutines](https://go.dev/tour/concurrency/1)
+- [ ] [Effective Go: Goroutines](https://go.dev/doc/effective_go#goroutines)
+- [ ] [Goroutines in Golang](https://www.geeksforgeeks.org/goroutines-concurrency-in-golang)
+- [ ] [GoRoutines](https://www.youtube.com/watch?v=LvgVSSpwND8)
+- [ ] [Understanding Concurrency](https://www.youtube.com/watch?v=V-0ifUKCkBI)
+- [ ] [Go by Example: Goroutines](https://gobyexample.com/goroutines)
+- [ ] [Golang Goroutine Basics You MUST Learn! (by Golang Dojo on YouTube)](https://youtu.be/oHIbeTmmTaA)
 
 # Channels
 
@@ -277,13 +277,13 @@ Channels are a typed conduit through which you can send and receive values with 
 
 Visit the following resources to learn more:
 
-- [Channels](https://go.dev/tour/concurrency/2)
-- [Effective Go: Channels](https://go.dev/doc/effective_go#channels)
-- [Go by Example: Channels](https://gobyexample.com/channels)
-- [Channels in Golang](https://golangbot.com/channels/)
-- [Channels](https://www.youtube.com/watch?v=e4bu9g-bYtg)
-- [GeeksForGeeks: Channel in Golang](https://www.geeksforgeeks.org/channel-in-golang/)
-- [Golang Channel Basics You must Know!](https://youtu.be/LgCmPHqAuf4)
+- [ ] [Channels](https://go.dev/tour/concurrency/2)
+- [ ] [Effective Go: Channels](https://go.dev/doc/effective_go#channels)
+- [ ] [Go by Example: Channels](https://gobyexample.com/channels)
+- [ ] [Channels in Golang](https://golangbot.com/channels/)
+- [ ] [Channels](https://www.youtube.com/watch?v=e4bu9g-bYtg)
+- [ ] [GeeksForGeeks: Channel in Golang](https://www.geeksforgeeks.org/channel-in-golang/)
+- [ ] [Golang Channel Basics You must Know!](https://youtu.be/LgCmPHqAuf4)
 
 # Buffer
 
@@ -291,9 +291,9 @@ Visit the following resources to learn more:
 
  Visit the following resources to learn more:
 
-- [Buffer Examples](https://pkg.go.dev/bytes#example-Buffer)
-- [Buffer](https://www.educba.com/golang-buffer/)
-- [Buffers in Golang](https://www.youtube.com/watch?v=NoDRq6Twkts)
+- [ ] [Buffer Examples](https://pkg.go.dev/bytes#example-Buffer)
+- [ ] [Buffer](https://www.educba.com/golang-buffer/)
+- [ ] [Buffers in Golang](https://www.youtube.com/watch?v=NoDRq6Twkts)
 
 # Select
 
@@ -303,10 +303,10 @@ A `select` blocks until one of its cases can run, then it executes that case. It
 
 Visit the following resources to learn more:
 
-- [Select](https://go.dev/tour/concurrency/5)
-- [Go by Example: Select](https://gobyexample.com/select)
-- [Select in Golang](https://www.geeksforgeeks.org/select-statement-in-go-language/)
-- [Select Statement](https://www.youtube.com/watch?v=1c7ttSJDMAI)
+- [ ] [Select](https://go.dev/tour/concurrency/5)
+- [ ] [Go by Example: Select](https://gobyexample.com/select)
+- [ ] [Select in Golang](https://www.geeksforgeeks.org/select-statement-in-go-language/)
+- [ ] [Select Statement](https://www.youtube.com/watch?v=1c7ttSJDMAI)
 
 # Mutex
 
@@ -314,7 +314,7 @@ Go allows us to run code concurrently using goroutines. However, when concurrent
 
 Visit the following resources to learn more:
 
-- [Using a Mutex in Go with Examples](https://www.sohamkamani.com/golang/mutex/)
+- [ ] [Using a Mutex in Go with Examples](https://www.sohamkamani.com/golang/mutex/)
 
 # Building CLI Applications
 
@@ -324,7 +324,7 @@ Go applications are built into a single self contained binary making installing 
 
 Visit the following resources to learn more:
 
-- [Command-line Interfaces (CLIs)](https://go.dev/solutions/clis)
+- [ ] [Command-line Interfaces (CLIs)](https://go.dev/solutions/clis)
 
 # Cobra
 
@@ -332,9 +332,9 @@ Cobra is a library for creating powerful modern CLI applications.
 
 Visit the following resources to learn more:
 
-- [Cobra Github Repo](https://github.com/spf13/cobra)
-- [Cobra Website](https://cobra.dev/)
-- [Cobra Package Documentation](https://pkg.go.dev/github.com/spf13/cobra)
+- [ ] [Cobra Github Repo](https://github.com/spf13/cobra)
+- [ ] [Cobra Website](https://cobra.dev/)
+- [ ] [Cobra Package Documentation](https://pkg.go.dev/github.com/spf13/cobra)
 
 # Urfave cli
 
@@ -342,10 +342,10 @@ Urfave cli is a simple, fast, and fun package for building command line apps in 
 
 Visit the following resources to learn more:
 
-- [Urfave cli Github Repo](https://github.com/urfave/cli)
-- [Urfave cli Website](https://cli.urfave.org/)
-- [How to Build cli in Go](https://blog.hackajob.co/how-to-build-cli-in-go/)
-- [Building CLI using urfave cli](https://zerokspot.com/weblog/2021/01/25/building-a-cli-using-urfave-cli/)
+- [ ] [Urfave cli Github Repo](https://github.com/urfave/cli)
+- [ ] [Urfave cli Website](https://cli.urfave.org/)
+- [ ] [How to Build cli in Go](https://blog.hackajob.co/how-to-build-cli-in-go/)
+- [ ] [Building CLI using urfave cli](https://zerokspot.com/weblog/2021/01/25/building-a-cli-using-urfave-cli/)
 
 # ORMs
 
@@ -359,8 +359,8 @@ The GORM is fantastic ORM library for Golang, aims to be developer friendly. It 
 
 Visit the following resources to learn more:
 
-- [Gorm](https://gorm.io/docs/index.html)
-- [Gorm Package](https://pkg.go.dev/gorm.io/gorm)
+- [ ] [Gorm](https://gorm.io/docs/index.html)
+- [ ] [Gorm Package](https://pkg.go.dev/gorm.io/gorm)
 
 # Web Frameworks
 
@@ -373,7 +373,7 @@ There are several famous web frameworks for Go. Most common ones being:
 
 Visit the following resources to learn more:
 
-- [Comparison of Web Frameworks](https://github.com/diyan/go-web-framework-comparison)
+- [ ] [Comparison of Web Frameworks](https://github.com/diyan/go-web-framework-comparison)
 
 # Beego
 
@@ -381,7 +381,7 @@ Beego is used for rapid development of enterprise application in Go, including R
 
 Visit the following resources to learn more:
 
-- [Github Repository](https://github.com/beego/beego)
+- [ ] [Github Repository](https://github.com/beego/beego)
 
 # Gin
 
@@ -389,8 +389,8 @@ Gin is a high-performance HTTP web framework written in Golang (Go). Gin has a m
 
 Visit the following resources to learn more:
 
-- [Gin](https://github.com/gin-gonic/gin)
-- [Gin Web Framework](https://pkg.go.dev/github.com/gin-gonic/gin)
+- [ ] [Gin](https://github.com/gin-gonic/gin)
+- [ ] [Gin Web Framework](https://pkg.go.dev/github.com/gin-gonic/gin)
 
 # Revel
 
@@ -398,8 +398,8 @@ Revel organizes endpoints into Controllers. They provide easy data binding and f
 
 Visit the following resources to learn more:
 
-- [Revel](https://revel.github.io/tutorial/index.html)
-- [Revel Packages](https://pkg.go.dev/github.com/revel/revel)
+- [ ] [Revel](https://revel.github.io/tutorial/index.html)
+- [ ] [Revel Packages](https://pkg.go.dev/github.com/revel/revel)
 
 # Echo
 
@@ -407,8 +407,8 @@ Echo is a performance-focused, extensible, open-source Go web application framew
 
 Visit the following resources to learn more:
 
-- [Github Repository](https://github.com/labstack/echo)
-- [Official Website](https://echo.labstack.com/)
+- [ ] [Github Repository](https://github.com/labstack/echo)
+- [ ] [Official Website](https://echo.labstack.com/)
 
 # Gorilla
 
@@ -416,8 +416,8 @@ Gorilla is a web toolkit for the Go programming language that provides useful, c
 
 Visit the following resources to learn more:
 
-- [Github Repository](https://github.com/gorilla)
-- [Official Website](https://www.gorillatoolkit.org/)
+- [ ] [Github Repository](https://github.com/gorilla)
+- [ ] [Official Website](https://www.gorillatoolkit.org/)
 
 # Gofiber
 
@@ -425,8 +425,8 @@ Go Fiber is an Express-inspired framework for Golang. Go Fiber is a web framewor
 
 Visit the following resources to learn more:
 
-- [Github Repository](https://github.com/gofiber/fiber)
-- [Official Website Docs](https://docs.gofiber.io/)
+- [ ] [Github Repository](https://github.com/gofiber/fiber)
+- [ ] [Official Website Docs](https://docs.gofiber.io/)
 
 # Buffalo
 
@@ -434,8 +434,8 @@ Buffalo helps you to generate a web project that already has everything from fro
 
 Visit the following resources to learn more:
 
-- [Github Repository](https://github.com/gobuffalo/buffalo)
-- [Official Website Docs](https://gobuffalo.io/)
+- [ ] [Github Repository](https://github.com/gobuffalo/buffalo)
+- [ ] [Official Website Docs](https://gobuffalo.io/)
 
 # Logging
 
@@ -443,8 +443,8 @@ Go has built-in features to make it easier for programmers to implement logging.
 
 Visit the following resources to learn more:
 
-- [Logging in Go: Choosing a System and Using it](https://www.honeybadger.io/blog/golang-logging/)
-- [Logging in Golang – How to Start](https://www.loggly.com/use-cases/logging-in-golang-how-to-start/)
+- [ ] [Logging in Go: Choosing a System and Using it](https://www.honeybadger.io/blog/golang-logging/)
+- [ ] [Logging in Golang – How to Start](https://www.loggly.com/use-cases/logging-in-golang-how-to-start/)
 
 # Zerolog
 
@@ -454,7 +454,7 @@ Zerolog's API is designed to provide both a great developer experience and stunn
 
 Visit the following resources to learn more:
 
-- [GitHub Repository](https://github.com/rs/zerolog)
+- [ ] [GitHub Repository](https://github.com/rs/zerolog)
 
 # Zap
 
@@ -462,7 +462,7 @@ Blazing fast, structured, leveled logging in Go.
 
 Visit the following resources to learn more:
 
-- [GitHub Repository](https://github.com/uber-go/zap)
+- [ ] [GitHub Repository](https://github.com/uber-go/zap)
 
 # Apex
 
@@ -470,7 +470,7 @@ Structured logging package for Go.
 
 Visit the following resources to learn more:
 
-- [GitHub Repository](https://github.com/apex/log)
+- [ ] [GitHub Repository](https://github.com/apex/log)
 
 # Go realtime communication
 
@@ -480,7 +480,7 @@ Melody is websocket framework based on [github.com/gorilla/websocket](https://gi
 
 Visit the following resources to learn more:
 
-- [GitHub Repository](https://github.com/olahol/melody)
+- [ ] [GitHub Repository](https://github.com/olahol/melody)
 
 # Centrifugo
 
@@ -488,8 +488,8 @@ Centrifugo is an open-source scalable real-time messaging server. Centrifugo can
 
 Visit the following resources to learn more:
 
-- [GitHub Repository](https://github.com/centrifugal/centrifugo)
-- [Getting started](https://centrifugal.dev/docs/getting-started/introduction)
+- [ ] [GitHub Repository](https://github.com/centrifugal/centrifugo)
+- [ ] [Getting started](https://centrifugal.dev/docs/getting-started/introduction)
 
 # API Clients
 
@@ -497,7 +497,7 @@ An API client is a set of tools and protocols that operate from an application o
 
 Visit the following resources to learn more:
 
-- [API Clients](https://rapidapi.com/blog/api-glossary/client/)
+- [ ] [API Clients](https://rapidapi.com/blog/api-glossary/client/)
 
 # Microservices
 
@@ -505,10 +505,10 @@ Microservices are an architectural approach to software development that allows 
 
 Visit the following resources to learn more:
 
-- [Introduction to microservices](https://developer.ibm.com/learningpaths/get-started-application-modernization/intro-microservices/introduction/)
-- [Microservice Patterns and Resources by Chris Richardson](https://microservices.io/index.html)
-- [Microservices AntiPatterns and Pitfalls - Mark Richards](https://www.oreilly.com/content/microservices-antipatterns-and-pitfalls/)
-- [Building Microservices, 2nd Edition - Sam Newman](https://samnewman.io/books/building_microservices_2nd_edition/)
+- [ ] [Introduction to microservices](https://developer.ibm.com/learningpaths/get-started-application-modernization/intro-microservices/introduction/)
+- [ ] [Microservice Patterns and Resources by Chris Richardson](https://microservices.io/index.html)
+- [ ] [Microservices AntiPatterns and Pitfalls - Mark Richards](https://www.oreilly.com/content/microservices-antipatterns-and-pitfalls/)
+- [ ] [Building Microservices, 2nd Edition - Sam Newman](https://samnewman.io/books/building_microservices_2nd_edition/)
 
 # Watermill
 
@@ -517,7 +517,7 @@ e.g: You can use conventional pub/sub implementations like Kafka or RabbitMQ, bu
 
 Visit the following resources to learn more:
 
-- [Watermill Website](https://watermill.io/)
+- [ ] [Watermill Website](https://watermill.io/)
 
 # Rpcx
 
@@ -530,9 +530,9 @@ Rpcx is a RPC (Remote Procedure Call) framework like Alibaba Dubbo and Weibo Mot
 
 Visit the following resources to learn more:
 
-- [Rpcx English Documentation](https://en.doc.rpcx.io/)
-- [Rpcx Github](https://github.com/smallnest/rpcx)
-- [Rpcx Official Website](https://rpcx.io/)
+- [ ] [Rpcx English Documentation](https://en.doc.rpcx.io/)
+- [ ] [Rpcx Github](https://github.com/smallnest/rpcx)
+- [ ] [Rpcx Official Website](https://rpcx.io/)
 
 # Go kit
 
@@ -540,9 +540,9 @@ Go kit is a programming toolkit for building microservices (or elegant monoliths
 
 Visit the following resources to learn more:
 
-- [Go-kit Website](https://gokit.io/)
-- [Microservices in Go using the Go kit](https://dev.to/eminetto/microservices-in-go-using-the-go-kit-jjf)
-- [Building Microservices with the Go Kit Toolkit](https://www.youtube.com/watch?v=sjd2ePF3CuQ)
+- [ ] [Go-kit Website](https://gokit.io/)
+- [ ] [Microservices in Go using the Go kit](https://dev.to/eminetto/microservices-in-go-using-the-go-kit-jjf)
+- [ ] [Building Microservices with the Go Kit Toolkit](https://www.youtube.com/watch?v=sjd2ePF3CuQ)
 
 # Micro
 
@@ -550,8 +550,8 @@ It is an API first development platform. It leverages the microservices architec
 
 Visit the following resources to learn more:
 
-- [Offical Website](https://micro.dev/)
-- [Micro Github](https://github.com/micro/micro)
+- [ ] [Offical Website](https://micro.dev/)
+- [ ] [Micro Github](https://github.com/micro/micro)
 
 # go-zero
 
@@ -559,9 +559,9 @@ go-zero is a web and rpc framework with lots of engineering best practices built
 
 Visit the following resources to learn more:
 
-- [Go-zero](https://go-zero.dev/)
-- [Go-zero Docs](https://go-zero.dev/docs/introduction)
-- [GitHub Repository](https://github.com/zeromicro/go-zero)
+- [ ] [Go-zero](https://go-zero.dev/)
+- [ ] [Go-zero Docs](https://go-zero.dev/docs/introduction)
+- [ ] [GitHub Repository](https://github.com/zeromicro/go-zero)
 
 # Protocol buffers
 
@@ -576,9 +576,9 @@ Some of the advantages of using protocol buffers include:
 
 Visit the following resources to learn more:
 
-- [Protobuf Github](https://github.com/protocolbuffers/protobuf/)
-- [Protobuf Doc](https://developers.google.com/protocol-buffers/)
-- [Protobuf with Go](https://developers.google.com/protocol-buffers/docs/gotutorial/)
+- [ ] [Protobuf Github](https://github.com/protocolbuffers/protobuf/)
+- [ ] [Protobuf Doc](https://developers.google.com/protocol-buffers/)
+- [ ] [Protobuf with Go](https://developers.google.com/protocol-buffers/docs/gotutorial/)
 
 # gRPC Go
 
@@ -586,9 +586,9 @@ Go language implementation of gRPC(gRPC is a technology for implementing RPC API
 
 Visit the following resources to learn more:
 
-- [gRPC-go Github](https://github.com/grpc/grpc-go/)
-- [gRPC-go Doc](https://pkg.go.dev/google.golang.org/grpc/)
-- [Basic tutorial introduction to gRPC in Go.](https://grpc.io/docs/languages/go/basics/)
+- [ ] [gRPC-go Github](https://github.com/grpc/grpc-go/)
+- [ ] [gRPC-go Doc](https://pkg.go.dev/google.golang.org/grpc/)
+- [ ] [Basic tutorial introduction to gRPC in Go.](https://grpc.io/docs/languages/go/basics/)
 
 # Grpc gateway
 
@@ -596,8 +596,8 @@ gRPC-Gateway creates a layer over gRPC services that will act as a RESTful servi
 
 Visit the following resources to learn more:
 
-- [Grpc-gateway Github](https://github.com/grpc-ecosystem/grpc-gateway/)
-- [Grpc-gateway Doc](https://grpc-ecosystem.github.io/grpc-gateway/)
+- [ ] [Grpc-gateway Github](https://github.com/grpc-ecosystem/grpc-gateway/)
+- [ ] [Grpc-gateway Doc](https://grpc-ecosystem.github.io/grpc-gateway/)
 
 # Twirp
 
@@ -607,5 +607,5 @@ Twirp is similar to gRPC, but without the custom HTTP server and transport imple
 
 Visit the following resources to learn more:
 
-- [GitHub Repository](https://github.com/twitchtv/twirp)
-- [Getting started](https://twitchtv.github.io/twirp/docs/intro.html)
+- [ ] [GitHub Repository](https://github.com/twitchtv/twirp)
+- [ ] [Getting started](https://twitchtv.github.io/twirp/docs/intro.html)

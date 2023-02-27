@@ -6,8 +6,8 @@ It is used for server-side programming, and primarily deployed for non-blocking,
 
 Visit the following resources to learn more:
 
-- [Official Website](https://nodejs.org/en/)
-- [Official Documentation](https://nodejs.org/en/docs/)
+- [ ] [Official Website](https://nodejs.org/en/)
+- [ ] [Official Documentation](https://nodejs.org/en/docs/)
 
 # What is Node.js
 
@@ -15,11 +15,11 @@ Node.js is an open-source and cross-platform JavaScript runtime environment. It 
 
 Visit the following resources to learn more:
 
-- [Official Website](https://nodejs.org/en/about/)
-- [Node.JS Introduction](https://www.w3schools.com/nodejs/nodejs_intro.asp)
-- [Official Website](https://nodejs.dev/en/learn/)
-- [What is Node.js?](https://www.youtube.com/watch?v=uVwtVBpw7RQ)
-- [How Node.js Works?](https://www.youtube.com/watch?v=jOupHNvDIq8)
+- [ ] [Official Website](https://nodejs.org/en/about/)
+- [ ] [Node.JS Introduction](https://www.w3schools.com/nodejs/nodejs_intro.asp)
+- [ ] [Official Website](https://nodejs.dev/en/learn/)
+- [ ] [What is Node.js?](https://www.youtube.com/watch?v=uVwtVBpw7RQ)
+- [ ] [How Node.js Works?](https://www.youtube.com/watch?v=jOupHNvDIq8)
 
 # Why Node.js
 
@@ -27,10 +27,10 @@ Node.js is a cross-platform runtime, perfect for a wide range of use cases. Its 
 
 Visit the following resources to learn more:
 
-- [Pros of Node.js](https://www.freecodecamp.org/news/what-are-the-advantages-of-node-js/)
-- [Learn Node.js](https://nodejs.dev/en/learn/)
-- [Why Choose Node.js?](https://medium.com/selleo/why-choose-node-js-b0091ad6c3fc)
-- [5 Reasons to Choose Node.js](https://www.bitovi.com/blog/5-reasons-to-choose-nodejs)
+- [ ] [Pros of Node.js](https://www.freecodecamp.org/news/what-are-the-advantages-of-node-js/)
+- [ ] [Learn Node.js](https://nodejs.dev/en/learn/)
+- [ ] [Why Choose Node.js?](https://medium.com/selleo/why-choose-node-js-b0091ad6c3fc)
+- [ ] [5 Reasons to Choose Node.js](https://www.bitovi.com/blog/5-reasons-to-choose-nodejs)
 
 # History of Node.js
 
@@ -38,7 +38,7 @@ Node.js was written initially by Ryan Dahl in 2009, about thirteen years after t
 
 Visit the following resources to learn more:
 
-- [Official Website](https://nodejs.dev/en/learn/a-brief-history-of-nodejs/)
+- [ ] [Official Website](https://nodejs.dev/en/learn/a-brief-history-of-nodejs/)
 
 # Nodejs vs Browser
 
@@ -46,7 +46,7 @@ Both the browser and Node.js use JavaScript as their programming language. Build
 
 Visit the following resources to learn more:
 
-- [Differences between Node.js and the Browser](https://nodejs.dev/en/learn/differences-between-nodejs-and-the-browser/)
+- [ ] [Differences between Node.js and the Browser](https://nodejs.dev/en/learn/differences-between-nodejs-and-the-browser/)
 
 # Running Node.js Code
 
@@ -54,7 +54,7 @@ The usual way to run a Node.js program is to run the globally available `node` c
 
 Visit the following resources to learn more:
 
-- [Run Node.js from Command Line](https://nodejs.dev/en/learn/run-nodejs-scripts-from-the-command-line/)
+- [ ] [Run Node.js from Command Line](https://nodejs.dev/en/learn/run-nodejs-scripts-from-the-command-line/)
 
 # Node.js Modules
 
@@ -62,11 +62,11 @@ We split our code into different files to maintain, organize and reuse code when
 
 Visit the following resources to learn more:
 
-- [Modules: CommonJS modules](https://nodejs.org/api/modules.html#modules-commonjs-modules)
-- [CommonJS vs. ES modules in Node.js](https://blog.logrocket.com/commonjs-vs-es-modules-node-js/)
-- [More about modules](https://www.geeksforgeeks.org/node-js-modules/)
-- [Using Modules](https://www.freecodecamp.org/news/modular-programming-nodejs-npm-modules/)
-- [Modules in Node.js](https://www.youtube.com/watch?v=9Amxzvq5LY8&)
+- [ ] [Modules: CommonJS modules](https://nodejs.org/api/modules.html#modules-commonjs-modules)
+- [ ] [CommonJS vs. ES modules in Node.js](https://blog.logrocket.com/commonjs-vs-es-modules-node-js/)
+- [ ] [More about modules](https://www.geeksforgeeks.org/node-js-modules/)
+- [ ] [Using Modules](https://www.freecodecamp.org/news/modular-programming-nodejs-npm-modules/)
+- [ ] [Modules in Node.js](https://www.youtube.com/watch?v=9Amxzvq5LY8&)
 
 # CommonJS vs ESM
 
@@ -74,11 +74,11 @@ CommonJS and ES (EcmaScript) are module systems used in Node. CommonJS is the de
 
 Visit the following resources to learn more:
 
-- [CommonJS vs ESM](https://blog.logrocket.com/commonjs-vs-es-modules-node-js/)
-- [Using CommonJS](https://www.javascripttutorial.net/nodejs-tutorial/nodejs-modules/)
-- [Using ES Modules](https://blog.logrocket.com/es-modules-in-node-today/)
-- [Using Modules](https://www.youtube.com/watch?v=pP4kjXykbio)
-- [CommonJS vs. ES Modules: Modules and Imports in NodeJS](https://reflectoring.io/nodejs-modules-imports/)
+- [ ] [CommonJS vs ESM](https://blog.logrocket.com/commonjs-vs-es-modules-node-js/)
+- [ ] [Using CommonJS](https://www.javascripttutorial.net/nodejs-tutorial/nodejs-modules/)
+- [ ] [Using ES Modules](https://blog.logrocket.com/es-modules-in-node-today/)
+- [ ] [Using Modules](https://www.youtube.com/watch?v=pP4kjXykbio)
+- [ ] [CommonJS vs. ES Modules: Modules and Imports in NodeJS](https://reflectoring.io/nodejs-modules-imports/)
 
 # Custom Modules
 
@@ -86,10 +86,10 @@ Modules are the collection of JavaScript codes in a separate logical file that c
 
 Visit the following resources to learn more:
 
-- [How to Create Modules in Node.js ?](https://www.geeksforgeeks.org/how-to-create-modules-in-node-js/)
-- [Creating a Module in Node.js](https://www.youtube.com/watch?v=Cxo4UKpHv5s)
-- [CommonJS vs ESM in Node.js](https://blog.logrocket.com/commonjs-vs-es-modules-node-js/)
-- [Modules and Imports in Node.js](https://reflectoring.io/nodejs-modules-imports/)
+- [ ] [How to Create Modules in Node.js ?](https://www.geeksforgeeks.org/how-to-create-modules-in-node-js/)
+- [ ] [Creating a Module in Node.js](https://www.youtube.com/watch?v=Cxo4UKpHv5s)
+- [ ] [CommonJS vs ESM in Node.js](https://blog.logrocket.com/commonjs-vs-es-modules-node-js/)
+- [ ] [Modules and Imports in Node.js](https://reflectoring.io/nodejs-modules-imports/)
 
 # global keyword
 
@@ -97,9 +97,9 @@ In browsers, the top-level scope is the global scope. This means that within the
 
 Visit the following resources to learn more:
 
-- [global Keyword in Node.js](https://nodejs.org/api/globals.html#global)
-- [What is Global Object?](https://www.youtube.com/watch?v=jn8PZNBmKm0)
-- [Global Object in Node](https://www.youtube.com/watch?v=PY-AycMkEAg)
+- [ ] [global Keyword in Node.js](https://nodejs.org/api/globals.html#global)
+- [ ] [What is Global Object?](https://www.youtube.com/watch?v=jn8PZNBmKm0)
+- [ ] [Global Object in Node](https://www.youtube.com/watch?v=PY-AycMkEAg)
 
 # npm
 
@@ -109,11 +109,11 @@ It is two things: first and foremost, it is an online repository for the publish
 
 Visit the following resources to learn more:
 
-- [What is npm?](https://nodejs.dev/en/learn/an-introduction-to-the-npm-package-manager/)
-- [An introduction to the npm package manager](https://nodejs.dev/en/learn/an-introduction-to-the-npm-package-manager/)
-- [Official Website](https://www.npmjs.com/)
-- [Official Documentation](https://docs.npmjs.com/)
-- [NPM Crash Course](https://www.youtube.com/watch?v=jHDhaSSKmB0)
+- [ ] [What is npm?](https://nodejs.dev/en/learn/an-introduction-to-the-npm-package-manager/)
+- [ ] [An introduction to the npm package manager](https://nodejs.dev/en/learn/an-introduction-to-the-npm-package-manager/)
+- [ ] [Official Website](https://www.npmjs.com/)
+- [ ] [Official Documentation](https://docs.npmjs.com/)
+- [ ] [NPM Crash Course](https://www.youtube.com/watch?v=jHDhaSSKmB0)
 
 # npx
 
@@ -121,9 +121,9 @@ npx is a very powerful command that's been available in npm starting version 5.2
 
 Visit the following resources to learn more:
 
-- [Introduction to the npx Node.js Package Runner](https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b)
-- [npm vs npx — What’s the Difference?](https://www.freecodecamp.org/news/npm-vs-npx-whats-the-difference/)
-- [Official Documentation:](https://docs.npmjs.com/cli/v7/commands/npx/)
+- [ ] [Introduction to the npx Node.js Package Runner](https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b)
+- [ ] [npm vs npx — What’s the Difference?](https://www.freecodecamp.org/news/npm-vs-npx-whats-the-difference/)
+- [ ] [Official Documentation:](https://docs.npmjs.com/cli/v7/commands/npx/)
 
 # Global Install vs Local Install
 
@@ -131,10 +131,10 @@ NodeJS and NPM allow two methods of installing dependencies/packages: Local and 
 
 Visit the following resources to learn more:
 
-- [Downloading and installing packages locally](https://docs.npmjs.com/downloading-and-installing-packages-locally)
-- [Downloading and installing packages globally](https://docs.npmjs.com/downloading-and-installing-packages-globally)
-- [NPM Install Docs](https://docs.npmjs.com/cli/v8/commands/npm-install)
-- [What is global installation of dependencies in Node.js ?](https://www.geeksforgeeks.org/what-is-global-installation-of-dependencies-in-node-js/)
+- [ ] [Downloading and installing packages locally](https://docs.npmjs.com/downloading-and-installing-packages-locally)
+- [ ] [Downloading and installing packages globally](https://docs.npmjs.com/downloading-and-installing-packages-globally)
+- [ ] [NPM Install Docs](https://docs.npmjs.com/cli/v8/commands/npm-install)
+- [ ] [What is global installation of dependencies in Node.js ?](https://www.geeksforgeeks.org/what-is-global-installation-of-dependencies-in-node-js/)
 
 # Updating Packages
 
@@ -142,9 +142,9 @@ npm provides various features to help install and maintain the project's depende
 
 Visit the following resources to learn more:
 
-- [How to update?](https://www.freecodecamp.org/news/how-to-update-npm-dependencies/)
-- [Updating dependencies](https://www.youtube.com/watch?v=Ghdfdq17JAY)
-- [Updating packages downloaded from the registry](https://docs.npmjs.com/updating-packages-downloaded-from-the-registry)
+- [ ] [How to update?](https://www.freecodecamp.org/news/how-to-update-npm-dependencies/)
+- [ ] [Updating dependencies](https://www.youtube.com/watch?v=Ghdfdq17JAY)
+- [ ] [Updating packages downloaded from the registry](https://docs.npmjs.com/updating-packages-downloaded-from-the-registry)
 
 # Using Packages
 
@@ -152,7 +152,7 @@ Open source Node modules are very powerful as you can instantly get access to th
 
 Visit the following resources to learn more:
 
-- [How to import and use npm modules](https://learn.coderslang.com/0014-how-to-import-and-use-npm-modules/)
+- [ ] [How to import and use npm modules](https://learn.coderslang.com/0014-how-to-import-and-use-npm-modules/)
 
 # Running Scripts
 
@@ -160,9 +160,9 @@ In Node.js, npm scripts are used for the purpose of initiating a server, startin
 
 Visit the following resources to learn more:
 
-- [Example of Running Scripts](https://riptutorial.com/node-js/example/4592/running-scripts)
-- [Introduction to NPM Scripts](https://www.geeksforgeeks.org/introduction-to-npm-scripts/)
-- [Running Scripts](https://docs.npmjs.com/downloading-and-installing-packages-locally)
+- [ ] [Example of Running Scripts](https://riptutorial.com/node-js/example/4592/running-scripts)
+- [ ] [Introduction to NPM Scripts](https://www.geeksforgeeks.org/introduction-to-npm-scripts/)
+- [ ] [Running Scripts](https://docs.npmjs.com/downloading-and-installing-packages-locally)
 
 # npm workspaces
 
@@ -170,8 +170,8 @@ Workspace is a generic term that refers to the set of npm CLI features that supp
 
 Visit the following resources to learn more:
 
-- [npm workspaces](https://docs.npmjs.com/cli/v8/using-npm/workspaces)
-- [Getting Started with Npm Workspaces](https://ruanmartinelli.com/posts/npm-7-workspaces-1)
+- [ ] [npm workspaces](https://docs.npmjs.com/cli/v8/using-npm/workspaces)
+- [ ] [Getting Started with Npm Workspaces](https://ruanmartinelli.com/posts/npm-7-workspaces-1)
 
 # Creating Packages
 
@@ -179,8 +179,8 @@ npm packages allow you to bundle some specific functionality into a reusable pac
 
 Visit the following resources to learn more:
 
-- [How to make a tiny npm package and publish it](https://www.freecodecamp.org/news/how-to-make-a-beautiful-tiny-npm-package-and-publish-it-2881d4307f78/)
-- [Best practices for creating a modern npm package](https://snyk.io/blog/best-practices-create-modern-npm-package/)
+- [ ] [How to make a tiny npm package and publish it](https://www.freecodecamp.org/news/how-to-make-a-beautiful-tiny-npm-package-and-publish-it-2881d4307f78/)
+- [ ] [Best practices for creating a modern npm package](https://snyk.io/blog/best-practices-create-modern-npm-package/)
 
 # Error Handling
 
@@ -188,8 +188,8 @@ Error handling is a way to find bugs and solve them as quickly as humanly possib
 
 Visit the following resources to learn more:
 
-- [Node.js Error Handling Best Practices](https://sematext.com/blog/node-js-error-handling)
-- [Error handling in Node.js](https://blog.logrocket.com/error-handling-node-js/)
+- [ ] [Node.js Error Handling Best Practices](https://sematext.com/blog/node-js-error-handling)
+- [ ] [Error handling in Node.js](https://blog.logrocket.com/error-handling-node-js/)
 
 # Stack Trace
 
@@ -197,9 +197,9 @@ The stack trace is used to trace the active stack frames at a particular instanc
 
 Visit the following resources to learn more:
 
-- [What is Stack trace?](https://www.geeksforgeeks.org/what-is-stacktrace-and-how-to-print-in-node-js/)
-- [What is stacktrace and how to print in node.js?](https://www.geeksforgeeks.org/what-is-stacktrace-and-how-to-print-in-node-js/)
-- [Multiple ways to log the stack trace in node.js](https://www.cloudhadoop.com/nodejs-print-stack-trace-error/)
+- [ ] [What is Stack trace?](https://www.geeksforgeeks.org/what-is-stacktrace-and-how-to-print-in-node-js/)
+- [ ] [What is stacktrace and how to print in node.js?](https://www.geeksforgeeks.org/what-is-stacktrace-and-how-to-print-in-node-js/)
+- [ ] [Multiple ways to log the stack trace in node.js](https://www.cloudhadoop.com/nodejs-print-stack-trace-error/)
 
 # Using debugger
 
@@ -209,8 +209,8 @@ Example - $ node inspect myscript.js
 
 Visit the following resources to learn more:
 
-- [Official Website](https://nodejs.org/api/debugger.html)
-- [Node.js Debugging](https://www.geeksforgeeks.org/node-js-debugging/)
+- [ ] [Official Website](https://nodejs.org/api/debugger.html)
+- [ ] [Node.js Debugging](https://www.geeksforgeeks.org/node-js-debugging/)
 
 # Uncaught Exceptions
 
@@ -220,9 +220,9 @@ The correct use of `uncaughtException` is to perform synchronous cleanup of allo
 
 Visit the following resources to learn more:
 
-- [Official Website](https://nodejs.org/api/process.html#event-uncaughtexception)
-- [Let It Crash: Best Practices for Handling Node.js Errors on Shutdown](https://blog.heroku.com/best-practices-nodejs-errors)
-- [Uncaught Exceptions in Node.js](https://shapeshed.com/uncaught-exceptions-in-node/)
+- [ ] [Official Website](https://nodejs.org/api/process.html#event-uncaughtexception)
+- [ ] [Let It Crash: Best Practices for Handling Node.js Errors on Shutdown](https://blog.heroku.com/best-practices-nodejs-errors)
+- [ ] [Uncaught Exceptions in Node.js](https://shapeshed.com/uncaught-exceptions-in-node/)
 
 # Async errors
 
@@ -230,7 +230,7 @@ Errors must always be handled. If you are using synchronous programming you coul
 
 Visit the following resources to learn more:
 
-- [Async Errors](https://www.mariokandut.com/handling-errors-in-asynchronous-functions-node-js/)
+- [ ] [Async Errors](https://www.mariokandut.com/handling-errors-in-asynchronous-functions-node-js/)
 
 # Nodejs async programming
 
@@ -238,8 +238,8 @@ Asynchronous code means that things can happen independently of the main program
 
 Visit the following resources to learn more:
 
-- [Introduction to Async JS](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Introducing/)
-- [Asynchronous Vs Synchronous Programming](https://www.youtube.com/watch?v=Kpn2ajSa92c)
+- [ ] [Introduction to Async JS](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Introducing/)
+- [ ] [Asynchronous Vs Synchronous Programming](https://www.youtube.com/watch?v=Kpn2ajSa92c)
 
 # Event Loop
 
@@ -247,11 +247,11 @@ The Event Loop is one of the most critical aspects of Node.js. Why is this so im
 
 Visit the following resources to learn more:
 
-- [The Node.JS Event Loop](https://nodejs.org/en/docs/guides/event-loop-timers-and-nexttick/#what-is-the-event-loop)
-- [JavaScript Visualized: Event Loop](https://dev.to/lydiahallie/javascript-visualized-event-loop-3dif)
-- [The Node.js Event Loop](https://www.coursera.org/lecture/secure-full-stack-mean-developer/the-node-js-event-loop-j5fbT)
-- [The Complete Node js: The Node js Event Loop](https://www.youtube.com/watch?v=6YgsqXlUoTM)
-- [The NodeJS Event loop](https://nodejs.dev/en/learn/the-nodejs-event-loop/)
+- [ ] [The Node.JS Event Loop](https://nodejs.org/en/docs/guides/event-loop-timers-and-nexttick/#what-is-the-event-loop)
+- [ ] [JavaScript Visualized: Event Loop](https://dev.to/lydiahallie/javascript-visualized-event-loop-3dif)
+- [ ] [The Node.js Event Loop](https://www.coursera.org/lecture/secure-full-stack-mean-developer/the-node-js-event-loop-j5fbT)
+- [ ] [The Complete Node js: The Node js Event Loop](https://www.youtube.com/watch?v=6YgsqXlUoTM)
+- [ ] [The NodeJS Event loop](https://nodejs.dev/en/learn/the-nodejs-event-loop/)
 
 # Event Emitter
 
@@ -259,8 +259,8 @@ In Node.js, an event can be described simply as a string with a corresponding ca
 
 Visit the following resources to learn more:
 
-- [What are Event Emitters?](https://nodejs.dev/en/learn/the-nodejs-event-emitter/)
-- [Using Event Emitters in Node.js](https://www.digitalocean.com/community/tutorials/using-event-emitters-in-node-js)
+- [ ] [What are Event Emitters?](https://nodejs.dev/en/learn/the-nodejs-event-emitter/)
+- [ ] [Using Event Emitters in Node.js](https://www.digitalocean.com/community/tutorials/using-event-emitters-in-node-js)
 
 # Promises
 
@@ -275,10 +275,10 @@ Using resolve() and reject(), we can communicate back to the caller what the res
 
 Visit the following resources to learn more:
 
-- [Promise Methods](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
-- [Official Website](https://www.promisejs.org/)
-- [Official Website](https://www.freecodecamp.org/news/javascript-promises-for-beginners/)
-- [Asynchronous JavaScript - Promises](https://www.youtube.com/watch?v=a_8nrslImo4/)
+- [ ] [Promise Methods](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
+- [ ] [Official Website](https://www.promisejs.org/)
+- [ ] [Official Website](https://www.freecodecamp.org/news/javascript-promises-for-beginners/)
+- [ ] [Asynchronous JavaScript - Promises](https://www.youtube.com/watch?v=a_8nrslImo4/)
 
 # Async/Await
 
@@ -286,11 +286,11 @@ Async/Await is a special syntax to work with promises in a more comfortable fash
 
 Visit the following resources to learn more:
 
-- [Official Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function)
-- [More on async await](https://javascript.info/async-await)
-- [Using async await](https://www.youtube.com/watch?v=V_Kr9OSfDeU)
-- [W3Docs Async/Await](https://www.w3docs.com/learn-javascript/async-await.html)
-- [Difference between Promise and Async/Await](https://www.geeksforgeeks.org/difference-between-promise-and-async-await-in-node-js/)
+- [ ] [Official Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function)
+- [ ] [More on async await](https://javascript.info/async-await)
+- [ ] [Using async await](https://www.youtube.com/watch?v=V_Kr9OSfDeU)
+- [ ] [W3Docs Async/Await](https://www.w3docs.com/learn-javascript/async-await.html)
+- [ ] [Difference between Promise and Async/Await](https://www.geeksforgeeks.org/difference-between-promise-and-async-await-in-node-js/)
 
 # Callbacks
 
@@ -298,8 +298,8 @@ Node.js, being an asynchronous platform, doesn't wait around for things like fil
 
 Visit the following resources to learn more:
 
-- [What are callbacks?](https://developer.mozilla.org/en-US/docs/Glossary/Callback_function)
-- [Asynchronicity in Programming Languages](https://nodejs.dev/en/learn/javascript-asynchronous-programming-and-callbacks/)
+- [ ] [What are callbacks?](https://developer.mozilla.org/en-US/docs/Glossary/Callback_function)
+- [ ] [Asynchronicity in Programming Languages](https://nodejs.dev/en/learn/javascript-asynchronous-programming-and-callbacks/)
 
 # setTimeout
 
@@ -307,10 +307,10 @@ The setTimeout runs a function after the specified period expires. Times are dec
 
 Visit the following resources to learn more:
 
-- [JavaScript MDN Docs](https://developer.mozilla.org/en-US/docs/Web/API/setTimeout)
-- [W3Schools – JavaScript - setTimeOut](https://www.w3schools.com/jsref/met_win_settimeout.asp)
-- [setInterval and setTimeout: timing events](https://www.youtube.com/watch?v=kOcFZV3c75I)
-- [setTimeout EXPLAINED in 5 minutes!](https://www.youtube.com/watch?v=z9lJb4D3nJY)
+- [ ] [JavaScript MDN Docs](https://developer.mozilla.org/en-US/docs/Web/API/setTimeout)
+- [ ] [W3Schools – JavaScript - setTimeOut](https://www.w3schools.com/jsref/met_win_settimeout.asp)
+- [ ] [setInterval and setTimeout: timing events](https://www.youtube.com/watch?v=kOcFZV3c75I)
+- [ ] [setTimeout EXPLAINED in 5 minutes!](https://www.youtube.com/watch?v=z9lJb4D3nJY)
 
 # setInterval
 
@@ -320,8 +320,8 @@ The `setInterval()` method helps us to repeatedly execute a function after a fix
 
 Visit the following resources to learn more:
 
-- [Scheduling: setTimeout and setInterval](https://javascript.info/settimeout-setinterval)
-- [What is the use of setInterval() method in Node.js?](https://www.geeksforgeeks.org/what-is-setinterval-in-javascript/)
+- [ ] [Scheduling: setTimeout and setInterval](https://javascript.info/settimeout-setinterval)
+- [ ] [What is the use of setInterval() method in Node.js?](https://www.geeksforgeeks.org/what-is-setinterval-in-javascript/)
 
 # setImmediate
 
@@ -329,8 +329,8 @@ The `setImmediate` function delays the execution of a function to be called afte
 
 Visit the following resources to learn more:
 
-- [Understanding setImmediate](https://developer.mozilla.org/en-US/docs/Web/API/Window/setImmediate)
-- [Understanding setImmediate](https://nodejs.dev/en/learn/understanding-setimmediate/)
+- [ ] [Understanding setImmediate](https://developer.mozilla.org/en-US/docs/Web/API/Window/setImmediate)
+- [ ] [Understanding setImmediate](https://nodejs.dev/en/learn/understanding-setimmediate/)
 
 # process.nextTick()
 
@@ -338,9 +338,9 @@ Every time the event loop takes a full trip, we call it a tick. When we pass a f
 
 Visit the following resources to learn more:
 
-- [Understanding Process.NextTick()](https://nodejs.dev/en/learn/understanding-processnexttick/)
-- [The Node.js process.nextTick()](https://nodejs.org/en/docs/guides/event-loop-timers-and-nexttick/)
-- [The process.nextTick Function](https://www.youtube.com/watch?v=-niA5XOlCWI)
+- [ ] [Understanding Process.NextTick()](https://nodejs.dev/en/learn/understanding-processnexttick/)
+- [ ] [The Node.js process.nextTick()](https://nodejs.org/en/docs/guides/event-loop-timers-and-nexttick/)
+- [ ] [The process.nextTick Function](https://www.youtube.com/watch?v=-niA5XOlCWI)
 
 # Working with Files
 
@@ -348,7 +348,7 @@ You can programmatically manipulate files in Node.js with the built-in `fs` modu
 
 Visit the following resources to learn more:
 
-- [How To Work with Files using the fs Module in Node.js](https://www.digitalocean.com/community/tutorials/how-to-work-with-files-using-the-fs-module-in-node-js)
+- [ ] [How To Work with Files using the fs Module in Node.js](https://www.digitalocean.com/community/tutorials/how-to-work-with-files-using-the-fs-module-in-node-js)
 
 # Fs module
 
@@ -356,9 +356,9 @@ File System or fs module is a built in module in Node that enables interacting w
 
 Visit the following resources to learn more:
 
-- [Official Documentation](https://nodejs.org/api/fs.html)
-- [More about fs module](https://www.w3schools.com/nodejs/nodejs_filesystem.asp)
-- [Using fs](https://www.youtube.com/watch?v=ZySsdm576wE)
+- [ ] [Official Documentation](https://nodejs.org/api/fs.html)
+- [ ] [More about fs module](https://www.w3schools.com/nodejs/nodejs_filesystem.asp)
+- [ ] [Using fs](https://www.youtube.com/watch?v=ZySsdm576wE)
 
 # path module
 
@@ -366,9 +366,9 @@ The `path` module provides utilities for working with file and directory paths. 
 
 Visit the following resources to learn more:
 
-- [Official Website](https://nodejs.org/api/path.html)
-- [Official Website](https://nodejs.dev/en/learn/nodejs-file-paths/)
-- [Path Module in Node.js](https://youtu.be/j95Lwxvi9JY)
+- [ ] [Official Website](https://nodejs.org/api/path.html)
+- [ ] [Official Website](https://nodejs.dev/en/learn/nodejs-file-paths/)
+- [ ] [Path Module in Node.js](https://youtu.be/j95Lwxvi9JY)
 
 # process.cwd()
 
@@ -376,8 +376,8 @@ The `process.cwd()` method returns the current working directory of the Node.js 
 
 Visit the following resources to learn more:
 
-- [Official Website](https://nodejs.org/api/process.html#processcwd)
-- [Whats the difference between process.cwd() vs __dirname?](https://stackoverflow.com/questions/9874382/whats-the-difference-between-process-cwd-vs-dirname)
+- [ ] [Official Website](https://nodejs.org/api/process.html#processcwd)
+- [ ] [Whats the difference between process.cwd() vs __dirname?](https://stackoverflow.com/questions/9874382/whats-the-difference-between-process-cwd-vs-dirname)
 
 # Glob
 
@@ -385,7 +385,7 @@ The glob pattern is most commonly used to specify filenames, called wildcard cha
 
 Visit the following resources to learn more:
 
-- [NPM Glob](https://www.npmjs.com/package/glob)
+- [ ] [NPM Glob](https://www.npmjs.com/package/glob)
 
 # Globby
 
@@ -395,8 +395,8 @@ Based on fast-glob but adds a bunch of useful features.
 
 Visit the following resources to learn more:
 
-- [NPM Globby](https://www.npmjs.com/package/globby)
-- [Github Globby](https://github.com/sindresorhus/globby)
+- [ ] [NPM Globby](https://www.npmjs.com/package/globby)
+- [ ] [Github Globby](https://github.com/sindresorhus/globby)
 
 # fs-extra
 
@@ -404,8 +404,8 @@ fs-extra adds file system methods that aren't included in the native fs module a
 
 Visit the following resources to learn more:
 
-- [Official Website](https://www.npmjs.com/package/fs-extra)
-- [fs-extra vs fs](https://ar.al/2021/03/07/fs-extra-to-fs/)
+- [ ] [Official Website](https://www.npmjs.com/package/fs-extra)
+- [ ] [fs-extra vs fs](https://ar.al/2021/03/07/fs-extra-to-fs/)
 
 # Chokidar
 
@@ -413,7 +413,7 @@ Chokidar is a fast open-source file watcher for node. js. You give it a bunch of
 
 Visit the following resources to learn more:
 
-- [NPM Docs](https://www.npmjs.com/package/chokidar)
+- [ ] [NPM Docs](https://www.npmjs.com/package/chokidar)
 
 # __dirname
 
@@ -421,8 +421,8 @@ The `__dirname` in a node script returns the path of the folder where the curren
 
 Visit the following resources to learn more:
 
-- [Official Website](https://nodejs.org/docs/latest/api/modules.html#__dirname)
-- [How to use __dirname](https://www.digitalocean.com/community/tutorials/nodejs-how-to-use__dirname)
+- [ ] [Official Website](https://nodejs.org/docs/latest/api/modules.html#__dirname)
+- [ ] [How to use __dirname](https://www.digitalocean.com/community/tutorials/nodejs-how-to-use__dirname)
 
 # __filename
 
@@ -430,7 +430,7 @@ The `__filename` in Node.js returns the filename of the executed code. It gives 
 
 Visit the following resources to learn more:
 
-- [Official Docs](https://nodejs.org/docs/latest/api/modules.html#__filename)
+- [ ] [Official Docs](https://nodejs.org/docs/latest/api/modules.html#__filename)
 
 # Command Line Applications
 
@@ -438,9 +438,9 @@ Command Line Applications are applications that can be run from the command line
 
 Visit the following resources to learn more:
 
-- [Intro To CLI Applications](https://learn.co/lessons/intro-to-cli-applications)
-- [Build a Command Line Application with Node.js](https://developer.okta.com/blog/2019/06/18/command-line-app-with-nodejs)
-- [5-Minute Node.js CLI Project](https://www.youtube.com/watch?v=_oHByo8tiEY)
+- [ ] [Intro To CLI Applications](https://learn.co/lessons/intro-to-cli-applications)
+- [ ] [Build a Command Line Application with Node.js](https://developer.okta.com/blog/2019/06/18/command-line-app-with-nodejs)
+- [ ] [5-Minute Node.js CLI Project](https://www.youtube.com/watch?v=_oHByo8tiEY)
 
 # Exiting and exit codes
 
@@ -448,8 +448,8 @@ Visit the following resources to learn more:
 
 Visit the following resources to learn more:
 
-- [Node.js Docs on exit](https://nodejs.org/docs/latest/api/process.html)
-- [How to Exit a Process in Node.js](https://www.knowledgehut.com/blog/web-development/node-js-process-exit)
+- [ ] [Node.js Docs on exit](https://nodejs.org/docs/latest/api/process.html)
+- [ ] [How to Exit a Process in Node.js](https://www.knowledgehut.com/blog/web-development/node-js-process-exit)
 
 # APIs
 
@@ -457,7 +457,7 @@ API is the acronym for Application Programming Interface, which is a software in
 
 Visit the following resources to learn more:
 
-- [What is an API?](https://aws.amazon.com/what-is/api/)
+- [ ] [What is an API?](https://aws.amazon.com/what-is/api/)
 
 # Http module
 
@@ -465,9 +465,9 @@ To make HTTP requests in Node.js, there is a built-in module HTTP in Node.js to 
 
 Visit the following resources to learn more:
 
-- [How To Create a Web Server in Node.js with the HTTP Modulet](https://www.digitalocean.com/community/tutorials/how-to-create-a-web-server-in-node-js-with-the-http-module)
-- [Node.js Http Module](https://www.geeksforgeeks.org/node-js-http-module/)
-- [The Node.js Http Module](https://nodejs.dev/en/learn/the-nodejs-http-module/)
+- [ ] [How To Create a Web Server in Node.js with the HTTP Modulet](https://www.digitalocean.com/community/tutorials/how-to-create-a-web-server-in-node-js-with-the-http-module)
+- [ ] [Node.js Http Module](https://www.geeksforgeeks.org/node-js-http-module/)
+- [ ] [The Node.js Http Module](https://nodejs.dev/en/learn/the-nodejs-http-module/)
 
 # Express.js
 
@@ -475,11 +475,11 @@ Express is a node js web application framework that provides broad features for 
 
 Visit the following resources to learn more:
 
-- [Express.js Official Website](https://expressjs.com/)
-- [Official Getting Started Guide](https://expressjs.com/en/starter/installing.html)
-- [Express Full Guide](https://www.tutorialspoint.com/nodejs/nodejs_express_framework.html)
-- [Sample Project](https://auth0.com/blog/create-a-simple-and-stylish-node-express-app/)
-- [Express Explained with Examples](https://www.freecodecamp.org/news/express-explained-with-examples-installation-routing-middleware-and-more/)
+- [ ] [Express.js Official Website](https://expressjs.com/)
+- [ ] [Official Getting Started Guide](https://expressjs.com/en/starter/installing.html)
+- [ ] [Express Full Guide](https://www.tutorialspoint.com/nodejs/nodejs_express_framework.html)
+- [ ] [Sample Project](https://auth0.com/blog/create-a-simple-and-stylish-node-express-app/)
+- [ ] [Express Explained with Examples](https://www.freecodecamp.org/news/express-explained-with-examples-installation-routing-middleware-and-more/)
 
 # NestJS
 
@@ -487,9 +487,9 @@ NestJS is a progressive Node.js framework for creating efficient and scalable se
 
 Visit the following resources to learn more:
 
-- [NestJS Website](https://nestjs.com)
-- [NestJS Official Documentations](https://docs.nestjs.com)
-- [Beginner NestJS Tutorial](https://www.youtube.com/watch?v=GHTA143_b-s)
+- [ ] [NestJS Website](https://nestjs.com)
+- [ ] [NestJS Official Documentations](https://docs.nestjs.com)
+- [ ] [Beginner NestJS Tutorial](https://www.youtube.com/watch?v=GHTA143_b-s)
 
 # Fastify
 
@@ -497,9 +497,9 @@ Fastify is a web framework highly focused on providing the best developer experi
 
 Visit the following resources to learn more:
 
-- [Fastify Website](https://www.fastify.io/)
-- [Fastify Official Documentations](https://www.fastify.io/docs/latest/)
-- [Beginner Fastify Tutorial](https://www.youtube.com/watch?v=Lk-uVEVGxOA)
+- [ ] [Fastify Website](https://www.fastify.io/)
+- [ ] [Fastify Official Documentations](https://www.fastify.io/docs/latest/)
+- [ ] [Beginner Fastify Tutorial](https://www.youtube.com/watch?v=Lk-uVEVGxOA)
 
 # Got
 
@@ -507,8 +507,8 @@ Got is a lighter, human-friendly, and powerful HTTP request library explicitly d
 
 Visit the following resources to learn more:
 
-- [Official Documentation](https://www.npmjs.com/package/got)
-- [How to consume APIs using GOT in Node.js?](https://rapidapi.com/guides/call-apis-got)
+- [ ] [Official Documentation](https://www.npmjs.com/package/got)
+- [ ] [How to consume APIs using GOT in Node.js?](https://rapidapi.com/guides/call-apis-got)
 
 # unfetch
 
@@ -516,7 +516,7 @@ unfetch is a tiny 500b fetch "barely-polyfill"
 
 Visit the following resources to learn more:
 
-- [unfetch Docs](https://github.com/developit/unfetch#readme)
+- [ ] [unfetch Docs](https://github.com/developit/unfetch#readme)
 
 # Axios
 
@@ -524,8 +524,8 @@ Axios is a promise-based HTTP Client for node.js and the browser. Used for makin
 
 Visit the following resources to learn more:
 
-- [Axios Official Documentations](https://axios-http.com/docs/intro)
-- [Axios Tutorial](https://www.youtube.com/watch?v=6LyagkoRWYA)
+- [ ] [Axios Official Documentations](https://axios-http.com/docs/intro)
+- [ ] [Axios Tutorial](https://www.youtube.com/watch?v=6LyagkoRWYA)
 
 # Making API calls with HTTP
 
@@ -536,9 +536,9 @@ You can make API calls using the `http` module in Node.js as well. Here are the 
 
 Visit the following resources to learn more:
 
-- [Node.js `http.get()` documentaion](https://nodejs.org/docs/latest-v16.x/api/http.html#httpgeturl-options-callback)
-- [Node `http.request()` documentaion](https://nodejs.org/docs/latest-v16.x/api/http.html#httprequesturl-options-callback)
-- [How To Create an HTTP Client with Core HTTP in Node.js](https://www.digitalocean.com/community/tutorials/how-to-create-an-http-client-with-core-http-in-node-js)
+- [ ] [Node.js `http.get()` documentaion](https://nodejs.org/docs/latest-v16.x/api/http.html#httpgeturl-options-callback)
+- [ ] [Node `http.request()` documentaion](https://nodejs.org/docs/latest-v16.x/api/http.html#httprequesturl-options-callback)
+- [ ] [How To Create an HTTP Client with Core HTTP in Node.js](https://www.digitalocean.com/community/tutorials/how-to-create-an-http-client-with-core-http-in-node-js)
 
 # JSON Web Token
 
@@ -546,9 +546,9 @@ JWT, or JSON-Web-Token, is an open standard for sharing security information bet
 
 Visit the following resources to learn more:
 
-- [Package Documentation](https://www.npmjs.com/package/jsonwebtoken)
-- [What is JWT](https://www.akana.com/blog/what-is-jwt)
-- [JWT Implementation](https://www.youtube.com/watch?v=mbsmsi7l3r4)
+- [ ] [Package Documentation](https://www.npmjs.com/package/jsonwebtoken)
+- [ ] [What is JWT](https://www.akana.com/blog/what-is-jwt)
+- [ ] [JWT Implementation](https://www.youtube.com/watch?v=mbsmsi7l3r4)
 
 # Passport js
 
@@ -556,9 +556,9 @@ Passport.js is authentication middleware for Node.js. It makes implementing auth
 
 Visit the following resources to learn more:
 
-- [PassportJS Website](https://www.passportjs.org/)
-- [PassportJS Official Documentation](https://www.passportjs.org/docs/)
-- [Implemetaion of OAuth using passportjs](https://www.youtube.com/watch?v=sakQbeRjgwg&list=PL4cUxeGkcC9jdm7QX143aMLAqyM-jTZ2x)
+- [ ] [PassportJS Website](https://www.passportjs.org/)
+- [ ] [PassportJS Official Documentation](https://www.passportjs.org/docs/)
+- [ ] [Implemetaion of OAuth using passportjs](https://www.youtube.com/watch?v=sakQbeRjgwg&list=PL4cUxeGkcC9jdm7QX143aMLAqyM-jTZ2x)
 
 # AdonisJS
 
@@ -566,9 +566,9 @@ AdonisJS is a Node.js web framework focused on providing the best way to create 
 
 Visit the following resources to learn more:
 
-- [AdonisJS Website](https://adonisjs.com/)
-- [AdonisJS Official Documentations](https://docs.adonisjs.com/guides/introduction)
-- [Beginner AdonisJS Tutorial](https://www.youtube.com/watch?v=VIvBeEj9QVg&list=PL9gT3zlT0C1Ngrii-NCPpuRvUO1mIGzwf)
+- [ ] [AdonisJS Website](https://adonisjs.com/)
+- [ ] [AdonisJS Official Documentations](https://docs.adonisjs.com/guides/introduction)
+- [ ] [Beginner AdonisJS Tutorial](https://www.youtube.com/watch?v=VIvBeEj9QVg&list=PL9gT3zlT0C1Ngrii-NCPpuRvUO1mIGzwf)
 
 # Keep App Running
 
@@ -585,7 +585,7 @@ In Node.js, you need to restart the process to make changes take effect. This ad
 
 Visit the following resources to learn more:
 
-- [How To Restart Your Node.js Apps Automatically with nodemon](https://www.digitalocean.com/community/tutorials/workflow-nodemon)
+- [ ] [How To Restart Your Node.js Apps Automatically with nodemon](https://www.digitalocean.com/community/tutorials/workflow-nodemon)
 
 # Template Engines
 
@@ -606,7 +606,7 @@ Marko is a fast and lightweight HTML-based templating engine that compiles templ
 
 Visit the following resources to learn more:
 
-- [Marko Documentation](https://markojs.com/docs/guides-overview/)
+- [ ] [Marko Documentation](https://markojs.com/docs/guides-overview/)
 
 # Pug
 
@@ -616,10 +616,10 @@ Pug is a high-performance template engine heavily influenced by Haml and impleme
 
 Visit the following resources to learn more:
 
-- [Getting started with PugJs](https://pugjs.org/api/getting-started.html)
-- [How to Build a Node Application Using a Pug Template](https://blog.bitsrc.io/how-to-build-a-node-application-using-a-pug-template-7319ab1bba69?gi=40b338891148)
-- [Node.js + Express - Tutorial - PugJS Templating Engine](https://www.youtube.com/watch?v=DSp9ExFw3Ig)
-- [Pug.js tutorial](https://zetcode.com/javascript/pugjs/)
+- [ ] [Getting started with PugJs](https://pugjs.org/api/getting-started.html)
+- [ ] [How to Build a Node Application Using a Pug Template](https://blog.bitsrc.io/how-to-build-a-node-application-using-a-pug-template-7319ab1bba69?gi=40b338891148)
+- [ ] [Node.js + Express - Tutorial - PugJS Templating Engine](https://www.youtube.com/watch?v=DSp9ExFw3Ig)
+- [ ] [Pug.js tutorial](https://zetcode.com/javascript/pugjs/)
 
 # EJS
 
@@ -628,12 +628,12 @@ In simple words, the EJS template engine helps to easily embed JavaScript into y
 
 Visit the following resources to learn more:
 
-- [Ejs website](https://ejs.co/)
-- [Ejs Official Documentations](https://ejs.co/#docs)
-- [Ejs Official Package](https://www.npmjs.com/package/ejs)
-- [Try EJS Online](https://ionicabizau.github.io/ejs-playground/)
-- [How to use EJS](https://www.digitalocean.com/community/tutorials/how-to-use-ejs-to-template-your-node-application)
-- [Step-by-Step EJS Guide](https://codeforgeek.com/ejs-template-engine-in-nodejs/)
+- [ ] [Ejs website](https://ejs.co/)
+- [ ] [Ejs Official Documentations](https://ejs.co/#docs)
+- [ ] [Ejs Official Package](https://www.npmjs.com/package/ejs)
+- [ ] [Try EJS Online](https://ionicabizau.github.io/ejs-playground/)
+- [ ] [How to use EJS](https://www.digitalocean.com/community/tutorials/how-to-use-ejs-to-template-your-node-application)
+- [ ] [Step-by-Step EJS Guide](https://codeforgeek.com/ejs-template-engine-in-nodejs/)
 
 # What is Database
 
@@ -647,7 +647,7 @@ The two most common testing approaches are unit testing and end-to-end testing. 
 
 Visit the following resources to learn more:
 
-- [Differences between end-to-end testing and unit testing](https://www.geeksforgeeks.org/difference-between-end-to-end-testing-and-unit-testing/)
+- [ ] [Differences between end-to-end testing and unit testing](https://www.geeksforgeeks.org/difference-between-end-to-end-testing-and-unit-testing/)
 
 # Jest
 
@@ -655,8 +655,8 @@ Jest is a delightful JavaScript Testing Framework with a focus on simplicity. It
 
 Visit the following resources to learn more:
 
-- [Jest Website](https://jestjs.io)
-- [Jest Documentation](https://jestjs.io/docs/getting-started)
+- [ ] [Jest Website](https://jestjs.io)
+- [ ] [Jest Documentation](https://jestjs.io/docs/getting-started)
 
 # Mocha
 
@@ -664,9 +664,9 @@ Mocha is an open source JavaScript test framework running on Nodejs and in the b
 
 Visit the following resources to learn more:
 
-- [Official Website](https://www.npmjs.com/package/mocha)
-- [Mocha Documentation](https://mochajs.org/)
-- [Mocha Tutorial](https://youtube.com/playlist?list=PLgbtO1Bcz4C-vU0JLfDBsZGbSUdNX4mQ8)
+- [ ] [Official Website](https://www.npmjs.com/package/mocha)
+- [ ] [Mocha Documentation](https://mochajs.org/)
+- [ ] [Mocha Tutorial](https://youtube.com/playlist?list=PLgbtO1Bcz4C-vU0JLfDBsZGbSUdNX4mQ8)
 
 # Cypress
 
@@ -674,8 +674,8 @@ Cypress is a new front end testing tool built for the modern web. It enables you
 
 Visit the following resources to learn more:
 
-- [Cypress Website](https://www.cypress.io/)
-- [Cypress Documentation](https://docs.cypress.io/)
+- [ ] [Cypress Website](https://www.cypress.io/)
+- [ ] [Cypress Documentation](https://docs.cypress.io/)
 
 # Node.js Logging
 
@@ -683,8 +683,8 @@ Visit the following resources to learn more:
 
 Visit the following resources to learn more:
 
-- [Node.js Logging](https://stackify.com/node-js-logging/)
-- [Logging best practices](https://blog.appsignal.com/2021/09/01/best-practices-for-logging-in-nodejs.html)
+- [ ] [Node.js Logging](https://stackify.com/node-js-logging/)
+- [ ] [Logging best practices](https://blog.appsignal.com/2021/09/01/best-practices-for-logging-in-nodejs.html)
 
 # Morgan
 
@@ -692,8 +692,8 @@ Morgan is a NodeJS and express.js middleware to log the HTTP request and error, 
 
 Visit the following resources to learn more:
 
-- [Official Website](https://www.npmjs.com/package/morgan)
-- [How to use Morgan|DigitalOcean](https://www.digitalocean.com/community/tutorials/nodejs-getting-started-morgan)
+- [ ] [Official Website](https://www.npmjs.com/package/morgan)
+- [ ] [How to use Morgan|DigitalOcean](https://www.digitalocean.com/community/tutorials/nodejs-getting-started-morgan)
 
 # Winston
 
@@ -701,7 +701,7 @@ winston is designed to be a simple and universal logging library with support fo
 
 Visit the following resources to learn more:
 
-- [winston Website](https://github.com/winstonjs/winston)
+- [ ] [winston Website](https://github.com/winstonjs/winston)
 
 # Keep your app running in Production
 
@@ -709,7 +709,7 @@ PM2 lets you run your nodejs scripts forever. In the event that your application
 
 Visit the following resources to learn more:
 
-- [Keep a node application constantly running](https://devtut.github.io/nodejs/keep-a-node-application-constantly-running.html#use-pm2-as-a-process-manager)
+- [ ] [Keep a node application constantly running](https://devtut.github.io/nodejs/keep-a-node-application-constantly-running.html#use-pm2-as-a-process-manager)
 
 # Pm2
 
@@ -717,8 +717,8 @@ PM2 is a production process manager for Node.js applications with a built-in loa
 
 Visit the following resources to learn more:
 
-- [Pm2 Website](https://pm2.keymetrics.io/)
-- [Pm2 Official Documentations](https://pm2.keymetrics.io/docs/usage/quick-start/)
+- [ ] [Pm2 Website](https://pm2.keymetrics.io/)
+- [ ] [Pm2 Official Documentations](https://pm2.keymetrics.io/docs/usage/quick-start/)
 
 # Forever
 
@@ -726,7 +726,7 @@ Forever is a node.js package for ensuring that a given script runs continuously 
 
 Visit the following resources to learn more:
 
-- [Forever package documentation](https://www.npmjs.com/package/forever)
+- [ ] [Forever package documentation](https://www.npmjs.com/package/forever)
 
 # Nohup
 
@@ -734,8 +734,8 @@ Nohup, short for no hang up is a command in Linux systems that keep processes ru
 
 Visit the following resources to learn more:
 
-- [Nohup command](https://www.digitalocean.com/community/tutorials/nohup-command-in-linux)
-- [geekforgeeks Nohup example](https://www.geeksforgeeks.org/nohup-command-in-linux-with-examples/)
+- [ ] [Nohup command](https://www.digitalocean.com/community/tutorials/nohup-command-in-linux)
+- [ ] [geekforgeeks Nohup example](https://www.geeksforgeeks.org/nohup-command-in-linux-with-examples/)
 
 # Nodejs Threads
 
@@ -744,7 +744,7 @@ Taking note of nowadays multicore system single threading is very memory efficie
 
 Visit the following resources to learn more:
 
-- [Single Thread vs Child Process vs Worker Threads vs Clutster in Node.js](https://alvinlal.netlify.app/blog/single-thread-vs-child-process-vs-worker-threads-vs-cluster-in-nodejs)
+- [ ] [Single Thread vs Child Process vs Worker Threads vs Clutster in Node.js](https://alvinlal.netlify.app/blog/single-thread-vs-child-process-vs-worker-threads-vs-cluster-in-nodejs)
 
 # Child Process
 
@@ -757,7 +757,7 @@ The three main methods inside this module are :
 
 Visit the following resources to learn more:
 
-- [Child Process Docs](https://nodejs.org/api/child_process.html#child-process)
+- [ ] [Child Process Docs](https://nodejs.org/api/child_process.html#child-process)
 
 # Cluster
 
@@ -765,7 +765,7 @@ Visit the following resources to learn more:
 
 Visit the following resources to learn more:
 
-- [Cluster Docs](https://nodejs.org/api/cluster.html#cluster)
+- [ ] [Cluster Docs](https://nodejs.org/api/cluster.html#cluster)
 
 # Worker Threads
 
@@ -774,7 +774,7 @@ With worker threads, we can achieve a much efficient application without creatin
 
 Visit the following resources to learn more:
 
-- [Worker Threads Docs](https://nodejs.org/api/worker_threads.html#worker-threads)
+- [ ] [Worker Threads Docs](https://nodejs.org/api/worker_threads.html#worker-threads)
 
 # More Debugging
 
@@ -786,7 +786,7 @@ Using `console.log` to debug the code generally dives into an infinite loop of �
 
 Visit the following resources to learn more:
 
-- [Node.js Debugging](https://www.geeksforgeeks.org/node-js-debugging/)
+- [ ] [Node.js Debugging](https://www.geeksforgeeks.org/node-js-debugging/)
 
 # Node Inspect
 
@@ -794,7 +794,7 @@ Node.js provides a built-in DevTools-based debugger to allow debugging Node.js a
 
 Visit the following resources to learn more:
 
-- [Debugging Node.js with Chrome DevTools](https://medium.com/@paul_irish/debugging-node-js-nightlies-with-chrome-devtools-7c4a1b95ae27)
+- [ ] [Debugging Node.js with Chrome DevTools](https://medium.com/@paul_irish/debugging-node-js-nightlies-with-chrome-devtools-7c4a1b95ae27)
 
 # Using APM
 
@@ -806,7 +806,7 @@ These tools send your logs from your running application into a single location.
 
 Visit the following resources to learn more:
 
-- [Debugging using APM](https://stackify.com/node-js-debugging-tips/)
+- [ ] [Debugging using APM](https://stackify.com/node-js-debugging-tips/)
 
 # Nodejs common modules
 
@@ -842,5 +842,5 @@ Built-in modules are already installed with `Node.js`, so you don't need to inst
 
 Visit the following resources to learn more:
 
-- [API documentation of Built-in modules](https://nodejs.org/api/modules.html)
-- [Built-in modules - w3schools](https://www.w3schools.com/nodejs/ref_modules.asp)
+- [ ] [API documentation of Built-in modules](https://nodejs.org/api/modules.html)
+- [ ] [Built-in modules - w3schools](https://www.w3schools.com/nodejs/ref_modules.asp)

@@ -32,10 +32,10 @@ There are several steps that can be taken when approaching a system design:
 
 Note that this is a general approach to System Design. For interview specific answers, see the following resources:
 
-- [How to approach System Design?](https://github.com/donnemartin/system-design-primer#how-to-approach-a-system-design-interview-question)
-- [What are system design questions?](https://www.hiredintech.com/system-design)
-- [Intro to Architecture and Systems Design Interviews](https://www.youtube.com/watch?v=ZgdS0EUmn70)
-- [My System Design Template](https://leetcode.com/discuss/career/229177/My-System-Design-Template)
+- [ ] [How to approach System Design?](https://github.com/donnemartin/system-design-primer#how-to-approach-a-system-design-interview-question)
+- [ ] [What are system design questions?](https://www.hiredintech.com/system-design)
+- [ ] [Intro to Architecture and Systems Design Interviews](https://www.youtube.com/watch?v=ZgdS0EUmn70)
+- [ ] [My System Design Template](https://leetcode.com/discuss/career/229177/My-System-Design-Template)
 
 # Who is this guide for?
 
@@ -51,10 +51,10 @@ In distributed systems, it is often a trade-off between availability and consist
 
 Have a look at the following resources to learn more:
 
-- [CAP Theorem](https://www.youtube.com/watch?v=_RbsFXWRZ10&t=1s)
-- [CAP Theorem Revisited](https://robertgreiner.com/cap-theorem-revisited/)
-- [A plain english introduction to CAP Theorem](http://ksat.me/a-plain-english-introduction-to-cap-theorem)
-- [CAP FAQ](https://github.com/henryr/cap-faq)
+- [ ] [CAP Theorem](https://www.youtube.com/watch?v=_RbsFXWRZ10&t=1s)
+- [ ] [CAP Theorem Revisited](https://robertgreiner.com/cap-theorem-revisited/)
+- [ ] [A plain english introduction to CAP Theorem](http://ksat.me/a-plain-english-introduction-to-cap-theorem)
+- [ ] [CAP FAQ](https://github.com/henryr/cap-faq)
 
 # CAP Theorem
 
@@ -78,10 +78,10 @@ AP is a good choice if the business needs to allow for [eventual consistency](ht
 
 For more information, have a look at the following resources:
 
-- [CAP theorem revisited](http://robertgreiner.com/2014/08/cap-theorem-revisited/)
-- [A plain english introduction to CAP theorem](http://ksat.me/a-plain-english-introduction-to-cap-theorem)
-- [CAP FAQ](https://github.com/henryr/cap-faq)
-- [The CAP theorem](https://www.youtube.com/watch?v=k-Yaq8AHlFA)
+- [ ] [CAP theorem revisited](http://robertgreiner.com/2014/08/cap-theorem-revisited/)
+- [ ] [A plain english introduction to CAP theorem](http://ksat.me/a-plain-english-introduction-to-cap-theorem)
+- [ ] [CAP FAQ](https://github.com/henryr/cap-faq)
+- [ ] [The CAP theorem](https://www.youtube.com/watch?v=k-Yaq8AHlFA)
 
 # Consistency Patterns
 
@@ -95,7 +95,7 @@ Each of these patterns has its own advantages and disadvantages, and the choice 
 
 Have a look at the following resources to learn more:
 
-- [Consistency Patterns in Distributed Systems](https://cs.fyi/guide/consistency-patterns-week-strong-eventual/)
+- [ ] [Consistency Patterns in Distributed Systems](https://cs.fyi/guide/consistency-patterns-week-strong-eventual/)
 
 # Weak Consistency
 
@@ -103,7 +103,7 @@ After an update is made to the data, it is not guaranteed that any subsequent re
 
 To learn more, visit the following links:
 
-- [Consistency Patterns in Distributed Systems](https://cs.fyi/guide/consistency-patterns-week-strong-eventual/)
+- [ ] [Consistency Patterns in Distributed Systems](https://cs.fyi/guide/consistency-patterns-week-strong-eventual/)
 
 # Eventual Consistency
 
@@ -111,7 +111,7 @@ Eventual consistency is a form of Weak Consistency. After an update is made to t
 
 To learn more, visit the following links:
 
-- [Consistency Patterns in Distributed Systems](https://cs.fyi/guide/consistency-patterns-week-strong-eventual/)
+- [ ] [Consistency Patterns in Distributed Systems](https://cs.fyi/guide/consistency-patterns-week-strong-eventual/)
 
 # Strong Consistency
 
@@ -119,13 +119,13 @@ After an update is made to the data, it will be immediately visible to any subse
 
 To learn more, visit the following links:
 
-- [Consistency Patterns in Distributed Systems](https://cs.fyi/guide/consistency-patterns-week-strong-eventual/)
+- [ ] [Consistency Patterns in Distributed Systems](https://cs.fyi/guide/consistency-patterns-week-strong-eventual/)
 
 # Availability Patterns
 
 Availability is measured as a percentage of uptime, and defines the proportion of time that a system is functional and working. Availability is affected by system errors, infrastructure problems, malicious attacks, and system load. Cloud applications typically provide users with a service level agreement (SLA), which means that applications must be designed and implemented to maximize availability.
 
-- [Availability Patterns](https://learn.microsoft.com/en-us/azure/architecture/framework/resiliency/reliability-patterns#availability)
+- [ ] [Availability Patterns](https://learn.microsoft.com/en-us/azure/architecture/framework/resiliency/reliability-patterns#availability)
 
 # Fail-Over
 
@@ -158,7 +158,7 @@ Active-active failover can also be referred to as master-master failover.
 
  To learn more visit the following links:
 
-- [Fail Over Pattern - High Availability](https://www.filecloud.com/blog/2015/12/architectural-patterns-for-high-availability/)
+- [ ] [Fail Over Pattern - High Availability](https://www.filecloud.com/blog/2015/12/architectural-patterns-for-high-availability/)
 
 # Replication
 
@@ -170,7 +170,7 @@ Replication is an availability pattern that involves having multiple copies of t
 
 Visi the following links for more resources:
 
-- [Replication: Availability Pattern](https://github.com/donnemartin/system-design-primer#replication)
+- [ ] [Replication: Availability Pattern](https://github.com/donnemartin/system-design-primer#replication)
 
 # Availability in Numbers
 
@@ -224,8 +224,8 @@ If both `Foo` and `Bar` each had 99.9% availability, their total availability in
 
 To learn more, visit the following links:
 
-- [Availability in System Design](https://www.enjoyalgorithms.com/blog/availability-system-design-concept/)
-- [Uptime calculator: How much downtime corresponds to 99.9 % uptime](https://uptime.is/)
+- [ ] [Availability in System Design](https://www.enjoyalgorithms.com/blog/availability-system-design-concept/)
+- [ ] [Uptime calculator: How much downtime corresponds to 99.9 % uptime](https://uptime.is/)
 
 # Background Jobs
 
@@ -240,7 +240,7 @@ Background jobs can be used for a variety of purposes, such as:
 
 Learn more from the following links:
 
-- [Background Jobs - Best Practices](https://learn.microsoft.com/en-us/azure/architecture/best-practices/background-jobs)
+- [ ] [Background Jobs - Best Practices](https://learn.microsoft.com/en-us/azure/architecture/best-practices/background-jobs)
 
 # Event Driven
 
@@ -252,7 +252,7 @@ Event-driven invocation uses a trigger to start the background task. Examples of
 
 Learn more from the following links:
 
-- [Background Jobs - Event Driven Triggers](https://learn.microsoft.com/en-us/azure/architecture/best-practices/background-jobs#event-driven-triggers)
+- [ ] [Background Jobs - Event Driven Triggers](https://learn.microsoft.com/en-us/azure/architecture/best-practices/background-jobs#event-driven-triggers)
 
 # Schedule Driven
 
@@ -266,7 +266,7 @@ Typical examples of tasks that are suited to schedule-driven invocation include 
 
 Learn more from the following links:
 
-- [Schedule Driven - Background Jobs](https://learn.microsoft.com/en-us/azure/architecture/best-practices/background-jobs#schedule-driven-triggers)
+- [ ] [Schedule Driven - Background Jobs](https://learn.microsoft.com/en-us/azure/architecture/best-practices/background-jobs#schedule-driven-triggers)
 
 # Returning Results
 
@@ -274,7 +274,7 @@ Background jobs execute asynchronously in a separate process, or even in a separ
 
 Learn more from the following links:
 
-- [Returning Results - Background Jobs](https://learn.microsoft.com/en-us/azure/architecture/best-practices/background-jobs#returning-results)
+- [ ] [Returning Results - Background Jobs](https://learn.microsoft.com/en-us/azure/architecture/best-practices/background-jobs#returning-results)
 
 # Content Delivery Networks
 
@@ -287,9 +287,9 @@ Serving content from CDNs can significantly improve performance in two ways:
 
 Learn more about CDNs from the following links:
 
-- [Introduction to CDNs](https://github.com/donnemartin/system-design-primer#content-delivery-network)
-- [The Differences Between Push And Pull CDNs](http://www.travelblogadvice.com/technical/the-differences-between-push-and-pull-cdns/)
-- [Brief aout Content delivery network](https://en.wikipedia.org/wiki/Content_delivery_network)
+- [ ] [Introduction to CDNs](https://github.com/donnemartin/system-design-primer#content-delivery-network)
+- [ ] [The Differences Between Push And Pull CDNs](http://www.travelblogadvice.com/technical/the-differences-between-push-and-pull-cdns/)
+- [ ] [Brief aout Content delivery network](https://en.wikipedia.org/wiki/Content_delivery_network)
 
 # Push CDNs
 
@@ -299,7 +299,7 @@ Sites with a small amount of traffic or sites with content that isn't often upda
 
 To learn more, visit the following links:
 
-- [Introduction to CDNs](https://github.com/donnemartin/system-design-primer#content-delivery-network)
+- [ ] [Introduction to CDNs](https://github.com/donnemartin/system-design-primer#content-delivery-network)
 
 # Pull CDNs
 
@@ -309,8 +309,8 @@ A time-to-live (TTL) determines how long content is cached. Pull CDNs minimize s
 
 To learn more, visit the following links:
 
-- [Introduction to CDNs](https://github.com/donnemartin/system-design-primer#content-delivery-network)
-- [The Differences Between Push And Pull CDNss](http://www.travelblogadvice.com/technical/the-differences-between-push-and-pull-cdns/)
+- [ ] [Introduction to CDNs](https://github.com/donnemartin/system-design-primer#content-delivery-network)
+- [ ] [The Differences Between Push And Pull CDNss](http://www.travelblogadvice.com/technical/the-differences-between-push-and-pull-cdns/)
 
 # Load Balancers
 
@@ -334,9 +334,9 @@ Load balancers can be implemented with hardware (expensive) or with software suc
 
 To learn more, visit the following links:
 
-- [NGINX Architecture](https://www.nginx.com/blog/inside-nginx-how-we-designed-for-performance-scale/)
-- [HAProxy Architecture Guide](http://www.haproxy.org/download/1.2/doc/architecture.txt)
-- [Scalability](http://www.lecloud.net/post/7295452622/scalability-for-dummies-part-1-clones)
+- [ ] [NGINX Architecture](https://www.nginx.com/blog/inside-nginx-how-we-designed-for-performance-scale/)
+- [ ] [HAProxy Architecture Guide](http://www.haproxy.org/download/1.2/doc/architecture.txt)
+- [ ] [Scalability](http://www.lecloud.net/post/7295452622/scalability-for-dummies-part-1-clones)
 
 # Horizontal Scaling
 
@@ -367,7 +367,7 @@ There are two primary approaches to load balancing. Dynamic load balancing uses 
 
 To learn more, visit the following links:
 
-- [Types of Load Balancing Algorithms](https://www.cloudflare.com/learning/performance/types-of-load-balancing-algorithms/)
+- [ ] [Types of Load Balancing Algorithms](https://www.cloudflare.com/learning/performance/types-of-load-balancing-algorithms/)
 
 # Load Balancer vs Reverse Proxy
 
@@ -382,10 +382,10 @@ To learn more, visit the following links:
 
 To learn more visit the following links:
 
-- [Reverse Proxy vs Load Balancer](https://www.nginx.com/resources/glossary/reverse-proxy-vs-load-balancer/)
-- [NGINX Architecture](https://www.nginx.com/blog/inside-nginx-how-we-designed-for-performance-scale/)
-- [HAProxy Architecture Guide](http://www.haproxy.org/download/1.2/doc/architecture.txt)
-- [Reverse Proxy](https://en.wikipedia.org/wiki/Reverse_proxy)
+- [ ] [Reverse Proxy vs Load Balancer](https://www.nginx.com/resources/glossary/reverse-proxy-vs-load-balancer/)
+- [ ] [NGINX Architecture](https://www.nginx.com/blog/inside-nginx-how-we-designed-for-performance-scale/)
+- [ ] [HAProxy Architecture Guide](http://www.haproxy.org/download/1.2/doc/architecture.txt)
+- [ ] [Reverse Proxy](https://en.wikipedia.org/wiki/Reverse_proxy)
 
 # Application Layer
 
@@ -400,7 +400,7 @@ Separating out the web layer from the application layer (also known as platform 
 
 For more resources, visit the following links:
 
-- [Intro to architecting systems for scale](http://lethain.com/introduction-to-architecting-systems-for-scale/#platform_layer)
+- [ ] [Intro to architecting systems for scale](http://lethain.com/introduction-to-architecting-systems-for-scale/#platform_layer)
 
 # Microservices
 
@@ -410,8 +410,8 @@ Pinterest, for example, could have the following microservices: user profile, fo
 
 To learn more, visit the following links:
 
-- [Introduction to Microservices](https://aws.amazon.com/microservices/)
-- [Microservices - Wikipedia](https://en.wikipedia.org/wiki/Microservices)
+- [ ] [Introduction to Microservices](https://aws.amazon.com/microservices/)
+- [ ] [Microservices - Wikipedia](https://en.wikipedia.org/wiki/Microservices)
 
 # Service Discovery
 
@@ -419,8 +419,8 @@ Systems such as [Consul](https://www.consul.io/docs/index.html), [Etcd](https://
 
 Visit the following links to learn more:
 
-- [What is Service-oriented architecture?](https://en.wikipedia.org/wiki/Service-oriented_architecture)
-- [Intro to Service Discovery](https://github.com/donnemartin/system-design-primer#Service%20Discovery)
+- [ ] [What is Service-oriented architecture?](https://en.wikipedia.org/wiki/Service-oriented_architecture)
+- [ ] [Intro to Service Discovery](https://github.com/donnemartin/system-design-primer#Service%20Discovery)
 
 # Databases
 
@@ -434,7 +434,7 @@ Picking the right database for a system is an important decision, as it can have
 
 Overall, by choosing the right database, you can ensure that your system will perform well, scale as needed, and be maintainable in the long run.
 
-- [Scaling up to your first 10 million users](https://www.youtube.com/watch?v=kKjm4ehYiMs)
+- [ ] [Scaling up to your first 10 million users](https://www.youtube.com/watch?v=kKjm4ehYiMs)
 
 # SQL vs noSQL
 
@@ -446,8 +446,8 @@ The choice between SQL and NoSQL depends on the specific use case and requiremen
 
 Learn more from the followinw links:
 
-- [SQL vs NoSQL: The Differences](https://www.sitepoint.com/sql-vs-nosql-differences/)
-- [SQL vs NoSQL - When to Use Each](https://www.ibm.com/cloud/blog/sql-vs-nosql)
+- [ ] [SQL vs NoSQL: The Differences](https://www.sitepoint.com/sql-vs-nosql-differences/)
+- [ ] [SQL vs NoSQL - When to Use Each](https://www.ibm.com/cloud/blog/sql-vs-nosql)
 
 # Caching
 
@@ -507,7 +507,7 @@ Generally, you should try to avoid file-based caching, as it makes cloning and a
 
 Visit the following links to learn more:
 
-- [Intro to Application Caching](https://github.com/donnemartin/system-design-primer#application-caching)
+- [ ] [Intro to Application Caching](https://github.com/donnemartin/system-design-primer#application-caching)
 
 # Asynchronism
 
@@ -515,12 +515,12 @@ Asynchronous workflows help reduce request times for expensive operations that w
 
 To learn more, visit the following links:
 
-- [Asynchronous Thinking for Microservice System Design](https://www.datamachines.io/blog/asynchronous-thinking-for-microservice-system-design)
-- [Patterns for microservices - Sync vs Async](https://medium.com/inspiredbrilliance/patterns-for-microservices-e57a2d71ff9e)
-- [It's all a numbers game](https://www.youtube.com/watch?v=1KRYH75wgy4)
-- [Applying back pressure when overloaded](http://mechanical-sympathy.blogspot.com/2012/05/apply-back-pressure-when-overloaded.html)
-- [Little's law](https://en.wikipedia.org/wiki/Little%27s_law)
-- [What is the difference between a message queue and a task queue?](https://www.quora.com/What-is-the-difference-between-a-message-queue-and-a-task-queue-Why-would-a-task-queue-require-a-message-broker-like-RabbitMQ-Redis-Celery-or-IronMQ-to-function)
+- [ ] [Asynchronous Thinking for Microservice System Design](https://www.datamachines.io/blog/asynchronous-thinking-for-microservice-system-design)
+- [ ] [Patterns for microservices - Sync vs Async](https://medium.com/inspiredbrilliance/patterns-for-microservices-e57a2d71ff9e)
+- [ ] [It's all a numbers game](https://www.youtube.com/watch?v=1KRYH75wgy4)
+- [ ] [Applying back pressure when overloaded](http://mechanical-sympathy.blogspot.com/2012/05/apply-back-pressure-when-overloaded.html)
+- [ ] [Little's law](https://en.wikipedia.org/wiki/Little%27s_law)
+- [ ] [What is the difference between a message queue and a task queue?](https://www.quora.com/What-is-the-difference-between-a-message-queue-and-a-task-queue-Why-would-a-task-queue-require-a-message-broker-like-RabbitMQ-Redis-Celery-or-IronMQ-to-function)
 
 # Message Queues
 
@@ -531,17 +531,17 @@ Message queues receive, hold, and deliver messages. If an operation is too slow 
 
 The user is not blocked and the job is processed in the background. During this time, the client might optionally do a small amount of processing to make it seem like the task has completed. For example, if posting a tweet, the tweet could be instantly posted to your timeline, but it could take some time before your tweet is actually delivered to all of your followers.
 
-- [Redis](https://redis.io/) is useful as a simple message broker but messages can be lost.
-- [RabbitMQ](https://www.rabbitmq.com/) is popular but requires you to adapt to the 'AMQP' protocol and manage your own nodes.
-- [AWS SQS](https://aws.amazon.com/sqs/) is hosted but can have high latency and has the possibility of messages being delivered twice.
-- [Apache Kafka](https://kafka.apache.org/) is a distributed event store and stream-processing platform.
+- [ ] [Redis](https://redis.io/) is useful as a simple message broker but messages can be lost.
+- [ ] [RabbitMQ](https://www.rabbitmq.com/) is popular but requires you to adapt to the 'AMQP' protocol and manage your own nodes.
+- [ ] [AWS SQS](https://aws.amazon.com/sqs/) is hosted but can have high latency and has the possibility of messages being delivered twice.
+- [ ] [Apache Kafka](https://kafka.apache.org/) is a distributed event store and stream-processing platform.
 
 To learn more, visit the following links:
 
-- [What is Redis?](https://redis.io/)
-- [RabbitMQ in Message Queues](https://www.rabbitmq.com/)
-- [Overview of Amazon SQS](https://aws.amazon.com/sqs/)
-- [Apache Kafka](https://kafka.apache.org/)
+- [ ] [What is Redis?](https://redis.io/)
+- [ ] [RabbitMQ in Message Queues](https://www.rabbitmq.com/)
+- [ ] [Overview of Amazon SQS](https://aws.amazon.com/sqs/)
+- [ ] [Apache Kafka](https://kafka.apache.org/)
 
 # Task Queues
 
@@ -551,7 +551,7 @@ Tasks queues receive tasks and their related data, runs them, then delivers thei
 
 To learn more, visit the following links:
 
-- [Celery - Distributed Task Queue](https://docs.celeryq.dev/en/stable/)
+- [ ] [Celery - Distributed Task Queue](https://docs.celeryq.dev/en/stable/)
 
 # Back Pressure
 
@@ -580,15 +580,15 @@ DELETE | Deletes a resource            | Yes         | No   | No                
 
 HTTP is an application layer protocol relying on lower-level protocols such as TCP and UDP.
 
-- [What Is HTTP?](https://www.nginx.com/resources/glossary/http/)
-- [What is the difference between HTTP protocol and TCP protocol?](https://www.quora.com/What-is-the-difference-between-HTTP-protocol-and-TCP-protocol)
+- [ ] [What Is HTTP?](https://www.nginx.com/resources/glossary/http/)
+- [ ] [What is the difference between HTTP protocol and TCP protocol?](https://www.quora.com/What-is-the-difference-between-HTTP-protocol-and-TCP-protocol)
 
 # TCP
 
 TCP is a connection-oriented protocol over an [IP network](https://en.wikipedia.org/wiki/Internet_Protocol). Connection is established and terminated using a [handshake](https://en.wikipedia.org/wiki/Handshaking). All packets sent are guaranteed to reach the destination in the original order and without corruption through:
 
 - Sequence numbers and [checksum fields](https://en.wikipedia.org/wiki/Transmission_Control_Protocol#Checksum_computation) for each packet
-- [Acknowledgement](https://en.wikipedia.org/wiki/Acknowledgement_(data_networks)) packets and automatic retransmission
+- [ ] [Acknowledgement](https://en.wikipedia.org/wiki/Acknowledgement_(data_networks)) packets and automatic retransmission
 
 If the sender does not receive a correct response, it will resend the packets. If there are multiple timeouts, the connection is dropped. TCP also implements [flow control](https://en.wikipedia.org/wiki/Flow_control_(data)) and congestion control. These guarantees cause delays and generally result in less efficient transmission than UDP.
 
@@ -603,14 +603,14 @@ Use TCP over UDP when:
 
 To learn more, visit the following links:
 
-- [What Is TCP?](https://github.com/donnemartin/system-design-primer#TCP)
-- [What is the difference between HTTP protocol and TCP protocol?](https://www.quora.com/What-is-the-difference-between-HTTP-protocol-and-TCP-protocol)
-- [Networking for game programming](http://gafferongames.com/networking-for-game-programmers/udp-vs-tcp/)
-- [Key differences between TCP and UDP protocols](http://www.cyberciti.biz/faq/key-differences-between-tcp-and-udp-protocols/)
-- [Difference between TCP and UDP](http://stackoverflow.com/questions/5970383/difference-between-tcp-and-udp)
-- [Transmission control protocol](https://en.wikipedia.org/wiki/Transmission_Control_Protocol)
-- [User datagram protocol](https://en.wikipedia.org/wiki/User_Datagram_Protocol)
-- [Scaling memcache at Facebook](http://www.cs.bu.edu/~jappavoo/jappavoo.github.com/451/papers/memcache-fb.pdf)
+- [ ] [What Is TCP?](https://github.com/donnemartin/system-design-primer#TCP)
+- [ ] [What is the difference between HTTP protocol and TCP protocol?](https://www.quora.com/What-is-the-difference-between-HTTP-protocol-and-TCP-protocol)
+- [ ] [Networking for game programming](http://gafferongames.com/networking-for-game-programmers/udp-vs-tcp/)
+- [ ] [Key differences between TCP and UDP protocols](http://www.cyberciti.biz/faq/key-differences-between-tcp-and-udp-protocols/)
+- [ ] [Difference between TCP and UDP](http://stackoverflow.com/questions/5970383/difference-between-tcp-and-udp)
+- [ ] [Transmission control protocol](https://en.wikipedia.org/wiki/Transmission_Control_Protocol)
+- [ ] [User datagram protocol](https://en.wikipedia.org/wiki/User_Datagram_Protocol)
+- [ ] [Scaling memcache at Facebook](http://www.cs.bu.edu/~jappavoo/jappavoo.github.com/451/papers/memcache-fb.pdf)
 
 # UDP
 
@@ -628,12 +628,12 @@ Use UDP over TCP when:
 
 To learn more, visit the following link:
 
-- [Networking for game programming](http://gafferongames.com/networking-for-game-programmers/udp-vs-tcp/)
-- [Key differences between TCP and UDP protocols](http://www.cyberciti.biz/faq/key-differences-between-tcp-and-udp-protocols/)
-- [Difference between TCP and UDP](http://stackoverflow.com/questions/5970383/difference-between-tcp-and-udp)
-- [Transmission control protocol](https://en.wikipedia.org/wiki/Transmission_Control_Protocol)
-- [User datagram protocol](https://en.wikipedia.org/wiki/User_Datagram_Protocol)
-- [Scaling memcache at Facebook](http://www.cs.bu.edu/~jappavoo/jappavoo.github.com/451/papers/memcache-fb.pdf)
+- [ ] [Networking for game programming](http://gafferongames.com/networking-for-game-programmers/udp-vs-tcp/)
+- [ ] [Key differences between TCP and UDP protocols](http://www.cyberciti.biz/faq/key-differences-between-tcp-and-udp-protocols/)
+- [ ] [Difference between TCP and UDP](http://stackoverflow.com/questions/5970383/difference-between-tcp-and-udp)
+- [ ] [Transmission control protocol](https://en.wikipedia.org/wiki/Transmission_Control_Protocol)
+- [ ] [User datagram protocol](https://en.wikipedia.org/wiki/User_Datagram_Protocol)
+- [ ] [Scaling memcache at Facebook](http://www.cs.bu.edu/~jappavoo/jappavoo.github.com/451/papers/memcache-fb.pdf)
 
 # RPC
 
@@ -671,7 +671,7 @@ RPC is focused on exposing behaviors. RPCs are often used for performance reason
 
 To learn more, visit the following links:
 
-- [What Is RPC?](https://github.com/donnemartin/system-design-primer#RPC)
+- [ ] [What Is RPC?](https://github.com/donnemartin/system-design-primer#RPC)
 
 # REST
 
@@ -688,8 +688,8 @@ REST is focused on exposing data. It minimizes the coupling between client/serve
 
 To learn more, visit the following links:
 
-- [What Is REST?](https://github.com/donnemartin/system-design-primer#REST)
-- [What are the drawbacks of using RESTful APIs?](https://www.quora.com/What-are-the-drawbacks-of-using-RESTful-APIs)
+- [ ] [What Is REST?](https://github.com/donnemartin/system-design-primer#REST)
+- [ ] [What are the drawbacks of using RESTful APIs?](https://www.quora.com/What-are-the-drawbacks-of-using-RESTful-APIs)
 
 # gRPC
 
@@ -697,7 +697,7 @@ gRPC is a high-performance, open-source framework for building remote procedure 
 
 Learn more from the following links:
 
-- [What Is gRPC?](https://www.wallarm.com/what/the-concept-of-grpc)
+- [ ] [What Is gRPC?](https://www.wallarm.com/what/the-concept-of-grpc)
 
 # GraphQL
 
@@ -705,8 +705,8 @@ GraphQL is a query language and runtime for building APIs. It allows clients to 
 
 To learn more, visit the following links:
 
-- [GraphQL Server](https://www.howtographql.com/basics/3-big-picture/)
-- [What is GraphQL?](https://www.redhat.com/en/topics/api/what-is-graphql)
+- [ ] [GraphQL Server](https://www.howtographql.com/basics/3-big-picture/)
+- [ ] [What is GraphQL?](https://www.redhat.com/en/topics/api/what-is-graphql)
 
 # Performance Antipatterns
 
@@ -721,7 +721,7 @@ Some of the examples of performance antipatterns include:
 
 Learn more from the following links:
 
-- [Performance antipatterns for cloud applications](https://learn.microsoft.com/en-us/azure/architecture/antipatterns/)
+- [ ] [Performance antipatterns for cloud applications](https://learn.microsoft.com/en-us/azure/architecture/antipatterns/)
 
 # Busy Database
 
@@ -729,7 +729,7 @@ A busy database in system design refers to a database that is handling a high vo
 
 To learn more, visit the following links:
 
-- [Busy Database antipattern](https://learn.microsoft.com/en-us/azure/architecture/antipatterns/busy-database/)
+- [ ] [Busy Database antipattern](https://learn.microsoft.com/en-us/azure/architecture/antipatterns/busy-database/)
 
 # Busy Frontend
 
@@ -741,7 +741,7 @@ This problem typically occurs when an application is developed as monolithic pie
 
 To learn more about this and how to fix this pattern, visit the following link:
 
-- [Busy Front End antipattern](https://learn.microsoft.com/en-us/azure/architecture/antipatterns/busy-front-end/)
+- [ ] [Busy Front End antipattern](https://learn.microsoft.com/en-us/azure/architecture/antipatterns/busy-front-end/)
 
 # Chat I/O
 
@@ -755,7 +755,7 @@ Network calls and other I/O operations are inherently slow compared to compute t
 
 To learn more, visit the following links:
 
-- [Chatty I/O antipattern](https://learn.microsoft.com/en-us/azure/architecture/antipatterns/chatty-io/)
+- [ ] [Chatty I/O antipattern](https://learn.microsoft.com/en-us/azure/architecture/antipatterns/chatty-io/)
 
 # Extraneous Fetching
 
@@ -770,7 +770,7 @@ Extraneous fetching can lead to a number of issues, such as:
 
 Visit the following links to learn more:
 
-- [Extraneous Fetching antipattern](https://learn.microsoft.com/en-us/azure/architecture/antipatterns/extraneous-fetching/)
+- [ ] [Extraneous Fetching antipattern](https://learn.microsoft.com/en-us/azure/architecture/antipatterns/extraneous-fetching/)
 
 # Improper Instantiation
 
@@ -778,7 +778,7 @@ Improper instantiation in system design refers to the practice of creating unnec
 
 Learn more from the following links:
 
-- [Improper Instantiation antipattern](https://learn.microsoft.com/en-us/azure/architecture/antipatterns/improper-instantiation/)
+- [ ] [Improper Instantiation antipattern](https://learn.microsoft.com/en-us/azure/architecture/antipatterns/improper-instantiation/)
 
 # Monolithic Persistence
 
@@ -786,7 +786,7 @@ Monolithic Persistence refers to the use of a single, monolithic database to sto
 
 To learn more, visit the following links:
 
-- [Monolithic Persistence antipattern](https://learn.microsoft.com/en-us/azure/architecture/antipatterns/monolithic-persistence/)
+- [ ] [Monolithic Persistence antipattern](https://learn.microsoft.com/en-us/azure/architecture/antipatterns/monolithic-persistence/)
 
 # No Caching
 
@@ -800,7 +800,7 @@ When data is not cached, it can cause a number of undesirable behaviors, includi
 
 In turn, these problems can lead to poor response times, increased contention in the data store, and poor scalability.
 
-- [No Caching antipattern](https://learn.microsoft.com/en-us/azure/architecture/antipatterns/no-caching/)
+- [ ] [No Caching antipattern](https://learn.microsoft.com/en-us/azure/architecture/antipatterns/no-caching/)
 
 # Noisy Neighbor
 
@@ -814,7 +814,7 @@ Examples of noisy neighbor scenarios include:
 
 Learn from the following links:
 
-- [Noisy Neighbor antipattern](https://learn.microsoft.com/en-us/azure/architecture/antipatterns/noisy-neighbor/noisy-neighbor)
+- [ ] [Noisy Neighbor antipattern](https://learn.microsoft.com/en-us/azure/architecture/antipatterns/noisy-neighbor/noisy-neighbor)
 
 # Retry Storm
 
@@ -822,8 +822,8 @@ Learn from the following links:
 
 To learn more, visit the following links:
 
-- [Retry Storm antipattern](https://learn.microsoft.com/en-us/azure/architecture/antipatterns/retry-storm/s)
-- [How To Avoid Retry Storms In Distributed Systems](https://faun.pub/how-to-avoid-retry-storms-in-distributed-systems-91bf34f43c7f)
+- [ ] [Retry Storm antipattern](https://learn.microsoft.com/en-us/azure/architecture/antipatterns/retry-storm/s)
+- [ ] [How To Avoid Retry Storms In Distributed Systems](https://faun.pub/how-to-avoid-retry-storms-in-distributed-systems-91bf34f43c7f)
 
 # Synchronous I/O
 
@@ -845,7 +845,7 @@ This antipattern typically occurs because:
 - The application uses a library that only provides synchronous methods for I/O.
 - An external library performs synchronous I/O operations internally. A single synchronous I/O call can block an entire call chain.
 
-- [What is Synchronous I/O antipattern?](https://learn.microsoft.com/en-us/azure/architecture/antipatterns/synchronous-io/)
+- [ ] [What is Synchronous I/O antipattern?](https://learn.microsoft.com/en-us/azure/architecture/antipatterns/synchronous-io/)
 
 # Monitoring
 
@@ -853,7 +853,7 @@ Distributed applications and services running in the cloud are, by their nature,
 
 Visit the following to learn more:
 
-- [Monitoring and Diagnostics Guidance](https://learn.microsoft.com/en-us/azure/architecture/best-practices/monitoring)
+- [ ] [Monitoring and Diagnostics Guidance](https://learn.microsoft.com/en-us/azure/architecture/best-practices/monitoring)
 
 # Health Monitoring
 
@@ -861,7 +861,7 @@ A system is healthy if it is running and capable of processing requests. The pur
 
 Learn more from the following:
 
-- [Health Monitoring of a System](https://learn.microsoft.com/en-us/azure/architecture/best-practices/monitoring#health-monitoring)
+- [ ] [Health Monitoring of a System](https://learn.microsoft.com/en-us/azure/architecture/best-practices/monitoring#health-monitoring)
 
 # Availability Monitoring
 
@@ -869,7 +869,7 @@ A truly healthy system requires that the components and subsystems that compose 
 
 Learn more from the following:
 
-- [Availability Monitoring](https://learn.microsoft.com/en-us/azure/architecture/best-practices/monitoring#availability-monitoring)
+- [ ] [Availability Monitoring](https://learn.microsoft.com/en-us/azure/architecture/best-practices/monitoring#availability-monitoring)
 
 # Performance Monitoring
 
@@ -877,7 +877,7 @@ As the system is placed under more and more stress (by increasing the volume of 
 
 Learn more from following links:
 
-- [Performance Monitoring](https://learn.microsoft.com/en-us/azure/architecture/best-practices/monitoring#performance-monitoring)
+- [ ] [Performance Monitoring](https://learn.microsoft.com/en-us/azure/architecture/best-practices/monitoring#performance-monitoring)
 
 # Security Monitoring
 
@@ -891,7 +891,7 @@ Monitoring might be able to help detect attacks on the system. For example, a la
 
 Visit the following to learn more:
 
-- [Security Monitoring](https://learn.microsoft.com/en-us/azure/architecture/best-practices/monitoring#security-monitoring)
+- [ ] [Security Monitoring](https://learn.microsoft.com/en-us/azure/architecture/best-practices/monitoring#security-monitoring)
 
 # Usage Monitoring
 
@@ -905,7 +905,7 @@ Usage monitoring tracks how the features and components of an application are us
 
 Learn more from the following links:
 
-- [Usage Monitoring](https://learn.microsoft.com/en-us/azure/architecture/best-practices/monitoring#usage-monitoring)
+- [ ] [Usage Monitoring](https://learn.microsoft.com/en-us/azure/architecture/best-practices/monitoring#usage-monitoring)
 
 # Instrumentation
 
@@ -913,7 +913,7 @@ Instrumentation is a critical part of the monitoring process. You can make meani
 
 Learn more from the following links:
 
-- [Instrumenting an application](https://learn.microsoft.com/en-us/azure/architecture/best-practices/monitoring#instrumenting-an-application)
+- [ ] [Instrumenting an application](https://learn.microsoft.com/en-us/azure/architecture/best-practices/monitoring#instrumenting-an-application)
 
 # Visualization and Alerts
 
@@ -921,7 +921,7 @@ An important aspect of any monitoring system is the ability to present the data 
 
 Learn more from the following links:
 
-- [Visualize Data and Raise Alerts](https://learn.microsoft.com/en-us/azure/architecture/best-practices/monitoring#visualizing-data-and-raising-alerts)
+- [ ] [Visualize Data and Raise Alerts](https://learn.microsoft.com/en-us/azure/architecture/best-practices/monitoring#visualizing-data-and-raising-alerts)
 
 # Cloud Design Patterns
 
@@ -929,4 +929,4 @@ Cloud design patterns are solutions to common problems that arise when building 
 
 To learn more, visit the following links:
 
-- [Cloud Design Patterns](https://learn.microsoft.com/en-us/azure/architecture/patterns/)
+- [ ] [Cloud Design Patterns](https://learn.microsoft.com/en-us/azure/architecture/patterns/)

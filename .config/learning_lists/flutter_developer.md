@@ -4,12 +4,12 @@ Dart is an open-source, general-purpose, object-oriented programming language wi
 
 Visit the following resources to learn more:
 
-- [Dart Overview](https://dart.dev/overview)
-- [What is Dart Programming?](https://www.javatpoint.com/flutter-dart-programming)
-- [Dart Tutorial](https://www.geeksforgeeks.org/dart-tutorial/)
-- [About Dart](https://flutterbyexample.com/lesson/about-dart)
-- [What is Dart?](https://www.youtube.com/watch?v=sOSd6G1qXoY)
-- [Dart in 100 Seconds](https://www.youtube.com/watch?v=NrO0CJCbYLA)
+- [ ] [Dart Overview](https://dart.dev/overview)
+- [ ] [What is Dart Programming?](https://www.javatpoint.com/flutter-dart-programming)
+- [ ] [Dart Tutorial](https://www.geeksforgeeks.org/dart-tutorial/)
+- [ ] [About Dart](https://flutterbyexample.com/lesson/about-dart)
+- [ ] [What is Dart?](https://www.youtube.com/watch?v=sOSd6G1qXoY)
+- [ ] [Dart in 100 Seconds](https://www.youtube.com/watch?v=NrO0CJCbYLA)
 
 # DartPad
 
@@ -17,8 +17,8 @@ DartPad is an online tool that allows developers to write and run Dart code snip
 
 Visit the following resources to learn more:
 
-- [DartPad](https://dart.dev/tools/dartpad)
-- [DartPad in Tutorials](https://dart.dev/resources/dartpad-best-practices)
+- [ ] [DartPad](https://dart.dev/tools/dartpad)
+- [ ] [DartPad in Tutorials](https://dart.dev/resources/dartpad-best-practices)
 
 # Variables
 
@@ -31,8 +31,8 @@ Variables in Flutter can store values of different data types, such as numbers, 
 
 Visit the following resources to learn more:
 
-- [Variables](https://dart.dev/guides/language/language-tour#variables)
-- [Dart - Variables](https://howtoflutter.dev/dart/variables/)
+- [ ] [Variables](https://dart.dev/guides/language/language-tour#variables)
+- [ ] [Dart - Variables](https://howtoflutter.dev/dart/variables/)
 
 # Built-in Types
 
@@ -49,8 +49,8 @@ Additionally, there are other complex data types like dynamic, var, and Object i
 
 Visit the following resources to learn more:
 
-- [Built-in types](https://dart.dev/guides/language/language-tour#built-in-types)
-- [Overview of Built-in Types](https://dart.dev/guides/language/coming-from/js-to-dart#built-in-types)
+- [ ] [Built-in types](https://dart.dev/guides/language/language-tour#built-in-types)
+- [ ] [Overview of Built-in Types](https://dart.dev/guides/language/coming-from/js-to-dart#built-in-types)
 
 # Functions
 
@@ -58,8 +58,8 @@ Dart is a true object-oriented language, so even functions are objects and have 
 
 Visit the following resources to learn more:
 
-- [Functions](https://dart.dev/guides/language/language-tour#functions)
-- [Dart Function](https://www.javatpoint.com/dart-function)
+- [ ] [Functions](https://dart.dev/guides/language/language-tour#functions)
+- [ ] [Dart Function](https://www.javatpoint.com/dart-function)
 
 # Operators
 
@@ -75,7 +75,7 @@ These operators can be used to perform operations on values, variables, and expr
 
 Visit the following resources to learn more:
 
-- [Operators](https://dart.dev/guides/language/language-tour#operators)
+- [ ] [Operators](https://dart.dev/guides/language/language-tour#operators)
 
 # Control Flow Statements
 
@@ -93,8 +93,8 @@ These control flow statements can be used to create complex logic and control th
 
 Visit the following resources to learn more:
 
-- [Control flow statements](https://dart.dev/guides/language/language-tour#control-flow-statements)
-- [Dart Control Flow Statements](https://www.w3adda.com/dart-tutorial/dart-control-flow-statements)
+- [ ] [Control flow statements](https://dart.dev/guides/language/language-tour#control-flow-statements)
+- [ ] [Dart Control Flow Statements](https://www.w3adda.com/dart-tutorial/dart-control-flow-statements)
 
 # Setup Development Environment
 
@@ -110,8 +110,8 @@ Once you have installed all the required software, you can create a new Flutter 
 
 Learn more from the following links:
 
-- [Get started with Flutter](https://docs.flutter.dev/get-started/install)
-- [Installing Dart SDK](https://dart.dev/get-dart)
+- [ ] [Get started with Flutter](https://docs.flutter.dev/get-started/install)
+- [ ] [Installing Dart SDK](https://dart.dev/get-dart)
 
 # Flutter CLI
 
@@ -126,9 +126,9 @@ Flutter CLI (Command Line Interface) is a command-line tool that is used to deve
 By using the Flutter CLI, developers can streamline the development process and automate repetitive tasks. The Flutter CLI is included in the Flutter SDK and is available for Windows, macOS, and Linux.
 Visit the following resources to learn more:
 
-- [The Flutter command-line tool](https://docs.flutter.dev/reference/flutter-cli)
-- [CLI Packages in Flutter](https://dart.dev/server/libraries#command-line-packages)
-- [Get started with Flutter CLI](https://dart.dev/tutorials/server/get-started)
+- [ ] [The Flutter command-line tool](https://docs.flutter.dev/reference/flutter-cli)
+- [ ] [CLI Packages in Flutter](https://dart.dev/server/libraries#command-line-packages)
+- [ ] [Get started with Flutter CLI](https://dart.dev/tutorials/server/get-started)
 
 # Widgets
 
@@ -148,9 +148,9 @@ Widgets in Flutter are also designed to be highly reusable, allowing developers 
 
 Visit the following resources to learn more:
 
-- [Introduction to widgets](https://docs.flutter.dev/development/ui/widgets-intro)
-- [Widget catalog](https://docs.flutter.dev/development/ui/widgets)
-- [Flutter Widgets Explained](https://www.youtube.com/watch?v=FU2Eeizo95o)
+- [ ] [Introduction to widgets](https://docs.flutter.dev/development/ui/widgets-intro)
+- [ ] [Widget catalog](https://docs.flutter.dev/development/ui/widgets)
+- [ ] [Flutter Widgets Explained](https://www.youtube.com/watch?v=FU2Eeizo95o)
 
 # Stateless Widgets
 
@@ -158,9 +158,9 @@ Stateless widgets in Flutter are widgets that don't maintain any mutable state. 
 
 Visit the following resources to learn more:
 
-- [StatelessWidget class](https://api.flutter.dev/flutter/widgets/StatelessWidget-class.html)
-- [Flutter – Stateful vs Stateless Widgets](https://www.geeksforgeeks.org/flutter-stateful-vs-stateless-widgets/)
-- [How to Create Stateless Widgets](https://medium.com/flutter/how-to-create-stateless-widgets-6f33931d859)
+- [ ] [StatelessWidget class](https://api.flutter.dev/flutter/widgets/StatelessWidget-class.html)
+- [ ] [Flutter – Stateful vs Stateless Widgets](https://www.geeksforgeeks.org/flutter-stateful-vs-stateless-widgets/)
+- [ ] [How to Create Stateless Widgets](https://medium.com/flutter/how-to-create-stateless-widgets-6f33931d859)
 
 # Stateful widgets
 
@@ -168,9 +168,9 @@ A stateful widget is dynamic: for example, it can change its appearance in respo
 
 Visit the following resources to learn more:
 
-- [StatefulWidget class](https://api.flutter.dev/flutter/widgets/StatefulWidget-class.html)
-- [Flutter – Stateful vs Stateless Widgets](https://www.geeksforgeeks.org/flutter-stateful-vs-stateless-widgets/)
-- [Flutter Tutorial - Stateful Widgets](https://www.youtube.com/watch?v=p5dkB3Mrxdo)
+- [ ] [StatefulWidget class](https://api.flutter.dev/flutter/widgets/StatefulWidget-class.html)
+- [ ] [Flutter – Stateful vs Stateless Widgets](https://www.geeksforgeeks.org/flutter-stateful-vs-stateless-widgets/)
+- [ ] [Flutter Tutorial - Stateful Widgets](https://www.youtube.com/watch?v=p5dkB3Mrxdo)
 
 # Working with Assets
 
@@ -185,8 +185,8 @@ The `pubspec.yaml` file is used to manage dependencies, assets, and other settin
 
 Learn more from the following links:
 
-- [Flutter Tutorial - Assets](https://www.youtube.com/watch?v=Hxh6nNHSUjo)
-- [Adding Assets in Flutter](https://docs.flutter.dev/development/ui/assets-and-images)
+- [ ] [Flutter Tutorial - Assets](https://www.youtube.com/watch?v=Hxh6nNHSUjo)
+- [ ] [Adding Assets in Flutter](https://docs.flutter.dev/development/ui/assets-and-images)
 
 # Fonts
 
@@ -199,8 +199,8 @@ You can use custom fonts in your app by including the font file in your app's as
 
 Visit the following resources to learn more:
 
-- [Font - Flutter](https://docs.flutter.dev/cookbook/design/fonts)
-- [How to use custom fonts in Flutter](https://blog.logrocket.com/use-custom-fonts-flutter/)
+- [ ] [Font - Flutter](https://docs.flutter.dev/cookbook/design/fonts)
+- [ ] [How to use custom fonts in Flutter](https://blog.logrocket.com/use-custom-fonts-flutter/)
 
 # Images
 
@@ -214,8 +214,8 @@ The `Image` widget also accepts additional parameters such as `fit`, `width`, an
 
 Visit the following resources to learn more:
 
-- [Adding assets and images](https://docs.flutter.dev/development/ui/assets-and-images)
-- [Images in Flutter](https://docs.flutter.dev/cookbook/images)
+- [ ] [Adding assets and images](https://docs.flutter.dev/development/ui/assets-and-images)
+- [ ] [Images in Flutter](https://docs.flutter.dev/cookbook/images)
 
 # Other File Types
 
@@ -229,7 +229,7 @@ javascript
 
 Learn more from the following links:
 
-- [File class](https://docs.flutter.dev/cookbook/lists/mixed-list)
+- [ ] [File class](https://docs.flutter.dev/cookbook/lists/mixed-list)
 
 # Version Control Systems
 
@@ -237,9 +237,9 @@ Version control systems allow you to track changes to your codebase/files over t
 
 Visit the following resources to learn more:
 
-- [Version Control System Introduction](https://www.youtube.com/watch?v=zbKdDsNNOhg)
-- [Git & GitHub Crash Course For Beginners](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
-- [Learn Git in 20 Minutes](https://youtu.be/Y9XZQO1n_7c?t=21)
+- [ ] [Version Control System Introduction](https://www.youtube.com/watch?v=zbKdDsNNOhg)
+- [ ] [Git & GitHub Crash Course For Beginners](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
+- [ ] [Learn Git in 20 Minutes](https://youtu.be/Y9XZQO1n_7c?t=21)
 
 # Git
 
@@ -247,10 +247,10 @@ Visit the following resources to learn more:
 
 Visit the following resources to learn more:
 
-- [Learn Git on the command line](https://github.com/jlord/git-it-electron)
-- [Version Control System Introduction](https://www.youtube.com/watch?v=zbKdDsNNOhg)
-- [Git & GitHub Crash Course For Beginners](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
-- [Learn Git in 20 Minutes](https://youtu.be/Y9XZQO1n_7c?t=21)
+- [ ] [Learn Git on the command line](https://github.com/jlord/git-it-electron)
+- [ ] [Version Control System Introduction](https://www.youtube.com/watch?v=zbKdDsNNOhg)
+- [ ] [Git & GitHub Crash Course For Beginners](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
+- [ ] [Learn Git in 20 Minutes](https://youtu.be/Y9XZQO1n_7c?t=21)
 
 # Repo Hosting Services
 
@@ -266,9 +266,9 @@ When choosing a repository hosting service for your Flutter project, consider yo
 
 Learn more from the following links:
 
-- [Host Flutter Website On GitHub Pages](https://www.youtube.com/watch?v=z-yOqoQ2q6s)
-- [How to Deploy a Flutter Web App?](https://medium.com/solute-labs/flutter-for-web-how-to-deploy-a-flutter-web-app-c7d9db7ced2e)
-- [Deploying - Flutter](https://docs.flutter.dev/deployment/web#deploying-to-the-web)
+- [ ] [Host Flutter Website On GitHub Pages](https://www.youtube.com/watch?v=z-yOqoQ2q6s)
+- [ ] [How to Deploy a Flutter Web App?](https://medium.com/solute-labs/flutter-for-web-how-to-deploy-a-flutter-web-app-c7d9db7ced2e)
+- [ ] [Deploying - Flutter](https://docs.flutter.dev/deployment/web#deploying-to-the-web)
 
 # Github
 
@@ -286,9 +286,9 @@ GitHub also provides a wide range of tools and services for developers, includin
 
 Learn more from the following resources:
 
-- [Git and GitHub for Beginners - Crash Course](https://www.youtube.com/watch?v=RGOj5yH7evk)
-- [Get Started with Github](https://docs.github.com/en)
-- [GitHub Tutorial – for Beginners](https://www.freecodecamp.org/news/git-and-github-for-beginners/)
+- [ ] [Git and GitHub for Beginners - Crash Course](https://www.youtube.com/watch?v=RGOj5yH7evk)
+- [ ] [Get Started with Github](https://docs.github.com/en)
+- [ ] [GitHub Tutorial – for Beginners](https://www.freecodecamp.org/news/git-and-github-for-beginners/)
 
 # Design Principles
 
@@ -306,7 +306,7 @@ By following these design principles, you can create a user-friendly and visuall
 
 Learn more from the following:
 
-- [Design - Principles](https://docs.flutter.dev/cookbook/design)
+- [ ] [Design - Principles](https://docs.flutter.dev/cookbook/design)
 
 # Dependency Injection
 
@@ -321,8 +321,8 @@ Here's how to use dependency injection in Flutter:
 
 Learn more from the following links:
 
-- [Dependency Injection In Flutter](https://medium.com/flutter-community/dependency-injection-in-flutter-f19fb66a0740)
-- [Flutter Dependency Injection For Beginners](https://www.youtube.com/watch?v=vBT-FhgMaWM)
+- [ ] [Dependency Injection In Flutter](https://medium.com/flutter-community/dependency-injection-in-flutter-f19fb66a0740)
+- [ ] [Flutter Dependency Injection For Beginners](https://www.youtube.com/watch?v=vBT-FhgMaWM)
 
 # Design Patterns
 
@@ -341,16 +341,16 @@ When choosing a design pattern for your Flutter application, consider your speci
 
 Learn more from the following links:
 
-- [Flutter - Design](https://dart.dev/guides/language/effective-dart/design)
-- [Design Patterns Explained in 10 Minutes](https://www.youtube.com/watch?v=tv-_1er1mWI)
-- [Cookbook Designs in Flutter](https://docs.flutter.dev/cookbook/design)
+- [ ] [Flutter - Design](https://dart.dev/guides/language/effective-dart/design)
+- [ ] [Design Patterns Explained in 10 Minutes](https://www.youtube.com/watch?v=tv-_1er1mWI)
+- [ ] [Cookbook Designs in Flutter](https://docs.flutter.dev/cookbook/design)
 
 # SOLID Principles
 
 Learn more from the following links:
 
-- [S.O.L.I.D Principles](https://www.youtube.com/watch?v=fvNTJang7l4)
-- [Overview of S.O.L.I.D Principles In Dart](https://medium.flutterdevs.com/s-o-l-i-d-principles-in-dart-e6c0c8d1f8f1)
+- [ ] [S.O.L.I.D Principles](https://www.youtube.com/watch?v=fvNTJang7l4)
+- [ ] [Overview of S.O.L.I.D Principles In Dart](https://medium.flutterdevs.com/s-o-l-i-d-principles-in-dart-e6c0c8d1f8f1)
 
 # OOP
 
@@ -358,8 +358,8 @@ Object-oriented programming (OOP) is a programming paradigm that is based on the
 
 Learn more from the following links:
 
-- [Discover Object Oriented Programming](https://blog.hubspot.com/website/object-oriented-programming)
-- [Software Development Tutorial - What is object-oriented language?s](https://www.youtube.com/watch?app=desktop&v=SS-9y0H3Si8)
+- [ ] [Discover Object Oriented Programming](https://blog.hubspot.com/website/object-oriented-programming)
+- [ ] [Software Development Tutorial - What is object-oriented language?s](https://www.youtube.com/watch?app=desktop&v=SS-9y0H3Si8)
 
 # Package Manager
 
@@ -367,8 +367,8 @@ The package manager for Flutter is called pub. It is used to manage Flutter proj
 
 Visit the following resources to learn more:
 
-- [Packages and Plugins](https://docs.flutter.dev/development/packages-and-plugins)
-- [Dart Package Manager (pub.dev) in Flutter](https://www.youtube.com/watch?v=F1VRO0_MKLs)
+- [ ] [Packages and Plugins](https://docs.flutter.dev/development/packages-and-plugins)
+- [ ] [Dart Package Manager (pub.dev) in Flutter](https://www.youtube.com/watch?v=F1VRO0_MKLs)
 
 # Pub dev
 
@@ -376,8 +376,8 @@ Visit the following resources to learn more:
 
 Visit the following resources to learn more:
 
-- [pub.dev](https://pub.dev/)
-- [Using packages](https://docs.flutter.dev/development/packages-and-plugins/using-packages)
+- [ ] [pub.dev](https://pub.dev/)
+- [ ] [Using packages](https://docs.flutter.dev/development/packages-and-plugins/using-packages)
 
 # Flutter pub dart pub
 
@@ -397,7 +397,7 @@ In Flutter projects, `pub` is used to manage both Dart packages and Flutter plug
 
 Learn more from the following links:
 
-- [Overview of Dart pub](https://dart.dev/tools/pub/cmd)
+- [ ] [Overview of Dart pub](https://dart.dev/tools/pub/cmd)
 
 # Working with APIs
 
@@ -407,8 +407,8 @@ The `http` library is a popular choice for making HTTP requests in Flutter, as i
 
 Learn more from the following resources:
 
-- [Using Google APIs](https://dart.dev/guides/google-apis)
-- [How to work with APIs in Flutter?](https://www.youtube.com/watch?v=uVo7HDWDUEQ)
+- [ ] [Using Google APIs](https://dart.dev/guides/google-apis)
+- [ ] [How to work with APIs in Flutter?](https://www.youtube.com/watch?v=uVo7HDWDUEQ)
 
 # JSON
 
@@ -420,8 +420,8 @@ To encode a Dart object to a JSON string, you can use the `jsonEncode` function 
 
 Visit the following resources to learn more:
 
-- [JSON and serialization](https://docs.flutter.dev/development/data-and-backend/json)
-- [Using JSON](https://dart.dev/guides/json)
+- [ ] [JSON and serialization](https://docs.flutter.dev/development/data-and-backend/json)
+- [ ] [Using JSON](https://dart.dev/guides/json)
 
 # Web Sockets
 
@@ -429,8 +429,8 @@ In addition to normal HTTP requests, you can connect to servers using WebSockets
 
 Visit the following resources to learn more:
 
-- [Work with WebSockets](https://docs.flutter.dev/cookbook/networking/web-sockets)
-- [What is WebSocket and How It Works?](https://www.wallarm.com/what/a-simple-explanation-of-what-a-websocket-is)
+- [ ] [Work with WebSockets](https://docs.flutter.dev/cookbook/networking/web-sockets)
+- [ ] [What is WebSocket and How It Works?](https://www.wallarm.com/what/a-simple-explanation-of-what-a-websocket-is)
 
 # GraphQL
 
@@ -450,10 +450,10 @@ REST, or REpresentational State Transfer, is an architectural style for providin
 
 Visit the following resources to learn more:
 
-- [What is REST?](https://www.codecademy.com/article/what-is-rest)
-- [What is a REST API?](https://www.redhat.com/en/topics/api/what-is-a-rest-api)
-- [Roy Fieldings dissertation chapter, Representational State Transfer (REST)](https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm)
-- [Learn REST: A RESTful Tutorial](https://restapitutorial.com/)
+- [ ] [What is REST?](https://www.codecademy.com/article/what-is-rest)
+- [ ] [What is a REST API?](https://www.redhat.com/en/topics/api/what-is-a-rest-api)
+- [ ] [Roy Fieldings dissertation chapter, Representational State Transfer (REST)](https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm)
+- [ ] [Learn REST: A RESTful Tutorial](https://restapitutorial.com/)
 
 # Storage
 
@@ -468,8 +468,8 @@ All of these storage options are supported through third-party packages, which a
 
 Visit the following links to learn more:
 
-- [Storage - Flutter Tutorial](https://www.youtube.com/watch?v=UpKrhZ0Hppks)
-- [Cloud Storage in Flutter](https://firebase.flutter.dev/docs/storage/overview/)
+- [ ] [Storage - Flutter Tutorial](https://www.youtube.com/watch?v=UpKrhZ0Hppks)
+- [ ] [Cloud Storage in Flutter](https://firebase.flutter.dev/docs/storage/overview/)
 
 # SQLite
 
@@ -477,7 +477,7 @@ SQLite is an open-source, lightweight relational database management system (RDB
 
 Visit the following resources to learn more:
 
-- [sqflite - pub.dev package](https://pub.dev/packages/sqflite)
+- [ ] [sqflite - pub.dev package](https://pub.dev/packages/sqflite)
 
 # Shared Preferences
 
@@ -485,8 +485,8 @@ In Flutter, SharedPreferences is a plugin allowing you to store data in key-valu
 
 Visit the following resources to learn more:
 
-- [shared_preferences - pub.dev package](https://pub.dev/packages/shared_preferences)
-- [How do I access Shared Preferences?](https://docs.flutter.dev/get-started/flutter-for/android-devs#how-do-i-access-shared-preferences)
+- [ ] [shared_preferences - pub.dev package](https://pub.dev/packages/shared_preferences)
+- [ ] [How do I access Shared Preferences?](https://docs.flutter.dev/get-started/flutter-for/android-devs#how-do-i-access-shared-preferences)
 
 # Advanced Dart
 
@@ -507,7 +507,7 @@ By mastering these concepts, you will be able to write more efficient and mainta
 
 Learn more from the following resources:
 
-- [Tutorials - Dart](https://dart.dev/tutorials)
+- [ ] [Tutorials - Dart](https://dart.dev/tutorials)
 
 # Core Libraries
 
@@ -515,8 +515,8 @@ Dart has a rich set of core libraries that provide essentials for many everyday 
 
 Visit the following resources to learn more:
 
-- [Core libraries](https://dart.dev/guides/libraries)
-- [Libraries](https://api.flutter.dev/)
+- [ ] [Core libraries](https://dart.dev/guides/libraries)
+- [ ] [Libraries](https://api.flutter.dev/)
 
 # Lists
 
@@ -532,8 +532,8 @@ These widgets allow you to display items in a scrolling list, a grid, or a combi
 
 Learn more from the following:
 
-- [List Class](https://api.flutter.dev/flutter/dart-core/List-class.html)
-- [Dart Programming – List](https://www.geeksforgeeks.org/dart-programming-list/)
+- [ ] [List Class](https://api.flutter.dev/flutter/dart-core/List-class.html)
+- [ ] [Dart Programming – List](https://www.geeksforgeeks.org/dart-programming-list/)
 
 # Collections
 
@@ -549,8 +549,8 @@ These collections are built-in data structures that can be used to store and man
 
 Learn more from the following:
 
-- [Generic collections in Flutter](https://dart.dev/guides/language/language-tour#generic-collections-and-the-types-they-contain)
-- [Iterable collections](https://dart.dev/codelabs/iterables)
+- [ ] [Generic collections in Flutter](https://dart.dev/guides/language/language-tour#generic-collections-and-the-types-they-contain)
+- [ ] [Iterable collections](https://dart.dev/codelabs/iterables)
 
 # Lambdas
 
@@ -567,8 +567,8 @@ Lambdas are defined using the `=>` operator and can take zero or more arguments.
 
 Learn more from the following links:
 
-- [Lambda functions in Dart](https://medium.com/jay-tillu/lambda-functions-in-dart-7db8b759f07a)
-- [Anonymous Function in Dart | Lambda Function](https://www.youtube.com/watch?v=XTKKQdTAR0U)
+- [ ] [Lambda functions in Dart](https://medium.com/jay-tillu/lambda-functions-in-dart-7db8b759f07a)
+- [ ] [Anonymous Function in Dart | Lambda Function](https://www.youtube.com/watch?v=XTKKQdTAR0U)
 
 # Functional Programming
 
@@ -581,9 +581,9 @@ Functional programming is a programming paradigm that emphasizes immutability, s
 
 Learn more from the following links:
 
-- [Brief Overview of Functional Programming](https://buildflutter.com/functional-programming-with-flutter/)
-- [Functional Programming in Dart & Flutter](https://yogi-6.medium.com/list/functional-programming-in-dart-flutter-2f3ac9d7fa39)
-- [Functional programming - Flutter](https://docs.flutter.dev/resources/faq)
+- [ ] [Brief Overview of Functional Programming](https://buildflutter.com/functional-programming-with-flutter/)
+- [ ] [Functional Programming in Dart & Flutter](https://yogi-6.medium.com/list/functional-programming-in-dart-flutter-2f3ac9d7fa39)
+- [ ] [Functional programming - Flutter](https://docs.flutter.dev/resources/faq)
 
 # Isolates
 
@@ -598,8 +598,8 @@ Isolates are created using the `Isolate` class and can be used for a variety of 
 
 Learn more from the following links:
 
-- [How isolates work](https://dart.dev/guides/language/concurrency#how-isolates-work)
-- [Dart - Isolates and event loops](https://medium.com/dartlang/dart-asynchronous-programming-isolates-and-event-loops-bffc3e296a6a)
+- [ ] [How isolates work](https://dart.dev/guides/language/concurrency#how-isolates-work)
+- [ ] [Dart - Isolates and event loops](https://medium.com/dartlang/dart-asynchronous-programming-isolates-and-event-loops-bffc3e296a6a)
 
 # Async Await
 
@@ -612,8 +612,8 @@ With `async`/`await`, you can write asynchronous code that is easy to read, writ
 
 Learn more from the following resources:
 
-- [Asynchronous programming: async, await](https://dart.dev/codelabs/async-await)
-- [Async widgets](https://docs.flutter.dev/development/ui/widgets/async)
+- [ ] [Asynchronous programming: async, await](https://dart.dev/codelabs/async-await)
+- [ ] [Async widgets](https://docs.flutter.dev/development/ui/widgets/async)
 
 # Streams
 
@@ -621,7 +621,7 @@ Streams in Flutter are a way to receive data over time as it becomes available. 
 
 Learn more from the following resources:
 
-- [Creating streams in Dart](https://dart.dev/articles/libraries/creating-streams)
+- [ ] [Creating streams in Dart](https://dart.dev/articles/libraries/creating-streams)
 
 # Futures
 
@@ -635,7 +635,7 @@ Futures in Flutter are a way of representing a potential value that will be avai
 
 Learn more from the following resources:
 
-- [Futures and Error handling](https://dart.dev/guides/libraries/futures-error-handling)
+- [ ] [Futures and Error handling](https://dart.dev/guides/libraries/futures-error-handling)
 
 # State Management
 
@@ -651,8 +651,8 @@ The choice of state management technique depends on the complexity and size of t
 
 Learn more from the following resources:
 
-- [State management in Flutter](https://docs.flutter.dev/development/data-and-backend/state-mgmt)
-- [Intro to State Management](https://docs.flutter.dev/development/data-and-backend/state-mgmt/intro)
+- [ ] [State management in Flutter](https://docs.flutter.dev/development/data-and-backend/state-mgmt)
+- [ ] [Intro to State Management](https://docs.flutter.dev/development/data-and-backend/state-mgmt/intro)
 
 # Provider
 
@@ -660,8 +660,8 @@ Provider is a wrapper around InheritedWidget (base class for widgets that effici
 
 Visit the following resources to learn more:
 
-- [provider](https://pub.dev/packages/provider)
-- [Simple app state management](https://docs.flutter.dev/development/data-and-backend/state-mgmt/simple)
+- [ ] [provider](https://pub.dev/packages/provider)
+- [ ] [Simple app state management](https://docs.flutter.dev/development/data-and-backend/state-mgmt/simple)
 
 # BloC
 
@@ -669,10 +669,10 @@ Bloc (Business Logic Component) is a state management pattern used in Flutter to
 
 Learn more from the following links:
 
-- [Get started with flutter_bloc](https://pub.dev/packages/flutter_bloc)
-- [BLoC in Flutter](https://docs.flutter.dev/development/data-and-backend/state-mgmt/options#bloc--rx)
-- [Flutter bloc for beginners](https://medium.com/flutter-community/flutter-bloc-for-beginners-839e22adb9f5)
-- [Flutter Bloc - Tutorial](https://www.youtube.com/watch?v=Ep6R7U9wa0U)
+- [ ] [Get started with flutter_bloc](https://pub.dev/packages/flutter_bloc)
+- [ ] [BLoC in Flutter](https://docs.flutter.dev/development/data-and-backend/state-mgmt/options#bloc--rx)
+- [ ] [Flutter bloc for beginners](https://medium.com/flutter-community/flutter-bloc-for-beginners-839e22adb9f5)
+- [ ] [Flutter Bloc - Tutorial](https://www.youtube.com/watch?v=Ep6R7U9wa0U)
 
 # Flutter_bloc
 
@@ -680,8 +680,8 @@ flutter_bloc is a Flutter package that implements the BLoC pattern and provides 
 
 Visit the following resources to learn more:
 
-- [Core Concepts](https://bloclibrary.dev/#/flutterbloccoreconcepts)
-- [flutter_bloc](https://pub.dev/packages/flutter_bloc)
+- [ ] [Core Concepts](https://bloclibrary.dev/#/flutterbloccoreconcepts)
+- [ ] [flutter_bloc](https://pub.dev/packages/flutter_bloc)
 
 # VelocityX
 
@@ -689,8 +689,8 @@ VelocityX is a Flutter UI toolkit for building high-performance, visually stunni
 
 Learn more from the following links:
 
-- [Get started with VelocityX](https://velocityx.dev/)
-- [Intro to velocity_x](https://pub.dev/packages/velocity_x)
+- [ ] [Get started with VelocityX](https://velocityx.dev/)
+- [ ] [Intro to velocity_x](https://pub.dev/packages/velocity_x)
 
 # GetX
 
@@ -698,8 +698,8 @@ GetX is a lightweight and powerful solution for state management and navigation 
 
 Learn more from the following links:
 
-- [GetX in Flutter](https://docs.flutter.dev/development/data-and-backend/state-mgmt/options#getx)
-- [Complete GetX State Management | Flutter](https://www.youtube.com/watch?v=CNpXbeI_slw)
+- [ ] [GetX in Flutter](https://docs.flutter.dev/development/data-and-backend/state-mgmt/options#getx)
+- [ ] [Complete GetX State Management | Flutter](https://www.youtube.com/watch?v=CNpXbeI_slw)
 
 # ReduX
 
@@ -707,9 +707,9 @@ Redux is a state management library for Flutter, commonly used with the Flutter 
 
 Visit the following resources to learn more:
 
-- [flutter_redux](https://pub.dev/packages/flutter_redux)
-- [Redux - Tutorial](https://docs.flutter.dev/development/data-and-backend/state-mgmt/options#redux)
-- [Building a Flutter app with Redux](https://hillel.dev/2018/06/01/building-a-large-flutter-app-with-redux/)
+- [ ] [flutter_redux](https://pub.dev/packages/flutter_redux)
+- [ ] [Redux - Tutorial](https://docs.flutter.dev/development/data-and-backend/state-mgmt/options#redux)
+- [ ] [Building a Flutter app with Redux](https://hillel.dev/2018/06/01/building-a-large-flutter-app-with-redux/)
 
 # Animations
 
@@ -717,8 +717,8 @@ Flutter’s animation support makes it easy to implement a variety of animation 
 
 Visit the following resources to learn more:
 
-- [Introduction to animations](https://docs.flutter.dev/development/ui/animations)
-- [Animation library](https://api.flutter.dev/flutter/animation/animation-library.html)
+- [ ] [Introduction to animations](https://docs.flutter.dev/development/ui/animations)
+- [ ] [Animation library](https://api.flutter.dev/flutter/animation/animation-library.html)
 
 # CurvedAnimations
 
@@ -730,8 +730,8 @@ Curved animations in Flutter can be achieved using the "CurvedAnimation" class. 
 
 Learn more from the following links:
 
-- [Curved­Animation](https://docs.flutter.dev/development/ui/animations/tutorial)
-- [CurvedAnimation Class](https://api.flutter.dev/flutter/animation/CurvedAnimation-class.html)
+- [ ] [Curved­Animation](https://docs.flutter.dev/development/ui/animations/tutorial)
+- [ ] [CurvedAnimation Class](https://api.flutter.dev/flutter/animation/CurvedAnimation-class.html)
 
 # AnimationController
 
@@ -746,8 +746,8 @@ By default, an AnimationController linearly produces values that range from 0.0 
 
 Learn more from the following links:
 
-- [AnimationController - Flutter](https://docs.flutter.dev/development/ui/animations/tutorial#animationcontroller)
-- [AnimationController class](https://api.flutter.dev/flutter/animation/AnimationController-class.html)
+- [ ] [AnimationController - Flutter](https://docs.flutter.dev/development/ui/animations/tutorial#animationcontroller)
+- [ ] [AnimationController class](https://api.flutter.dev/flutter/animation/AnimationController-class.html)
 
 # AnimatedBuilder
 
@@ -755,8 +755,8 @@ AnimatedBuilder is a widget in Flutter that allows you to build animations. It t
 
 Learn more from the following links:
 
-- [AnimatedBuilder Class](https://api.flutter.dev/flutter/widgets/AnimatedBuilder-class.html)
-- [Refactoring with AnimatedBuilders](https://docs.flutter.dev/development/ui/animations/tutorial#refactoring-with-animatedbuilder)
+- [ ] [AnimatedBuilder Class](https://api.flutter.dev/flutter/widgets/AnimatedBuilder-class.html)
+- [ ] [Refactoring with AnimatedBuilders](https://docs.flutter.dev/development/ui/animations/tutorial#refactoring-with-animatedbuilder)
 
 # AnimatedWidget
 
@@ -764,8 +764,8 @@ AnimatedWidget is a Flutter widget that takes an `Animation` object as an argume
 
 Learn more from the following links:
 
-- [Simplifying with Animated­Widget](https://docs.flutter.dev/development/ui/animations/tutorial#simplifying-with-animatedwidgets)
-- [AnimatedWidget Class](https://api.flutter.dev/flutter/widgets/AnimatedWidget-class.html)
+- [ ] [Simplifying with Animated­Widget](https://docs.flutter.dev/development/ui/animations/tutorial#simplifying-with-animatedwidgets)
+- [ ] [AnimatedWidget Class](https://api.flutter.dev/flutter/widgets/AnimatedWidget-class.html)
 
 # Hero
 
@@ -773,9 +773,9 @@ Hero is a widget in Flutter that allows you to create smooth animations between 
 
 Visit the following resources to learn more:
 
-- [Hero animations](https://docs.flutter.dev/development/ui/animations/hero-animations)
-- [HeroAnimation class](https://docs.flutter.dev/development/ui/animations/hero-animations#heroanimation-class)
-- [Hero class](https://api.flutter.dev/flutter/widgets/Hero-class.html)
+- [ ] [Hero animations](https://docs.flutter.dev/development/ui/animations/hero-animations)
+- [ ] [HeroAnimation class](https://docs.flutter.dev/development/ui/animations/hero-animations#heroanimation-class)
+- [ ] [Hero class](https://api.flutter.dev/flutter/widgets/Hero-class.html)
 
 # Opacity
 
@@ -783,8 +783,8 @@ Opacity is a Flutter widget that allows you to control the transparency of its c
 
 Visit the following resources to learn more:
 
-- [Fade a widget in and out](https://docs.flutter.dev/cookbook/animation/opacity-animation)
-- [AnimatedOpacity widget](https://docs.flutter.dev/codelabs/implicit-animations#animate-opacity-with-animatedopacity-widgets)
+- [ ] [Fade a widget in and out](https://docs.flutter.dev/cookbook/animation/opacity-animation)
+- [ ] [AnimatedOpacity widget](https://docs.flutter.dev/codelabs/implicit-animations#animate-opacity-with-animatedopacity-widgets)
 
 # Testing
 
@@ -801,8 +801,8 @@ In Flutter, you can write tests using the test and flutter_test packages, which 
 
 Learn more from the following links:
 
-- [Dart Testing](https://dart.dev/guides/testing)
-- [Testing Flutter apps](https://docs.flutter.dev/testing)
+- [ ] [Dart Testing](https://dart.dev/guides/testing)
+- [ ] [Testing Flutter apps](https://docs.flutter.dev/testing)
 
 # Unit Testing
 
@@ -812,8 +812,8 @@ In Flutter, you can write unit tests using the test package, which provides a te
 
 Visit the following resources to learn more:
 
-- [An introduction to unit testing](https://docs.flutter.dev/cookbook/testing/unit/introduction)
-- [Unit tests - Flutter](https://docs.flutter.dev/testing#unit-tests)
+- [ ] [An introduction to unit testing](https://docs.flutter.dev/cookbook/testing/unit/introduction)
+- [ ] [Unit tests - Flutter](https://docs.flutter.dev/testing#unit-tests)
 
 # Widget Testing
 
@@ -825,8 +825,8 @@ The framework provides several utility functions to help you build and test widg
 
 Visit the following resources to learn more:
 
-- [An introduction to widget testing](https://docs.flutter.dev/cookbook/testing/widget/introduction)
-- [Widget Tests - Flutter](https://docs.flutter.dev/testing#widget-tests)
+- [ ] [An introduction to widget testing](https://docs.flutter.dev/cookbook/testing/widget/introduction)
+- [ ] [Widget Tests - Flutter](https://docs.flutter.dev/testing#widget-tests)
 
 # Integration Testing
 
@@ -838,8 +838,8 @@ The framework provides several utility functions to help you interact with your 
 
 Visit the following resources to learn more:
 
-- [An introduction to integration testing](https://docs.flutter.dev/cookbook/testing/integration/introduction)
-- [Integration Tests](https://docs.flutter.dev/testing#integration-tests)
+- [ ] [An introduction to integration testing](https://docs.flutter.dev/cookbook/testing/integration/introduction)
+- [ ] [Integration Tests](https://docs.flutter.dev/testing#integration-tests)
 
 # TDD
 
@@ -849,8 +849,8 @@ In Flutter, TDD can be applied using the `test` and `flutter_test` packages, whi
 
 Learn more from the following links:
 
-- [Test-Driven Development in Flutter](https://techblog.geekyants.com/test-driven-development-in-flutter)
-- [Flutter TDD Clean Architecture Course](https://www.youtube.com/watch?v=KjE2IDphA_U)
+- [ ] [Test-Driven Development in Flutter](https://techblog.geekyants.com/test-driven-development-in-flutter)
+- [ ] [Flutter TDD Clean Architecture Course](https://www.youtube.com/watch?v=KjE2IDphA_U)
 
 # BDD
 
@@ -860,8 +860,8 @@ In Flutter, BDD can be applied using the `flutter_driver` package, which provide
 
 Learn morer from the following links:
 
-- [Build Flutter with BDD](https://medium.com/tide-engineering-team/build-flutter-with-bdd-b4507170a2fe)
-- [Tutorial - BDD in Flutter](https://www.youtube.com/watch?v=Kwvsc31FE_8)
+- [ ] [Build Flutter with BDD](https://medium.com/tide-engineering-team/build-flutter-with-bdd-b4507170a2fe)
+- [ ] [Tutorial - BDD in Flutter](https://www.youtube.com/watch?v=Kwvsc31FE_8)
 
 # Reactive Programming
 
@@ -875,15 +875,15 @@ Reactive programming in Flutter helps create dynamic and responsive apps that ca
 
 Learn more from the following links:
 
-- [Get Started with Reactive Programming](https://www.didierboelens.com/2018/12/reactive-programming-streams-bloc-practical-use-cases/)
-- [Reactive Programming in Flutter](https://www.youtube.com/watch?v=x4FKXw4Uvls)
+- [ ] [Get Started with Reactive Programming](https://www.didierboelens.com/2018/12/reactive-programming-streams-bloc-practical-use-cases/)
+- [ ] [Reactive Programming in Flutter](https://www.youtube.com/watch?v=x4FKXw4Uvls)
 
 # RxDart
 
 RxDart is a library for Dart that provides additional functionality for working with reactive programming, specifically with the Streams and Observables classes. It extends the standard Dart Streams API and provides additional features such as the ability to transform and combine streams, and to compose and chain streams together. In Flutter, RxDart is commonly used to handle asynchronous data streams and user interactions in a more efficient and elegant way.
 
-- [RxDart Official Docs](https://pub.dev/documentation/rxdart/latest)
-- [Overview of RxDart in Flutter](https://docs.flutter.dev/development/data-and-backend/state-mgmt/options#bloc--rx)
+- [ ] [RxDart Official Docs](https://pub.dev/documentation/rxdart/latest)
+- [ ] [Overview of RxDart in Flutter](https://docs.flutter.dev/development/data-and-backend/state-mgmt/options#bloc--rx)
 
 # Dev Tools
 
@@ -899,8 +899,8 @@ Flutter DevTools is a suite of development tools provided by Flutter to help dev
 
 Learn more from the following links:
 
-- [Flutter - DevTools](https://docs.flutter.dev/development/tools/devtools/overview)
-- [Dart DevTools](https://dart.dev/tools/dart-devtools)
+- [ ] [Flutter - DevTools](https://docs.flutter.dev/development/tools/devtools/overview)
+- [ ] [Dart DevTools](https://dart.dev/tools/dart-devtools)
 
 # Flutter Inspector
 
@@ -915,8 +915,8 @@ With the Flutter Inspector, developers can:
 
 Visit the following resources to learn more:
 
-- [Using the Flutter inspector](https://docs.flutter.dev/development/tools/devtools/inspector)
-- [How to Use the Flutter Inspector](https://www.youtube.com/watch?v=CcLfGJZS8ns)
+- [ ] [Using the Flutter inspector](https://docs.flutter.dev/development/tools/devtools/inspector)
+- [ ] [How to Use the Flutter Inspector](https://www.youtube.com/watch?v=CcLfGJZS8ns)
 
 # Flutter Outline
 
@@ -939,7 +939,7 @@ In Flutter, the widgets in the app's widget tree represent the state of the app.
 
 Visit the following links:
 
-- [Using the Memory view](https://docs.flutter.dev/development/tools/devtools/memory)
+- [ ] [Using the Memory view](https://docs.flutter.dev/development/tools/devtools/memory)
 
 # Flutter Internals
 
@@ -951,9 +951,9 @@ Flutter achieves this by using a unique rendering engine that is based on the Sk
 
 Visit the following links:
 
-- [Flutter - Internals](https://www.didierboelens.com/2019/09/flutter-internals/)
-- [Overview of Flutter Internals](https://flutter.megathink.com/)
-- [Flutter and Dart | Widget & Flutter Internals](https://www.youtube.com/watch?v=FBXMvOmiOLE)
+- [ ] [Flutter - Internals](https://www.didierboelens.com/2019/09/flutter-internals/)
+- [ ] [Overview of Flutter Internals](https://flutter.megathink.com/)
+- [ ] [Flutter and Dart | Widget & Flutter Internals](https://www.youtube.com/watch?v=FBXMvOmiOLE)
 
 # Render Objects
 
@@ -961,8 +961,8 @@ RenderObject's can be defined as "Objects" that render and manipulate layouts, s
 
 Visit the following resources to learn more:
 
-- [RenderObject documentation](https://api.flutter.dev/flutter/rendering/RenderObject-class.html)
-- [Get started with RenderObjects - Flutter](https://jasper-dev.hashnode.dev/getting-started-with-renderobjects-in-flutter)
+- [ ] [RenderObject documentation](https://api.flutter.dev/flutter/rendering/RenderObject-class.html)
+- [ ] [Get started with RenderObjects - Flutter](https://jasper-dev.hashnode.dev/getting-started-with-renderobjects-in-flutter)
 
 # Immutability
 
@@ -972,7 +972,7 @@ In Flutter, objects that represent the state of the app, such as widgets and the
 
 Learn more from the following links:
 
-- [Immutable data in Flutter](https://dart.academy/immutable-data-patterns-in-dart-and-flutter/)
+- [ ] [Immutable data in Flutter](https://dart.academy/immutable-data-patterns-in-dart-and-flutter/)
 
 # Trees
 
@@ -982,8 +982,8 @@ A Flutter app's widget tree is created by composing smaller widgets into larger 
 
 Learn more from the following links:
 
-- [Beginning Flutter — Understanding Tree](https://medium.com/@JediPixels/beginning-flutter-understanding-the-widget-tree-3513c94dc356)
-- [Tree in Flutter](https://docs.flutter.dev/resources/inside-flutter#tree-surgery)
+- [ ] [Beginning Flutter — Understanding Tree](https://medium.com/@JediPixels/beginning-flutter-understanding-the-widget-tree-3513c94dc356)
+- [ ] [Tree in Flutter](https://docs.flutter.dev/resources/inside-flutter#tree-surgery)
 
 # CI/CD
 
@@ -1000,7 +1000,7 @@ The key components of a CI/CD pipeline for a Flutter app are:
 
 Learn more from the following links:
 
-- [CI/CD - Flutter](https://docs.flutter.dev/deployment/cd)
+- [ ] [CI/CD - Flutter](https://docs.flutter.dev/deployment/cd)
 
 # Fast lane
 
@@ -1010,7 +1010,7 @@ Fastlane provides a suite of tools for automating tasks such as building, testin
 
 Learn more from the following links:
 
-- [Fast Lane - CI/CD in Flutter](https://docs.flutter.dev/deployment/cd)
+- [ ] [Fast Lane - CI/CD in Flutter](https://docs.flutter.dev/deployment/cd)
 
 # Codemagic
 
@@ -1020,8 +1020,8 @@ Codemagic provides a simple and efficient way for Flutter developers to automate
 
 Learn more from the following links:
 
-- [Codemagic - Flutter](https://codemagic.io/start/)
-- [Create a build archive with Codemagic](https://docs.flutter.dev/deployment/ios#create-a-build-archive-with-codemagic-cli-tools)
+- [ ] [Codemagic - Flutter](https://codemagic.io/start/)
+- [ ] [Create a build archive with Codemagic](https://docs.flutter.dev/deployment/ios#create-a-build-archive-with-codemagic-cli-tools)
 
 # Bitrise
 
@@ -1031,7 +1031,7 @@ Bitrise provides a comprehensive suite of tools for automating the build, test, 
 
 Learn more from the following links:
 
-- [Adding a Flutter app to Bitrise](https://devcenter.bitrise.io/en/getting-started/getting-started-with-flutter-apps)
+- [ ] [Adding a Flutter app to Bitrise](https://devcenter.bitrise.io/en/getting-started/getting-started-with-flutter-apps)
 
 # Github Actions
 
@@ -1048,8 +1048,8 @@ In a Flutter project, GitHub Actions can be used to:
 
 Learn more from the following links:
 
-- [Github Actions](https://github.com/features/actions)
-- [Flutter - Github Actions](https://github.com/nabilnalakath/flutter-githubaction)
+- [ ] [Github Actions](https://github.com/features/actions)
+- [ ] [Flutter - Github Actions](https://github.com/nabilnalakath/flutter-githubaction)
 
 # Firebase App Distribution
 
@@ -1059,7 +1059,7 @@ With Firebase App Distribution, developers can upload a pre-release version of t
 
 To learn more visit the following links:
 
-- [Firebase Hosting](https://firebase.google.com/docs/hosting)
+- [ ] [Firebase Hosting](https://firebase.google.com/docs/hosting)
 
 # Analytics
 
@@ -1072,8 +1072,8 @@ Analytics is a key aspect of understanding user behavior and measuring app perfo
 
 Learn more from the following links:
 
-- [Flutter Analytics using Firebase](https://www.youtube.com/watch?v=31KpJXqCayo)
-- [Top Flutter Analytics](https://fluttergems.dev/analytics-consumer-insights/)
+- [ ] [Flutter Analytics using Firebase](https://www.youtube.com/watch?v=31KpJXqCayo)
+- [ ] [Top Flutter Analytics](https://fluttergems.dev/analytics-consumer-insights/)
 
 # Segment
 
@@ -1090,7 +1090,7 @@ Some key features of Segment for Flutter apps include:
 
 Learn more from the following links:
 
-- [Doc of flutter_segment](https://pub.dev/packages/flutter_segment)
+- [ ] [Doc of flutter_segment](https://pub.dev/packages/flutter_segment)
 
 # Mixpanel
 
@@ -1107,8 +1107,8 @@ Some key features of Mixpanel for Flutter apps include:
 
 Learn more from the following links:
 
-- [Overview of Flutter Mixpanel](https://levelup.gitconnected.com/flutter-web-mixpanel-6046ffb664fb)
-- [Flutter Mixpanel Analytics Integration](https://medium.com/flutter-clan/flutter-mixpanel-analytics-integration-b5840b155f7b)
+- [ ] [Overview of Flutter Mixpanel](https://levelup.gitconnected.com/flutter-web-mixpanel-6046ffb664fb)
+- [ ] [Flutter Mixpanel Analytics Integration](https://medium.com/flutter-clan/flutter-mixpanel-analytics-integration-b5840b155f7b)
 
 # Firebase Analytics
 
@@ -1118,8 +1118,8 @@ With Firebase Analytics, Flutter developers can track user interactions with the
 
 Learn more from the following links:
 
-- [Flutter - Firebase](https://docs.flutter.dev/development/data-and-backend/firebase)
-- [How To Add Firebase Analytics in Flutter](https://medium.datadriveninvestor.com/how-to-add-firebase-analytics-to-your-flutter-app-641fbda1d224?gi=ad489389a531)
+- [ ] [Flutter - Firebase](https://docs.flutter.dev/development/data-and-backend/firebase)
+- [ ] [How To Add Firebase Analytics in Flutter](https://medium.datadriveninvestor.com/how-to-add-firebase-analytics-to-your-flutter-app-641fbda1d224?gi=ad489389a531)
 
 # Google Analytics
 
@@ -1129,7 +1129,7 @@ With Google Analytics, Flutter developers can track user interactions with their
 
 Learn more from the following links:
 
-- [Google Analytics for Firebase](https://firebase.flutter.dev/docs/analytics/overview/)
+- [ ] [Google Analytics for Firebase](https://firebase.flutter.dev/docs/analytics/overview/)
 
 # Deployment
 
@@ -1145,7 +1145,7 @@ In general, deploying a Flutter app involves a combination of technical skills a
 
 Learn more from the following links:
 
-- [Flutter - Web deployment](https://dart.dev/web/deployment)
+- [ ] [Flutter - Web deployment](https://dart.dev/web/deployment)
 
 # Appstore
 
@@ -1155,7 +1155,7 @@ To publish a Flutter app on the App Store, developers need to ensure that their 
 
 Learn more from the following links:
 
-- [Build and release an iOS app](https://docs.flutter.dev/deployment/ios)
+- [ ] [Build and release an iOS app](https://docs.flutter.dev/deployment/ios)
 
 # Guidelines and Protocols
 
@@ -1172,7 +1172,7 @@ By following these guidelines and protocols, Flutter developers can ensure that 
 
 Learn more from the following links:
 
-- [Flutter - Protocols](https://api.flutter.dev/objcdoc/Protocols.html)
+- [ ] [Flutter - Protocols](https://api.flutter.dev/objcdoc/Protocols.html)
 
 # Playstore
 
@@ -1180,6 +1180,6 @@ The Google Play Store is an online store for Android apps, games, and other digi
 
 Visit the following resources to learn more:
 
-- [Publish your app](https://developer.android.com/studio/publish)
-- [Build and release an Android app](https://docs.flutter.dev/deployment/android)
-- [Publishing Flutter App To PlayStore](https://medium.flutterdevs.com/publishing-flutter-app-to-playstore-fa7543b61a7b)
+- [ ] [Publish your app](https://developer.android.com/studio/publish)
+- [ ] [Build and release an Android app](https://docs.flutter.dev/deployment/android)
+- [ ] [Publishing Flutter App To PlayStore](https://medium.flutterdevs.com/publishing-flutter-app-to-playstore-fa7543b61a7b)

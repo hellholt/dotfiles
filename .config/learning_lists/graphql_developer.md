@@ -8,8 +8,8 @@ With GraphQL, the client defines the structure of the data it needs, by sending 
 
 To learn more, visit the following links:
 
-- [Introduction to GraphQL](https://graphql.org/learn/)
-- [Getting started with GraphQL](https://graphql.org/)
+- [ ] [Introduction to GraphQL](https://graphql.org/learn/)
+- [ ] [Getting started with GraphQL](https://graphql.org/)
 
 # What is GraphQL
 
@@ -19,8 +19,8 @@ A GraphQL service is created by defining types and fields on those types, then p
 
 To learn more, visit the following links:
 
-- [Introduction to graphQL](https://graphql.org/learn/)
-- [Tutorial - What is graphQL?](https://www.howtographql.com/basics/0-introduction/)
+- [ ] [Introduction to graphQL](https://graphql.org/learn/)
+- [ ] [Tutorial - What is graphQL?](https://www.howtographql.com/basics/0-introduction/)
 
 # Problems GraphQL Solves
 
@@ -42,7 +42,7 @@ In GraphQL, data is represented as a graph, where nodes represent objects and ed
 
 Learn more from the following links:
 
-- [GraphQL - Thinking in Graphs](https://graphql.org/learn/thinking-in-graphs/)
+- [ ] [GraphQL - Thinking in Graphs](https://graphql.org/learn/thinking-in-graphs/)
 
 # GraphQL on the Frontend
 
@@ -54,7 +54,7 @@ By using GraphQL on the frontend, developers can benefit from the flexibility an
 
 Learn more from following links:
 
-- [Get started with GraphQL on the frontend](https://www.howtographql.com/react-apollo/0-introduction/)
+- [ ] [Get started with GraphQL on the frontend](https://www.howtographql.com/react-apollo/0-introduction/)
 
 # GraphQL on the Backend
 
@@ -66,7 +66,7 @@ The GraphQL server is responsible for handling the incoming queries and mutation
 
 Learn more from the following links:
 
-- [How to use GraphQL in Backend?](https://www.howtographql.com/)
+- [ ] [How to use GraphQL in Backend?](https://www.howtographql.com/)
 
 # GraphQL Queries
 
@@ -76,7 +76,7 @@ A GraphQL query is structured as a single object, with a "query" or "mutation" f
 
 To learn more, visit the following links:
 
-- [What are GraphQL Queries?](https://graphql.org/learn/queries/)
+- [ ] [What are GraphQL Queries?](https://graphql.org/learn/queries/)
 
 # What are Queries
 
@@ -84,7 +84,7 @@ In GraphQL, a query is a request made by the client to the server to retrieve da
 
 Learn more from following links:
 
-- [Introduction of GraphQL - Query](https://graphql.org/learn/queries/)
+- [ ] [Introduction of GraphQL - Query](https://graphql.org/learn/queries/)
 
 # Fields
 
@@ -94,7 +94,7 @@ Fields are defined in the GraphQL schema, which is a blueprint of the data that 
 
 Learn more from the following links:
 
-- [GraphQL: Types and Fields](https://graphql.org/learn/queries/#fields)
+- [ ] [GraphQL: Types and Fields](https://graphql.org/learn/queries/#fields)
 
 # Aliases
 
@@ -102,7 +102,7 @@ Aliases in GraphQL are a way to rename fields when they are requested in a query
 
 To learn more, visit the following links:
 
-- [What are GraphQL Aliases?](https://graphql.org/learn/queries/#aliases)
+- [ ] [What are GraphQL Aliases?](https://graphql.org/learn/queries/#aliases)
 
 # Arguments
 
@@ -110,7 +110,7 @@ Arguments in GraphQL are pieces of information that are passed to a field or a d
 
 Learn more from the following links:
 
-- [GraphQL - Arguments](https://graphql.org/learn/queries/#arguments)
+- [ ] [GraphQL - Arguments](https://graphql.org/learn/queries/#arguments)
 
 # Directives
 
@@ -118,7 +118,7 @@ Directives in GraphQL are a way to modify the execution of a query or a field. T
 
 To learn more, visit the following links:
 
-- [Directives in GraphQL](https://graphql.org/learn/queries/#directives)
+- [ ] [Directives in GraphQL](https://graphql.org/learn/queries/#directives)
 
 # Variables
 
@@ -126,8 +126,8 @@ Variables in GraphQL are a way to pass dynamic values to a query or a mutation. 
 
 To learn more, visit the following links:
 
-- [GraphQL Variables](https://dgraph.io/docs/graphql/api/variables/)
-- [Intro to Variables in GraphQL](https://graphql.org/learn/queries/#variables)
+- [ ] [GraphQL Variables](https://dgraph.io/docs/graphql/api/variables/)
+- [ ] [Intro to Variables in GraphQL](https://graphql.org/learn/queries/#variables)
 
 # Fragments
 
@@ -135,7 +135,7 @@ In GraphQL, a fragment is a reusable piece of a GraphQL query that can be used t
 
 To learn more, visit the following links:
 
-- [Intro to Fragments in GraphQL](https://graphql.org/learn/queries/#fragments)
+- [ ] [Intro to Fragments in GraphQL](https://graphql.org/learn/queries/#fragments)
 
 # Mutations
 
@@ -145,7 +145,7 @@ The mutation includes fields that specify the data to be changed, the operation 
 
 To learn more, visit the following links:
 
-- [Getting started with Mutations](https://graphql.org/learn/queries/#mutations)
+- [ ] [Getting started with Mutations](https://graphql.org/learn/queries/#mutations)
 
 # What are Mutations
 
@@ -155,7 +155,7 @@ A mutation typically includes fields that specify the data to be changed and the
 
 Learn more from the following resources:
 
-- [Get started with Mutations](https://graphql.org/learn/queries/#mutations)
+- [ ] [Get started with Mutations](https://graphql.org/learn/queries/#mutations)
 
 # Multiple Mutation Fields
 
@@ -163,7 +163,7 @@ In GraphQL, it is possible to perform multiple mutations in a single query by in
 
 Learn more from the following links:
 
-- [Guide to Multiple fields in mutations](https://graphql.org/learn/queries/#multiple-fields-in-mutations)
+- [ ] [Guide to Multiple fields in mutations](https://graphql.org/learn/queries/#multiple-fields-in-mutations)
 
 # Operation Name
 
@@ -171,7 +171,7 @@ In GraphQL, an operation name is an optional identifier that can be used to uniq
 
 Learn more from the following resources:
 
-- [Intro to Operation Name](https://graphql.org/learn/queries/#operation-name)
+- [ ] [Intro to Operation Name](https://graphql.org/learn/queries/#operation-name)
 
 # Subscriptions
 
@@ -181,7 +181,7 @@ A subscription includes a "subscription" field at the top level, followed by the
 
 Learn more from following links:
 
-- [Subscriptions and Live Queries - Real Time with GraphQL](https://the-guild.dev/blog/subscriptions-and-live-queries-real-time-with-graphql)
+- [ ] [Subscriptions and Live Queries - Real Time with GraphQL](https://the-guild.dev/blog/subscriptions-and-live-queries-real-time-with-graphql)
 
 # What are Subscriptions
 
@@ -191,7 +191,7 @@ Subscriptions are defined on the server and are structured similar to queries an
 
 To learn more, visit the following links:
 
-- [How GraphQL Subscriptions Work?](https://the-guild.dev/blog/subscriptions-and-live-queries-real-time-with-graphql)
+- [ ] [How GraphQL Subscriptions Work?](https://the-guild.dev/blog/subscriptions-and-live-queries-real-time-with-graphql)
 
 # Event Based Subscriptions
 
@@ -207,7 +207,7 @@ With live queries, the client can subscribe to a specific query and receive upda
 
 Learn more from the following links:
 
-- [GraphQL Live Queries](https://the-guild.dev/blog/collecting-graphql-live-query-resource-identifier-with-graphql-tools)
+- [ ] [GraphQL Live Queries](https://the-guild.dev/blog/collecting-graphql-live-query-resource-identifier-with-graphql-tools)
 
 # Defer Stream Directives
 
@@ -217,7 +217,7 @@ The "defer" directive is used to delay the fetching of a field's data until the 
 
 Learn more from the following links:
 
-- [Defer and Stream in GraphQL](https://the-guild.dev/graphql/yoga-server/docs/features/defer-stream)
+- [ ] [Defer and Stream in GraphQL](https://the-guild.dev/graphql/yoga-server/docs/features/defer-stream)
 
 # Schema
 
@@ -227,7 +227,7 @@ A GraphQL schema is defined using the GraphQL Schema Definition Language (SDL), 
 
 Learn more from the following links:
 
-- [Get started with Schema](https://graphql.org/learn/schema/)
+- [ ] [Get started with Schema](https://graphql.org/learn/schema/)
 
 # Type System
 
@@ -241,7 +241,7 @@ GraphQL is a strongly typed language. Type System defines various data types tha
 
 Learn more from the following links:
 
-- [Get started with Type system](https://graphql.org/learn/schema/#type-system)
+- [ ] [Get started with Type system](https://graphql.org/learn/schema/#type-system)
 
 # Fields
 
@@ -251,7 +251,7 @@ Each field in a GraphQL schema can return a scalar value (such as a string or an
 
 Learn more from the following links:
 
-- [GraphQL: Types and Fields](https://graphql.org/learn/queries/#fields)
+- [ ] [GraphQL: Types and Fields](https://graphql.org/learn/queries/#fields)
 
 # Scalars
 
@@ -269,7 +269,7 @@ Scalars are “leaf” values in GraphQL. There are several built-in scalars, an
 
 Learn more from the following links:
 
-- [Get started with Scalars in GraphQL](https://graphql.org/learn/schema/#scalar-types)
+- [ ] [Get started with Scalars in GraphQL](https://graphql.org/learn/schema/#scalar-types)
 
 # Enums
 
@@ -280,7 +280,7 @@ Enums also called as enumeration types are a special kind of scalar that is rest
 
 Learn more from the following links:
 
-- [What are Enums?](https://graphql.org/learn/schema/#enumeration-types)
+- [ ] [What are Enums?](https://graphql.org/learn/schema/#enumeration-types)
 
 # Objects
 
@@ -288,8 +288,8 @@ In GraphQL, an object is a type that represents a group of fields. Objects can b
 
 To learn more, visit the following:
 
-- [Object Types and Fields](https://graphql.org/learn/schema/#object-types-and-fields)
-- [Object Types](https://graphql.org/graphql-js/object-types/)
+- [ ] [Object Types and Fields](https://graphql.org/learn/schema/#object-types-and-fields)
+- [ ] [Object Types](https://graphql.org/graphql-js/object-types/)
 
 # Lists
 
@@ -299,7 +299,7 @@ Lists are used to represent an array of items in a GraphQL schema, and can be us
 
 Learn more from the following links:
 
-- [Get started with Lists](https://graphql.org/learn/schema/#lists-and-non-null)
+- [ ] [Get started with Lists](https://graphql.org/learn/schema/#lists-and-non-null)
 
 # Interfaces
 
@@ -309,7 +309,7 @@ In GraphQL, lists can also be used within interfaces to define the return type f
 
 Learn more from the following links:
 
-- [Get started with Interfaces](https://graphql.org/learn/schema/#interfaces)
+- [ ] [Get started with Interfaces](https://graphql.org/learn/schema/#interfaces)
 
 # Unions
 
@@ -319,7 +319,7 @@ Unions don't allow to specify a common set of fields to be queried across multip
 
 Learn more from the following links:
 
-- [Get started with Union in GraphQL](https://graphql.org/learn/schema/#union-types)
+- [ ] [Get started with Union in GraphQL](https://graphql.org/learn/schema/#union-types)
 
 # Arguments
 
@@ -327,7 +327,7 @@ In GraphQL, an argument is a value that is passed to a field in a query or mutat
 
 To learn more, visit the following links:
 
-- [Get started with Arguments in GraphQL](https://graphql.org/learn/schema/#arguments)
+- [ ] [Get started with Arguments in GraphQL](https://graphql.org/learn/schema/#arguments)
 
 # Execution
 
@@ -335,8 +335,8 @@ In GraphQL, execution refers to the process of executing a query or mutation and
 
 Learn more from the following links:
 
-- [Get Started with Execution in GraphQL](https://graphql.org/learn/execution/)
-- [Intro to Execution](https://graphql.org/graphql-js/execution/)
+- [ ] [Get Started with Execution in GraphQL](https://graphql.org/learn/execution/)
+- [ ] [Intro to Execution](https://graphql.org/graphql-js/execution/)
 
 # Root Fields
 
@@ -349,7 +349,7 @@ There are two types of root fields in GraphQL:
 
 Learn more from the following links:
 
-- [Get Started with Root Feilds](https://graphql.org/learn/execution/#root-fields-resolvers)
+- [ ] [Get Started with Root Feilds](https://graphql.org/learn/execution/#root-fields-resolvers)
 
 # Validation
 
@@ -359,7 +359,7 @@ GraphQL servers perform validation on all incoming queries and mutations to ensu
 
 Learn more from the following links:
 
-- [Get Started with Validation in GraphQL](https://graphql.org/learn/validation/)
+- [ ] [Get Started with Validation in GraphQL](https://graphql.org/learn/validation/)
 
 # Producing The Result
 
@@ -374,7 +374,7 @@ When a client sends a query or mutation to a GraphQL server, the server performs
 
 Learn more from the following links:
 
-- [Get Started with GraphQL](https://graphql.org/learn/)
+- [ ] [Get Started with GraphQL](https://graphql.org/learn/)
 
 # Serving Over Internet
 
@@ -388,7 +388,7 @@ There are several ways to serve a GraphQL server over the internet:
 
 To learn more, visit the following links:
 
-- [Introduction to Serving over HTTPs](https://graphql.org/learn/serving-over-http/)
+- [ ] [Introduction to Serving over HTTPs](https://graphql.org/learn/serving-over-http/)
 
 # Frontend Implementations
 
@@ -398,7 +398,7 @@ When using GraphQL on the frontend, developers can use a GraphQL client library,
 
 Learn more from the following links:
 
-- [Guide to GraphQL for Front-End Developers](https://www.howtographql.com/react-apollo/0-introduction/)
+- [ ] [Guide to GraphQL for Front-End Developers](https://www.howtographql.com/react-apollo/0-introduction/)
 
 # Relay
 
@@ -408,7 +408,7 @@ Relay is designed to work with GraphQL on the server and provides a set of clien
 
 Learn more from the following links:
 
-- [GraphQL Code Generator & Relay Compiler](https://the-guild.dev/blog/graphql-codegen-relay-compiler)
+- [ ] [GraphQL Code Generator & Relay Compiler](https://the-guild.dev/blog/graphql-codegen-relay-compiler)
 
 # Apollo Client
 
@@ -418,7 +418,7 @@ Apollo Client provides a set of features that make it easy to interact with a Gr
 
 Learn more from the following links:
 
-- [Why Apollo Client - Frontend?](https://www.howtographql.com/react-apollo/0-introduction/)
+- [ ] [Why Apollo Client - Frontend?](https://www.howtographql.com/react-apollo/0-introduction/)
 
 # URQL
 
@@ -426,7 +426,7 @@ URQL is a highly customizable and versatile GraphQL client with which you add on
 
 Visit the following resources to learn more:
 
-- [urql - Formidable Labs](https://formidable.com/open-source/urql/)
+- [ ] [urql - Formidable Labs](https://formidable.com/open-source/urql/)
 
 # Backend Implementations
 
@@ -439,7 +439,7 @@ There are several ways to implement a GraphQL backend, depending on the use case
 
 Learn more from the following links:
 
-- [How to use GraphQL to build Backend?](https://www.howtographql.com/typescript-apollo/0-introduction/)
+- [ ] [How to use GraphQL to build Backend?](https://www.howtographql.com/typescript-apollo/0-introduction/)
 
 # GraphQL HTTP
 
@@ -452,8 +452,8 @@ The GraphQL HTTP specification defines two main HTTP methods:
 
 Learn more from the following links:
 
-- [Overview of GraphQL HTTP](https://graphql.org/graphql-js/express-graphql/#graphqlhttp)
-- [Get Started with GraphQL HTTP](https://graphql.org/learn/serving-over-http/)
+- [ ] [Overview of GraphQL HTTP](https://graphql.org/graphql-js/express-graphql/#graphqlhttp)
+- [ ] [Get Started with GraphQL HTTP](https://graphql.org/learn/serving-over-http/)
 
 # GraphQL Yoga
 
@@ -463,7 +463,7 @@ One of the key features of GraphQL Yoga is that it provides a set of built-in fu
 
 Learn more from the following links:
 
-- [GraphQL Armor - for Yoga Server 2](https://the-guild.dev/blog/improved-security-with-graphql-armor-support-for-yoga-server-2)
+- [ ] [GraphQL Armor - for Yoga Server 2](https://the-guild.dev/blog/improved-security-with-graphql-armor-support-for-yoga-server-2)
 
 # Apollo Server
 
@@ -473,7 +473,7 @@ One of the key features of Apollo Server is that it provides a set of built-in f
 
 Learn more from the following links:
 
-- [Apollo Tutorial - Introduction](https://www.howtographql.com/react-apollo/0-introduction/)
+- [ ] [Apollo Tutorial - Introduction](https://www.howtographql.com/react-apollo/0-introduction/)
 
 # Mercurius
 

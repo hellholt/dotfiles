@@ -15,7 +15,7 @@ Clean code is code that is easy to read, understand, and maintain. It follows a 
 
 Learn more from the following links:
 
-- [Introduction to Clean Code & Software Design Principles](https://workat.tech/machine-coding/tutorial/introduction-clean-code-software-design-principles-nwu4qqc63e09)
+- [ ] [Introduction to Clean Code & Software Design Principles](https://workat.tech/machine-coding/tutorial/introduction-clean-code-software-design-principles-nwu4qqc63e09)
 
 # Be Consistent
 
@@ -23,7 +23,7 @@ Being consistent refers to maintaining a consistent pattern. This can include us
 
 Learn more from the following links:
 
-- [10 Tips for Writing Clean Code](https://www.pluralsight.com/blog/software-development/10-steps-to-clean-code)
+- [ ] [10 Tips for Writing Clean Code](https://www.pluralsight.com/blog/software-development/10-steps-to-clean-code)
 
 # Meaningful Names
 
@@ -31,7 +31,7 @@ You should follow the practice of giving clear and descriptive names to differen
 
 Learn more from the following links:
 
-- [A Guide for Naming Things in Programming](https://levelup.gitconnected.com/a-guide-for-naming-things-in-programming-2dc2d74879f8)
+- [ ] [A Guide for Naming Things in Programming](https://levelup.gitconnected.com/a-guide-for-naming-things-in-programming-2dc2d74879f8)
 
 # Indentation and Code Style
 
@@ -41,7 +41,7 @@ Having a consistent indentation and code style can help to make the code more re
 
 Learn mor from the following links:
 
-- [Clean Code – Formatting](https://www.baeldung.com/cs/clean-code-formatting)
+- [ ] [Clean Code – Formatting](https://www.baeldung.com/cs/clean-code-formatting)
 
 # Keep it Small
 
@@ -75,7 +75,7 @@ By following these best practices, the system architecture will be more maintain
 
 Learn more from the following links:
 
-- [How to reduce cyclomatic complexity?](https://kasp9023.medium.com/how-to-make-your-code-more-readable-focus-on-the-happy-path-and-reduce-cyclomatic-complexity-66802b8897b5)
+- [ ] [How to reduce cyclomatic complexity?](https://kasp9023.medium.com/how-to-make-your-code-more-readable-focus-on-the-happy-path-and-reduce-cyclomatic-complexity-66802b8897b5)
 
 # Avoid Passing Nulls Booleans
 
@@ -105,7 +105,7 @@ By following these best practices, the system architecture will be more maintain
 
 Learn more from the following links:
 
-- [Clean architecture](https://pusher.com/tutorials/clean-architecture-introduction/)
+- [ ] [Clean architecture](https://pusher.com/tutorials/clean-architecture-introduction/)
 
 # Use Correct Constructs
 
@@ -132,7 +132,7 @@ Here are some ways to keep tests independent in system architecture:
 
 Learn more from the following links:
 
-- [Keeping Tests Valuable](https://www.checklyhq.com/learn/headless/valuable-tests/)
+- [ ] [Keeping Tests Valuable](https://www.checklyhq.com/learn/headless/valuable-tests/)
 
 # Use Meaningful Names
 
@@ -149,7 +149,7 @@ Here are some ways to use meaningful names in system architecture:
 
 Learn more from the following links:
 
-- [How to Write Meaningful Variable Names?](https://workat.tech/machine-coding/tutorial/writing-meaningful-variable-names-clean-code-za4m83tiesy0)
+- [ ] [How to Write Meaningful Variable Names?](https://workat.tech/machine-coding/tutorial/writing-meaningful-variable-names-clean-code-za4m83tiesy0)
 
 # Code by Actor
 
@@ -157,7 +157,7 @@ Learn more from the following links:
 
 Learn more from the following links:
 
-- [Actor Model Architecture](https://awesome-architecture.com/actor-model-architecture/actor-model-architecture/)
+- [ ] [Actor Model Architecture](https://awesome-architecture.com/actor-model-architecture/actor-model-architecture/)
 
 # Command Query Separation
 
@@ -165,7 +165,7 @@ Command-Query Separation (CQS) is a software design principle that separates the
 
 Learn more from the following links:
 
-- [CQRS Pattern](https://learn.microsoft.com/en-us/azure/architecture/patterns/cqrs)
+- [ ] [CQRS Pattern](https://learn.microsoft.com/en-us/azure/architecture/patterns/cqrs)
 
 # Avoid Hasty Abstractions
 
@@ -183,7 +183,7 @@ Here are some ways to avoid hasty abstractions in system architecture:
 
 Learn more from the following links:
 
-- [AHA Programming](https://kentcdodds.com/blog/aha-programming)
+- [ ] [AHA Programming](https://kentcdodds.com/blog/aha-programming)
 
 # Programming Paradigms
 
@@ -197,8 +197,8 @@ A programming paradigm is a fundamental style or approach to solving problems us
 
 Learn more from the following links:
 
-- [Overview of Programming paradigm](https://en.wikipedia.org/wiki/Programming_paradigm)
-- [Introduction of Programming Paradigms](https://www.geeksforgeeks.org/introduction-of-programming-paradigms/)
+- [ ] [Overview of Programming paradigm](https://en.wikipedia.org/wiki/Programming_paradigm)
+- [ ] [Introduction of Programming Paradigms](https://www.geeksforgeeks.org/introduction-of-programming-paradigms/)
 
 # Structured Programming
 
@@ -206,7 +206,7 @@ Structured programming is a programming paradigm that emphasizes the use of stru
 
 Learn more from the following links:
 
-- [Overview of Structured programming](https://www.techtarget.com/searchsoftwarequality/definition/structured-programming-modular-programming)
+- [ ] [Overview of Structured programming](https://www.techtarget.com/searchsoftwarequality/definition/structured-programming-modular-programming)
 
 # Functional Programming
 
@@ -216,8 +216,8 @@ Functional programming encourages immutability, which means that once a variable
 
 Learn more from the following links:
 
-- [What is Functional Programming?](https://www.codingdojo.com/blog/what-is-functional-programming)
-- [Tutorial - Functional Programming?](https://www.youtube.com/watch?v=dAPL7MQGjyM)
+- [ ] [What is Functional Programming?](https://www.codingdojo.com/blog/what-is-functional-programming)
+- [ ] [Tutorial - Functional Programming?](https://www.youtube.com/watch?v=dAPL7MQGjyM)
 
 # Object Oriented Programming
 
@@ -227,8 +227,8 @@ Encapsulation refers to the idea that an object's internal state should be hidde
 
 Learn more from the following links:
 
-- [What is Object Oriented Programming?](https://www.youtube.com/watch?v=pTB0EiLXUC8)
-- [Overview of Object-Oriented Programming (OOP)](https://en.wikipedia.org/wiki/Object-oriented_programming)
+- [ ] [What is Object Oriented Programming?](https://www.youtube.com/watch?v=pTB0EiLXUC8)
+- [ ] [Overview of Object-Oriented Programming (OOP)](https://en.wikipedia.org/wiki/Object-oriented_programming)
 
 # Object Oriented Programming
 
@@ -236,8 +236,8 @@ Object-oriented programming (OOP) is a programming paradigm that is based on the
 
 Learn more from the following links:
 
-- [Discover Object Oriented Programming](https://blog.hubspot.com/website/object-oriented-programming)
-- [Software Development Tutorial - What is object-oriented language?s](https://www.youtube.com/watch?app=desktop&v=SS-9y0H3Si8)
+- [ ] [Discover Object Oriented Programming](https://blog.hubspot.com/website/object-oriented-programming)
+- [ ] [Software Development Tutorial - What is object-oriented language?s](https://www.youtube.com/watch?app=desktop&v=SS-9y0H3Si8)
 
 # Software Design Principles
 
@@ -257,8 +257,8 @@ By following these design principles, software can be developed in a way that is
 
 Learn more from the following resources:
 
-- [Principles of Software Design](https://www.geeksforgeeks.org/principles-of-software-design/)
-- [Software Design Principles For Beginners](https://www.youtube.com/watch?v=60EqoRcanpo)
+- [ ] [Principles of Software Design](https://www.geeksforgeeks.org/principles-of-software-design/)
+- [ ] [Software Design Principles For Beginners](https://www.youtube.com/watch?v=60EqoRcanpo)
 
 # Composition over Inheritance
 
@@ -268,8 +268,8 @@ Inheritance is a powerful mechanism for creating reusable code, but it can also 
 
 Learn more from the following links:
 
-- [Tutorial - Composition over Inheritance](https://www.youtube.com/watch?v=wfMtDGfHWpA)
-- [Overview of Composition over Inheritance](https://en.wikipedia.org/wiki/Composition_over_inheritance)
+- [ ] [Tutorial - Composition over Inheritance](https://www.youtube.com/watch?v=wfMtDGfHWpA)
+- [ ] [Overview of Composition over Inheritance](https://en.wikipedia.org/wiki/Composition_over_inheritance)
 
 # Encapsulate What Varies
 
@@ -279,8 +279,8 @@ Encapsulating what varies allows for more flexibility in the code. When changes 
 
 Learn more from the following resources:
 
-- [What does it mean when one says “Encapsulate what varies”?](https://softwareengineering.stackexchange.com/questions/337413/what-does-it-mean-when-one-says-encapsulate-what-varies)
-- [Overview of Encapsulate What Varies](https://bootcamp.uxdesign.cc/software-design-principles-every-developers-should-know-23d24735518e)
+- [ ] [What does it mean when one says “Encapsulate what varies”?](https://softwareengineering.stackexchange.com/questions/337413/what-does-it-mean-when-one-says-encapsulate-what-varies)
+- [ ] [Overview of Encapsulate What Varies](https://bootcamp.uxdesign.cc/software-design-principles-every-developers-should-know-23d24735518e)
 
 # Program Against Abstractions
 
@@ -290,8 +290,8 @@ Programming against abstractions allows for more flexibility in the code. When c
 
 Learn more from the following resources:
 
-- [What is Abstraction in Programming – And Why is it Useful?](https://www.freecodecamp.org/news/what-is-abstraction-in-programming/)
-- [Overview of Abstraction principle](https://en.wikipedia.org/wiki/Abstraction_principle_(computer_programming))
+- [ ] [What is Abstraction in Programming – And Why is it Useful?](https://www.freecodecamp.org/news/what-is-abstraction-in-programming/)
+- [ ] [Overview of Abstraction principle](https://en.wikipedia.org/wiki/Abstraction_principle_(computer_programming))
 
 # Hollywood Principle
 
@@ -301,7 +301,7 @@ This principle is often used in the context of inversion of control (IoC) and de
 
 Learn more from the following resources:
 
-- [Tutorial - Hollywood Principle](https://www.youtube.com/watch?v=lRuygpsXE5s)
+- [ ] [Tutorial - Hollywood Principle](https://www.youtube.com/watch?v=lRuygpsXE5s)
 
 # SOLID
 
@@ -315,9 +315,9 @@ SOLID is an acronym that stands for five principles of object-oriented software 
 
 Learn more from the following resources:
 
-- [Get Started with SOLID](https://www.bmc.com/blogs/solid-design-principles/)
-- [SOLID Principles](https://khalilstemmler.com/articles/tags/solid/)
-- [Tutorial - What are SOLID principle?](https://www.youtube.com/watch?v=aUCo5cy32kE)
+- [ ] [Get Started with SOLID](https://www.bmc.com/blogs/solid-design-principles/)
+- [ ] [SOLID Principles](https://khalilstemmler.com/articles/tags/solid/)
+- [ ] [Tutorial - What are SOLID principle?](https://www.youtube.com/watch?v=aUCo5cy32kE)
 
 # DRY
 
@@ -327,8 +327,8 @@ The DRY principle is closely related to the Single Responsibility Principle (SRP
 
 Learn more from the following resources:
 
-- [What is DRY in programming?](https://www.youtube.com/watch?v=Rv3RIc_ziOY)
-- [Overview of Don't repeat yourself (DRY)](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)
+- [ ] [What is DRY in programming?](https://www.youtube.com/watch?v=Rv3RIc_ziOY)
+- [ ] [Overview of Don't repeat yourself (DRY)](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)
 
 # YAGNI
 
@@ -338,8 +338,8 @@ The YAGNI principle is closely related to the Single Responsibility Principle (S
 
 Learn more from the following resources:
 
-- [YAGNI (You Aren’t Gonna Need It) Principle Helps in Efficiency](https://builtin.com/software-engineering-perspectives/yagni)
-- [What is YAGNI coding rule, and Why it helps?](https://www.youtube.com/watch?v=2vys1q1dKc4)
+- [ ] [YAGNI (You Aren’t Gonna Need It) Principle Helps in Efficiency](https://builtin.com/software-engineering-perspectives/yagni)
+- [ ] [What is YAGNI coding rule, and Why it helps?](https://www.youtube.com/watch?v=2vys1q1dKc4)
 
 # Design Patterns
 
@@ -354,8 +354,8 @@ There are several different types of design patterns, including:
 
 Learn more from the following links:
 
-- [What Are Design Patterns?](https://www.youtube.com/watch?v=BWprw8UHIzA)
-- [Overview - Software Design Pattern](https://en.wikipedia.org/wiki/Software_design_pattern)
+- [ ] [What Are Design Patterns?](https://www.youtube.com/watch?v=BWprw8UHIzA)
+- [ ] [Overview - Software Design Pattern](https://en.wikipedia.org/wiki/Software_design_pattern)
 
 # GoF Design Patterns
 
@@ -369,8 +369,8 @@ The GoF design patterns are divided into three categories: Creational, Structura
 
 Learn more from the following links:
 
-- [Gangs of Four (GoF) Design Patterns](https://www.digitalocean.com/community/tutorials/gangs-of-four-gof-design-patterns)
-- [Tutorial - Builder Pattern (Gang of Four Design Patterns Series)](https://www.youtube.com/watch?v=_sa2WlAFWQos)
+- [ ] [Gangs of Four (GoF) Design Patterns](https://www.digitalocean.com/community/tutorials/gangs-of-four-gof-design-patterns)
+- [ ] [Tutorial - Builder Pattern (Gang of Four Design Patterns Series)](https://www.youtube.com/watch?v=_sa2WlAFWQos)
 
 # POSA Patterns
 
@@ -385,8 +385,8 @@ POSA patterns are divided into four categories:
 
 Learn more from the following links:
 
-- [POSA Pattern Examples](https://www.youtube.com/watch?v=iYNa_KcWxCU)
-- [Overview of Pattern-Oriented Software Architecture](https://en.wikipedia.org/wiki/Pattern-Oriented_Software_Architecture)
+- [ ] [POSA Pattern Examples](https://www.youtube.com/watch?v=iYNa_KcWxCU)
+- [ ] [Overview of Pattern-Oriented Software Architecture](https://en.wikipedia.org/wiki/Pattern-Oriented_Software_Architecture)
 
 # Architectural Principles
 
@@ -394,8 +394,8 @@ Architectural principles refer to a set of guidelines or rules that are used to 
 
 To learn more, visit the following links:
 
-- [Intro to Architectural Principles](https://learn.microsoft.com/en-us/dotnet/architecture/modern-web-apps-azure/architectural-principles)
-- [Principles of Software Design](https://www.youtube.com/watch?v=TO9igqkPtfc)
+- [ ] [Intro to Architectural Principles](https://learn.microsoft.com/en-us/dotnet/architecture/modern-web-apps-azure/architectural-principles)
+- [ ] [Principles of Software Design](https://www.youtube.com/watch?v=TO9igqkPtfc)
 
 # Component Principles
 
@@ -414,7 +414,7 @@ By following these component principles, software can be developed in a way that
 
 Learn more from the following links:
 
-- [Component-Based Architecture](https://www.tutorialspoint.com/software_architecture_design/component_based_architecture.htm)
+- [ ] [Component-Based Architecture](https://www.tutorialspoint.com/software_architecture_design/component_based_architecture.htm)
 
 # Policy vs Detail
 
@@ -434,8 +434,8 @@ Cohesion, on the other hand, refers to the degree to which the responsibilities 
 
 To learn more, visit the following links:
 
-- [Cohesion and Coupling in Software Engineering](https://www.youtube.com/watch?v=NweTzHYBgYU)
-- [Overview of Coupling and Cohesion](https://www.geeksforgeeks.org/software-engineering-coupling-and-cohesion/)
+- [ ] [Cohesion and Coupling in Software Engineering](https://www.youtube.com/watch?v=NweTzHYBgYU)
+- [ ] [Overview of Coupling and Cohesion](https://www.geeksforgeeks.org/software-engineering-coupling-and-cohesion/)
 
 # Boundaries
 
@@ -445,7 +445,7 @@ Boundaries are important because they define the points of interaction between d
 
 To learn more, visit the following links:
 
-- [Boundaries in Software Architecture](https://www.open.edu/openlearn/science-maths-technology/approaches-software-development/content-section-1.1.4)
+- [ ] [Boundaries in Software Architecture](https://www.open.edu/openlearn/science-maths-technology/approaches-software-development/content-section-1.1.4)
 
 # Architectural Styles
 
@@ -463,8 +463,8 @@ Some common architectural styles in software include:
 
 Learn more from the following links:
 
-- [What is Software Architecture & Styles?](https://study.com/academy/lesson/software-architecture-styles-patterns-components.html)
-- [Types of Architectural Styles in Software Engineering](https://www.youtube.com/watch?v=2Pp0BcXN9YY)
+- [ ] [What is Software Architecture & Styles?](https://study.com/academy/lesson/software-architecture-styles-patterns-components.html)
+- [ ] [Types of Architectural Styles in Software Engineering](https://www.youtube.com/watch?v=2Pp0BcXN9YY)
 
 # Architectural Patterns
 
@@ -484,8 +484,8 @@ Architectural patterns are a set of solutions that have been proven to work well
 
 Learn more from the following links:
 
-- [Overview - Architectural Pattern](https://en.wikipedia.org/wiki/Architectural_pattern)
-- [Architecture Patterns Used In Enterprise Software Development](https://www.youtube.com/watch?v=BrT3AO8bVQY)
+- [ ] [Overview - Architectural Pattern](https://en.wikipedia.org/wiki/Architectural_pattern)
+- [ ] [Architecture Patterns Used In Enterprise Software Development](https://www.youtube.com/watch?v=BrT3AO8bVQY)
 
 # CQRS
 
@@ -495,8 +495,8 @@ The command side is responsible for processing commands and updating the system'
 
 Learn more from the following resources:
 
-- [Get Started with CQRS Pattern](https://learn.microsoft.com/en-us/azure/architecture/patterns/cqrs)
-- [CQRS Software Architecture Pattern: The Good, Bad, and the Ugly](https://betterprogramming.pub/cqrs-software-architecture-pattern-the-good-the-bad-and-the-ugly-e9d6e7a34daf)
+- [ ] [Get Started with CQRS Pattern](https://learn.microsoft.com/en-us/azure/architecture/patterns/cqrs)
+- [ ] [CQRS Software Architecture Pattern: The Good, Bad, and the Ugly](https://betterprogramming.pub/cqrs-software-architecture-pattern-the-good-the-bad-and-the-ugly-e9d6e7a34daf)
 
 # SOA
 
@@ -504,9 +504,9 @@ SOA (Service-Oriented Architecture) is an architectural pattern that is used to 
 
 Learn more from the following links:
 
-- [Overview of Service-Oriented Architecture](https://medium.com/design-microservices-architecture-with-patterns/service-oriented-architecture-1e4716fbca17)
-- [Tutorial - Service-Oriented Architecture -SOA](https://www.youtube.com/watch?v=jNiEMmoTDoE)
-- [What is Service-Oriented Architecture](https://www.youtube.com/watch?v=_dFJOSR-aFs)
+- [ ] [Overview of Service-Oriented Architecture](https://medium.com/design-microservices-architecture-with-patterns/service-oriented-architecture-1e4716fbca17)
+- [ ] [Tutorial - Service-Oriented Architecture -SOA](https://www.youtube.com/watch?v=jNiEMmoTDoE)
+- [ ] [What is Service-Oriented Architecture](https://www.youtube.com/watch?v=_dFJOSR-aFs)
 
 # Domain Driven Design
 
@@ -514,10 +514,10 @@ Domain-Driven Design (DDD) is an architectural pattern that is used to design so
 
 Learn more from the following links:
 
-- [What is DDD (Domain-Driven Design) ?](https://www.youtube.com/watch?v=Tnecs_7OT74)
-- [Domain-Driven Design patterns for a distributed system](https://www.youtube.com/watch?v=i3d_jzpf0gE)
-- [Modern Software Architecture (#1): Domain Driven Design](https://medium.com/modern-software-architecture/modern-software-architecture-1-domain-driven-design-f06fad8695f9)
-- [The Concept of Domain-Driven Design Explained](https://medium.com/microtica/the-concept-of-domain-driven-design-explained-3184c0fd7c3f)
+- [ ] [What is DDD (Domain-Driven Design) ?](https://www.youtube.com/watch?v=Tnecs_7OT74)
+- [ ] [Domain-Driven Design patterns for a distributed system](https://www.youtube.com/watch?v=i3d_jzpf0gE)
+- [ ] [Modern Software Architecture (#1): Domain Driven Design](https://medium.com/modern-software-architecture/modern-software-architecture-1-domain-driven-design-f06fad8695f9)
+- [ ] [The Concept of Domain-Driven Design Explained](https://medium.com/microtica/the-concept-of-domain-driven-design-explained-3184c0fd7c3f)
 
 # Model View Controller
 
@@ -525,9 +525,9 @@ Model-View-Controller (MVC) is an architectural pattern that separates the conce
 
 Learn more from the following links:
 
-- [MVC Design Pattern](https://www.geeksforgeeks.org/mvc-design-pattern/)
-- [MVC Framework - Introduction](https://www.tutorialspoint.com/mvc_framework/mvc_framework_introduction.htm)
-- [Tutorial - MVC Architectural Pattern](https://www.youtube.com/watch?v=e9S90R-Y24Q)
+- [ ] [MVC Design Pattern](https://www.geeksforgeeks.org/mvc-design-pattern/)
+- [ ] [MVC Framework - Introduction](https://www.tutorialspoint.com/mvc_framework/mvc_framework_introduction.htm)
+- [ ] [Tutorial - MVC Architectural Pattern](https://www.youtube.com/watch?v=e9S90R-Y24Q)
 
 # Microservices
 
@@ -535,9 +535,9 @@ Microservices is an architectural pattern that is used to design software system
 
 Learn more from the following links:
 
-- [Tutorial - Microservices Architectural Pattern](https://www.youtube.com/watch?v=8BPDv038oMI)
-- [Get started with Microservices Design Patterns](https://www.youtube.com/watch?v=xuH81XGWeGQ)
-- [Brief of Microservices](https://microservices.io/patterns/microservices.html)
+- [ ] [Tutorial - Microservices Architectural Pattern](https://www.youtube.com/watch?v=8BPDv038oMI)
+- [ ] [Get started with Microservices Design Patterns](https://www.youtube.com/watch?v=xuH81XGWeGQ)
+- [ ] [Brief of Microservices](https://microservices.io/patterns/microservices.html)
 
 # Blackboard Pattern
 
@@ -545,8 +545,8 @@ The Blackboard architectural pattern is a software design pattern that allows fo
 
 Learn more from the following links:
 
-- [Overview of Blackboard (design pattern)](https://en.wikipedia.org/wiki/Blackboard_(design_pattern))
-- [](http://www.openloop.com/softwareEngineering/patterns/architecturePattern/arch_Blackboard.htm)
+- [ ] [Overview of Blackboard (design pattern)](https://en.wikipedia.org/wiki/Blackboard_(design_pattern))
+- [ ] [](http://www.openloop.com/softwareEngineering/patterns/architecturePattern/arch_Blackboard.htm)
 
 # Microkernel
 
@@ -554,8 +554,8 @@ A microkernel is an architectural pattern in operating system design that aims t
 
 Learn more from the following links:
 
-- [Microkernel Architectural Pattern | Software Architecture](https://www.youtube.com/watch?v=h3icQDMRLd8)
-- [Overview of Microkernel Architecture](https://www.oreilly.com/library/view/software-architecture-patterns/9781491971437/ch03.html)
+- [ ] [Microkernel Architectural Pattern | Software Architecture](https://www.youtube.com/watch?v=h3icQDMRLd8)
+- [ ] [Overview of Microkernel Architecture](https://www.oreilly.com/library/view/software-architecture-patterns/9781491971437/ch03.html)
 
 # Serverless Architecture
 
@@ -565,7 +565,7 @@ This architecture pattern mainly focuses on the business logic and event-driven 
 
 Learn more from the following links:
 
-- [Serverless Architecture Patterns in AWS](https://waswani.medium.com/serverless-architecture-patterns-in-aws-edeab0e46a32)
+- [ ] [Serverless Architecture Patterns in AWS](https://waswani.medium.com/serverless-architecture-patterns-in-aws-edeab0e46a32)
 
 # Message Queues Streams
 
@@ -575,8 +575,8 @@ Message Queues: A message queue is a software component that allows multiple sys
 
 Learn more from the following links:
 
-- [System Design — Message Queues](https://medium.com/must-know-computer-science/system-design-message-queues-245612428a22)
-- [Overview of Message Queue pattern](https://badia-kharroubi.gitbooks.io/microservices-architecture/content/patterns/communication-patterns/message-queue-pattern.html)
+- [ ] [System Design — Message Queues](https://medium.com/must-know-computer-science/system-design-message-queues-245612428a22)
+- [ ] [Overview of Message Queue pattern](https://badia-kharroubi.gitbooks.io/microservices-architecture/content/patterns/communication-patterns/message-queue-pattern.html)
 
 # Event Sourcing
 
@@ -586,8 +586,8 @@ In Event sourcing, all changes to the state of the system are treated as events,
 
 Learn more from the following links:
 
-- [Event Sourcing Pattern](https://learn.microsoft.com/en-us/azure/architecture/patterns/event-sourcing)
-- [Design Patterns: Why Event Sourcing?](https://www.youtube.com/watch?v=rUDN40rdly8)
+- [ ] [Event Sourcing Pattern](https://learn.microsoft.com/en-us/azure/architecture/patterns/event-sourcing)
+- [ ] [Design Patterns: Why Event Sourcing?](https://www.youtube.com/watch?v=rUDN40rdly8)
 
 # Enterprise Patterns
 
@@ -605,8 +605,8 @@ These patterns can help to improve the maintainability and scalability of the so
 
 Learn more from the following links:
 
-- [Software Architecture Patterns in Enterprise Software](https://blog.devgenius.io/10-software-architecture-patterns-in-enterprise-software-development-fabacb5ed0c8)
-- [What are Enterprise Integration Patterns?](https://www.youtube.com/watch?v=WNm3QmJadNs)
+- [ ] [Software Architecture Patterns in Enterprise Software](https://blog.devgenius.io/10-software-architecture-patterns-in-enterprise-software-development-fabacb5ed0c8)
+- [ ] [What are Enterprise Integration Patterns?](https://www.youtube.com/watch?v=WNm3QmJadNs)
 
 # DTOs
 
@@ -614,7 +614,7 @@ The Data Transfer Object Design Pattern is one of the enterprise application arc
 
 Learn more from the following links:
 
-- [Data Transfer Object pattern and Mappers](https://medium.com/@abdalrhmanalkraien/data-transfer-object-pattern-and-mapper-116508bc9df0)
+- [ ] [Data Transfer Object pattern and Mappers](https://medium.com/@abdalrhmanalkraien/data-transfer-object-pattern-and-mapper-116508bc9df0)
 
 # Identity Maps
 
@@ -624,8 +624,8 @@ The identity map pattern is typically used in conjunction with an ORM (Object-Re
 
 Learn more from the following links:
 
-- [Overview of Identity map pattern](https://en.wikipedia.org/wiki/Identity_map_pattern)
-- [Tutorial - Identity Map Design Pattern](https://youtube.com/watch?v=erDxkIyNudY)
+- [ ] [Overview of Identity map pattern](https://en.wikipedia.org/wiki/Identity_map_pattern)
+- [ ] [Tutorial - Identity Map Design Pattern](https://youtube.com/watch?v=erDxkIyNudY)
 
 # Use Cases
 
@@ -642,7 +642,7 @@ Use cases are often used to drive the design and development of the system, as t
 
 Learn more from the following links:
 
-- [Use Case Patterns](https://caminao.blog/how-to-implement-symbolic-representations/patterns/functional-patterns/use-case-patterns/)
+- [ ] [Use Case Patterns](https://caminao.blog/how-to-implement-symbolic-representations/patterns/functional-patterns/use-case-patterns/)
 
 # Repositories
 
@@ -652,8 +652,8 @@ A repository is a pattern that can be used to organize the data access code and 
 
 Learn more from the following links:
 
-- [Tutorial - Repository Design Pattern](https://www.youtube.com/watch?v=mb6bwnEaZ3U)
-- [Introduction to Repository Design Patterns](https://cubettech.com/resources/blog/introduction-to-repository-design-pattern/)
+- [ ] [Tutorial - Repository Design Pattern](https://www.youtube.com/watch?v=mb6bwnEaZ3U)
+- [ ] [Introduction to Repository Design Patterns](https://cubettech.com/resources/blog/introduction-to-repository-design-pattern/)
 
 # Mappers
 
@@ -663,8 +663,8 @@ A mapper is a component that can be used to convert data from one format or mode
 
 Learn more from the following links:
 
-- [Overview of Data Mapper Pattern](https://en.wikipedia.org/wiki/Data_mapper_pattern)
-- [Tutorial - Mappers](https://www.youtube.com/watch?v=7noMLStHcTE)
+- [ ] [Overview of Data Mapper Pattern](https://en.wikipedia.org/wiki/Data_mapper_pattern)
+- [ ] [Tutorial - Mappers](https://www.youtube.com/watch?v=7noMLStHcTE)
 
 # Transaction Script
 
@@ -672,8 +672,8 @@ Transaction Script is a pattern used in enterprise application development that 
 
 Learn more from the following links:
 
-- [Transaction Script Pattern](https://gunnarpeipman.com/transaction-script-pattern/)
-- [Tutorial - Transaction Script Design Pattern](https://www.youtube.com/watch?v=fnsU9cqcY3I)
+- [ ] [Transaction Script Pattern](https://gunnarpeipman.com/transaction-script-pattern/)
+- [ ] [Tutorial - Transaction Script Design Pattern](https://www.youtube.com/watch?v=fnsU9cqcY3I)
 
 # Commands Queries
 
@@ -683,7 +683,7 @@ Queries are used for retrieving data from the system, such as reading data from 
 
 Learn more from the following links:
 
-- [Get Started with CQRS Pattern](https://learn.microsoft.com/en-us/azure/architecture/patterns/cqrs)
+- [ ] [Get Started with CQRS Pattern](https://learn.microsoft.com/en-us/azure/architecture/patterns/cqrs)
 
 # Value Objects
 
@@ -693,8 +693,8 @@ A Value Object is defined by its value rather than its identity, meaning that tw
 
 Learn more from the following links:
 
-- [Overview - Implement Value Objects](https://learn.microsoft.com/en-us/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/implement-value-objects)
-- [Intro to Value object](https://en.wikipedia.org/wiki/Value_object)
+- [ ] [Overview - Implement Value Objects](https://learn.microsoft.com/en-us/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/implement-value-objects)
+- [ ] [Intro to Value object](https://en.wikipedia.org/wiki/Value_object)
 
 # Domain Models
 
@@ -704,8 +704,8 @@ A Domain Model is a collection of objects that represent the real-world concepts
 
 Learn more from the following links:
 
-- [Overview - Domain Models](https://sparxsystems.com/enterprise_architect_user_guide/14.0/model_domains/specialized_models.html)
-- [Tutorial - Domain Model Pattern](https://www.youtube.com/watch?v=75EGANiqADw)
+- [ ] [Overview - Domain Models](https://sparxsystems.com/enterprise_architect_user_guide/14.0/model_domains/specialized_models.html)
+- [ ] [Tutorial - Domain Model Pattern](https://www.youtube.com/watch?v=75EGANiqADw)
 
 # Entities
 
@@ -721,4 +721,4 @@ ORMs are designed to abstract away the complexity of working with a relational d
 
 Learn more from the following links:
 
-- [Why do you need an ORM?](https://enterprisecraftsmanship.com/posts/do-you-need-an-orm/)
+- [ ] [Why do you need an ORM?](https://enterprisecraftsmanship.com/posts/do-you-need-an-orm/)

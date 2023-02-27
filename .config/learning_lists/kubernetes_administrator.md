@@ -4,9 +4,9 @@ Kubernetes, also known as k8s, is an open-source container orchestration platfor
 
 Learn more from the following links:
 
-- [Kubernetes Documentation](https://kubernetes.io/)
-- [Introduction of Kubernetes](https://www.digitalocean.com/community/tutorials/an-introduction-to-kubernetes)
-- [Kubernetes Tutorial for Beginners](https://www.youtube.com/watch?v=X48VuDVv0do)
+- [ ] [Kubernetes Documentation](https://kubernetes.io/)
+- [ ] [Introduction of Kubernetes](https://www.digitalocean.com/community/tutorials/an-introduction-to-kubernetes)
+- [ ] [Kubernetes Tutorial for Beginners](https://www.youtube.com/watch?v=X48VuDVv0do)
 
 # Kubernetes overview
 
@@ -16,9 +16,9 @@ The name Kubernetes originates from Greek, meaning helmsman or pilot. K8s as an 
 
 Learn more from the following links:
 
-- [Overview of Kubernetes](https://kubernetes.io/docs/concepts/overview/)
-- [Tutorial - Kubernetes](https://www.youtube.com/watch?v=VnvRFRk_51k&t=1sn)
-- [What is Kubernetes?](https://www.redhat.com/en/topics/containers/what-is-kubernetes)
+- [ ] [Overview of Kubernetes](https://kubernetes.io/docs/concepts/overview/)
+- [ ] [Tutorial - Kubernetes](https://www.youtube.com/watch?v=VnvRFRk_51k&t=1sn)
+- [ ] [What is Kubernetes?](https://www.redhat.com/en/topics/containers/what-is-kubernetes)
 
 # Why Kubernetes
 
@@ -26,8 +26,8 @@ Kubernetes (k8s) is needed because it provides a powerful and flexible platform 
 
 Learn more from the following resources:
 
-- [Why you need Kubernetes and what it can do](https://kubernetes.io/docs/concepts/overview/#why-you-need-kubernetes-and-what-can-it-do)
-- [Why should you use Kubernetes?](https://www.predicagroup.com/blog/why-kubernetes-2022/)
+- [ ] [Why you need Kubernetes and what it can do](https://kubernetes.io/docs/concepts/overview/#why-you-need-kubernetes-and-what-can-it-do)
+- [ ] [Why should you use Kubernetes?](https://www.predicagroup.com/blog/why-kubernetes-2022/)
 
 # Key Concepts Terminologies
 
@@ -43,8 +43,8 @@ Kubernetes is an open-source container orchestration platform that automates the
 
 Learn more from the following links:
 
-- [Concepts of Kubernetes](https://kubernetes.io/docs/concepts/)
-- [What Is Kubernetes?](https://www.youtube.com/watch?v=QJ4fODH6DXI)
+- [ ] [Concepts of Kubernetes](https://kubernetes.io/docs/concepts/)
+- [ ] [What Is Kubernetes?](https://www.youtube.com/watch?v=QJ4fODH6DXI)
 
 # Kubernetes Alternatives
 
@@ -58,8 +58,8 @@ Kubernetes is a popular open-source container orchestration tool that is widely 
 
 Learn more from the following links:
 
-- [Kubernetes vs. Docker Swarm – A Comparison](https://www.freecodecamp.org/news/kubernetes-vs-docker-swarm-what-is-the-difference/)
-- [Compare Apache Mesos vs. Kubernetes](https://www.techtarget.com/searchitoperations/tip/Compare-container-orchestrators-Apache-Mesos-vs-Kubernetes)
+- [ ] [Kubernetes vs. Docker Swarm – A Comparison](https://www.freecodecamp.org/news/kubernetes-vs-docker-swarm-what-is-the-difference/)
+- [ ] [Compare Apache Mesos vs. Kubernetes](https://www.techtarget.com/searchitoperations/tip/Compare-container-orchestrators-Apache-Mesos-vs-Kubernetes)
 
 # Setting Up Kubernetes
 
@@ -67,8 +67,8 @@ To set up a Kubernetes cluster, you need to choose a deployment environment, ins
 
 Learn more from the following resources:
 
-- [Set up a K8s cluster](https://kubernetes.io/docs/home/#set-up-a-k8s-cluster)
-- [Kubernetes | Cluster Setup](https://www.youtube.com/watch?v=z_w3me8tmJA)
+- [ ] [Set up a K8s cluster](https://kubernetes.io/docs/home/#set-up-a-k8s-cluster)
+- [ ] [Kubernetes | Cluster Setup](https://www.youtube.com/watch?v=z_w3me8tmJA)
 
 # Installing a Local Cluster
 
@@ -76,8 +76,8 @@ To install and configure a Kubernetes cluster on CentOS 7 or Ubunto, you would n
 
 Learn more from the following links:
 
-- [How to Install a Kubernetes Cluster on CentOS 7](https://www.tecmint.com/install-kubernetes-cluster-on-centos-7/)
-- [How To Create a Kubernetes Cluster Using on Ubuntu](https://www.digitalocean.com/community/tutorials/how-to-create-a-kubernetes-cluster-using-kubeadm-on-ubuntu-20-04)
+- [ ] [How to Install a Kubernetes Cluster on CentOS 7](https://www.tecmint.com/install-kubernetes-cluster-on-centos-7/)
+- [ ] [How To Create a Kubernetes Cluster Using on Ubuntu](https://www.digitalocean.com/community/tutorials/how-to-create-a-kubernetes-cluster-using-kubeadm-on-ubuntu-20-04)
 
 # Choosing a Managed Provider
 
@@ -87,8 +87,8 @@ When choosing a managed Kubernetes provider, consider the cloud provider you are
 
 Learn more from the following resources:
 
-- [10 Tips for Selecting your Managed Kubernetes Provider](https://www.saascommunity.com/operational/10-tips-for-selecting-your-managed-kubernetes-provider/)
-- [Choosing a Managed Kubernetes Provider](https://containerjournal.com/features/choosing-a-managed-kubernetes-provider/)
+- [ ] [10 Tips for Selecting your Managed Kubernetes Provider](https://www.saascommunity.com/operational/10-tips-for-selecting-your-managed-kubernetes-provider/)
+- [ ] [Choosing a Managed Kubernetes Provider](https://containerjournal.com/features/choosing-a-managed-kubernetes-provider/)
 
 # Deploying your First Application
 
@@ -96,10 +96,10 @@ To deploy your first application in Kubernetes, you need to create a deployment 
 
 Learn more from the following links:
 
-- [Using kubectl to Create a Deployment](https://kubernetes.io/docs/tutorials/kubernetes-basics/deploy-app/deploy-intro/)
-- [Deploying An Application On Kubernetes From A to Z](https://www.weave.works/blog/deploying-an-application-on-kubernetes-from-a-to-z)
-- [Kubernetes Tutorial | Your First Kubernetes Application](https://www.youtube.com/watch?v=Vj6EFnav5Mg)
-- [Kubernetes 101: Deploying Your First Application](https://www.youtube.com/watch?v=XltFOyGanYE)
+- [ ] [Using kubectl to Create a Deployment](https://kubernetes.io/docs/tutorials/kubernetes-basics/deploy-app/deploy-intro/)
+- [ ] [Deploying An Application On Kubernetes From A to Z](https://www.weave.works/blog/deploying-an-application-on-kubernetes-from-a-to-z)
+- [ ] [Kubernetes Tutorial | Your First Kubernetes Application](https://www.youtube.com/watch?v=Vj6EFnav5Mg)
+- [ ] [Kubernetes 101: Deploying Your First Application](https://www.youtube.com/watch?v=XltFOyGanYE)
 
 # Running Applications
 
@@ -107,8 +107,8 @@ For running application in a Kubernetes cluster, you need to define Kubernetes o
 
 Learn more from the following link:
 
-- [Run Application - Documentation](https://kubernetes.io/docs/tasks/run-application/)
-- [Kubernetes Tutorial | Run & Deploy Spring Boot Application](https://www.youtube.com/watch?v=7o7e8OAAWyg)
+- [ ] [Run Application - Documentation](https://kubernetes.io/docs/tasks/run-application/)
+- [ ] [Kubernetes Tutorial | Run & Deploy Spring Boot Application](https://www.youtube.com/watch?v=7o7e8OAAWyg)
 
 # Pods
 
@@ -116,8 +116,8 @@ In Kubernetes, a pod is the smallest deployable unit that represents a single in
 
 Learn more from the following links:
 
-- [Pods Documentation](https://kubernetes.io/docs/concepts/workloads/pods/)
-- [What is a Pod in kubernetes ? Why do you need it ?](https://www.youtube.com/watch?v=k0fzMZgpp14)
+- [ ] [Pods Documentation](https://kubernetes.io/docs/concepts/workloads/pods/)
+- [ ] [What is a Pod in kubernetes ? Why do you need it ?](https://www.youtube.com/watch?v=k0fzMZgpp14)
 
 # ReplicaSets
 
@@ -125,8 +125,8 @@ A ReplicaSet is a controller that ensures a specified number of replicas (identi
 
 Learn more from the following links:
 
-- [ReplicaSet Documentation](https://kubernetes.io/docs/concepts/workloads/controllers/replicaset/)
-- [ReplicaSet in Kubernetes](https://www.youtube.com/watch?v=1WM-LsH6tKc)
+- [ ] [ReplicaSet Documentation](https://kubernetes.io/docs/concepts/workloads/controllers/replicaset/)
+- [ ] [ReplicaSet in Kubernetes](https://www.youtube.com/watch?v=1WM-LsH6tKc)
 
 # Deployments
 
@@ -136,8 +136,8 @@ It is a controller that manages the deployment and scaling of a set of stateful 
 
 Learn more from the following links:
 
-- [StatefulSets Documentation](https://kubernetes.io/docs/concepts/workloads/controllers/statefulset/)
-- [Kubernetes StatefulSet | Tutorial](https://www.youtube.com/watch?v=pPQKAR1pA9U)
+- [ ] [StatefulSets Documentation](https://kubernetes.io/docs/concepts/workloads/controllers/statefulset/)
+- [ ] [Kubernetes StatefulSet | Tutorial](https://www.youtube.com/watch?v=pPQKAR1pA9U)
 
 # Jobs
 
@@ -145,8 +145,8 @@ a Job is a controller that manages the execution of a finite task or batch job. 
 
 Learn more from the following resources:
 
-- [Jobs Documentation](https://kubernetes.io/docs/concepts/workloads/controllers/job/)
-- [Tutorial | Jobs in Kubernetes](https://www.youtube.com/watch?v=j1EnBbxSz64)
+- [ ] [Jobs Documentation](https://kubernetes.io/docs/concepts/workloads/controllers/job/)
+- [ ] [Tutorial | Jobs in Kubernetes](https://www.youtube.com/watch?v=j1EnBbxSz64)
 
 # Services and Networking
 
@@ -154,8 +154,8 @@ Services and networking are key components that enable communication between pod
 
 Learn more from the following resources:
 
-- [Service - Documentation](https://kubernetes.io/docs/concepts/services-networking/service/)
-- [The Kubernetes Network Model](https://kubernetes.io/docs/concepts/services-networking/#the-kubernetes-network-model)
+- [ ] [Service - Documentation](https://kubernetes.io/docs/concepts/services-networking/service/)
+- [ ] [The Kubernetes Network Model](https://kubernetes.io/docs/concepts/services-networking/#the-kubernetes-network-model)
 
 # Networking and Pod to Pod Communication
 
@@ -163,8 +163,8 @@ Networking is crucial for communication between pods and resources in a Kubernet
 
 Learn more from the following resources:
 
-- [Cluster Networking - Documentation](https://kubernetes.io/docs/concepts/cluster-administration/networking/)
-- [Job with Pod-to-Pod Communication](https://kubernetes.io/docs/tasks/job/job-with-pod-to-pod-communication
+- [ ] [Cluster Networking - Documentation](https://kubernetes.io/docs/concepts/cluster-administration/networking/)
+- [ ] [Job with Pod-to-Pod Communication](https://kubernetes.io/docs/tasks/job/job-with-pod-to-pod-communication
 
 # Load Balancing
 
@@ -172,8 +172,8 @@ Load balancing in distributes network traffic across multiple pods or nodes usin
 
 Learn more from the following resources:
 
-- [Load Balancing - Documentation](https://kubernetes.io/docs/concepts/services-networking/ingress/#load-balancing)
-- [Tutorial | Load Balancing Service in Kubernetes](https://www.youtube.com/watch?v=xCsz9IOt-fs)
+- [ ] [Load Balancing - Documentation](https://kubernetes.io/docs/concepts/services-networking/ingress/#load-balancing)
+- [ ] [Tutorial | Load Balancing Service in Kubernetes](https://www.youtube.com/watch?v=xCsz9IOt-fs)
 
 # External Access to Services
 
@@ -181,8 +181,8 @@ External access to Kubernetes (k8s) Services allows external clients to access p
 
 Learn more from the following links:
 
-- [How do I provide external access to Kubernetes services](https://www.youtube.com/watch?v=iBYTFpoXx24)
-- [Ingress - Documentation](https://kubernetes.io/docs/concepts/services-networking/ingress/)
+- [ ] [How do I provide external access to Kubernetes services](https://www.youtube.com/watch?v=iBYTFpoXx24)
+- [ ] [Ingress - Documentation](https://kubernetes.io/docs/concepts/services-networking/ingress/)
 
 # Configuration Management
 
@@ -190,8 +190,8 @@ Configuration management in Kubernetes (K8s) is the process of defining and mana
 
 Learn more from the following links:
 
-- [Configuration Management with Containers](https://kubernetes.io/blog/2016/04/configuration-management-with-containers/)
-- [Configuration Management in Kubernetes for Beginners](https://www.youtube.com/watch?v=o-gXx7r7Rz4)
+- [ ] [Configuration Management with Containers](https://kubernetes.io/blog/2016/04/configuration-management-with-containers/)
+- [ ] [Configuration Management in Kubernetes for Beginners](https://www.youtube.com/watch?v=o-gXx7r7Rz4)
 
 # ConfigMaps
 
@@ -199,8 +199,8 @@ ConfigMaps are a way to store configuration data that can be used by application
 
 Learn more from the following links:
 
-- [ConfigMaps Documentation](https://kubernetes.io/docs/concepts/configuration/configmap/)
-- [Tutorial - ConfigMap in Kubernetes](https://www.youtube.com/watch?v=BPrC_lgmcHQ)
+- [ ] [ConfigMaps Documentation](https://kubernetes.io/docs/concepts/configuration/configmap/)
+- [ ] [Tutorial - ConfigMap in Kubernetes](https://www.youtube.com/watch?v=BPrC_lgmcHQ)
 
 # Secrets
 
@@ -208,8 +208,8 @@ Kubernetes secrets store sensitive data such as passwords, tokens, and API keys 
 
 Lear more from the following links:
 
-- [Documentation - Secrets](https://kubernetes.io/docs/concepts/configuration/secret/)
-- [Kubernetes Secrets in 5 Minutes!](https://www.youtube.com/watch?v=cQAEK9PBY8U)
+- [ ] [Documentation - Secrets](https://kubernetes.io/docs/concepts/configuration/secret/)
+- [ ] [Kubernetes Secrets in 5 Minutes!](https://www.youtube.com/watch?v=cQAEK9PBY8U)
 
 # Resource Management
 
@@ -217,8 +217,8 @@ Resource management in Kubernetes involves managing CPU, memory, and storage res
 
 Learn more from the following links:
 
-- [Managing Resources - Documentation](https://kubernetes.io/docs/concepts/cluster-administration/manage-deployment/)
-- [Managing Kubernetes resources: 5 things to remember](https://enterprisersproject.com/article/2020/8/managing-kubernetes-resources-5-things-remember)
+- [ ] [Managing Resources - Documentation](https://kubernetes.io/docs/concepts/cluster-administration/manage-deployment/)
+- [ ] [Managing Kubernetes resources: 5 things to remember](https://enterprisersproject.com/article/2020/8/managing-kubernetes-resources-5-things-remember)
 
 # Setting Resource Requests and Limits
 
@@ -226,8 +226,8 @@ Resource requests and limits in Kubernetes specify the minimum and maximum amoun
 
 Learn more from the following resources:
 
-- [Requests and limits - Documentation](https://kubernetes.io/docs/concepts/configuration/manage-resources-containers/#requests-and-limits)
-- [Motivation for default memory limits and requests](https://kubernetes.io/docs/tasks/administer-cluster/manage-resources/memory-default-namespace/#motivation-for-default-memory-limits-and-requests)
+- [ ] [Requests and limits - Documentation](https://kubernetes.io/docs/concepts/configuration/manage-resources-containers/#requests-and-limits)
+- [ ] [Motivation for default memory limits and requests](https://kubernetes.io/docs/tasks/administer-cluster/manage-resources/memory-default-namespace/#motivation-for-default-memory-limits-and-requests)
 
 # Assigning Quotas to Namespaces
 
@@ -235,8 +235,8 @@ Assigning quotas to namespaces is a way to limit resource usage for specific gro
 
 Learn more from the following resources:
 
-- [Resource Quotas - Documentation](https://kubernetes.io/docs/concepts/policy/resource-quotas/)
-- [Kubernetes Namespaces Explained in 15 mins](https://www.youtube.com/watch?v=K3jNo4z5Jx8)
+- [ ] [Resource Quotas - Documentation](https://kubernetes.io/docs/concepts/policy/resource-quotas/)
+- [ ] [Kubernetes Namespaces Explained in 15 mins](https://www.youtube.com/watch?v=K3jNo4z5Jx8)
 
 # Monitoring and Optimizing Resource Usage
 
@@ -244,8 +244,8 @@ Monitoring and optimizing resource usage in Kubernetes (k8s) is crucial for ensu
 
 Learn more from the following resources:
 
-- [Tools for Monitoring Resources - Documentation](https://kubernetes.io/docs/tasks/debug/debug-cluster/resource-usage-monitoring/)
-- [Kubernetes Resource Optimization: Just The Basics](https://sequoia.makes.software/kubernetes-resource-optimization-just-the-basics/)
+- [ ] [Tools for Monitoring Resources - Documentation](https://kubernetes.io/docs/tasks/debug/debug-cluster/resource-usage-monitoring/)
+- [ ] [Kubernetes Resource Optimization: Just The Basics](https://sequoia.makes.software/kubernetes-resource-optimization-just-the-basics/)
 
 # Kubernetes Security
 
@@ -253,8 +253,8 @@ Kubernetes (k8s) security involves protecting against potential threats to a clu
 
 Learn more from the following resources:
 
-- [Security Documentation](https://kubernetes.io/docs/concepts/security/)
-- [Kubernetes Security Best Practices you need to know](https://www.youtube.com/watch?v=oBf5lrmquYI)
+- [ ] [Security Documentation](https://kubernetes.io/docs/concepts/security/)
+- [ ] [Kubernetes Security Best Practices you need to know](https://www.youtube.com/watch?v=oBf5lrmquYI)
 
 # Role Based Acccess Control
 
@@ -262,8 +262,8 @@ Role-Based Access Control (RBAC) is a method of controlling access to Kubernetes
 
 Learn more from the following resources:
 
-- [Role Based Access Control Good Practices](https://kubernetes.io/docs/concepts/security/rbac-good-practices/)
-- [Understand Role Based Access Control in Kubernetes](https://www.youtube.com/watch?v=G3R24JSlGjY)
+- [ ] [Role Based Access Control Good Practices](https://kubernetes.io/docs/concepts/security/rbac-good-practices/)
+- [ ] [Understand Role Based Access Control in Kubernetes](https://www.youtube.com/watch?v=G3R24JSlGjY)
 
 # Network Security
 
@@ -271,8 +271,8 @@ Network security in Kubernetes involves securing network communication between d
 
 Learn more from the following links:
 
-- [Network Policies - Documentation](https://kubernetes.io/docs/concepts/services-networking/network-policies/)
-- [Kubernetes Security Best Practices](https://www.youtube.com/watch?v=oBf5lrmquYI)
+- [ ] [Network Policies - Documentation](https://kubernetes.io/docs/concepts/services-networking/network-policies/)
+- [ ] [Kubernetes Security Best Practices](https://www.youtube.com/watch?v=oBf5lrmquYI)
 
 # Container and Pod Security
 
@@ -280,8 +280,8 @@ Kubernetes (k8s) can secure containers and pods through measures like using trus
 
 Learn more from the following links:
 
-- [Configure a Security Context for a Pod or Container](https://kubernetes.io/docs/tasks/configure-pod-container/security-context/)
-- [Kubernetes Security - Security Context for a Pod or Container](https://www.youtube.com/watch?v=i8wfvoVf2xs)
+- [ ] [Configure a Security Context for a Pod or Container](https://kubernetes.io/docs/tasks/configure-pod-container/security-context/)
+- [ ] [Kubernetes Security - Security Context for a Pod or Container](https://www.youtube.com/watch?v=i8wfvoVf2xs)
 
 # Security Scanners
 
@@ -289,8 +289,8 @@ Kubernetes security scanners help identify vulnerabilities and potential securit
 
 Learn more from the following resources:
 
-- [8+ open-source Kubernetes vulnerability scanners](https://techbeacon.com/security/8-open-source-kubernetes-vulnerability-scanners-consider)
-- [7 Kubernetes Security Scanners](https://thechief.io/c/editorial/7-kubernetes-security-scanners-to-use-in-your-devsecops-pipeline/)
+- [ ] [8+ open-source Kubernetes vulnerability scanners](https://techbeacon.com/security/8-open-source-kubernetes-vulnerability-scanners-consider)
+- [ ] [7 Kubernetes Security Scanners](https://thechief.io/c/editorial/7-kubernetes-security-scanners-to-use-in-your-devsecops-pipeline/)
 
 # Monitoring and Logging
 
@@ -300,9 +300,9 @@ Logging in k8s involves collecting and analyzing the logs generated by the vario
 
 Learn more from the following resources:
 
-- [Tools for Monitoring Resources](https://kubernetes.io/docs/tasks/debug/debug-cluster/resource-usage-monitoring/)
-- [Monitoring, Logging, and Debugging](https://kubernetes.io/docs/tasks/debug/)
-- [Logging Architecture](https://kubernetes.io/docs/concepts/cluster-administration/logging/)
+- [ ] [Tools for Monitoring Resources](https://kubernetes.io/docs/tasks/debug/debug-cluster/resource-usage-monitoring/)
+- [ ] [Monitoring, Logging, and Debugging](https://kubernetes.io/docs/tasks/debug/)
+- [ ] [Logging Architecture](https://kubernetes.io/docs/concepts/cluster-administration/logging/)
 
 # Logs
 
@@ -310,8 +310,8 @@ Logs are generated by containerized applications running on nodes within the clu
 
 Learn more from the following links:
 
-- [System Logs](https://kubernetes.io/docs/concepts/cluster-administration/system-logs/)
-- [Kubernetes: Log collection explained](https://www.youtube.com/watch?v=6kmHvXdAzIM)
+- [ ] [System Logs](https://kubernetes.io/docs/concepts/cluster-administration/system-logs/)
+- [ ] [Kubernetes: Log collection explained](https://www.youtube.com/watch?v=6kmHvXdAzIM)
 
 # Metrics
 
@@ -319,8 +319,8 @@ Metrics to monitor include CPU usage, memory usage, network usage, disk usage, A
 
 Learn more from the following resources:
 
-- [Node Metrics Data](https://kubernetes.io/docs/reference/instrumentation/node-metrics/)
-- [How to collect metrics in K8s?](https://www.youtube.com/watch?v=JQrk6HwlN78)
+- [ ] [Node Metrics Data](https://kubernetes.io/docs/reference/instrumentation/node-metrics/)
+- [ ] [How to collect metrics in K8s?](https://www.youtube.com/watch?v=JQrk6HwlN78)
 
 # Traces
 
@@ -328,8 +328,8 @@ Tracing in Kubernetes involves monitoring the flow of requests through different
 
 Learn more from the following resources:
 
-- [Traces For Kubernetes System Components](https://kubernetes.io/docs/concepts/cluster-administration/system-traces/)
-- [Introduction to Tracing](https://www.youtube.com/watch?v=idDu_jXqf4E)
+- [ ] [Traces For Kubernetes System Components](https://kubernetes.io/docs/concepts/cluster-administration/system-traces/)
+- [ ] [Introduction to Tracing](https://www.youtube.com/watch?v=idDu_jXqf4E)
 
 # Resource Health
 
@@ -337,8 +337,8 @@ Resource health monitoring in Kubernetes involves monitoring the health and avai
 
 Learn more from the following resources:
 
-- [Dashboards with Grafana and Prometheus](https://www.youtube.com/watch?v=fzny5uUaAeY)
-- [How to Monitor a Kubernetes Cluster with Prometheus & Grafana](https://www.youtube.com/watch?v=YDtuwlNTzRc)
+- [ ] [Dashboards with Grafana and Prometheus](https://www.youtube.com/watch?v=fzny5uUaAeY)
+- [ ] [How to Monitor a Kubernetes Cluster with Prometheus & Grafana](https://www.youtube.com/watch?v=YDtuwlNTzRc)
 
 # Observability Engines
 
@@ -346,8 +346,8 @@ Observability in Kubernetes (k8s) refers to the ability to gain insight into the
 
 Learn more from the following resources:
 
-- [Kubernetes Observability 101: Tools, Best Practices, And More](https://www.cloudzero.com/blog/kubernetes-observability)
-- [Kubernetes Observability in KubeSphere](https://kubesphere.io/observability/)
+- [ ] [Kubernetes Observability 101: Tools, Best Practices, And More](https://www.cloudzero.com/blog/kubernetes-observability)
+- [ ] [Kubernetes Observability in KubeSphere](https://kubesphere.io/observability/)
 
 # Autoscaling
 
@@ -355,8 +355,8 @@ Autoscaling in Kubernetes involves adjusting the resources allocated to a deploy
 
 Learn more from the following resources:
 
-- [Autoscaling in Kubernetes](https://kubernetes.io/blog/2016/07/autoscaling-in-kubernetes/)
-- [Kubernetes cluster autoscaling for beginners](https://www.youtube.com/watch?v=jM36M39MA3I)
+- [ ] [Autoscaling in Kubernetes](https://kubernetes.io/blog/2016/07/autoscaling-in-kubernetes/)
+- [ ] [Kubernetes cluster autoscaling for beginners](https://www.youtube.com/watch?v=jM36M39MA3I)
 
 # Horizontal Pod Autoscaler
 
@@ -364,8 +364,8 @@ It is a feature in Kubernetes that automatically scales the number of replicas o
 
 Learn more from the following resources:
 
-- [Horizontal Pod Autoscaling - Documentation](https://kubernetes.io/docs/tasks/run-application/horizontal-pod-autoscale/)
-- [Kubernetes Horizontal Pod Autoscaling - Kubernetes Tutorials](https://www.youtube.com/watch?v=hm3jnETOoFo)
+- [ ] [Horizontal Pod Autoscaling - Documentation](https://kubernetes.io/docs/tasks/run-application/horizontal-pod-autoscale/)
+- [ ] [Kubernetes Horizontal Pod Autoscaling - Kubernetes Tutorials](https://www.youtube.com/watch?v=hm3jnETOoFo)
 
 # Vertical Pod Autoscaler
 
@@ -373,8 +373,8 @@ Vertical Pod Autoscaler (VPA) is a Kubernetes feature that automates the process
 
 Learn more from the following resources:
 
-- [What is Kubernetes VPA?](https://www.kubecost.com/kubernetes-autoscaling/kubernetes-vpa/)
-- [Vertical Pod Autoscaling: Example](https://www.youtube.com/watch?v=3h-vDDTZrm8)
+- [ ] [What is Kubernetes VPA?](https://www.kubecost.com/kubernetes-autoscaling/kubernetes-vpa/)
+- [ ] [Vertical Pod Autoscaling: Example](https://www.youtube.com/watch?v=3h-vDDTZrm8)
 
 # Cluster Autoscaling
 
@@ -382,8 +382,8 @@ Cluster Autoscaling is a feature in Kubernetes that automatically scales the clu
 
 Learn more from the following resource:
 
-- [Autoscaling in Kubernetes](https://kubernetes.io/blog/2016/07/autoscaling-in-kubernetes/)
-- [Kubernetes cluster autoscaling for beginners](https://www.youtube.com/watch?v=jM36M39MA3I)
+- [ ] [Autoscaling in Kubernetes](https://kubernetes.io/blog/2016/07/autoscaling-in-kubernetes/)
+- [ ] [Kubernetes cluster autoscaling for beginners](https://www.youtube.com/watch?v=jM36M39MA3I)
 
 # Scheduling
 
@@ -391,8 +391,8 @@ Scheduling in Kubernetes refers to the process of assigning workloads to specifi
 
 Learn more from the following links:
 
-- [Kubernetes Scheduler](https://kubernetes.io/docs/concepts/scheduling-eviction/kube-scheduler/)
-- [Scheduling Framework](https://kubernetes.io/docs/concepts/scheduling-eviction/scheduling-framework/)
+- [ ] [Kubernetes Scheduler](https://kubernetes.io/docs/concepts/scheduling-eviction/kube-scheduler/)
+- [ ] [Scheduling Framework](https://kubernetes.io/docs/concepts/scheduling-eviction/scheduling-framework/)
 
 # Scheduling Basics
 
@@ -400,8 +400,8 @@ Scheduling involves assigning pods to worker nodes based on criteria such as res
 
 Learn more from the following resources:
 
-- [Kubernetes Scheduler](https://kubernetes.io/docs/concepts/scheduling-eviction/kube-scheduler/)
-- [How Scheduling in Kubernetes Works](https://www.youtube.com/watch?v=0FvQR-0tK54)
+- [ ] [Kubernetes Scheduler](https://kubernetes.io/docs/concepts/scheduling-eviction/kube-scheduler/)
+- [ ] [How Scheduling in Kubernetes Works](https://www.youtube.com/watch?v=0FvQR-0tK54)
 
 # Taints and Tolerations
 
@@ -409,8 +409,8 @@ Taints and tolerations are used in Kubernetes to restrict or allow pods to be sc
 
 Learn more from the following resources:
 
-- [Taints and Tolerations](https://kubernetes.io/docs/concepts/scheduling-eviction/taint-and-toleration/)
-- [Kubernetes For Beginners: Taints & Tolerations](https://www.youtube.com/watch?v=mo2UrkjA7FE)
+- [ ] [Taints and Tolerations](https://kubernetes.io/docs/concepts/scheduling-eviction/taint-and-toleration/)
+- [ ] [Kubernetes For Beginners: Taints & Tolerations](https://www.youtube.com/watch?v=mo2UrkjA7FE)
 
 # Topology Spread Constraints
 
@@ -418,8 +418,8 @@ Topology spread constraints ensure even distribution of pods across a cluster's 
 
 Learn more from the following resources:
 
-- [Topology Spread Constraints](https://kubernetes.io/docs/concepts/scheduling-eviction/topology-spread-constraints/)
-- [Kubernetes | Topology Spread Constraints](https://www.youtube.com/watch?v=joRrWJ6bwvE)
+- [ ] [Topology Spread Constraints](https://kubernetes.io/docs/concepts/scheduling-eviction/topology-spread-constraints/)
+- [ ] [Kubernetes | Topology Spread Constraints](https://www.youtube.com/watch?v=joRrWJ6bwvE)
 
 # Pod Priorities
 
@@ -427,8 +427,8 @@ Pod priorities in Kubernetes determine the order in which pods are scheduled on 
 
 Learn more from the following resources:
 
-- [Pod priority - Documentation](https://kubernetes.io/docs/concepts/scheduling-eviction/pod-priority-preemption/#pod-priority)
-- [Kubernetes Pod Priority (Examples)](https://www.youtube.com/watch?v=sR_Zmvme3-0)
+- [ ] [Pod priority - Documentation](https://kubernetes.io/docs/concepts/scheduling-eviction/pod-priority-preemption/#pod-priority)
+- [ ] [Kubernetes Pod Priority (Examples)](https://www.youtube.com/watch?v=sR_Zmvme3-0)
 
 # Evictions
 
@@ -436,8 +436,8 @@ Evictions terminate or delete running pods from a node due to reasons like resou
 
 Learn more from the following links:
 
-- [Node-pressure Eviction](https://kubernetes.io/docs/concepts/scheduling-eviction/node-pressure-eviction/)
-- [API-initiated Eviction](https://kubernetes.io/docs/concepts/scheduling-eviction/api-eviction/)
+- [ ] [Node-pressure Eviction](https://kubernetes.io/docs/concepts/scheduling-eviction/node-pressure-eviction/)
+- [ ] [API-initiated Eviction](https://kubernetes.io/docs/concepts/scheduling-eviction/api-eviction/)
 
 # Storage and Volumes
 
@@ -445,9 +445,9 @@ Volumes provide directories accessible to containers running in a pod and can be
 
 Learn more from the following resources:
 
-- [The basics of stateful applications in Kubernetes](https://www.youtube.com/watch?v=GieXzb91I40)
-- [Storage Documentation](https://kubernetes.io/docs/concepts/storage/)
-- [Persistent Volumes Documentation](https://kubernetes.io/docs/concepts/storage/persistent-volumes/)
+- [ ] [The basics of stateful applications in Kubernetes](https://www.youtube.com/watch?v=GieXzb91I40)
+- [ ] [Storage Documentation](https://kubernetes.io/docs/concepts/storage/)
+- [ ] [Persistent Volumes Documentation](https://kubernetes.io/docs/concepts/storage/persistent-volumes/)
 
 # CSI drivers
 
@@ -455,8 +455,8 @@ CSI (Container Storage Interface) drivers in Kubernetes provide a standard way f
 
 Learn more from the following links:
 
-- [Container Storage Interface (CSI) for Kubernetes](https://kubernetes.io/blog/2019/01/15/container-storage-interface-ga/)
-- [CSI in Kubernetes](https://www.youtube.com/watch?v=brXPQ1Qwjl4)
+- [ ] [Container Storage Interface (CSI) for Kubernetes](https://kubernetes.io/blog/2019/01/15/container-storage-interface-ga/)
+- [ ] [CSI in Kubernetes](https://www.youtube.com/watch?v=brXPQ1Qwjl4)
 
 # Stateful Applications
 
@@ -466,8 +466,8 @@ Volumes are the basic building blocks of storage in Kubernetes. A volume is a di
 
 Learn more from the following resources:
 
-- [Stateful Applications](https://kubernetes.io/docs/tutorials/stateful-application/)
-- [The basics of stateful applications in Kubernetes](https://www.youtube.com/watch?v=GieXzb91I40)
+- [ ] [Stateful Applications](https://kubernetes.io/docs/tutorials/stateful-application/)
+- [ ] [The basics of stateful applications in Kubernetes](https://www.youtube.com/watch?v=GieXzb91I40)
 
 # Deployment Patterns
 
@@ -475,8 +475,8 @@ Deployments is a Kubernetes resource used to declaratively manage the rollout an
 
 Learn more from the following resources:
 
-- [Deployments - Documentation](https://kubernetes.io/docs/concepts/workloads/controllers/deployment/)
-- [How Kubernetes deployments work?](https://www.youtube.com/watch?v=mNK14yXIZF4)
+- [ ] [Deployments - Documentation](https://kubernetes.io/docs/concepts/workloads/controllers/deployment/)
+- [ ] [How Kubernetes deployments work?](https://www.youtube.com/watch?v=mNK14yXIZF4)
 
 # CI CD Integration
 
@@ -484,8 +484,8 @@ Integrating CI/CD with Kubernetes involves setting up a pipeline to build and de
 
 Learn more from the following resources:
 
-- [Deploy to Kubernetes Cluster | CI/CD Kubernetes](https://www.youtube.com/watch?v=naUhXrV_rRA)
-- [Create A CI/CD Pipeline With Kubernetes](https://discuss.kubernetes.io/t/create-a-ci-cd-pipeline-with-kubernetes-and-jenkins/11043)
+- [ ] [Deploy to Kubernetes Cluster | CI/CD Kubernetes](https://www.youtube.com/watch?v=naUhXrV_rRA)
+- [ ] [Create A CI/CD Pipeline With Kubernetes](https://discuss.kubernetes.io/t/create-a-ci-cd-pipeline-with-kubernetes-and-jenkins/11043)
 
 # GitOps
 
@@ -493,8 +493,8 @@ GitOps is a set of practices for managing infrastructure and applications using 
 
 Learn more from the following resources:
 
-- [DevOps and GitOps for Kubernetes](https://www.youtube.com/watch?v=PFLimPh5-wo)
-- [Using GitOps with a Kubernetes cluster](https://docs.gitlab.com/ee/user/clusters/agent/gitops.html)
+- [ ] [DevOps and GitOps for Kubernetes](https://www.youtube.com/watch?v=PFLimPh5-wo)
+- [ ] [Using GitOps with a Kubernetes cluster](https://docs.gitlab.com/ee/user/clusters/agent/gitops.html)
 
 # Helm Charts
 
@@ -502,8 +502,8 @@ Helm is a Kubernetes package manager that simplifies the deployment and manageme
 
 Learn more from the following resources:
 
-- [Helm Docs](https://helm.sh/docs/)
-- [What is Helm in Kubernetes? Helm and Helm Charts explained](https://www.youtube.com/watch?v=-ykwb1d0DXU)
+- [ ] [Helm Docs](https://helm.sh/docs/)
+- [ ] [What is Helm in Kubernetes? Helm and Helm Charts explained](https://www.youtube.com/watch?v=-ykwb1d0DXU)
 
 # Canary Deployments
 
@@ -511,8 +511,8 @@ Canary Deployments is a technique used in Kubernetes to gradually roll out new v
 
 Learn more from the following resources:
 
-- [Canary deployment for K8s deployments](https://learn.microsoft.com/en-us/azure/devops/pipelines/ecosystems/kubernetes/canary-demo?view=azure-devops&tabs=yaml)
-- [Kubernetes canary deployments Explained](https://www.youtube.com/watch?v=sCevTD_GtvU)
+- [ ] [Canary deployment for K8s deployments](https://learn.microsoft.com/en-us/azure/devops/pipelines/ecosystems/kubernetes/canary-demo?view=azure-devops&tabs=yaml)
+- [ ] [Kubernetes canary deployments Explained](https://www.youtube.com/watch?v=sCevTD_GtvU)
 
 # Blue Green Deployments
 
@@ -520,8 +520,8 @@ It is a deployment strategy used in Kubernetes for deploying new versions of an 
 
 Learn more from the following resources:
 
-- [Create a Kubernetes Blue Green Deployment](https://developer.harness.io/docs/continuous-delivery/cd-execution/kubernetes-executions/create-a-kubernetes-blue-green-deployment/)
-- [Kubernetes - Blue/Green Deployments](https://www.youtube.com/watch?v=jxhpTGQ484Y)
+- [ ] [Create a Kubernetes Blue Green Deployment](https://developer.harness.io/docs/continuous-delivery/cd-execution/kubernetes-executions/create-a-kubernetes-blue-green-deployment/)
+- [ ] [Kubernetes - Blue/Green Deployments](https://www.youtube.com/watch?v=jxhpTGQ484Y)
 
 # Rolling Updates Rollbacks
 
@@ -529,8 +529,8 @@ Rolling Updates is a deployment strategy in Kubernetes for deploying new version
 
 Learn more from the following resources:
 
-- [Rolling Back a Deployment - Docs](https://kubernetes.io/docs/concepts/workloads/controllers/deployment/#rolling-back-a-deployment)
-- [Kubernetes Rolling Update | Rollback Deployment](https://www.youtube.com/watch?v=xRifmrap7S8)
+- [ ] [Rolling Back a Deployment - Docs](https://kubernetes.io/docs/concepts/workloads/controllers/deployment/#rolling-back-a-deployment)
+- [ ] [Kubernetes Rolling Update | Rollback Deployment](https://www.youtube.com/watch?v=xRifmrap7S8)
 
 # Kubernetes Advanced Topics
 
@@ -538,8 +538,8 @@ Kubernetes can be extended with custom resources and controllers to manage compl
 
 Learn more from the following resources:
 
-- [47 Advanced Tutorials for Mastering Kubernetes](https://techbeacon.com/enterprise-it/47-advanced-tutorials-mastering-kubernetes)
-- [Tutorial Series - Advance Kubernetes](https://www.youtube.com/watch?v=OW4MoJudZx8&list=PLTCuRW0ikUdO_XzQtTNrvUAHAAuGeLXfY)
+- [ ] [47 Advanced Tutorials for Mastering Kubernetes](https://techbeacon.com/enterprise-it/47-advanced-tutorials-mastering-kubernetes)
+- [ ] [Tutorial Series - Advance Kubernetes](https://www.youtube.com/watch?v=OW4MoJudZx8&list=PLTCuRW0ikUdO_XzQtTNrvUAHAAuGeLXfY)
 
 # Custom Controllers
 
@@ -547,8 +547,8 @@ Custom controllers in Kubernetes automate the management of custom resources tha
 
 Learn more from the following resources:
 
-- [Custom Controllers](https://kubernetes.io/docs/concepts/extend-kubernetes/api-extension/custom-resources/#custom-controllers)
-- [Extending Kubernetes with Custom Controllers](https://www.youtube.com/results?search_query=Custom+controllers+in+k8s)
+- [ ] [Custom Controllers](https://kubernetes.io/docs/concepts/extend-kubernetes/api-extension/custom-resources/#custom-controllers)
+- [ ] [Extending Kubernetes with Custom Controllers](https://www.youtube.com/results?search_query=Custom+controllers+in+k8s)
 
 # Custom Schedulers Extenders
 
@@ -556,8 +556,8 @@ Custom Scheduler Extenders in Kubernetes enhance the scheduling capabilities of 
 
 Learn more from the following resources:
 
-- [Custom Scheduler Kubernetes | Multiple Schedulers Kubernetes](https://www.youtube.com/watch?v=NiB7sjXmiZc)
-- [Create a custom Kubernetes scheduler](https://developer.ibm.com/articles/creating-a-custom-kube-scheduler/)
+- [ ] [Custom Scheduler Kubernetes | Multiple Schedulers Kubernetes](https://www.youtube.com/watch?v=NiB7sjXmiZc)
+- [ ] [Create a custom Kubernetes scheduler](https://developer.ibm.com/articles/creating-a-custom-kube-scheduler/)
 
 # Custom Resource Definitions
 
@@ -565,8 +565,8 @@ Custom Resource Definitions (CRDs) in Kubernetes extend the Kubernetes API by de
 
 Learn more from the following resources:
 
-- [Custom Resources - Documentation](https://kubernetes.io/docs/concepts/extend-kubernetes/api-extension/custom-resources/)
-- [Custom Resource Definition (CRD) Explained with Demo](https://www.youtube.com/watch?v=u1X5Rf7fWwM)
+- [ ] [Custom Resources - Documentation](https://kubernetes.io/docs/concepts/extend-kubernetes/api-extension/custom-resources/)
+- [ ] [Custom Resource Definition (CRD) Explained with Demo](https://www.youtube.com/watch?v=u1X5Rf7fWwM)
 
 # Kubernetes Extensions and APIs
 
@@ -574,8 +574,8 @@ Kubernetes (k8s) extensions and APIs are used to customize the behavior of Kuber
 
 Learn more from the following resources:
 
-- [Extensions - Documentation](https://kubernetes.io/docs/concepts/extend-kubernetes/#extensions)
-- [The Kubernetes API - Documentation](https://kubernetes.io/docs/concepts/overview/kubernetes-api/)
+- [ ] [Extensions - Documentation](https://kubernetes.io/docs/concepts/extend-kubernetes/#extensions)
+- [ ] [The Kubernetes API - Documentation](https://kubernetes.io/docs/concepts/overview/kubernetes-api/)
 
 # Own Cluster
 
@@ -583,8 +583,8 @@ To create your own Kubernetes cluster, you need to choose a cloud provider or se
 
 Learn more from the following resources:
 
-- [Creating a cluster with kubeadm](https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/create-cluster-kubeadm/)
-- [KUBERNETES | Install Kubernetes Cluster](https://www.youtube.com/watch?v=Ro2qeYeisZQ)
+- [ ] [Creating a cluster with kubeadm](https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/create-cluster-kubeadm/)
+- [ ] [KUBERNETES | Install Kubernetes Cluster](https://www.youtube.com/watch?v=Ro2qeYeisZQ)
 
 # Control Plane Installation
 
@@ -592,8 +592,8 @@ The control plane's components make global decisions about the cluster (for exam
 
 Learn more from the following resources:
 
-- [Initializing your control-plane node - Documentation](https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/create-cluster-kubeadm/#initializing-your-control-plane-node)
-- [Tutorial - Install Control Plane Components](https://www.youtube.com/watch?v=IUwuyZ5ReF0)
+- [ ] [Initializing your control-plane node - Documentation](https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/create-cluster-kubeadm/#initializing-your-control-plane-node)
+- [ ] [Tutorial - Install Control Plane Components](https://www.youtube.com/watch?v=IUwuyZ5ReF0)
 
 # Managing Worker Nodes
 
@@ -601,8 +601,8 @@ Kubernetes runs your workload by placing containers into Pods to run on Nodes. A
 
 Learn more from the following resources:
 
-- [Node Management](https://kubernetes.io/docs/concepts/architecture/nodes/#management)
-- [Kubernetes 101: Nodes Tutorial](https://www.youtube.com/watch?v=xhwi3zIVR-8)
+- [ ] [Node Management](https://kubernetes.io/docs/concepts/architecture/nodes/#management)
+- [ ] [Kubernetes 101: Nodes Tutorial](https://www.youtube.com/watch?v=xhwi3zIVR-8)
 
 # Multi Cluster Management
 
@@ -610,5 +610,5 @@ Multi-Cluster Management in Kubernetes (k8s) refers to the ability to manage mul
 
 Learn more from the following resources:
 
-- [Configure Access to Multiple Clusters -  Documentation](https://kubernetes.io/docs/tasks/access-application-cluster/configure-access-multiple-clusters/)
-- [Kubernetes Cluster Management Strategies](https://www.youtube.com/watch?v=966TJ6mlOYY)
+- [ ] [Configure Access to Multiple Clusters -  Documentation](https://kubernetes.io/docs/tasks/access-application-cluster/configure-access-multiple-clusters/)
+- [ ] [Kubernetes Cluster Management Strategies](https://www.youtube.com/watch?v=966TJ6mlOYY)

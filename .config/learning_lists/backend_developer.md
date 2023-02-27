@@ -4,12 +4,12 @@ The Internet is a global network of computers connected to each other which comm
 
 Visit the following resources to learn more:
 
-- [The Internet Explained](https://www.vox.com/2014/6/16/18076282/the-internet)
-- [How Does the Internet Work?](http://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm)
-- [Introduction to Internet](/guides/what-is-internet)
-- [How does the Internet work?](https://www.youtube.com/watch?v=x3c1ih2NJEg)
-- [How the Internet Works in 5 Minutes](https://www.youtube.com/watch?v=7_LPdttKXPc)
-- [How does the internet work? (Full Course)](https://www.youtube.com/watch?v=zN8YNNHcaZc)
+- [ ] [The Internet Explained](https://www.vox.com/2014/6/16/18076282/the-internet)
+- [ ] [How Does the Internet Work?](http://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm)
+- [ ] [Introduction to Internet](/guides/what-is-internet)
+- [ ] [How does the Internet work?](https://www.youtube.com/watch?v=x3c1ih2NJEg)
+- [ ] [How the Internet Works in 5 Minutes](https://www.youtube.com/watch?v=7_LPdttKXPc)
+- [ ] [How does the internet work? (Full Course)](https://www.youtube.com/watch?v=zN8YNNHcaZc)
 
 # What is HTTP?
 
@@ -17,12 +17,12 @@ HTTP is the `TCP/IP` based application layer communication protocol which standa
 
 Visit the following resources to learn more:
 
-- [What is HTTP?](https://www.cloudflare.com/en-gb/learning/ddos/glossary/hypertext-transfer-protocol-http/)
-- [An overview of HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)
-- [Journey to HTTP/2](https://kamranahmed.info/blog/2016/08/13/http-in-depth)
-- [HTTP/3 From A To Z: Core Concepts](https://www.smashingmagazine.com/2021/08/http3-core-concepts-part1/)
-- [HTTP/1 to HTTP/2 to HTTP/3](https://www.youtube.com/watch?v=a-sBfyiXysI)
-- [HTTP Crash Course & Exploration](https://www.youtube.com/watch?v=iYM2zFP3Zn0)
+- [ ] [What is HTTP?](https://www.cloudflare.com/en-gb/learning/ddos/glossary/hypertext-transfer-protocol-http/)
+- [ ] [An overview of HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)
+- [ ] [Journey to HTTP/2](https://kamranahmed.info/blog/2016/08/13/http-in-depth)
+- [ ] [HTTP/3 From A To Z: Core Concepts](https://www.smashingmagazine.com/2021/08/http3-core-concepts-part1/)
+- [ ] [HTTP/1 to HTTP/2 to HTTP/3](https://www.youtube.com/watch?v=a-sBfyiXysI)
+- [ ] [HTTP Crash Course & Exploration](https://www.youtube.com/watch?v=iYM2zFP3Zn0)
 
 # Browsers
 
@@ -30,9 +30,9 @@ A web browser is a software application that enables a user to access and displa
 
 Visit the following resources to learn more:
 
-- [How Browsers Work](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)
-- [Role of Rendering Engine in Browsers](https://www.browserstack.com/guide/browser-rendering-engine)
-- [Populating the Page: How Browsers Work](https://developer.mozilla.org/en-US/docs/Web/Performance/How_browsers_work)
+- [ ] [How Browsers Work](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)
+- [ ] [Role of Rendering Engine in Browsers](https://www.browserstack.com/guide/browser-rendering-engine)
+- [ ] [Populating the Page: How Browsers Work](https://developer.mozilla.org/en-US/docs/Web/Performance/How_browsers_work)
 
 # DNS
 
@@ -40,12 +40,12 @@ The Domain Name System (DNS) is the phonebook of the Internet. Humans access inf
 
 Visit the following resources to learn more:
 
-- [What is DNS?](https://www.cloudflare.com/en-gb/learning/dns/what-is-dns/)
-- [How DNS works (comic)](https://howdns.works/)
-- [Understanding Domain names](https://developer.mozilla.org/en-US/docs/Glossary/DNS/)
-- [DNS and How does it Work?](https://www.youtube.com/watch?v=Wj0od2ag5sk)
-- [DNS Records](https://www.youtube.com/watch?v=7lxgpKh_fRY)
-- [Complete DNS mini-series](https://www.youtube.com/watch?v=zEmUuNFBgN8&list=PLTk5ZYSbd9MhMmOiPhfRJNW7bhxHo4q-K)
+- [ ] [What is DNS?](https://www.cloudflare.com/en-gb/learning/dns/what-is-dns/)
+- [ ] [How DNS works (comic)](https://howdns.works/)
+- [ ] [Understanding Domain names](https://developer.mozilla.org/en-US/docs/Glossary/DNS/)
+- [ ] [DNS and How does it Work?](https://www.youtube.com/watch?v=Wj0od2ag5sk)
+- [ ] [DNS Records](https://www.youtube.com/watch?v=7lxgpKh_fRY)
+- [ ] [Complete DNS mini-series](https://www.youtube.com/watch?v=zEmUuNFBgN8&list=PLTk5ZYSbd9MhMmOiPhfRJNW7bhxHo4q-K)
 
 # Domain Name
 
@@ -53,9 +53,9 @@ A domain name is a unique, easy-to-remember address used to access websites, suc
 
 Visit the following resources to learn more:
 
-- [What is a Domain Name?](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_domain_name)
-- [What is a Domain Name? | Domain name vs. URL](https://www.cloudflare.com/en-gb/learning/dns/glossary/what-is-a-domain-name/)
-- [A Beginners Guide to How Domain Names Work](https://www.youtube.com/watch?v=Y4cRx19nhJk)
+- [ ] [What is a Domain Name?](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_domain_name)
+- [ ] [What is a Domain Name? | Domain name vs. URL](https://www.cloudflare.com/en-gb/learning/dns/glossary/what-is-a-domain-name/)
+- [ ] [A Beginners Guide to How Domain Names Work](https://www.youtube.com/watch?v=Y4cRx19nhJk)
 
 # Hosting
 
@@ -63,11 +63,11 @@ Web hosting is an online service that allows you to publish your website files o
 
 Visit the following resources to learn more:
 
-- [What Is Web Hosting? Explained](https://www.youtube.com/watch?v=htbY9-yggB0)
-- [Different Types of Web Hosting Explained](https://www.youtube.com/watch?v=AXVZYzw8geg)
-- [Where to Host a Fullstack Project on a Budget](https://www.youtube.com/watch?v=Kx_1NYYJS7Q)
-- [What is the difference between webpage, website, web server, and search engine?](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/Pages_sites_servers_and_search_engines)
-- [What is a web server?](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/What_is_a_web_server)
+- [ ] [What Is Web Hosting? Explained](https://www.youtube.com/watch?v=htbY9-yggB0)
+- [ ] [Different Types of Web Hosting Explained](https://www.youtube.com/watch?v=AXVZYzw8geg)
+- [ ] [Where to Host a Fullstack Project on a Budget](https://www.youtube.com/watch?v=Kx_1NYYJS7Q)
+- [ ] [What is the difference between webpage, website, web server, and search engine?](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/Pages_sites_servers_and_search_engines)
+- [ ] [What is a web server?](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/What_is_a_web_server)
 
 # Basic Frontend Knowledge
 
@@ -75,10 +75,10 @@ As a backend developer, you may not need to have proficient knowledge of the fro
 
 Visit the following resources to learn more:
 
-- [W3Schools: Learn HTML](https://www.w3schools.com/html/html_intro.asp)
-- [W3Schools: Learn CSS](https://www.w3schools.com/css/)
-- [W3Schools: JavaScript Tutorial](https://www.w3schools.com/js/)
-- [Articles about Frontend Development](https://thenewstack.io/category/frontend-dev/)
+- [ ] [W3Schools: Learn HTML](https://www.w3schools.com/html/html_intro.asp)
+- [ ] [W3Schools: Learn CSS](https://www.w3schools.com/css/)
+- [ ] [W3Schools: JavaScript Tutorial](https://www.w3schools.com/js/)
+- [ ] [Articles about Frontend Development](https://thenewstack.io/category/frontend-dev/)
 
 # HTML
 
@@ -86,11 +86,11 @@ HTML stands for HyperText Markup Language. It is used on the frontend and gives 
 
 Visit the following resources to learn more:
 
-- [W3Schools: Learn HTML](https://www.w3schools.com/html/html_intro.asp)
-- [Codecademy - Learn HTML](https://www.codecademy.com/learn/learn-html)
-- [Interactive HTML Course](https://github.com/denysdovhan/learnyouhtml)
-- [HTML Full Course - Build a Website Tutorial](https://www.youtube.com/watch?v=pQN-pnXPaVg)
-- [HTML Tutorial for Beginners: HTML Crash Course](https://www.youtube.com/watch?v=qz0aGYrrlhU)
+- [ ] [W3Schools: Learn HTML](https://www.w3schools.com/html/html_intro.asp)
+- [ ] [Codecademy - Learn HTML](https://www.codecademy.com/learn/learn-html)
+- [ ] [Interactive HTML Course](https://github.com/denysdovhan/learnyouhtml)
+- [ ] [HTML Full Course - Build a Website Tutorial](https://www.youtube.com/watch?v=pQN-pnXPaVg)
+- [ ] [HTML Tutorial for Beginners: HTML Crash Course](https://www.youtube.com/watch?v=qz0aGYrrlhU)
 
 # CSS
 
@@ -98,15 +98,15 @@ CSS or Cascading Style Sheets is the language used to style the frontend of any 
 
 Visit the following resources to learn more:
 
-- [W3Schools — Learn CSS](https://www.w3schools.com/css/)
-- [freeCodeCamp — Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design)
-- [Learn to Code HTML & CSS](https://learn.shayhowe.com/html-css/building-your-first-web-page/)
-- [What The Flexbox!](https://flexbox.io/)
-- [Learn CSS | Codecademy](https://www.codecademy.com/learn/learn-css)
-- [Learn Intermediate CSS | Codecademy](https://www.codecademy.com/learn/learn-intermediate-css)
-- [CSS Crash Course For Absolute Beginners](https://www.youtube.com/watch?v=yfoY53QXEnI)
-- [HTML and CSS Tutorial](https://www.youtube.com/watch?v=D-h8L5hgW-w)
-- [CSS Masterclass - Tutorial & Course for Beginners](https://www.youtube.com/watch?v=FqmB-Zj2-PA)
+- [ ] [W3Schools — Learn CSS](https://www.w3schools.com/css/)
+- [ ] [freeCodeCamp — Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design)
+- [ ] [Learn to Code HTML & CSS](https://learn.shayhowe.com/html-css/building-your-first-web-page/)
+- [ ] [What The Flexbox!](https://flexbox.io/)
+- [ ] [Learn CSS | Codecademy](https://www.codecademy.com/learn/learn-css)
+- [ ] [Learn Intermediate CSS | Codecademy](https://www.codecademy.com/learn/learn-intermediate-css)
+- [ ] [CSS Crash Course For Absolute Beginners](https://www.youtube.com/watch?v=yfoY53QXEnI)
+- [ ] [HTML and CSS Tutorial](https://www.youtube.com/watch?v=D-h8L5hgW-w)
+- [ ] [CSS Masterclass - Tutorial & Course for Beginners](https://www.youtube.com/watch?v=FqmB-Zj2-PA)
 
 # JavaScript
 
@@ -114,12 +114,12 @@ JavaScript allows you to add interactivity to your pages. Common examples that y
 
 Visit the following resources to learn more:
 
-- [Visit Dedicated JavaScript Roadmap](/javascript)
-- [W3Schools – JavaScript Tutorial](https://www.w3schools.com/js/)
-- [The Modern JavaScript Tutorial](https://javascript.info/)
-- [Exploring JS: JavaScript books for programmers](https://exploringjs.com/)
-- [JavaScript Crash Course for Beginners](https://youtu.be/hdI2bqOjy3c?t=2)
-- [Build a Netflix Landing Page Clone with HTML, CSS & JS](https://youtu.be/P7t13SGytRk?t=22)
+- [ ] [Visit Dedicated JavaScript Roadmap](/javascript)
+- [ ] [W3Schools – JavaScript Tutorial](https://www.w3schools.com/js/)
+- [ ] [The Modern JavaScript Tutorial](https://javascript.info/)
+- [ ] [Exploring JS: JavaScript books for programmers](https://exploringjs.com/)
+- [ ] [JavaScript Crash Course for Beginners](https://youtu.be/hdI2bqOjy3c?t=2)
+- [ ] [Build a Netflix Landing Page Clone with HTML, CSS & JS](https://youtu.be/P7t13SGytRk?t=22)
 
 # General Knowledge
 
@@ -127,10 +127,10 @@ Operating System is a program that manages a computer’s resources, especially 
 
 Visit the following resources to learn more:
 
-- [What is an operating system?](https://edu.gcfglobal.org/en/computerbasics/understanding-operating-systems/1/)
-- [Operating System summary](https://www.guru99.com/os-tutorial.html)
-- [Operating Systems: Crash Course Computer Science #18](https://www.youtube.com/watch?v=26QPDBe-NB8&ab_channel=CrashCourse)
-- [Introduction to Operating System](https://www.youtube.com/watch?v=vBURTt97EkA&list=PL9hkZBQk8d1zEGbY7ShWCZ2n1gtxqkRrS&index=1)
+- [ ] [What is an operating system?](https://edu.gcfglobal.org/en/computerbasics/understanding-operating-systems/1/)
+- [ ] [Operating System summary](https://www.guru99.com/os-tutorial.html)
+- [ ] [Operating Systems: Crash Course Computer Science #18](https://www.youtube.com/watch?v=26QPDBe-NB8&ab_channel=CrashCourse)
+- [ ] [Introduction to Operating System](https://www.youtube.com/watch?v=vBURTt97EkA&list=PL9hkZBQk8d1zEGbY7ShWCZ2n1gtxqkRrS&index=1)
 
 # Terminal usage
 
@@ -138,8 +138,8 @@ Terminals, also known as command lines or consoles, allow us to accomplish and a
 
 Visit the following resources to learn more:
 
-- [Command line crash course](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Understanding_client-side_tools/Command_line)
-- [Basic Terminal Usage - Cheat Sheet to make the command line EASY](https://www.youtube.com/watch?v=jDINUSK7rXE)
+- [ ] [Command line crash course](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Understanding_client-side_tools/Command_line)
+- [ ] [Basic Terminal Usage - Cheat Sheet to make the command line EASY](https://www.youtube.com/watch?v=jDINUSK7rXE)
 
 # Operating Systems
 
@@ -147,9 +147,9 @@ An operating system is a main program on computer, that governs all other applic
 
 Visit the following resources to learn more:
 
-- [Operating System - Overview](https://www.tutorialspoint.com/operating_system/os_overview.htm)
-- [Operating System Concepts](https://codex.cs.yale.edu/avi/os-book/OS10/index.html)
-- [Operating System Basics](https://www.youtube.com/watch?v=9GDX-IyZ_C8)
+- [ ] [Operating System - Overview](https://www.tutorialspoint.com/operating_system/os_overview.htm)
+- [ ] [Operating System Concepts](https://codex.cs.yale.edu/avi/os-book/OS10/index.html)
+- [ ] [Operating System Basics](https://www.youtube.com/watch?v=9GDX-IyZ_C8)
 
 # Process Management
 
@@ -157,8 +157,8 @@ Process management involves various tasks like creation, scheduling, termination
 
 Visit the following resources to learn more:
 
-- [Operating System: Process and Process Management](https://medium.com/@akhandmishra/operating-system-process-and-process-management-108d83e8ce60)
-- [Process Management in OS: PCB in Operating System](https://www.guru99.com/process-management-pcb.html)
+- [ ] [Operating System: Process and Process Management](https://medium.com/@akhandmishra/operating-system-process-and-process-management-108d83e8ce60)
+- [ ] [Process Management in OS: PCB in Operating System](https://www.guru99.com/process-management-pcb.html)
 
 # Threads and Concurrency
 
@@ -168,11 +168,11 @@ Concurrency refers to the execution of multiple threads at the same time. It occ
 
 Visit the following resources to learn more:
 
-- [What’s the Diff: Programs, Processes and Threads](https://www.backblaze.com/blog/whats-the-diff-programs-processes-and-threads/)
-- [Concurrency in Operating System](https://www.javatpoint.com/concurrency-in-operating-system)
-- [Intro to Processes & Threads](https://www.youtube.com/watch?v=exbKr6fnoUw)
-- [Introduction to Concurrency](https://www.youtube.com/watch?v=iKtvNJQoCNw)
-- [Concurrency, Threading and Parallelism Explained](https://www.youtube.com/watch?v=olYdb0DdGtM)# Basic Terminal Commands
+- [ ] [What’s the Diff: Programs, Processes and Threads](https://www.backblaze.com/blog/whats-the-diff-programs-processes-and-threads/)
+- [ ] [Concurrency in Operating System](https://www.javatpoint.com/concurrency-in-operating-system)
+- [ ] [Intro to Processes & Threads](https://www.youtube.com/watch?v=exbKr6fnoUw)
+- [ ] [Introduction to Concurrency](https://www.youtube.com/watch?v=iKtvNJQoCNw)
+- [ ] [Concurrency, Threading and Parallelism Explained](https://www.youtube.com/watch?v=olYdb0DdGtM)# Basic Terminal Commands
 
 Working within the terminal is common practice for any Backend Developer and there are many commands and utilities that can help you achieve your tasks more efficiently.
 
@@ -184,11 +184,11 @@ After enough exposure and practice to these commands, it will become easier to u
 
 Visit the following resources to learn more:
 
-- [40 Basic Linux Commands](https://www.hostinger.com/tutorials/linux-commands)
-- [A collection of modern/faster/saner alternatives to common unix commands](https://github.com/ibraheemdev/modern-unix)
-- [Command Line Tutorial](https://www.learnenough.com/command-line-tutorial)
-- [Commandline Challenge](https://cmdchallenge.com/)
-- [The 50 Most Popular Linux & Terminal Commands (with timestamps)](https://www.youtube.com/watch?v=ZtqBQ68cfJc)
+- [ ] [40 Basic Linux Commands](https://www.hostinger.com/tutorials/linux-commands)
+- [ ] [A collection of modern/faster/saner alternatives to common unix commands](https://github.com/ibraheemdev/modern-unix)
+- [ ] [Command Line Tutorial](https://www.learnenough.com/command-line-tutorial)
+- [ ] [Commandline Challenge](https://cmdchallenge.com/)
+- [ ] [The 50 Most Popular Linux & Terminal Commands (with timestamps)](https://www.youtube.com/watch?v=ZtqBQ68cfJc)
 
 # Memory Management
 
@@ -198,8 +198,8 @@ To achieve a degree of multiprogramming and proper utilization of memory, memory
 
 Visit the following resources to learn more:
 
-- [Demystifying memory management in modern programming languages](https://dev.to/deepu105/demystifying-memory-management-in-modern-programming-languages-ddd)
-- [Memory Management in Operating System](https://www.geeksforgeeks.org/memory-management-in-operating-system/)
+- [ ] [Demystifying memory management in modern programming languages](https://dev.to/deepu105/demystifying-memory-management-in-modern-programming-languages-ddd)
+- [ ] [Memory Management in Operating System](https://www.geeksforgeeks.org/memory-management-in-operating-system/)
 
 # Interprocess Communication
 
@@ -207,8 +207,8 @@ Interprocess communication (IPC) refers specifically to the mechanisms an operat
 
 Visit the following resources to learn more:
 
-- [Interprocess Communication](https://www.geeksforgeeks.org/inter-process-communication-ipc/)
-- [Interprocess Communication - Neso Academy](https://www.youtube.com/watch?v=dJuYKfR8vec)
+- [ ] [Interprocess Communication](https://www.geeksforgeeks.org/inter-process-communication-ipc/)
+- [ ] [Interprocess Communication - Neso Academy](https://www.youtube.com/watch?v=dJuYKfR8vec)
 
 # I/O Management
 
@@ -216,9 +216,9 @@ One of the important jobs of an Operating System is to manage various I/O device
 
 Visit the following resources to learn more:
 
-- [Operating System - I/O Hardware](https://www.tutorialspoint.com/operating_system/os_io_hardware.htm)
-- [IO Management](https://www.omscs-notes.com/operating-systems/io-management/)
-- [Basics of OS (I/O Structure)](https://www.youtube.com/watch?v=F18RiREDkwE)
+- [ ] [Operating System - I/O Hardware](https://www.tutorialspoint.com/operating_system/os_io_hardware.htm)
+- [ ] [IO Management](https://www.omscs-notes.com/operating-systems/io-management/)
+- [ ] [Basics of OS (I/O Structure)](https://www.youtube.com/watch?v=F18RiREDkwE)
 
 # POSIX Basics
 
@@ -232,9 +232,9 @@ POSIX also adds a standard for exit codes, filesystem semantics, and several oth
 
 Visit the following resources to learn more:
 
-- [POSIX standard by IEEE](https://pubs.opengroup.org/onlinepubs/9699919799/)
-- [Summary of some POSIX implementations](https://unix.stackexchange.com/a/220877)
-- [A guide to POSIX](https://www.baeldung.com/linux/posix)
+- [ ] [POSIX standard by IEEE](https://pubs.opengroup.org/onlinepubs/9699919799/)
+- [ ] [Summary of some POSIX implementations](https://unix.stackexchange.com/a/220877)
+- [ ] [A guide to POSIX](https://www.baeldung.com/linux/posix)
 
 # Basic Networking Concepts
 
@@ -242,7 +242,7 @@ Computer networking refers to interconnected computing devices that can exchange
 
 Visit the following resources to learn more:
 
-- [What is Computer Networking?](https://aws.amazon.com/what-is/computer-networking/)
+- [ ] [What is Computer Networking?](https://aws.amazon.com/what-is/computer-networking/)
 
 # Learn a Language
 
@@ -258,14 +258,14 @@ Go is an open source programming language supported by Google. Go can be used to
 
 Visit the following resources to learn more:
 
-- [Visit Dedicated Go Roadmap](/golang)
-- [A Tour of Go – Go Basics](https://go.dev/tour/welcome/1)
-- [Go Reference Documentation](https://go.dev/doc/)
-- [Go by Example - annotated example programs](https://gobyexample.com/)
-- [Learn Go | Codecademy](https://www.codecademy.com/learn/learn-go)
-- [W3Schools Go Tutorial](https://www.w3schools.com/go/)
-- [Making a RESTful JSON API in Go](https://thenewstack.io/make-a-restful-json-api-go/)
-- [Go, the Programming Language of the Cloud](https://thenewstack.io/go-the-programming-language-of-the-cloud/)
+- [ ] [Visit Dedicated Go Roadmap](/golang)
+- [ ] [A Tour of Go – Go Basics](https://go.dev/tour/welcome/1)
+- [ ] [Go Reference Documentation](https://go.dev/doc/)
+- [ ] [Go by Example - annotated example programs](https://gobyexample.com/)
+- [ ] [Learn Go | Codecademy](https://www.codecademy.com/learn/learn-go)
+- [ ] [W3Schools Go Tutorial](https://www.w3schools.com/go/)
+- [ ] [Making a RESTful JSON API in Go](https://thenewstack.io/make-a-restful-json-api-go/)
+- [ ] [Go, the Programming Language of the Cloud](https://thenewstack.io/go-the-programming-language-of-the-cloud/)
 
 # Rust
 
@@ -273,10 +273,10 @@ Rust is a modern systems programming language focusing on safety, speed, and con
 
 Visit the following resources to learn more:
 
-- [The Rust Programming Language - online book](https://doc.rust-lang.org/book/)
-- [Rust by Example - collection of runnable examples](https://doc.rust-lang.org/stable/rust-by-example/index.html)
-- [Rust vs. Go: Why They’re Better Together](https://thenewstack.io/rust-vs-go-why-theyre-better-together/)
-- [Rust by the Numbers: The Rust Programming Language in 2021](https://thenewstack.io/rust-by-the-numbers-the-rust-programming-language-in-2021/)
+- [ ] [The Rust Programming Language - online book](https://doc.rust-lang.org/book/)
+- [ ] [Rust by Example - collection of runnable examples](https://doc.rust-lang.org/stable/rust-by-example/index.html)
+- [ ] [Rust vs. Go: Why They’re Better Together](https://thenewstack.io/rust-vs-go-why-theyre-better-together/)
+- [ ] [Rust by the Numbers: The Rust Programming Language in 2021](https://thenewstack.io/rust-by-the-numbers-the-rust-programming-language-in-2021/)
 
 # Java
 
@@ -285,11 +285,11 @@ It was created in 1995 by James Gosling at Sun Microsystems and is one of the mo
 
 Visit the following resources to learn more:
 
-- [Visit Dedicated Java Roadmap](/java)
-- [Java Website](https://www.java.com/)
-- [Codeacademy - Free Course](https://www.codecademy.com/learn/learn-java)
-- [W3 Schools Tutorials](https://www.w3schools.com/java/)
-- [Java Crash Course](https://www.youtube.com/watch?v=eIrMbAQSU34)
+- [ ] [Visit Dedicated Java Roadmap](/java)
+- [ ] [Java Website](https://www.java.com/)
+- [ ] [Codeacademy - Free Course](https://www.codecademy.com/learn/learn-java)
+- [ ] [W3 Schools Tutorials](https://www.w3schools.com/java/)
+- [ ] [Java Crash Course](https://www.youtube.com/watch?v=eIrMbAQSU34)
 
 # C #
 
@@ -297,10 +297,10 @@ C# (pronounced "C sharp") is a general purpose programming language made by Micr
 
 Visit the following resources to learn more:
 
-- [C# Learning Path](https://docs.microsoft.com/en-us/learn/paths/csharp-first-steps/?WT.mc_id=dotnet-35129-website)
-- [C# on W3 schools](https://www.w3schools.com/cs/index.php)
-- [Introduction to C#](https://docs.microsoft.com/en-us/shows/CSharp-101/?WT.mc_id=Educationalcsharp-c9-scottha)
-- [C# tutorials](https://www.youtube.com/watch?v=gfkTfcpWqAY&list=PLTjRvDozrdlz3_FPXwb6lX_HoGXa09Yef)
+- [ ] [C# Learning Path](https://docs.microsoft.com/en-us/learn/paths/csharp-first-steps/?WT.mc_id=dotnet-35129-website)
+- [ ] [C# on W3 schools](https://www.w3schools.com/cs/index.php)
+- [ ] [Introduction to C#](https://docs.microsoft.com/en-us/shows/CSharp-101/?WT.mc_id=Educationalcsharp-c9-scottha)
+- [ ] [C# tutorials](https://www.youtube.com/watch?v=gfkTfcpWqAY&list=PLTjRvDozrdlz3_FPXwb6lX_HoGXa09Yef)
 
 # PHP
 
@@ -308,12 +308,12 @@ PHP is a general purpose scripting language often used for making dynamic and in
 
 Visit the following resources to learn more:
 
-- [PHP Website](https://php.org/)
-- [Learn PHP - W3Schools](https://www.w3schools.com/php/)
-- [PHP - The Right Way](https://phptherightway.com/)
-- [PHP for Beginners](https://www.youtube.com/watch?v=U2lQWR6uIuo&list=PL3VM-unCzF8ipG50KDjnzhugceoSG3RTC)
-- [PHP For Absolute Beginners](https://www.youtube.com/watch?v=2eebptXfEvw)
-- [Full PHP 8 Tutorial - Learn PHP The Right Way In 2022](https://www.youtube.com/watch?v=sVbEyFZKgqk&list=PLr3d3QYzkw2xabQRUpcZ_IBk9W50M9pe-)
+- [ ] [PHP Website](https://php.org/)
+- [ ] [Learn PHP - W3Schools](https://www.w3schools.com/php/)
+- [ ] [PHP - The Right Way](https://phptherightway.com/)
+- [ ] [PHP for Beginners](https://www.youtube.com/watch?v=U2lQWR6uIuo&list=PL3VM-unCzF8ipG50KDjnzhugceoSG3RTC)
+- [ ] [PHP For Absolute Beginners](https://www.youtube.com/watch?v=2eebptXfEvw)
+- [ ] [Full PHP 8 Tutorial - Learn PHP The Right Way In 2022](https://www.youtube.com/watch?v=sVbEyFZKgqk&list=PLr3d3QYzkw2xabQRUpcZ_IBk9W50M9pe-)
 
 # JavaScript
 
@@ -323,15 +323,15 @@ If you pick up JavaScript for the Backend, my personal recommendation would be t
 
 Visit the following resources to learn more:
 
-- [Visit Dedicated JavaScript Roadmap](/javascript)
-- [W3Schools – JavaScript Tutorial](https://www.w3schools.com/js/)
-- [The Modern JavaScript Tutorial](https://javascript.info/)
-- [Eloquent Javascript - Book](https://eloquentjavascript.net/)
-- [You Dont Know JS Yet (book series)](https://github.com/getify/You-Dont-Know-JS)
-- [Codecademy - Learn JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)
-- [JavaScript Crash Course for Beginners](https://youtu.be/hdI2bqOjy3c)
-- [Node.js Crash Course](https://www.youtube.com/watch?v=fBNz5xF-Kx4)
-- [Node.js Tutorial for Beginners](https://www.youtube.com/watch?v=TlB_eWDSMt4)
+- [ ] [Visit Dedicated JavaScript Roadmap](/javascript)
+- [ ] [W3Schools – JavaScript Tutorial](https://www.w3schools.com/js/)
+- [ ] [The Modern JavaScript Tutorial](https://javascript.info/)
+- [ ] [Eloquent Javascript - Book](https://eloquentjavascript.net/)
+- [ ] [You Dont Know JS Yet (book series)](https://github.com/getify/You-Dont-Know-JS)
+- [ ] [Codecademy - Learn JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)
+- [ ] [JavaScript Crash Course for Beginners](https://youtu.be/hdI2bqOjy3c)
+- [ ] [Node.js Crash Course](https://www.youtube.com/watch?v=fBNz5xF-Kx4)
+- [ ] [Node.js Tutorial for Beginners](https://www.youtube.com/watch?v=TlB_eWDSMt4)
 
 # Python
 
@@ -339,18 +339,18 @@ Python is a well known programming language which is both a strongly typed and a
 
 Visit the following resources to learn more:
 
-- [Visit Dedicated Python Roadmap](/python)
-- [Python Website](https://www.python.org/)
-- [Python Getting Started](https://www.python.org/about/gettingstarted/)
-- [Automate the Boring Stuff](https://automatetheboringstuff.com/)
-- [FreeCodeCamp.org - How to Learn Python ?](https://www.freecodecamp.org/news/how-to-learn-python/)
-- [Python principles - Python basics](https://pythonprinciples.com/)
-- [W3Schools - Python Tutorial](https://www.w3schools.com/python/)
-- [Python Crash Course](https://ehmatthes.github.io/pcc/)
-- [Codecademy - Learn Python 2](https://www.codecademy.com/learn/learn-python)
-- [An Introduction to Python for Non-Programmers](https://thenewstack.io/an-introduction-to-python-for-non-programmers/)
-- [Getting Started with Python and InfluxDB](https://thenewstack.io/getting-started-with-python-and-influxdb/)
-- [Python for Beginners - Learn Python in 1 Hour](https://www.youtube.com/watch?v=kqtD5dpn9C8&ab_channel=ProgrammingwithMosh)
+- [ ] [Visit Dedicated Python Roadmap](/python)
+- [ ] [Python Website](https://www.python.org/)
+- [ ] [Python Getting Started](https://www.python.org/about/gettingstarted/)
+- [ ] [Automate the Boring Stuff](https://automatetheboringstuff.com/)
+- [ ] [FreeCodeCamp.org - How to Learn Python ?](https://www.freecodecamp.org/news/how-to-learn-python/)
+- [ ] [Python principles - Python basics](https://pythonprinciples.com/)
+- [ ] [W3Schools - Python Tutorial](https://www.w3schools.com/python/)
+- [ ] [Python Crash Course](https://ehmatthes.github.io/pcc/)
+- [ ] [Codecademy - Learn Python 2](https://www.codecademy.com/learn/learn-python)
+- [ ] [An Introduction to Python for Non-Programmers](https://thenewstack.io/an-introduction-to-python-for-non-programmers/)
+- [ ] [Getting Started with Python and InfluxDB](https://thenewstack.io/getting-started-with-python-and-influxdb/)
+- [ ] [Python for Beginners - Learn Python in 1 Hour](https://www.youtube.com/watch?v=kqtD5dpn9C8&ab_channel=ProgrammingwithMosh)
 
 # Ruby
 
@@ -358,10 +358,10 @@ Ruby is a high-level, interpreted programming language that blends Perl, Smallta
 
 Visit the following resources to learn more:
 
-- [Ruby Website](https://www.ruby-lang.org/en/)
-- [Learn Ruby in 20 minutes](https://www.ruby-lang.org/en/documentation/quickstart/)
-- [Learn Ruby | Codecademy](https://www.codecademy.com/learn/learn-ruby)
-- [Ruby, An Introduction to a Programmer’s Best Friend](https://thenewstack.io/ruby-a-programmers-best-friend/)
+- [ ] [Ruby Website](https://www.ruby-lang.org/en/)
+- [ ] [Learn Ruby in 20 minutes](https://www.ruby-lang.org/en/documentation/quickstart/)
+- [ ] [Learn Ruby | Codecademy](https://www.codecademy.com/learn/learn-ruby)
+- [ ] [Ruby, An Introduction to a Programmer’s Best Friend](https://thenewstack.io/ruby-a-programmers-best-friend/)
 
 # C++
 
@@ -369,8 +369,8 @@ C++ is a powerful general-purpose programming language. It can be used to develo
 
 Visit the following resources to learn more:
 
-- [Learn Cpp](https://learncpp.com/)
-- [C++ Reference](https://en.cppreference.com/)
+- [ ] [Learn Cpp](https://learncpp.com/)
+- [ ] [C++ Reference](https://en.cppreference.com/)
 
 # Version Control Systems
 
@@ -378,8 +378,8 @@ Version control/source control systems allow developers to track and control cha
 
 Visit the following resources to learn more:
 
-- [Git](https://git-scm.com/)
-- [What is Version Control?](https://www.atlassian.com/git/tutorials/what-is-version-control)
+- [ ] [Git](https://git-scm.com/)
+- [ ] [What is Version Control?](https://www.atlassian.com/git/tutorials/what-is-version-control)
 
 # Git
 
@@ -387,10 +387,10 @@ Visit the following resources to learn more:
 
 Visit the following resources to learn more:
 
-- [Learn Git on the command line](https://github.com/jlord/git-it-electron)
-- [Version Control System Introduction](https://www.youtube.com/watch?v=zbKdDsNNOhg)
-- [Git & GitHub Crash Course For Beginners](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
-- [Learn Git in 20 Minutes](https://youtu.be/Y9XZQO1n_7c?t=21)
+- [ ] [Learn Git on the command line](https://github.com/jlord/git-it-electron)
+- [ ] [Version Control System Introduction](https://www.youtube.com/watch?v=zbKdDsNNOhg)
+- [ ] [Git & GitHub Crash Course For Beginners](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
+- [ ] [Learn Git in 20 Minutes](https://youtu.be/Y9XZQO1n_7c?t=21)
 
 # Git
 
@@ -398,19 +398,19 @@ Visit the following resources to learn more:
 
 Visit the following resources to learn more:
 
-- [Learn Git on the command line](https://github.com/jlord/git-it-electron)
-- [Version Control System Introduction](https://www.youtube.com/watch?v=zbKdDsNNOhg)
-- [Git & GitHub Crash Course For Beginners](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
-- [Learn Git in 20 Minutes](https://youtu.be/Y9XZQO1n_7c?t=21)# Repo Hosting Services
+- [ ] [Learn Git on the command line](https://github.com/jlord/git-it-electron)
+- [ ] [Version Control System Introduction](https://www.youtube.com/watch?v=zbKdDsNNOhg)
+- [ ] [Git & GitHub Crash Course For Beginners](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
+- [ ] [Learn Git in 20 Minutes](https://youtu.be/Y9XZQO1n_7c?t=21)# Repo Hosting Services
 
 When working on a team, you often need a remote place to put your code so others can access it, create their own branches, and create or review pull requests. These services often include issue tracking, code review, and continuous integration features. A few popular choices are GitHub, GitLab, BitBucket, and AWS CodeCommit.
 
 Visit the following resources to learn more:
 
-- [GitHub](https://github.com/features/)
-- [GitLab](https://about.gitlab.com/)
-- [BitBucket](https://bitbucket.org/product/guides/getting-started/overview)
-- [How to choose the best source code repository](https://bitbucket.org/product/code-repository)
+- [ ] [GitHub](https://github.com/features/)
+- [ ] [GitLab](https://about.gitlab.com/)
+- [ ] [BitBucket](https://bitbucket.org/product/guides/getting-started/overview)
+- [ ] [How to choose the best source code repository](https://bitbucket.org/product/code-repository)
 
 # GitHub
 
@@ -418,20 +418,20 @@ GitHub is a provider of Internet hosting for software development and version co
 
 Visit the following resources to learn more:
 
-- [GitHub Website](https://github.com)
-- [GitHub Documentation](https://docs.github.com/en/get-started/quickstart)
-- [How to Use Git in a Professional Dev Team](https://ooloo.io/project/github-flow)
-- [What is GitHub?](https://www.youtube.com/watch?v=w3jLJU7DT5E)
-- [Git vs. GitHub: Whats the difference?](https://www.youtube.com/watch?v=wpISo9TNjfU)
-- [Git and GitHub for Beginners](https://www.youtube.com/watch?v=RGOj5yH7evk)
-- [Git and GitHub - CS50 Beyond 2019](https://www.youtube.com/watch?v=eulnSXkhE7I)# GitLab
+- [ ] [GitHub Website](https://github.com)
+- [ ] [GitHub Documentation](https://docs.github.com/en/get-started/quickstart)
+- [ ] [How to Use Git in a Professional Dev Team](https://ooloo.io/project/github-flow)
+- [ ] [What is GitHub?](https://www.youtube.com/watch?v=w3jLJU7DT5E)
+- [ ] [Git vs. GitHub: Whats the difference?](https://www.youtube.com/watch?v=wpISo9TNjfU)
+- [ ] [Git and GitHub for Beginners](https://www.youtube.com/watch?v=RGOj5yH7evk)
+- [ ] [Git and GitHub - CS50 Beyond 2019](https://www.youtube.com/watch?v=eulnSXkhE7I)# GitLab
 
 GitLab is a provider of internet hosting for software development and version control using Git. It offers the distributed version control and source code management functionality of Git, plus its own features.
 
 Visit the following resources to learn more:
 
-- [GitLab Website](https://gitlab.com/)
-- [GitLab Documentation](https://docs.gitlab.com/)
+- [ ] [GitLab Website](https://gitlab.com/)
+- [ ] [GitLab Documentation](https://docs.gitlab.com/)
 
 # Bitbucket
 
@@ -441,12 +441,12 @@ Bitbucket offers hosting options via Bitbucket Cloud (Atlassian's servers), Bitb
 
 Visit the following resources to learn more:
 
-- [Bitbucket Website](https://bitbucket.org/product)
-- [Getting started with Bitbucket](https://bitbucket.org/product/guides/basics/bitbucket-interface)
-- [Using Git with Bitbucket Cloud](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud)
-- [A brief overview of Bitbucket](https://bitbucket.org/product/guides/getting-started/overview#a-brief-overview-of-bitbucket)
-- [Bitbucket tutorial | How to use Bitbucket Cloud](https://www.youtube.com/watch?v=M44nEyd_5To)
-- [Bitbucket Tutorial | Bitbucket for Beginners](https://www.youtube.com/watch?v=i5T-DB8tb4A)
+- [ ] [Bitbucket Website](https://bitbucket.org/product)
+- [ ] [Getting started with Bitbucket](https://bitbucket.org/product/guides/basics/bitbucket-interface)
+- [ ] [Using Git with Bitbucket Cloud](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud)
+- [ ] [A brief overview of Bitbucket](https://bitbucket.org/product/guides/getting-started/overview#a-brief-overview-of-bitbucket)
+- [ ] [Bitbucket tutorial | How to use Bitbucket Cloud](https://www.youtube.com/watch?v=M44nEyd_5To)
+- [ ] [Bitbucket Tutorial | Bitbucket for Beginners](https://www.youtube.com/watch?v=i5T-DB8tb4A)
 
 # Relational Databases
 
@@ -454,11 +454,11 @@ A relational database is **a type of database that stores and provides access to
 
 Visit the following resources to learn more:
 
-- [Relational Databases](https://www.ibm.com/cloud/learn/relational-databases)
-- [51 Years of Relational Databases](https://learnsql.com/blog/codd-article-databases/)
-- [Databases and SQL](https://www.edx.org/course/databases-5-sql)
-- [Intro To Relational Databases](https://www.udacity.com/course/intro-to-relational-databases--ud197)
-- [What is Relational Database](https://youtu.be/OqjJjpjDRLc)
+- [ ] [Relational Databases](https://www.ibm.com/cloud/learn/relational-databases)
+- [ ] [51 Years of Relational Databases](https://learnsql.com/blog/codd-article-databases/)
+- [ ] [Databases and SQL](https://www.edx.org/course/databases-5-sql)
+- [ ] [Intro To Relational Databases](https://www.udacity.com/course/intro-to-relational-databases--ud197)
+- [ ] [What is Relational Database](https://youtu.be/OqjJjpjDRLc)
 
 # PostgreSQL
 
@@ -466,12 +466,12 @@ PostgreSQL, also known as Postgres, is a free and open-source relational databas
 
 Visit the following resources to learn more:
 
-- [Visit Dedicated PostgreSQL DBA Roadmap](/postgresql-dba)
-- [Official Website](https://www.postgresql.org/)
-- [What is PostgreSQL](https://www.geeksforgeeks.org/what-is-postgresql-introduction/)
-- [Learn PostgreSQL - Full Tutorial for Beginners](https://www.postgresqltutorial.com/)
-- [Learn PostgreSQL Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=qw--VYLpxG4)
-- [Postgres tutorial for Beginners](https://www.youtube.com/watch?v=eMIxuk0nOkU)
+- [ ] [Visit Dedicated PostgreSQL DBA Roadmap](/postgresql-dba)
+- [ ] [Official Website](https://www.postgresql.org/)
+- [ ] [What is PostgreSQL](https://www.geeksforgeeks.org/what-is-postgresql-introduction/)
+- [ ] [Learn PostgreSQL - Full Tutorial for Beginners](https://www.postgresqltutorial.com/)
+- [ ] [Learn PostgreSQL Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=qw--VYLpxG4)
+- [ ] [Postgres tutorial for Beginners](https://www.youtube.com/watch?v=eMIxuk0nOkU)
 
 # MySQL
 
@@ -479,9 +479,9 @@ MySQL is an incredibly popular open source relational database management system
 
 Visit the following resources to learn more:
 
-- [MySQL website](https://www.mysql.com/)
-- [W3Schools - MySQL tutorial](https://www.w3schools.com/mySQl/default.asp)
-- [MySQL tutorial for beginners](https://www.youtube.com/watch?v=7S_tz1z_5bA)
+- [ ] [MySQL website](https://www.mysql.com/)
+- [ ] [W3Schools - MySQL tutorial](https://www.w3schools.com/mySQl/default.asp)
+- [ ] [MySQL tutorial for beginners](https://www.youtube.com/watch?v=7S_tz1z_5bA)
 
 # MariaDB
 
@@ -489,10 +489,10 @@ MariaDB server is a community developed fork of MySQL server. Started by core me
 
 Visit the following resources to learn more:
 
-- [MariaDB website](https://mariadb.org/)
-- [MariaDB vs MySQL](https://www.guru99.com/mariadb-vs-mysql.html)
-- [W3Schools - MariaDB tutorial](https://www.w3schools.blog/mariadb-tutorial)
-- [MariaDB Tutorial For Beginners in One Hour](https://www.youtube.com/watch?v=_AMj02sANpI)
+- [ ] [MariaDB website](https://mariadb.org/)
+- [ ] [MariaDB vs MySQL](https://www.guru99.com/mariadb-vs-mysql.html)
+- [ ] [W3Schools - MariaDB tutorial](https://www.w3schools.blog/mariadb-tutorial)
+- [ ] [MariaDB Tutorial For Beginners in One Hour](https://www.youtube.com/watch?v=_AMj02sANpI)
 
 # MS SQL
 
@@ -500,9 +500,9 @@ MS SQL (or Microsoft SQL Server) is the Microsoft developed relational database 
 
 Visit the following resources to learn more:
 
-- [MS SQL website](https://www.microsoft.com/en-ca/sql-server/)
-- [Tutorials for SQL Server](https://docs.microsoft.com/en-us/sql/sql-server/tutorials-for-sql-server-2016?view=sql-server-ver15)
-- [SQL Server tutorial for beginners](https://www.youtube.com/watch?v=-EPMOaV7h_Q)
+- [ ] [MS SQL website](https://www.microsoft.com/en-ca/sql-server/)
+- [ ] [Tutorials for SQL Server](https://docs.microsoft.com/en-us/sql/sql-server/tutorials-for-sql-server-2016?view=sql-server-ver15)
+- [ ] [SQL Server tutorial for beginners](https://www.youtube.com/watch?v=-EPMOaV7h_Q)
 
 # Oracle
 
@@ -510,9 +510,9 @@ Oracle Database Server or sometimes called Oracle RDBMS or even simply Oracle is
 
 Visit the following resources to learn more:
 
-- [Official Website](https://www.oracle.com/database/)
-- [Official Docs](https://docs.oracle.com/en/database/index.html)
-- [Oracle SQL Tutorial for Beginners](https://www.youtube.com/watch?v=ObbNGhcxXJA)
+- [ ] [Official Website](https://www.oracle.com/database/)
+- [ ] [Official Docs](https://docs.oracle.com/en/database/index.html)
+- [ ] [Oracle SQL Tutorial for Beginners](https://www.youtube.com/watch?v=ObbNGhcxXJA)
 
 # NoSQL databases
 
@@ -521,9 +521,9 @@ NoSQL is often described as a BASE system (**B**asically **A**vailable, **S**oft
 
 Visit the following resources to learn more:
 
-- [NoSQL Explained](https://www.mongodb.com/nosql-explained)
-- [How do NoSQL Databases work](https://www.youtube.com/watch?v=0buKQHokLK8)
-- [SQL vs NoSQL Explained](https://www.youtube.com/watch?v=ruz-vK8IesE)
+- [ ] [NoSQL Explained](https://www.mongodb.com/nosql-explained)
+- [ ] [How do NoSQL Databases work](https://www.youtube.com/watch?v=0buKQHokLK8)
+- [ ] [SQL vs NoSQL Explained](https://www.youtube.com/watch?v=ruz-vK8IesE)
 
 # Document databases
 
@@ -533,12 +533,12 @@ MongoDB is a source-available cross-platform document-oriented database program.
 
 Visit the following resources to learn more:
 
-- [MongoDB Website](https://www.mongodb.com/)
-- [MongoDB Documentation](https://docs.mongodb.com/)
-- [MongoDB Online Sandbox](https://mongoplayground.net/)
-- [Learning Path for MongoDB Developers](https://learn.mongodb.com/catalog)
-- [Dynamo DB Docs](https://docs.aws.amazon.com/dynamodb/index.html)
-- [Official Developers Guide](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Introduction.html)
+- [ ] [MongoDB Website](https://www.mongodb.com/)
+- [ ] [MongoDB Documentation](https://docs.mongodb.com/)
+- [ ] [MongoDB Online Sandbox](https://mongoplayground.net/)
+- [ ] [Learning Path for MongoDB Developers](https://learn.mongodb.com/catalog)
+- [ ] [Dynamo DB Docs](https://docs.aws.amazon.com/dynamodb/index.html)
+- [ ] [Official Developers Guide](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Introduction.html)
 
 # Column Databases
 
@@ -548,8 +548,8 @@ A **<u>wide-column database</u>** (sometimes referred to as a column database) i
 
 Visit the following resources to learn more:
 
-- [Apache Cassandra](https://cassandra.apache.org/_/index.html)
-- [Apache Cassandra Database - Full Course for Beginners](https://www.youtube.com/watch?v=J-cSy5MeMOA)
+- [ ] [Apache Cassandra](https://cassandra.apache.org/_/index.html)
+- [ ] [Apache Cassandra Database - Full Course for Beginners](https://www.youtube.com/watch?v=J-cSy5MeMOA)
 
 # Timeseries databases
 
@@ -559,8 +559,8 @@ InfluxDB was built from the ground up to be a purpose-built time series database
 
 Visit the following resources to learn more:
 
-- [InfluxDB Website](https://www.influxdata.com/)
-- [Time series database](https://www.influxdata.com/time-series-database/)
+- [ ] [InfluxDB Website](https://www.influxdata.com/)
+- [ ] [Time series database](https://www.influxdata.com/time-series-database/)
 
 # Realtime databases
 
@@ -576,7 +576,7 @@ Some popular KV databases include Redis, Memcached, and LevelDB. These databases
 
 Visit the following resources to learn more:
 
-- [Key-Value Databases - Wikipedia](https://en.wikipedia.org/wiki/Key-value_database)
+- [ ] [Key-Value Databases - Wikipedia](https://en.wikipedia.org/wiki/Key-value_database)
 
 # Databases
 
@@ -584,8 +584,8 @@ A database is a collection of useful data of one or more related organizations s
 
 Visit the following resources to learn more:
 
-- [Oracle: What is a Database?](https://www.oracle.com/database/what-is-database/)
-- [Prisma.io: What are Databases?](https://www.prisma.io/dataguide/intro/what-are-databases)
+- [ ] [Oracle: What is a Database?](https://www.oracle.com/database/what-is-database/)
+- [ ] [Prisma.io: What are Databases?](https://www.prisma.io/dataguide/intro/what-are-databases)
 
 # ORMs
 
@@ -593,8 +593,8 @@ Object-Relational Mapping (ORM) is a technique that lets you query and manipulat
 
 Visit the following resources to learn more:
 
-- [Object Relational Mapping - Wikipedia](https://en.wikipedia.org/wiki/Object–relational_mapping)
-- [What is an ORM and how should I use it?](https://stackoverflow.com/questions/1279613/what-is-an-orm-how-does-it-work-and-how-should-i-use-one)
+- [ ] [Object Relational Mapping - Wikipedia](https://en.wikipedia.org/wiki/Object–relational_mapping)
+- [ ] [What is an ORM and how should I use it?](https://stackoverflow.com/questions/1279613/what-is-an-orm-how-does-it-work-and-how-should-i-use-one)
 
 # ACID
 
@@ -602,9 +602,9 @@ ACID are the four properties of relational database systems that help in making 
 
 Visit the following resources to learn more:
 
-- [What is ACID Compliant Database?](https://retool.com/blog/whats-an-acid-compliant-database/)
-- [What is ACID Compliance?: Atomicity, Consistency, Isolation](https://fauna.com/blog/what-is-acid-compliance-atomicity-consistency-isolation)
-- [ACID Explained: Atomic, Consistent, Isolated & Durable](https://www.youtube.com/watch?v=yaQ5YMWkxq4)
+- [ ] [What is ACID Compliant Database?](https://retool.com/blog/whats-an-acid-compliant-database/)
+- [ ] [What is ACID Compliance?: Atomicity, Consistency, Isolation](https://fauna.com/blog/what-is-acid-compliance-atomicity-consistency-isolation)
+- [ ] [ACID Explained: Atomic, Consistent, Isolated & Durable](https://www.youtube.com/watch?v=yaQ5YMWkxq4)
 
 # Transactions
 
@@ -612,7 +612,7 @@ In short, a database transaction is a sequence of multiple operations performed 
 
 Visit the following resources to learn more:
 
-- [What are Transactions?](https://fauna.com/blog/database-transaction)
+- [ ] [What are Transactions?](https://fauna.com/blog/database-transaction)
 
 # N plus one problem
 
@@ -620,7 +620,7 @@ The N+1 query problem happens when your code executes N additional query stateme
 
 Visit the following resources to learn more:
 
-- [In Detail Explanation of N+1 Problem](https://medium.com/doctolib/understanding-and-fixing-n-1-query-30623109fe89)
+- [ ] [In Detail Explanation of N+1 Problem](https://medium.com/doctolib/understanding-and-fixing-n-1-query-30623109fe89)
 
 # Database Normalization
 
@@ -630,9 +630,9 @@ Normalization entails organizing the columns (attributes) and tables (relations)
 
 Visit the following resources to learn more:
 
-- [What is Normalization in DBMS (SQL)? 1NF, 2NF, 3NF, BCNF Database with Example](https://www.guru99.com/database-normalization.html)
-- [Database normalization](https://en.wikipedia.org/wiki/Database_normalization)
-- [Basic Concept of Database Normalization](https://www.youtube.com/watch?v=xoTyrdT9SZI)# Failure Modes
+- [ ] [What is Normalization in DBMS (SQL)? 1NF, 2NF, 3NF, BCNF Database with Example](https://www.guru99.com/database-normalization.html)
+- [ ] [Database normalization](https://en.wikipedia.org/wiki/Database_normalization)
+- [ ] [Basic Concept of Database Normalization](https://www.youtube.com/watch?v=xoTyrdT9SZI)# Failure Modes
 
 There are several different failure modes that can occur in a database, including:
 
@@ -665,8 +665,8 @@ API is the acronym for Application Programming Interface, which is a software in
 
 Visit the following resources to learn more:
 
-- [What is an API?](https://aws.amazon.com/what-is/api/)
-- [What is an API?](https://www.youtube.com/watch?v=s7wmiS2mSXY)
+- [ ] [What is an API?](https://aws.amazon.com/what-is/api/)
+- [ ] [What is an API?](https://www.youtube.com/watch?v=s7wmiS2mSXY)
 
 # REST
 
@@ -674,18 +674,18 @@ REST, or REpresentational State Transfer, is an architectural style for providin
 
 Visit the following resources to learn more:
 
-- [What is REST?](https://www.codecademy.com/article/what-is-rest)
-- [What is a REST API?](https://www.redhat.com/en/topics/api/what-is-a-rest-api)
-- [Roy Fieldings dissertation chapter, Representational State Transfer (REST)](https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm)
-- [Learn REST: A RESTful Tutorial](https://restapitutorial.com/)# JSON APIs
+- [ ] [What is REST?](https://www.codecademy.com/article/what-is-rest)
+- [ ] [What is a REST API?](https://www.redhat.com/en/topics/api/what-is-a-rest-api)
+- [ ] [Roy Fieldings dissertation chapter, Representational State Transfer (REST)](https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm)
+- [ ] [Learn REST: A RESTful Tutorial](https://restapitutorial.com/)# JSON APIs
 
 JSON or JavaScript Object Notation is an encoding scheme that is designed to eliminate the need for an ad-hoc code for each application to communicate with servers that communicate in a defined way. JSON API module exposes an implementation for data stores and data structures, such as entity types, bundles, and fields.
 
 Visit the following resources to learn more:
 
-- [Official Website](https://jsonapi.org/)
-- [Official Docs](https://jsonapi.org/implementations/)
-- [JSON API: Explained in 4 minutes](https://www.youtube.com/watch?v=N-4prIh7t38)
+- [ ] [Official Website](https://jsonapi.org/)
+- [ ] [Official Docs](https://jsonapi.org/implementations/)
+- [ ] [JSON API: Explained in 4 minutes](https://www.youtube.com/watch?v=N-4prIh7t38)
 
 # SOAP
 
@@ -693,7 +693,7 @@ Simple Object Access Protocol (SOAP) is a message protocol for exchanging inform
 
 Visit the following resources to learn more:
 
-- [w3school SOAP explanation](https://www.w3schools.com/xml/xml_soap.asp)
+- [ ] [w3school SOAP explanation](https://www.w3schools.com/xml/xml_soap.asp)
 
 # gRPC
 
@@ -703,10 +703,10 @@ RPC stands for Remote Procedure Call, there's an ongoing debate on what the g st
 
 Visit the following resources to learn more:
 
-- [gRPC Website](https://grpc.io/)
-- [gRPC Docs](https://grpc.io/docs/)
-- [What Is GRPC?](https://www.wallarm.com/what/the-concept-of-grpc)
-- [What Is GRPC?](https://www.youtube.com/watch?v=hVrwuMnCtok)
+- [ ] [gRPC Website](https://grpc.io/)
+- [ ] [gRPC Docs](https://grpc.io/docs/)
+- [ ] [What Is GRPC?](https://www.wallarm.com/what/the-concept-of-grpc)
+- [ ] [What Is GRPC?](https://www.youtube.com/watch?v=hVrwuMnCtok)
 
 # Hateoas
 
@@ -714,7 +714,7 @@ HATEOAS is an acronym for <b>H</b>ypermedia <b>A</b>s <b>T</b>he <b>E</b>ngine <
 
 Visit the following resources to learn more:
 
-- [Oktane17: Designing Beautiful REST + JSON APIs (3:56 - 5:57)](https://youtu.be/MiOSzpfP1Ww?t=236)
+- [ ] [Oktane17: Designing Beautiful REST + JSON APIs (3:56 - 5:57)](https://youtu.be/MiOSzpfP1Ww?t=236)
 
 # Open api spec
 
@@ -724,10 +724,10 @@ An OpenAPI definition can then be used by documentation generation tools to disp
 
 Visit the following resources to learn more:
 
-- [OpenAPI Specification Website](https://swagger.io/specification/)
-- [Open API Live Editor](https://swagger.io/tools/swagger-editor/)
-- [Official training guide](https://swagger.io/docs/specification/about/)
-- [OpenAPI 3.0: How to Design and Document APIs with the Latest OpenAPI Specification 3.0](https://www.youtube.com/watch?v=6kwmW_p_Tig)
+- [ ] [OpenAPI Specification Website](https://swagger.io/specification/)
+- [ ] [Open API Live Editor](https://swagger.io/tools/swagger-editor/)
+- [ ] [Official training guide](https://swagger.io/docs/specification/about/)
+- [ ] [OpenAPI 3.0: How to Design and Document APIs with the Latest OpenAPI Specification 3.0](https://www.youtube.com/watch?v=6kwmW_p_Tig)
 
 # GraphQL
 
@@ -741,7 +741,7 @@ GraphQL is widely used in modern web and mobile applications, and it is supporte
 
 Visit the following resources to learn more:
 
-- [GraphQL Official Website](https://graphql.org/)
+- [ ] [GraphQL Official Website](https://graphql.org/)
 
 # Databases
 
@@ -749,8 +749,8 @@ A database is a collection of useful data of one or more related organizations s
 
 Visit the following resources to learn more:
 
-- [Oracle: What is a Database?](https://www.oracle.com/database/what-is-database/)
-- [Prisma.io: What are Databases?](https://www.prisma.io/dataguide/intro/what-are-databases)
+- [ ] [Oracle: What is a Database?](https://www.oracle.com/database/what-is-database/)
+- [ ] [Prisma.io: What are Databases?](https://www.prisma.io/dataguide/intro/what-are-databases)
 
 # Database Indexes
 
@@ -758,8 +758,8 @@ An index is a data structure that you build and assign on top of an existing tab
 
 Visit the following resources to learn more:
 
-- [An in-depth look at Database Indexing](https://www.freecodecamp.org/news/database-indexing-at-a-glance-bb50809d48bd/)
-- [Database Indexing Explained](https://www.youtube.com/watch?v=-qNSXK7s7_w)
+- [ ] [An in-depth look at Database Indexing](https://www.freecodecamp.org/news/database-indexing-at-a-glance-bb50809d48bd/)
+- [ ] [Database Indexing Explained](https://www.youtube.com/watch?v=-qNSXK7s7_w)
 
 # Data Replication
 
@@ -767,7 +767,7 @@ Data replication is the process by which data residing on a physical/virtual ser
 
 Visit the following resources to learn more:
 
-- [What is Data Replication?](https://youtu.be/fUrKt-AQYtE)
+- [ ] [What is Data Replication?](https://youtu.be/fUrKt-AQYtE)
 
 # Sharding strategies
 
@@ -775,9 +775,9 @@ Sharding strategy is a technique to split a large dataset into smaller chunks (l
 
 Visit the following resources to learn more:
 
-- [Database Sharding – System Design Interview Concept](https://www.geeksforgeeks.org/database-sharding-a-system-design-concept/)
-- [Wikipedia - Sharding in Datbase Architectures](https://en.wikipedia.org/wiki/Shard_(database_architecture))
-- [How sharding a database can make it faster](https://stackoverflow.blog/2022/03/14/how-sharding-a-database-can-make-it-faster/)
+- [ ] [Database Sharding – System Design Interview Concept](https://www.geeksforgeeks.org/database-sharding-a-system-design-concept/)
+- [ ] [Wikipedia - Sharding in Datbase Architectures](https://en.wikipedia.org/wiki/Shard_(database_architecture))
+- [ ] [How sharding a database can make it faster](https://stackoverflow.blog/2022/03/14/how-sharding-a-database-can-make-it-faster/)
 
 # CAP Theorem
 
@@ -785,11 +785,11 @@ CAP is an acronym that stands for Consistency, Availability and Partition Tolera
 
 Visit the following resources to learn more:
 
-- [What is CAP Theorem?](https://www.bmc.com/blogs/cap-theorem/)
-- [CAP Theorem - Wikipedia](https://en.wikipedia.org/wiki/CAP_theorem)
-- [An Illustrated Proof of the CAP Theorem](https://mwhittaker.github.io/blog/an_illustrated_proof_of_the_cap_theorem/)
-- [CAP Theorem and its applications in NoSQL Databases](https://www.ibm.com/uk-en/cloud/learn/cap-theorem)
-- [What is CAP Theorem?](https://www.youtube.com/watch?v=_RbsFXWRZ10)
+- [ ] [What is CAP Theorem?](https://www.bmc.com/blogs/cap-theorem/)
+- [ ] [CAP Theorem - Wikipedia](https://en.wikipedia.org/wiki/CAP_theorem)
+- [ ] [An Illustrated Proof of the CAP Theorem](https://mwhittaker.github.io/blog/an_illustrated_proof_of_the_cap_theorem/)
+- [ ] [CAP Theorem and its applications in NoSQL Databases](https://www.ibm.com/uk-en/cloud/learn/cap-theorem)
+- [ ] [What is CAP Theorem?](https://www.youtube.com/watch?v=_RbsFXWRZ10)
 
 # Caching
 
@@ -803,10 +803,10 @@ Serving assets and contents via a CDN reduces bandwidth on website hosting, prov
 
 Visit the following resources to learn more:
 
-- [CloudFlare - What is a CDN? | How do CDNs work?](https://www.cloudflare.com/en-ca/learning/cdn/what-is-a-cdn/)
-- [Wikipedia - Content Delivery Network](https://en.wikipedia.org/wiki/Content_delivery_network)
-- [What is Cloud CDN?](https://www.youtube.com/watch?v=841kyd_mfH0)
-- [What is a Content Delivery Network (CDN)?](https://www.youtube.com/watch?v=Bsq5cKkS33I)
+- [ ] [CloudFlare - What is a CDN? | How do CDNs work?](https://www.cloudflare.com/en-ca/learning/cdn/what-is-a-cdn/)
+- [ ] [Wikipedia - Content Delivery Network](https://en.wikipedia.org/wiki/Content_delivery_network)
+- [ ] [What is Cloud CDN?](https://www.youtube.com/watch?v=841kyd_mfH0)
+- [ ] [What is a Content Delivery Network (CDN)?](https://www.youtube.com/watch?v=Bsq5cKkS33I)
 
 # Client Side Caching
 
@@ -814,7 +814,7 @@ Client-side caching is the storage of network data to a local cache for future r
 
 Visit the following resources to learn more:
 
-- [Everything you need to know about HTTP Caching](https://www.youtube.com/watch?v=HiBDZgTNpXY)
+- [ ] [Everything you need to know about HTTP Caching](https://www.youtube.com/watch?v=HiBDZgTNpXY)
 
 # Web Security Knowledge
 
@@ -822,12 +822,12 @@ Web security refers to the protective measures taken by the developers to protec
 
 Visit the following resources to learn more:
 
-- [Why HTTPS Matters](https://developers.google.com/web/fundamentals/security/encrypt-in-transit/why-https)
-- [Wikipedia - OWASP](https://en.wikipedia.org/wiki/OWASP)
-- [OWASP Web Application Security Testing Checklist](https://github.com/0xRadi/OWASP-Web-Checklist)
-- [OWASP Top 10 Security Risks](https://sucuri.net/guides/owasp-top-10-security-vulnerabilities-2021/)
-- [OWASP Cheatsheets](https://cheatsheetseries.owasp.org/cheatsheets/AJAX_Security_Cheat_Sheet.html)
-- [Content Security Policy (CSP)](https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP)
+- [ ] [Why HTTPS Matters](https://developers.google.com/web/fundamentals/security/encrypt-in-transit/why-https)
+- [ ] [Wikipedia - OWASP](https://en.wikipedia.org/wiki/OWASP)
+- [ ] [OWASP Web Application Security Testing Checklist](https://github.com/0xRadi/OWASP-Web-Checklist)
+- [ ] [OWASP Top 10 Security Risks](https://sucuri.net/guides/owasp-top-10-security-vulnerabilities-2021/)
+- [ ] [OWASP Cheatsheets](https://cheatsheetseries.owasp.org/cheatsheets/AJAX_Security_Cheat_Sheet.html)
+- [ ] [Content Security Policy (CSP)](https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP)
 
 # MD5
 
@@ -835,9 +835,9 @@ MD5 (Message-Digest Algorithm 5) is a hash function that is currently advised no
 
 Visit the following resources to learn more:
 
-- [Wikipedia - MD5](https://en.wikipedia.org/wiki/MD5)
-- [What is MD5?](https://www.techtarget.com/searchsecurity/definition/MD5)
-- [Why is MD5 not safe?](https://infosecscout.com/why-md5-is-not-safe/)
+- [ ] [Wikipedia - MD5](https://en.wikipedia.org/wiki/MD5)
+- [ ] [What is MD5?](https://www.techtarget.com/searchsecurity/definition/MD5)
+- [ ] [Why is MD5 not safe?](https://infosecscout.com/why-md5-is-not-safe/)
 
 # SHA family
 
@@ -850,9 +850,9 @@ SHA (Secure Hash Algorithms) is a family of cryptographic hash functions created
 
 Visit the following resources to learn more:
 
-- [Wikipedia - SHA-1](https://en.wikipedia.org/wiki/SHA-1)
-- [Wikipedia - SHA-2](https://en.wikipedia.org/wiki/SHA-2)
-- [Wikipedia - SHA-3](https://en.wikipedia.org/wiki/SHA-3)
+- [ ] [Wikipedia - SHA-1](https://en.wikipedia.org/wiki/SHA-1)
+- [ ] [Wikipedia - SHA-2](https://en.wikipedia.org/wiki/SHA-2)
+- [ ] [Wikipedia - SHA-3](https://en.wikipedia.org/wiki/SHA-3)
 
 # Bcrypt
 
@@ -860,9 +860,9 @@ bcrypt is a password hashing function, that has been proven reliable and secure 
 
 Visit the following resources to learn more:
 
-- [bcrypts npm package](https://www.npmjs.com/package/bcrypt)
-- [Understanding bcrypt](https://auth0.com/blog/hashing-in-action-understanding-bcrypt/)
-- [bcrypt explained](https://www.youtube.com/watch?v=O6cmuiTBZVs)
+- [ ] [bcrypts npm package](https://www.npmjs.com/package/bcrypt)
+- [ ] [Understanding bcrypt](https://auth0.com/blog/hashing-in-action-understanding-bcrypt/)
+- [ ] [bcrypt explained](https://www.youtube.com/watch?v=O6cmuiTBZVs)
 
 # Scrypt
 
@@ -870,7 +870,7 @@ Scrypt (pronounced "ess crypt") is a password hashing function (like bcrypt). It
 
 Visit the following resources to learn more:
 
-- [Wikipedia - Scrypt](https://en.wikipedia.org/wiki/Scrypt)
+- [ ] [Wikipedia - Scrypt](https://en.wikipedia.org/wiki/Scrypt)
 
 # Content Security Policy
 
@@ -878,8 +878,8 @@ Content Security Policy is a computer security standard introduced to prevent cr
 
 Visit the following resources to learn more:
 
-- [MDN — Content Security Policy (CSP)](https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP)
-- [Google Devs — Content Security Policy (CSP)](https://developers.google.com/web/fundamentals/security/csp)
+- [ ] [MDN — Content Security Policy (CSP)](https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP)
+- [ ] [Google Devs — Content Security Policy (CSP)](https://developers.google.com/web/fundamentals/security/csp)
 
 # HTTPS
 
@@ -891,22 +891,22 @@ The handshake phase uses a particular kind of cryptography, called asymmetric cr
 
 Visit the following resources to learn more:
 
-- [What is HTTPS?](https://www.cloudflare.com/en-gb/learning/ssl/what-is-https/)
-- [Why HTTPS Matters](https://developers.google.com/web/fundamentals/security/encrypt-in-transit/why-https)
-- [Enabling HTTPS on Your Servers](https://developers.google.com/web/fundamentals/security/encrypt-in-transit/enable-https)
-- [How HTTPS works (comic)](https://howhttps.works/)
-- [SSL, TLS, HTTP, HTTPS Explained](https://www.youtube.com/watch?v=hExRDVZHhig)
-- [HTTPS — Stories from the field](https://www.youtube.com/watch?v=GoXgl9r0Kjk)
-- [HTTPS explained with carrier pigeons](https://baida.dev/articles/https-explained-with-carrier-pigeons)
+- [ ] [What is HTTPS?](https://www.cloudflare.com/en-gb/learning/ssl/what-is-https/)
+- [ ] [Why HTTPS Matters](https://developers.google.com/web/fundamentals/security/encrypt-in-transit/why-https)
+- [ ] [Enabling HTTPS on Your Servers](https://developers.google.com/web/fundamentals/security/encrypt-in-transit/enable-https)
+- [ ] [How HTTPS works (comic)](https://howhttps.works/)
+- [ ] [SSL, TLS, HTTP, HTTPS Explained](https://www.youtube.com/watch?v=hExRDVZHhig)
+- [ ] [HTTPS — Stories from the field](https://www.youtube.com/watch?v=GoXgl9r0Kjk)
+- [ ] [HTTPS explained with carrier pigeons](https://baida.dev/articles/https-explained-with-carrier-pigeons)
 
 # Cors
 
 Cross-Origin Resource Sharing (CORS) is an HTTP-header based mechanism that allows a server to indicate any origins (domain, scheme, or port) other than its own from which a browser should permit loading resources.
 Visit the following resources to learn more:
 
-- [Cross-Origin Resource Sharing (CORS)](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
-- [CORS in 100 Seconds](https://www.youtube.com/watch?v=4KHiSt0oLJ0)
-- [CORS in 6 minutes](https://www.youtube.com/watch?v=PNtFSVU-YTI)
+- [ ] [Cross-Origin Resource Sharing (CORS)](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
+- [ ] [CORS in 100 Seconds](https://www.youtube.com/watch?v=4KHiSt0oLJ0)
+- [ ] [CORS in 6 minutes](https://www.youtube.com/watch?v=PNtFSVU-YTI)
 
 # Server Security
 
@@ -928,8 +928,8 @@ Secure Sockets Layer (SSL) and Transport Layer Security (TLS) are cryptographic 
 
 Visit the following resources to learn more:
 
-- [Wikipedia - SSL/TLS](https://en.wikipedia.org/wiki/Transport_Layer_Security)
-- [Cloudflare - What is SSL?](https://www.cloudflare.com/learning/ssl/what-is-ssl/)
+- [ ] [Wikipedia - SSL/TLS](https://en.wikipedia.org/wiki/Transport_Layer_Security)
+- [ ] [Cloudflare - What is SSL?](https://www.cloudflare.com/learning/ssl/what-is-ssl/)
 
 # OWASP Security Risks
 
@@ -937,10 +937,10 @@ OWASP or Open Web Application Security Project is an online community that produ
 
 Visit the following resources to learn more:
 
-- [Wikipedia - OWASP](https://en.wikipedia.org/wiki/OWASP)
-- [OWASP Application Security Verification Standard](https://github.com/OWASP/ASVS)
-- [OWASP Top 10 Security Risks](https://cheatsheetseries.owasp.org/IndexTopTen.html)
-- [OWASP Cheatsheets](https://cheatsheetseries.owasp.org/cheatsheets/AJAX_Security_Cheat_Sheet.html)
+- [ ] [Wikipedia - OWASP](https://en.wikipedia.org/wiki/OWASP)
+- [ ] [OWASP Application Security Verification Standard](https://github.com/OWASP/ASVS)
+- [ ] [OWASP Top 10 Security Risks](https://cheatsheetseries.owasp.org/IndexTopTen.html)
+- [ ] [OWASP Cheatsheets](https://cheatsheetseries.owasp.org/cheatsheets/AJAX_Security_Cheat_Sheet.html)
 
 # Testing
 
@@ -948,8 +948,8 @@ A key to building software that meets requirements without defects is testing. S
 
 Visit the following resources to learn more:
 
-- [What is Software Testing?](https://www.guru99.com/software-testing-introduction-importance.html)
-- [Testing Pyramid](https://www.browserstack.com/guide/testing-pyramid-for-test-automation)
+- [ ] [What is Software Testing?](https://www.guru99.com/software-testing-introduction-importance.html)
+- [ ] [Testing Pyramid](https://www.browserstack.com/guide/testing-pyramid-for-test-automation)
 
 # Integration Testing
 
@@ -957,9 +957,9 @@ Integration testing is a broad category of tests where multiple software modules
 
 Visit the following resources to learn more:
 
-- [Integration Testing](https://www.guru99.com/integration-testing.html)
-- [How to Integrate and Test Your Tech Stack](https://thenewstack.io/how-to-integrate-and-test-your-tech-stack/)
-- [What is Integration Testing?](https://youtu.be/QYCaaNz8emY)
+- [ ] [Integration Testing](https://www.guru99.com/integration-testing.html)
+- [ ] [How to Integrate and Test Your Tech Stack](https://thenewstack.io/how-to-integrate-and-test-your-tech-stack/)
+- [ ] [What is Integration Testing?](https://youtu.be/QYCaaNz8emY)
 
 # Unit Testing
 
@@ -967,8 +967,8 @@ Unit testing is where individual **units** (modules, functions/methods, routines
 
 Visit the following resources to learn more:
 
-- [Unit Testing Tutorial](https://www.guru99.com/unit-testing-guide.html)
-- [What is Unit Testing?](https://youtu.be/3kzHmaeozDI)
+- [ ] [Unit Testing Tutorial](https://www.guru99.com/unit-testing-guide.html)
+- [ ] [What is Unit Testing?](https://youtu.be/3kzHmaeozDI)
 
 # Functional Testing
 
@@ -977,8 +977,8 @@ It contrasts with non-functional testing, which includes performance, load, scal
 
 Visit the following resources to learn more:
 
-- [What is Functional Testing?](https://www.guru99.com/functional-testing.html)
-- [Functional Testing vs Non-Functional Testing](https://youtu.be/j_79AXkG4PY)
+- [ ] [What is Functional Testing?](https://www.guru99.com/functional-testing.html)
+- [ ] [Functional Testing vs Non-Functional Testing](https://youtu.be/j_79AXkG4PY)
 
 # Design and development principles# Design Patterns
 
@@ -990,9 +990,9 @@ Design patterns are typical solutions to commonly occurring problems in software
 
 Visit the following resources to learn more:
 
-- [Design Patterns for Humans](https://github.com/kamranahmedse/design-patterns-for-humans)
-- [GOF design patterns](https://springframework.guru/gang-of-four-design-patterns/)
-- [Design Patterns](https://refactoring.guru/design-patterns)
+- [ ] [Design Patterns for Humans](https://github.com/kamranahmedse/design-patterns-for-humans)
+- [ ] [GOF design patterns](https://springframework.guru/gang-of-four-design-patterns/)
+- [ ] [Design Patterns](https://refactoring.guru/design-patterns)
 
 # Domain-Driven Design
 
@@ -1008,7 +1008,7 @@ DDD connects the implementation to an evolving model and it is predicated on the
 
 Visit the following resources to learn more:
 
-- [Domain Driven Design Quickly](https://matfrs2.github.io/RS2/predavanja/literatura/Avram%20A,%20Marinescu%20F.%20-%20Domain%20Driven%20Design%20Quickly.pdf)
+- [ ] [Domain Driven Design Quickly](https://matfrs2.github.io/RS2/predavanja/literatura/Avram%20A,%20Marinescu%20F.%20-%20Domain%20Driven%20Design%20Quickly.pdf)
 
 # Test Driven Development
 
@@ -1016,9 +1016,9 @@ Test driven development (TDD) is the process of writing tests for software's req
 
 Visit the following resources to learn more:
 
-- [What is Test Driven Development (TDD)?](https://www.guru99.com/test-driven-development.html)
-- [Test-driven development](https://www.ibm.com/garage/method/practices/code/practice_test_driven_development/)
-- [Agile in Practice: Test Driven Development](https://youtu.be/uGaNkTahrIw)
+- [ ] [What is Test Driven Development (TDD)?](https://www.guru99.com/test-driven-development.html)
+- [ ] [Test-driven development](https://www.ibm.com/garage/method/practices/code/practice_test_driven_development/)
+- [ ] [Agile in Practice: Test Driven Development](https://youtu.be/uGaNkTahrIw)
 
 # CQRS
 
@@ -1026,7 +1026,7 @@ CQRS, or command query responsibility segregation, defines an architectural patt
 
 Visit the following resources to learn more:
 
-- [CQRS Pattern](https://docs.microsoft.com/en-us/azure/architecture/patterns/cqrs)
+- [ ] [CQRS Pattern](https://docs.microsoft.com/en-us/azure/architecture/patterns/cqrs)
 
 # Event Sourcing
 
@@ -1038,7 +1038,7 @@ Event sourcing is often used in conjunction with other patterns, such as Command
 
 Visit the following resources to learn more:
 
-- [Event Sourcing - Martin Fowler](https://martinfowler.com/eaaDev/EventSourcing.html)
+- [ ] [Event Sourcing - Martin Fowler](https://martinfowler.com/eaaDev/EventSourcing.html)
 
 # Architectural Patterns
 
@@ -1046,7 +1046,7 @@ An architectural pattern is a general, reusable solution to a commonly occurring
 
 Visit the following resources to learn more:
 
-- [Architectural Patterns in a nutshell](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013)
+- [ ] [Architectural Patterns in a nutshell](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013)
 
 # Monolithic Apps
 
@@ -1054,8 +1054,8 @@ Monolithic architecture is a pattern in which an application handles requests, e
 
 Visit the following resources to learn more:
 
-- [Pattern: Monolithic Architecture](https://microservices.io/patterns/monolithic.html)
-- [Monolithic Architecture - Advantages & Disadvantages](https://datamify.medium.com/monolithic-architecture-advantages-and-disadvantages-e71a603eec89)
+- [ ] [Pattern: Monolithic Architecture](https://microservices.io/patterns/monolithic.html)
+- [ ] [Monolithic Architecture - Advantages & Disadvantages](https://datamify.medium.com/monolithic-architecture-advantages-and-disadvantages-e71a603eec89)
 
 # Microservices
 
@@ -1063,11 +1063,11 @@ Microservice architecture is a pattern in which highly cohesive, loosely coupled
 
 Visit the following resources to learn more:
 
-- [Pattern: Microservice Architecture](https://microservices.io/patterns/microservices.html)
-- [What is Microservices?](https://smartbear.com/solutions/microservices/)
-- [Microservices 101](https://thenewstack.io/microservices-101/)
-- [Primer: Microservices Explained](https://thenewstack.io/primer-microservices-explained/)
-- [Articles about Microservices](https://thenewstack.io/category/microservices/)
+- [ ] [Pattern: Microservice Architecture](https://microservices.io/patterns/microservices.html)
+- [ ] [What is Microservices?](https://smartbear.com/solutions/microservices/)
+- [ ] [Microservices 101](https://thenewstack.io/microservices-101/)
+- [ ] [Primer: Microservices Explained](https://thenewstack.io/primer-microservices-explained/)
+- [ ] [Articles about Microservices](https://thenewstack.io/category/microservices/)
 
 # SOA
 
@@ -1075,7 +1075,7 @@ SOA, or service-oriented architecture, defines a way to make software components
 
 Visit the following resources to learn more:
 
-- [Reference Architecture Foundation for Service Oriented Architecture](http://docs.oasis-open.org/soa-rm/soa-ra/v1.0/soa-ra.html)
+- [ ] [Reference Architecture Foundation for Service Oriented Architecture](http://docs.oasis-open.org/soa-rm/soa-ra/v1.0/soa-ra.html)
 
 # Serverless
 
@@ -1083,9 +1083,9 @@ Serverless is an architecture in which a developer builds and runs applications 
 
 Visit the following resources to learn more:
 
-- [Serverless](https://www.ibm.com/cloud/learn/serverless)
-- [AWS Services](https://aws.amazon.com/serverless/)
-- [Serverless Computing in 100 Seconds](https://www.youtube.com/watch?v=W_VV2Fx32_Y&ab_channel=Fireship)
+- [ ] [Serverless](https://www.ibm.com/cloud/learn/serverless)
+- [ ] [AWS Services](https://aws.amazon.com/serverless/)
+- [ ] [Serverless Computing in 100 Seconds](https://www.youtube.com/watch?v=W_VV2Fx32_Y&ab_channel=Fireship)
 
 # Service Mesh
 
@@ -1099,7 +1099,7 @@ Service meshes are commonly used in cloud-native architectures and are often man
 
 Visit the following resources to learn more:
 
-- [What is a Service Mesh?](https://www.nginx.com/blog/what-is-a-service-mesh/)# Twelve-Factor Apps
+- [ ] [What is a Service Mesh?](https://www.nginx.com/blog/what-is-a-service-mesh/)# Twelve-Factor Apps
 
 The Twelve-Factor App is a methodology for building scalable and maintainable software-as-a-service (SaaS) applications. It is based on a set of best practices that were identified by the authors of the methodology as being essential for building modern, cloud-native applications.
 
@@ -1122,7 +1122,7 @@ The Twelve-Factor App methodology is widely adopted by developers of SaaS applic
 
 Visit the following resources to learn more:
 
-- [The Twelve-Factor App](https://12factor.net/)
+- [ ] [The Twelve-Factor App](https://12factor.net/)
 
 # Search engines# Elasticsearch
 
@@ -1130,8 +1130,8 @@ Elastic search at its core is a document-oriented search engine. It is a documen
 
 Visit the following resources to learn more:
 
-- [Elasticsearch Website](https://www.elastic.co/elasticsearch/)
-- [Elasticsearch Documentation](https://www.elastic.co/guide/index.html)
+- [ ] [Elasticsearch Website](https://www.elastic.co/elasticsearch/)
+- [ ] [Elasticsearch Documentation](https://www.elastic.co/guide/index.html)
 
 # Solr
 
@@ -1139,8 +1139,8 @@ Solr is highly reliable, scalable and fault tolerant, providing distributed inde
 
 Visit the following resources to learn more:
 
-- [Official Website](https://solr.apache.org/)
-- [Official Documentation](https://solr.apache.org/resources.html#documentation)
+- [ ] [Official Website](https://solr.apache.org/)
+- [ ] [Official Documentation](https://solr.apache.org/resources.html#documentation)
 
 # Message Brokers
 
@@ -1148,7 +1148,7 @@ Message brokers are an inter-application communication technology to help build 
 
 Visit the following resources to learn more:
 
-- [Introduction to Message Brokers](https://www.youtube.com/watch?v=57Qr9tk6Uxc)
+- [ ] [Introduction to Message Brokers](https://www.youtube.com/watch?v=57Qr9tk6Uxc)
 
 # RabbitMQ
 
@@ -1156,8 +1156,8 @@ With tens of thousands of users, RabbitMQ is one of the most popular open-source
 
 Visit the following resources to learn more:
 
-- [RabbitMQ Tutorials](https://www.rabbitmq.com/getstarted.html)
-- [RabbitMQ Tutorial - Message Queues and Distributed Systems](https://www.youtube.com/watch?v=nFxjaVmFj5E)
+- [ ] [RabbitMQ Tutorials](https://www.rabbitmq.com/getstarted.html)
+- [ ] [RabbitMQ Tutorial - Message Queues and Distributed Systems](https://www.youtube.com/watch?v=nFxjaVmFj5E)
 
 # Kafka
 
@@ -1165,8 +1165,8 @@ Apache Kafka is an open-source distributed event streaming platform used by thou
 
 Visit the following resources to learn more:
 
-- [Apache Kafka quickstart](https://kafka.apache.org/quickstart)
-- [Apache Kafka Fundamentals](https://www.youtube.com/watch?v=B5j3uNBH8X4)
+- [ ] [Apache Kafka quickstart](https://kafka.apache.org/quickstart)
+- [ ] [Apache Kafka Fundamentals](https://www.youtube.com/watch?v=B5j3uNBH8X4)
 
 # Containerization vs. Virtualization
 
@@ -1174,8 +1174,8 @@ Containers and virtual machines are the two most popular approaches to setting u
 
 Visit the following resources to learn more:
 
-- [Containerization vs. Virtualization: Everything you need to know](https://middleware.io/blog/containerization-vs-virtualization/)
-- [Containerization or Virtualization - The Differences](https://www.youtube.com/watch?v=1WnDHitznGY)
+- [ ] [Containerization vs. Virtualization: Everything you need to know](https://middleware.io/blog/containerization-vs-virtualization/)
+- [ ] [Containerization or Virtualization - The Differences](https://www.youtube.com/watch?v=1WnDHitznGY)
 
 # Docker
 
@@ -1183,10 +1183,10 @@ Docker is a platform for working with containerized applications. Among its feat
 
 Visit the following resources to learn more:
 
-- [Docker Documentation](https://docs.docker.com/)
-- [What is Docker | AWS](https://aws.amazon.com/docker/)
-- [Docker Tutorial](https://youtu.be/3c-iBn73dDE)
-- [Docker simplified in 55 seconds](https://youtu.be/vP_4DlOH1G4)
+- [ ] [Docker Documentation](https://docs.docker.com/)
+- [ ] [What is Docker | AWS](https://aws.amazon.com/docker/)
+- [ ] [Docker Tutorial](https://youtu.be/3c-iBn73dDE)
+- [ ] [Docker simplified in 55 seconds](https://youtu.be/vP_4DlOH1G4)
 
 # LXC
 
@@ -1194,10 +1194,10 @@ LXC is an abbreviation used for Linux Containers which is an operating system th
 
 Visit the following resources to learn more:
 
-- [LXC Documentation](https://linuxcontainers.org/lxc/documentation/)
-- [What is LXC?](https://linuxcontainers.org/lxc/introduction/)
-- [Linux Container (LXC) Introduction](https://youtu.be/_KnmRdK69qM)
-- [Getting started with LXC containers](https://youtu.be/CWmkSj_B-wo)
+- [ ] [LXC Documentation](https://linuxcontainers.org/lxc/documentation/)
+- [ ] [What is LXC?](https://linuxcontainers.org/lxc/introduction/)
+- [ ] [Linux Container (LXC) Introduction](https://youtu.be/_KnmRdK69qM)
+- [ ] [Getting started with LXC containers](https://youtu.be/CWmkSj_B-wo)
 
 # Kubernetes
 
@@ -1207,11 +1207,11 @@ The popularity of Kubernetes has made it an increasingly important skill for the
 
 Visit the following resources to learn more:
 
-- [Kubernetes Website](https://kubernetes.io/)
-- [Kubernetes Documentation](https://kubernetes.io/docs/home/)
-- [Kubernetes Crash Course for Absolute Beginners](https://www.youtube.com/watch?v=s_o8dwzRlu4)
-- [Primer: How Kubernetes Came to Be, What It Is, and Why You Should Care](https://thenewstack.io/primer-how-kubernetes-came-to-be-what-it-is-and-why-you-should-care/)
-- [Kubernetes: An Overview](https://thenewstack.io/kubernetes-an-overview/)
+- [ ] [Kubernetes Website](https://kubernetes.io/)
+- [ ] [Kubernetes Documentation](https://kubernetes.io/docs/home/)
+- [ ] [Kubernetes Crash Course for Absolute Beginners](https://www.youtube.com/watch?v=s_o8dwzRlu4)
+- [ ] [Primer: How Kubernetes Came to Be, What It Is, and Why You Should Care](https://thenewstack.io/primer-how-kubernetes-came-to-be-what-it-is-and-why-you-should-care/)
+- [ ] [Kubernetes: An Overview](https://thenewstack.io/kubernetes-an-overview/)
 
 # Graphql
 
@@ -1219,10 +1219,10 @@ GraphQL is a query language for APIs and a runtime for fulfilling those queries 
 
 Visit the following resources to learn more:
 
-- [Introduction to GraphQL](https://graphql.org/learn/)
-- [The Fullstack Tutorial for GraphQL](https://www.howtographql.com/)
-- [GraphQL Tutorials](https://odyssey.apollographql.com/)
-- [GraphQL Course for Beginners](https://www.youtube.com/watch?v=ed8SzALpx1Q)
+- [ ] [Introduction to GraphQL](https://graphql.org/learn/)
+- [ ] [The Fullstack Tutorial for GraphQL](https://www.howtographql.com/)
+- [ ] [GraphQL Tutorials](https://odyssey.apollographql.com/)
+- [ ] [GraphQL Course for Beginners](https://www.youtube.com/watch?v=ed8SzALpx1Q)
 
 # Apollo
 
@@ -1230,10 +1230,10 @@ Apollo is a platform for building a unified graph, a communication layer that he
 
 Visit the following resources to learn more:
 
-- [Apollo Website](https://www.apollographql.com)
-- [Official Docs](https://www.apollographql.com/docs/)
-- [Official YouTube Channel](https://www.youtube.com/c/ApolloGraphQL/)
-- [GraphQL With React Tutorial - Apollo Client](https://www.youtube.com/watch?v=YyUWW04HwKY)
+- [ ] [Apollo Website](https://www.apollographql.com)
+- [ ] [Official Docs](https://www.apollographql.com/docs/)
+- [ ] [Official YouTube Channel](https://www.youtube.com/c/ApolloGraphQL/)
+- [ ] [GraphQL With React Tutorial - Apollo Client](https://www.youtube.com/watch?v=YyUWW04HwKY)
 
 # Relay Modern
 
@@ -1241,8 +1241,8 @@ Relay is a JavaScript client used in the browser to fetch GraphQL data. It's a J
 
 Visit the following resources to learn more:
 
-- [Official Website](https://relay.dev/)
-- [Introduction to Relay modern](https://relay.dev/docs/)
+- [ ] [Official Website](https://relay.dev/)
+- [ ] [Introduction to Relay modern](https://relay.dev/docs/)
 
 # Graph databases
 
@@ -1250,8 +1250,8 @@ A graph database stores nodes and relationships instead of tables, or documents.
 
 Visit the following resources to learn more:
 
-- [What is a Graph Database?](https://neo4j.com/developer/graph-database/)
-- [Graph Databases VS Relational Databases](https://www.freecodecamp.org/news/graph-database-vs-relational-database/)
+- [ ] [What is a Graph Database?](https://neo4j.com/developer/graph-database/)
+- [ ] [Graph Databases VS Relational Databases](https://www.freecodecamp.org/news/graph-database-vs-relational-database/)
 
 # Neo4j
 
@@ -1259,9 +1259,9 @@ Neo4j AuraDB is a fast, reliable, scalable, and completely automated Neo4j graph
 
 Visit the following resources to learn more:
 
-- [Official Website](https://neo4j.com/)
-- [Official Docs](https://neo4j.com/docs/)
-- [Neo4j (Graph Database) Crash Course](https://www.youtube.com/watch?v=8jNPelugC2s)
+- [ ] [Official Website](https://neo4j.com/)
+- [ ] [Official Docs](https://neo4j.com/docs/)
+- [ ] [Neo4j (Graph Database) Crash Course](https://www.youtube.com/watch?v=8jNPelugC2s)
 
 # Web Servers
 
@@ -1279,8 +1279,8 @@ Basically, an HTTP request is made by a browser anytime it wants a file that is 
 
 Visit the following resources to learn more:
 
-- [What is a Web Server](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_web_server)
-- [Web Server Concepts and Examples](https://youtu.be/9J1nJOivdyw)
+- [ ] [What is a Web Server](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_web_server)
+- [ ] [Web Server Concepts and Examples](https://youtu.be/9J1nJOivdyw)
 
 # Nginx
 
@@ -1288,8 +1288,8 @@ NGINX is a powerful web server and uses a non-threaded, event-driven architectur
 
 Visit the following resources to learn more:
 
-- [Official Website](https://nginx.org/)
-- [NGINX Explained in 100 Seconds](https://www.youtube.com/watch?v=JKxlsvZXG7c)
+- [ ] [Official Website](https://nginx.org/)
+- [ ] [NGINX Explained in 100 Seconds](https://www.youtube.com/watch?v=JKxlsvZXG7c)
 
 # Apache
 
@@ -1297,8 +1297,8 @@ Apache is a free, open-source HTTP server, available on many operating systems, 
 
 Visit the following resources to learn more:
 
-- [Apache Server Website](https://httpd.apache.org/)
-- [What is Apache Web Server?](https://www.youtube.com/watch?v=kaaenHXO4t4)
+- [ ] [Apache Server Website](https://httpd.apache.org/)
+- [ ] [What is Apache Web Server?](https://www.youtube.com/watch?v=kaaenHXO4t4)
 
 # Caddy
 
@@ -1306,8 +1306,8 @@ The Caddy web server is an extensible, cross-platform, open-source web server wr
 
 Visit the following resources to learn more:
 
-- [Official Website](https://caddyserver.com/)
-- [Getting started with Caddy the HTTPS Web Server from scratch](https://www.youtube.com/watch?v=t4naLFSlBpQ)
+- [ ] [Official Website](https://caddyserver.com/)
+- [ ] [Getting started with Caddy the HTTPS Web Server from scratch](https://www.youtube.com/watch?v=t4naLFSlBpQ)
 
 # MS IIS
 
@@ -1315,8 +1315,8 @@ Internet Information Services (IIS) for Windows® Server is a flexible, secure a
 
 Visit the following resources to learn more:
 
-- [Official Website](https://www.iis.net/)
-- [Learn Windows Web Server IIS](https://www.youtube.com/watch?v=1VdxPWwtISA)
+- [ ] [Official Website](https://www.iis.net/)
+- [ ] [Learn Windows Web Server IIS](https://www.youtube.com/watch?v=1VdxPWwtISA)
 
 # Building for Scale
 
@@ -1336,8 +1336,8 @@ The main difference between on-premises and cloud resources will be FLEXIBILITY,
 
 Visit the following resources to learn more:
 
-- [Scalable Architecture: A Definition and How-To Guide](https://www.sentinelone.com/blog/scalable-architecture/)
-- [Scaling Distributed Systems - Software Architecture Introduction](https://www.youtube.com/watch?v=gxfERVP18-g)
+- [ ] [Scalable Architecture: A Definition and How-To Guide](https://www.sentinelone.com/blog/scalable-architecture/)
+- [ ] [Scaling Distributed Systems - Software Architecture Introduction](https://www.youtube.com/watch?v=gxfERVP18-g)
 
 # Instrumentation, Monitoring, and Telemetry
 
@@ -1349,9 +1349,9 @@ Telemetry is the process of continuously collecting data from different componen
 
 Visit the following resources to learn more:
 
-- [What is Instrumentation?](https://en.wikipedia.org/wiki/Instrumentation_(computer_programming))
-- [What is Monitoring?](https://www.yottaa.com/performance-monitoring-backend-vs-front-end-solutions/)
-- [What is Telemetry?](https://www.sumologic.com/insight/what-is-telemetry/)
+- [ ] [What is Instrumentation?](https://en.wikipedia.org/wiki/Instrumentation_(computer_programming))
+- [ ] [What is Monitoring?](https://www.yottaa.com/performance-monitoring-backend-vs-front-end-solutions/)
+- [ ] [What is Telemetry?](https://www.sumologic.com/insight/what-is-telemetry/)
 
 # Migration Strategies
 
@@ -1359,7 +1359,7 @@ Learn how to run database migrations effectively. Especially zero downtime multi
 
 Visit the following resources to learn more:
 
-- [Databases as a Challenge for Continuous Delivery](https://phauer.com/2015/databases-challenge-continuous-delivery/)
+- [ ] [Databases as a Challenge for Continuous Delivery](https://phauer.com/2015/databases-challenge-continuous-delivery/)
 
 # Horizontal/Vertical Scaling
 
@@ -1367,10 +1367,10 @@ Horizontal scaling is a change in the **number** of a resource. For example, inc
 
 Visit the following resources to learn more:
 
-- [Horizontal vs Vertical Scaling](https://touchstonesecurity.com/horizontal-vs-vertical-scaling-what-you-need-to-know/)
-- [Scaling In Databases](https://www.geeksforgeeks.org/horizontal-and-vertical-scaling-in-databases/)
-- [System Design Basics: Horizontal vs. Vertical Scaling](https://youtu.be/xpDnVSmNFX0)
-- [System Design 101](https://www.youtube.com/watch?v=Y-Gl4HEyeUQ)
+- [ ] [Horizontal vs Vertical Scaling](https://touchstonesecurity.com/horizontal-vs-vertical-scaling-what-you-need-to-know/)
+- [ ] [Scaling In Databases](https://www.geeksforgeeks.org/horizontal-and-vertical-scaling-in-databases/)
+- [ ] [System Design Basics: Horizontal vs. Vertical Scaling](https://youtu.be/xpDnVSmNFX0)
+- [ ] [System Design 101](https://www.youtube.com/watch?v=Y-Gl4HEyeUQ)
 
 # Observability
 
@@ -1382,8 +1382,8 @@ You can of course implement all those features by yourself, but there are a lot 
 
 Visit the following resources to learn more:
 
-- [DataDog Docs](https://docs.datadoghq.com/)
-- [AWS CloudWatch Docs](https://aws.amazon.com/cloudwatch/getting-started/)
-- [Sentry Docs](https://docs.sentry.io/)
-- [AWS re:Invent 2017: Improving Microservice and Serverless Observability with Monitor](https://www.youtube.com/watch?v=Wx0SHRb2xcI)
-- [Observability and Instrumentation: What They Are and Why They Matter](https://newrelic.com/blog/best-practices/observability-instrumentation)
+- [ ] [DataDog Docs](https://docs.datadoghq.com/)
+- [ ] [AWS CloudWatch Docs](https://aws.amazon.com/cloudwatch/getting-started/)
+- [ ] [Sentry Docs](https://docs.sentry.io/)
+- [ ] [AWS re:Invent 2017: Improving Microservice and Serverless Observability with Monitor](https://www.youtube.com/watch?v=Wx0SHRb2xcI)
+- [ ] [Observability and Instrumentation: What They Are and Why They Matter](https://newrelic.com/blog/best-practices/observability-instrumentation)

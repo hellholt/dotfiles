@@ -4,12 +4,12 @@ The Internet is a global network of computers connected to each other which comm
 
 Visit the following resources to learn more:
 
-- [The Internet Explained](https://www.vox.com/2014/6/16/18076282/the-internet)
-- [How Does the Internet Work?](http://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm)
-- [Introduction to Internet](/guides/what-is-internet)
-- [Learn How the Web Works](https://internetfundamentals.com)
-- [How does the Internet work?](https://www.youtube.com/watch?v=x3c1ih2NJEg)
-- [How the Internet Works in 5 Minutes](https://www.youtube.com/watch?v=7_LPdttKXPc)
+- [ ] [The Internet Explained](https://www.vox.com/2014/6/16/18076282/the-internet)
+- [ ] [How Does the Internet Work?](http://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm)
+- [ ] [Introduction to Internet](/guides/what-is-internet)
+- [ ] [Learn How the Web Works](https://internetfundamentals.com)
+- [ ] [How does the Internet work?](https://www.youtube.com/watch?v=x3c1ih2NJEg)
+- [ ] [How the Internet Works in 5 Minutes](https://www.youtube.com/watch?v=7_LPdttKXPc)
 
 # Internet
 
@@ -17,12 +17,12 @@ The Internet is a global network of computers connected to each other which comm
 
 Visit the following resources to learn more:
 
-- [The Internet Explained](https://www.vox.com/2014/6/16/18076282/the-internet)
-- [How Does the Internet Work?](http://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm)
-- [How Does the Internet Work? MDN Docs](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work)
-- [Introduction to Internet](/guides/what-is-internet)
-- [How does the Internet work?](https://www.youtube.com/watch?v=TNQsmPf24go)
-- [How the Internet Works in 5 Minutes](https://www.youtube.com/watch?v=7_LPdttKXPc)
+- [ ] [The Internet Explained](https://www.vox.com/2014/6/16/18076282/the-internet)
+- [ ] [How Does the Internet Work?](http://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm)
+- [ ] [How Does the Internet Work? MDN Docs](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work)
+- [ ] [Introduction to Internet](/guides/what-is-internet)
+- [ ] [How does the Internet work?](https://www.youtube.com/watch?v=TNQsmPf24go)
+- [ ] [How the Internet Works in 5 Minutes](https://www.youtube.com/watch?v=7_LPdttKXPc)
 
 # What is HTTP?
 
@@ -30,13 +30,13 @@ HTTP is the `TCP/IP` based application layer communication protocol which standa
 
 Visit the following resources to learn more:
 
-- [What is HTTP?](https://www.cloudflare.com/en-gb/learning/ddos/glossary/hypertext-transfer-protocol-http/)
-- [How HTTPS Works ...in a comic!](https://howhttps.works)
-- [An overview of HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)
-- [Journey to HTTP/2](https://kamranahmed.info/blog/2016/08/13/http-in-depth)
-- [HTTP/3 From A To Z: Core Concepts](https://www.smashingmagazine.com/2021/08/http3-core-concepts-part1/)
-- [HTTP/3 Is Now a Standard: Why Use It and How to Get Started](https://thenewstack.io/http-3-is-now-a-standard-why-use-it-and-how-to-get-started/)
-- [HTTP Crash Course & Exploration](https://www.youtube.com/watch?v=iYM2zFP3Zn0)
+- [ ] [What is HTTP?](https://www.cloudflare.com/en-gb/learning/ddos/glossary/hypertext-transfer-protocol-http/)
+- [ ] [How HTTPS Works ...in a comic!](https://howhttps.works)
+- [ ] [An overview of HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)
+- [ ] [Journey to HTTP/2](https://kamranahmed.info/blog/2016/08/13/http-in-depth)
+- [ ] [HTTP/3 From A To Z: Core Concepts](https://www.smashingmagazine.com/2021/08/http3-core-concepts-part1/)
+- [ ] [HTTP/3 Is Now a Standard: Why Use It and How to Get Started](https://thenewstack.io/http-3-is-now-a-standard-why-use-it-and-how-to-get-started/)
+- [ ] [HTTP Crash Course & Exploration](https://www.youtube.com/watch?v=iYM2zFP3Zn0)
 
 # Browsers
 
@@ -44,10 +44,10 @@ A web browser is a software application that enables a user to access and displa
 
 Visit the following resources to learn more:
 
-- [How Browsers Work](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)
-- [Role of Rendering Engine in Browsers](https://www.browserstack.com/guide/browser-rendering-engine)
-- [Populating the Page: How Browsers Work](https://developer.mozilla.org/en-US/docs/Web/Performance/How_browsers_work)
-- [How Do Web Browsers Work?](https://www.youtube.com/watch?v=WjDrMKZWCt0)
+- [ ] [How Browsers Work](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)
+- [ ] [Role of Rendering Engine in Browsers](https://www.browserstack.com/guide/browser-rendering-engine)
+- [ ] [Populating the Page: How Browsers Work](https://developer.mozilla.org/en-US/docs/Web/Performance/How_browsers_work)
+- [ ] [How Do Web Browsers Work?](https://www.youtube.com/watch?v=WjDrMKZWCt0)
 
 # DNS
 
@@ -55,13 +55,13 @@ The Domain Name System (DNS) is the phonebook of the Internet. Humans access inf
 
 Visit the following resources to learn more:
 
-- [What is DNS?](https://www.cloudflare.com/en-gb/learning/dns/what-is-dns/)
-- [Mess with DNS - DNS Playground](https://messwithdns.net/)
-- [How DNS works (comic)](https://howdns.works/)
-- [DNS and How does it Work?](https://www.youtube.com/watch?v=Wj0od2ag5sk)
-- [DNS Records](https://www.youtube.com/watch?v=7lxgpKh_fRY)
-- [When to add glue records to DNS settings](https://www.youtube.com/watch?v=e48AyJOA9W8)
-- [DNS Records for Newbies - How To Manage Website Records](https://www.youtube.com/watch?v=YV5tkQYcvfg)
+- [ ] [What is DNS?](https://www.cloudflare.com/en-gb/learning/dns/what-is-dns/)
+- [ ] [Mess with DNS - DNS Playground](https://messwithdns.net/)
+- [ ] [How DNS works (comic)](https://howdns.works/)
+- [ ] [DNS and How does it Work?](https://www.youtube.com/watch?v=Wj0od2ag5sk)
+- [ ] [DNS Records](https://www.youtube.com/watch?v=7lxgpKh_fRY)
+- [ ] [When to add glue records to DNS settings](https://www.youtube.com/watch?v=e48AyJOA9W8)
+- [ ] [DNS Records for Newbies - How To Manage Website Records](https://www.youtube.com/watch?v=YV5tkQYcvfg)
 
 # Domain Name
 
@@ -69,9 +69,9 @@ A domain name is a unique, easy-to-remember address used to access websites, suc
 
 Visit the following resources to learn more:
 
-- [What is a Domain Name?](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_domain_name)
-- [What is a Domain Name? | Domain name vs. URL](https://www.cloudflare.com/en-gb/learning/dns/glossary/what-is-a-domain-name/)
-- [A Beginners Guide to How Domain Names Work](https://www.youtube.com/watch?v=Y4cRx19nhJk)
+- [ ] [What is a Domain Name?](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_domain_name)
+- [ ] [What is a Domain Name? | Domain name vs. URL](https://www.cloudflare.com/en-gb/learning/dns/glossary/what-is-a-domain-name/)
+- [ ] [A Beginners Guide to How Domain Names Work](https://www.youtube.com/watch?v=Y4cRx19nhJk)
 
 # Hosting
 
@@ -79,9 +79,9 @@ Web hosting is an online service that allows you to publish your website files o
 
 Visit the following resources to learn more:
 
-- [What Is Web Hosting? Explained](https://www.youtube.com/watch?v=htbY9-yggB0)
-- [Different Types of Web Hosting Explained](https://www.youtube.com/watch?v=AXVZYzw8geg)
-- [Where to Host a Fullstack Project on a Budget](https://www.youtube.com/watch?v=Kx_1NYYJS7Q)
+- [ ] [What Is Web Hosting? Explained](https://www.youtube.com/watch?v=htbY9-yggB0)
+- [ ] [Different Types of Web Hosting Explained](https://www.youtube.com/watch?v=AXVZYzw8geg)
+- [ ] [Where to Host a Fullstack Project on a Budget](https://www.youtube.com/watch?v=Kx_1NYYJS7Q)
 
 # HTML
 
@@ -89,15 +89,15 @@ HTML stands for HyperText Markup Language. It is used on the frontend and gives 
 
 Visit the following resources to learn more:
 
-- [W3Schools: Learn HTML](https://www.w3schools.com/html/html_intro.asp)
-- [htmlreference.io: All HTML elements at a glance](https://htmlreference.io/)
-- [HTML For Beginners The Easy Way](https://html.com)
-- [Web Development Basics](https://www.internetingishard.com/html-and-css/)
-- [Codecademy - Learn HTML](https://www.codecademy.com/learn/learn-html)
-- [Interactive HTML Course](https://github.com/denysdovhan/learnyouhtml)
-- [HTML Full Course for Beginners | Complete All-in-One Tutorial](https://youtu.be/mJgBOIoGihA)
-- [HTML Full Course - Build a Website Tutorial](https://www.youtube.com/watch?v=pQN-pnXPaVg)
-- [HTML Tutorial for Beginners: HTML Crash Course](https://www.youtube.com/watch?v=qz0aGYrrlhU)
+- [ ] [W3Schools: Learn HTML](https://www.w3schools.com/html/html_intro.asp)
+- [ ] [htmlreference.io: All HTML elements at a glance](https://htmlreference.io/)
+- [ ] [HTML For Beginners The Easy Way](https://html.com)
+- [ ] [Web Development Basics](https://www.internetingishard.com/html-and-css/)
+- [ ] [Codecademy - Learn HTML](https://www.codecademy.com/learn/learn-html)
+- [ ] [Interactive HTML Course](https://github.com/denysdovhan/learnyouhtml)
+- [ ] [HTML Full Course for Beginners | Complete All-in-One Tutorial](https://youtu.be/mJgBOIoGihA)
+- [ ] [HTML Full Course - Build a Website Tutorial](https://www.youtube.com/watch?v=pQN-pnXPaVg)
+- [ ] [HTML Tutorial for Beginners: HTML Crash Course](https://www.youtube.com/watch?v=qz0aGYrrlhU)
 
 # HTML Basics
 
@@ -105,13 +105,13 @@ HTML stands for HyperText Markup Language. It is used on the frontend and gives 
 
 Visit the following resources to learn more:
 
-- [W3Schools: Learn HTML](https://www.w3schools.com/html/html_intro.asp)
-- [MDN Docs: Getting Started with HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started)
-- [web.dev: Learn HTML](https://web.dev/learn/html)
-- [HTML Full Course - Build a Website Tutorial](https://www.youtube.com/watch?v=pQN-pnXPaVg)
-- [HTML Tutorial for Beginners: HTML Crash Course](https://www.youtube.com/watch?v=qz0aGYrrlhU)
-- [HTML Cheatsheet](https://htmlcheatsheet.com)
-- [Scaler: HTML](https://www.scaler.com/topics/html)
+- [ ] [W3Schools: Learn HTML](https://www.w3schools.com/html/html_intro.asp)
+- [ ] [MDN Docs: Getting Started with HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started)
+- [ ] [web.dev: Learn HTML](https://web.dev/learn/html)
+- [ ] [HTML Full Course - Build a Website Tutorial](https://www.youtube.com/watch?v=pQN-pnXPaVg)
+- [ ] [HTML Tutorial for Beginners: HTML Crash Course](https://www.youtube.com/watch?v=qz0aGYrrlhU)
+- [ ] [HTML Cheatsheet](https://htmlcheatsheet.com)
+- [ ] [Scaler: HTML](https://www.scaler.com/topics/html)
 
 # Semantic HTML
 
@@ -119,12 +119,12 @@ Semantic element clearly describes its meaning to both the browser and the devel
 
 Visit the following resources to learn more:
 
-- [Semantics - MDN Web Docs Glossary: Definitions of Web-related terms | MDN](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)
-- [W3Schools: Semantic HTML](https://www.w3schools.com/html/html5_semantic_elements.asp)
-- [How To Write Semantic HTML](https://hackernoon.com/how-to-write-semantic-html-dkq3ulo)
-- [HTML Best Practices – How to Build a Better HTML-Based Website](https://www.freecodecamp.org/news/html-best-practices/)
-- [Semantic HTML: What It Is and How It Improves Your Site](https://blog.hubspot.com/website/semantic-html)
-- [Semantic Markup](https://html.com/semantic-markup)
+- [ ] [Semantics - MDN Web Docs Glossary: Definitions of Web-related terms | MDN](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)
+- [ ] [W3Schools: Semantic HTML](https://www.w3schools.com/html/html5_semantic_elements.asp)
+- [ ] [How To Write Semantic HTML](https://hackernoon.com/how-to-write-semantic-html-dkq3ulo)
+- [ ] [HTML Best Practices – How to Build a Better HTML-Based Website](https://www.freecodecamp.org/news/html-best-practices/)
+- [ ] [Semantic HTML: What It Is and How It Improves Your Site](https://blog.hubspot.com/website/semantic-html)
+- [ ] [Semantic Markup](https://html.com/semantic-markup)
 
 # Forms and Validations
 
@@ -132,9 +132,9 @@ Before submitting data to the server, it is important to ensure all required for
 
 Visit the following resources to learn more:
 
-- [MDN Web Docs: Client-side form validation](https://developer.mozilla.org/en-US/docs/Learn/Forms/Form_validation)
-- [Learn Forms by web.dev](https://web.dev/learn/forms/)
-- [W3Schools: JavaScript Form Validation](https://www.w3schools.com/js/js_validation.asp)
+- [ ] [MDN Web Docs: Client-side form validation](https://developer.mozilla.org/en-US/docs/Learn/Forms/Form_validation)
+- [ ] [Learn Forms by web.dev](https://web.dev/learn/forms/)
+- [ ] [W3Schools: JavaScript Form Validation](https://www.w3schools.com/js/js_validation.asp)
 
 # Best Practices
 
@@ -142,7 +142,7 @@ Learn to follow the best practices for writing maintainable and scalable HTML do
 
 Visit the following resources to learn more:
 
-- [HTML Best Practices](https://github.com/hail2u/html-best-practices)
+- [ ] [HTML Best Practices](https://github.com/hail2u/html-best-practices)
 
 # Accessibility
 
@@ -150,14 +150,14 @@ Web accessibility means that websites, tools, and technologies are designed and 
 
 Visit the following resources to learn more:
 
-- [Developing for Web Accessibility by W3C WAI](https://www.w3.org/WAI/tips/developing/)
-- [Accessibility Tutorial](https://www.w3schools.com/accessibility/index.php)
-- [A Complete Guide To Accessible Front-End Components](https://www.smashingmagazine.com/2021/03/complete-guide-accessible-front-end-components/)
-- [Complete Playlist on Accessibility](https://youtube.com/playlist?list=PLNYkxOF6rcICWx0C9LVWWVqvHlYJyqw7g)
-- [MDN Accessibility](https://developer.mozilla.org/en-US/docs/Web/Accessibility)
-- [Accessibility for Developers by Google](https://web.dev/accessibility)
-- [Web Accessibility by Udacity](https://www.udacity.com/course/web-accessibility--ud891)
-- [Accessibility as an Essential Part of the Inclusive Developer Experience](https://thenewstack.io/accessibility-as-an-essential-part-of-the-inclusive-developer-experience/)
+- [ ] [Developing for Web Accessibility by W3C WAI](https://www.w3.org/WAI/tips/developing/)
+- [ ] [Accessibility Tutorial](https://www.w3schools.com/accessibility/index.php)
+- [ ] [A Complete Guide To Accessible Front-End Components](https://www.smashingmagazine.com/2021/03/complete-guide-accessible-front-end-components/)
+- [ ] [Complete Playlist on Accessibility](https://youtube.com/playlist?list=PLNYkxOF6rcICWx0C9LVWWVqvHlYJyqw7g)
+- [ ] [MDN Accessibility](https://developer.mozilla.org/en-US/docs/Web/Accessibility)
+- [ ] [Accessibility for Developers by Google](https://web.dev/accessibility)
+- [ ] [Web Accessibility by Udacity](https://www.udacity.com/course/web-accessibility--ud891)
+- [ ] [Accessibility as an Essential Part of the Inclusive Developer Experience](https://thenewstack.io/accessibility-as-an-essential-part-of-the-inclusive-developer-experience/)
 
 # Basics of SEO
 
@@ -165,12 +165,12 @@ SEO or Search Engine Optimization is the technique used to optimize your website
 
 Visit the following resources to learn more:
 
-- [Google Search Central — SEO Docs](https://developers.google.com/search/docs)
-- [SEO Guide](https://github.com/seo/guide)
-- [8 Must-Know SEO Best Practices For Developers](https://neilpatel.com/blog/seo-developers/)
-- [SEO for Developers](https://medium.com/welldone-software/seo-for-developers-a-quick-overview-5b5b7ce34679)
-- [Complete SEO Course for Beginners](https://www.youtube.com/watch?v=xsVTqzratPs)
-- [SEO Expert Course](https://www.youtube.com/watch?v=SnxeXZpZkI0)
+- [ ] [Google Search Central — SEO Docs](https://developers.google.com/search/docs)
+- [ ] [SEO Guide](https://github.com/seo/guide)
+- [ ] [8 Must-Know SEO Best Practices For Developers](https://neilpatel.com/blog/seo-developers/)
+- [ ] [SEO for Developers](https://medium.com/welldone-software/seo-for-developers-a-quick-overview-5b5b7ce34679)
+- [ ] [Complete SEO Course for Beginners](https://www.youtube.com/watch?v=xsVTqzratPs)
+- [ ] [SEO Expert Course](https://www.youtube.com/watch?v=SnxeXZpZkI0)
 
 # CSS
 
@@ -178,22 +178,22 @@ CSS or Cascading Style Sheets is the language used to style the frontend of any 
 
 Visit the following resources to learn more:
 
-- [The Odin Project](https://www.theodinproject.com//)
-- [What The Flexbox!](https://flexbox.io/)
-- [Learn CSS | Codecademy](https://www.codecademy.com/learn/learn-css)
-- [Learn Intermediate CSS | Codecademy](https://www.codecademy.com/learn/learn-intermediate-css)
-- [CSS Complete Course](https://youtu.be/n4R2E7O-Ngo)
-- [CSS Crash Course For Absolute Beginners](https://www.youtube.com/watch?v=yfoY53QXEnI)
-- [HTML and CSS Tutorial](https://www.youtube.com/watch?v=D-h8L5hgW-w)
-- [CSS Masterclass - Tutorial & Course for Beginners](https://www.youtube.com/watch?v=FqmB-Zj2-PA)
-- [W3Schools — Learn CSS](https://www.w3schools.com/css/)
-- [cssreference.io: All CSS properties at a glance](https://cssreference.io/)
-- [Web.dev by Google — Learn CSS](https://web.dev/learn/css/)
-- [freeCodeCamp — Responsive Web Design](https://www.freecodecamp.org/learn/responsive-web-design/)
-- [Learn to Code HTML & CSS](https://learn.shayhowe.com/html-css/building-your-first-web-page/)
-- [Joshw Comeaus CSS Hack Blog Posts](https://www.joshwcomeau.com/)
-- [100 Days CSS Challenge](https://100dayscss.com)
-- [CSS Tutorial | Scaler](https://www.scaler.com/topics/css)
+- [ ] [The Odin Project](https://www.theodinproject.com//)
+- [ ] [What The Flexbox!](https://flexbox.io/)
+- [ ] [Learn CSS | Codecademy](https://www.codecademy.com/learn/learn-css)
+- [ ] [Learn Intermediate CSS | Codecademy](https://www.codecademy.com/learn/learn-intermediate-css)
+- [ ] [CSS Complete Course](https://youtu.be/n4R2E7O-Ngo)
+- [ ] [CSS Crash Course For Absolute Beginners](https://www.youtube.com/watch?v=yfoY53QXEnI)
+- [ ] [HTML and CSS Tutorial](https://www.youtube.com/watch?v=D-h8L5hgW-w)
+- [ ] [CSS Masterclass - Tutorial & Course for Beginners](https://www.youtube.com/watch?v=FqmB-Zj2-PA)
+- [ ] [W3Schools — Learn CSS](https://www.w3schools.com/css/)
+- [ ] [cssreference.io: All CSS properties at a glance](https://cssreference.io/)
+- [ ] [Web.dev by Google — Learn CSS](https://web.dev/learn/css/)
+- [ ] [freeCodeCamp — Responsive Web Design](https://www.freecodecamp.org/learn/responsive-web-design/)
+- [ ] [Learn to Code HTML & CSS](https://learn.shayhowe.com/html-css/building-your-first-web-page/)
+- [ ] [Joshw Comeaus CSS Hack Blog Posts](https://www.joshwcomeau.com/)
+- [ ] [100 Days CSS Challenge](https://100dayscss.com)
+- [ ] [CSS Tutorial | Scaler](https://www.scaler.com/topics/css)
 
 # CSS Basics
 
@@ -201,13 +201,13 @@ CSS or Cascading Style Sheets is the language used to style the frontend of any 
 
 Visit the following resources to learn more:
 
-- [W3Schools — Learn CSS](https://www.w3schools.com/css/)
-- [web.dev — Learn CSS](https://web.dev/learn/css/)
-- [freeCodeCamp — Responsive Web Design](https://www.freecodecamp.org/learn/responsive-web-design/)
-- [Learn to Code HTML & CSS](https://learn.shayhowe.com/html-css/building-your-first-web-page/)
-- [CSS Crash Course For Absolute Beginners](https://www.youtube.com/watch?v=yfoY53QXEnI)
-- [HTML and CSS Tutorial](https://www.youtube.com/watch?v=D-h8L5hgW-w)
-- [CSS Masterclass - Tutorial & Course for Beginners](https://www.youtube.com/watch?v=FqmB-Zj2-PA)
+- [ ] [W3Schools — Learn CSS](https://www.w3schools.com/css/)
+- [ ] [web.dev — Learn CSS](https://web.dev/learn/css/)
+- [ ] [freeCodeCamp — Responsive Web Design](https://www.freecodecamp.org/learn/responsive-web-design/)
+- [ ] [Learn to Code HTML & CSS](https://learn.shayhowe.com/html-css/building-your-first-web-page/)
+- [ ] [CSS Crash Course For Absolute Beginners](https://www.youtube.com/watch?v=yfoY53QXEnI)
+- [ ] [HTML and CSS Tutorial](https://www.youtube.com/watch?v=D-h8L5hgW-w)
+- [ ] [CSS Masterclass - Tutorial & Course for Beginners](https://www.youtube.com/watch?v=FqmB-Zj2-PA)
 
 # Making layouts
 
@@ -215,17 +215,17 @@ Float, grid, flexbox, positioning, display and box model are some of the key top
 
 Visit the following resources to learn more:
 
-- [Learn and Practice Flexbox](https://flexboxfroggy.com/)
-- [Game for learning CSS Grid](https://cssgridgarden.com/)
-- [All about Floats](https://css-tricks.com/all-about-floats/)
-- [Positioning Types: How Do They Differ?](https://css-tricks.com/absolute-relative-fixed-positioining-how-do-they-differ/)
-- [The Box Model](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model)
-- [The CSS Display Property](https://www.freecodecamp.org/news/the-css-display-property-display-none-display-table-inline-block-and-more/)
-- [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox)
-- [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid)
-- [Learn CSS Grid - Course](https://cssgrid.io/)
-- [Learn CSS Grid for free](https://scrimba.com/learn/cssgrid)
-- [Get on the Grid at Last with the CSS Grid Layout Module](https://thenewstack.io/get-grid-last-css-grid-template-markup/)
+- [ ] [Learn and Practice Flexbox](https://flexboxfroggy.com/)
+- [ ] [Game for learning CSS Grid](https://cssgridgarden.com/)
+- [ ] [All about Floats](https://css-tricks.com/all-about-floats/)
+- [ ] [Positioning Types: How Do They Differ?](https://css-tricks.com/absolute-relative-fixed-positioining-how-do-they-differ/)
+- [ ] [The Box Model](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model)
+- [ ] [The CSS Display Property](https://www.freecodecamp.org/news/the-css-display-property-display-none-display-table-inline-block-and-more/)
+- [ ] [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox)
+- [ ] [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid)
+- [ ] [Learn CSS Grid - Course](https://cssgrid.io/)
+- [ ] [Learn CSS Grid for free](https://scrimba.com/learn/cssgrid)
+- [ ] [Get on the Grid at Last with the CSS Grid Layout Module](https://thenewstack.io/get-grid-last-css-grid-template-markup/)
 
 # Responsive Web Design
 
@@ -233,12 +233,12 @@ Responsive Web Designing is the technique to make your webpages look good on all
 
 Visit the following resources to learn more:
 
-- [Responsive Web Design](https://www.w3schools.com/css/css_rwd_intro.asp)
-- [Learn Responsive Design](https://web.dev/learn/design/)
-- [The Beginner’s Guide to Responsive Web Design](https://kinsta.com/blog/responsive-web-design/)
-- [The guide to responsive web design in 2022](https://webflow.com/blog/responsive-web-design)
-- [5 simple tips to making responsive layouts the easy way](https://www.youtube.com/watch?v=VQraviuwbzU)
-- [Introduction To Responsive Web Design](https://www.youtube.com/watch?v=srvUrASNj0s)
+- [ ] [Responsive Web Design](https://www.w3schools.com/css/css_rwd_intro.asp)
+- [ ] [Learn Responsive Design](https://web.dev/learn/design/)
+- [ ] [The Beginner’s Guide to Responsive Web Design](https://kinsta.com/blog/responsive-web-design/)
+- [ ] [The guide to responsive web design in 2022](https://webflow.com/blog/responsive-web-design)
+- [ ] [5 simple tips to making responsive layouts the easy way](https://www.youtube.com/watch?v=VQraviuwbzU)
+- [ ] [Introduction To Responsive Web Design](https://www.youtube.com/watch?v=srvUrASNj0s)
 
 # JavaScript
 
@@ -246,17 +246,17 @@ JavaScript allows you to add interactivity to your pages. Common examples that y
 
 Visit the following resources to learn more:
 
-- [Visit Dedicated JavaScript Roadmap](/javascript)
-- [W3Schools – JavaScript Tutorial](https://www.w3schools.com/js/)
-- [The Modern JavaScript Tutorial](https://javascript.info/)
-- [Learn JavaScript: Covered many topics](https://www.javascripttutorial.net/)
-- [Eloquent JavaScript textbook](https://eloquentjavascript.net/)
-- [You Dont Know JS Yet (book series)](https://github.com/getify/You-Dont-Know-JS)
-- [JavaScript Crash Course for Beginners](https://youtu.be/hdI2bqOjy3c?t=2)
-- [Build a Netflix Landing Page Clone with HTML, CSS & JS](https://youtu.be/P7t13SGytRk?t=22)
-- [Build 30 Javascript projects in 30 days](https://javascript30.com/)
-- [Learn the basics of JavaScript](https://github.com/workshopper/javascripting)
-- [JavaScript for Beginners](https://www.scaler.com/topics/course/javascript-beginners)
+- [ ] [Visit Dedicated JavaScript Roadmap](/javascript)
+- [ ] [W3Schools – JavaScript Tutorial](https://www.w3schools.com/js/)
+- [ ] [The Modern JavaScript Tutorial](https://javascript.info/)
+- [ ] [Learn JavaScript: Covered many topics](https://www.javascripttutorial.net/)
+- [ ] [Eloquent JavaScript textbook](https://eloquentjavascript.net/)
+- [ ] [You Dont Know JS Yet (book series)](https://github.com/getify/You-Dont-Know-JS)
+- [ ] [JavaScript Crash Course for Beginners](https://youtu.be/hdI2bqOjy3c?t=2)
+- [ ] [Build a Netflix Landing Page Clone with HTML, CSS & JS](https://youtu.be/P7t13SGytRk?t=22)
+- [ ] [Build 30 Javascript projects in 30 days](https://javascript30.com/)
+- [ ] [Learn the basics of JavaScript](https://github.com/workshopper/javascripting)
+- [ ] [JavaScript for Beginners](https://www.scaler.com/topics/course/javascript-beginners)
 
 # JavaScript
 
@@ -264,10 +264,10 @@ JavaScript allows you to add interactivity to your pages. Common examples that y
 
 Visit the following resources to learn more:
 
-- [W3Schools – JavaScript Tutorial](https://www.w3schools.com/js/)
-- [The Modern JavaScript Tutorial](https://javascript.info/)
-- [JavaScript Crash Course for Beginners](https://youtu.be/hdI2bqOjy3c?t=2)
-- [Build a Netflix Landing Page Clone with HTML, CSS & JS](https://youtu.be/P7t13SGytRk?t=22)
+- [ ] [W3Schools – JavaScript Tutorial](https://www.w3schools.com/js/)
+- [ ] [The Modern JavaScript Tutorial](https://javascript.info/)
+- [ ] [JavaScript Crash Course for Beginners](https://youtu.be/hdI2bqOjy3c?t=2)
+- [ ] [Build a Netflix Landing Page Clone with HTML, CSS & JS](https://youtu.be/P7t13SGytRk?t=22)
 
 # DOM Manipulation
 
@@ -275,15 +275,15 @@ The Document Object Model (DOM) is a programming interface built for HTML and XM
 
 Visit the following resources to learn more:
 
-- [DOM Tree](https://javascript.info/dom-nodes)
-- [GeeksForGeeks - DOM (Document Object Model)](https://www.geeksforgeeks.org/dom-document-object-model/)
-- [What is the DOM?](https://www.freecodecamp.org/news/what-is-the-dom-document-object-model-meaning-in-javascript/)
-- [Eloquent JavaScript, 3rd Edition: The Document Object Model](https://eloquentjavascript.net/14_dom.html)
-- [JavaScript HTML DOM](https://www.w3schools.com/js/js_htmldom.asp)
-- [JavaScript DOM](https://www.javascripttutorial.net/javascript-dom/)
-- [Learn the HTML DOM with Exercises - CodeGuage](https://www.codeguage.com/courses/js/html-dom-introduction)
-- [What is DOM, Shadow DOM and Virtual DOM?](https://www.youtube.com/watch?v=7Tok22qxPzQ)
-- [JavaScript DOM Crash Course](https://www.youtube.com/watch?v=0ik6X4DJKCc)
+- [ ] [DOM Tree](https://javascript.info/dom-nodes)
+- [ ] [GeeksForGeeks - DOM (Document Object Model)](https://www.geeksforgeeks.org/dom-document-object-model/)
+- [ ] [What is the DOM?](https://www.freecodecamp.org/news/what-is-the-dom-document-object-model-meaning-in-javascript/)
+- [ ] [Eloquent JavaScript, 3rd Edition: The Document Object Model](https://eloquentjavascript.net/14_dom.html)
+- [ ] [JavaScript HTML DOM](https://www.w3schools.com/js/js_htmldom.asp)
+- [ ] [JavaScript DOM](https://www.javascripttutorial.net/javascript-dom/)
+- [ ] [Learn the HTML DOM with Exercises - CodeGuage](https://www.codeguage.com/courses/js/html-dom-introduction)
+- [ ] [What is DOM, Shadow DOM and Virtual DOM?](https://www.youtube.com/watch?v=7Tok22qxPzQ)
+- [ ] [JavaScript DOM Crash Course](https://www.youtube.com/watch?v=0ik6X4DJKCc)
 
 # Fetch API
 
@@ -291,10 +291,10 @@ Ajax is the technique that lets us send and receive the data asynchronously from
 
 Visit the following resources to learn more:
 
-- [Fetch API MDN Docs](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
-- [A Simple Guide to JavaScript Fetch API](https://www.javascripttutorial.net/javascript-fetch-api/)
-- [Introduction to Fetch](https://web.dev/introduction-to-fetch/)
-- [JavaScript Fetch API](https://www.youtube.com/watch?v=-ZI0ea5O2oA)
+- [ ] [Fetch API MDN Docs](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
+- [ ] [A Simple Guide to JavaScript Fetch API](https://www.javascripttutorial.net/javascript-fetch-api/)
+- [ ] [Introduction to Fetch](https://web.dev/introduction-to-fetch/)
+- [ ] [JavaScript Fetch API](https://www.youtube.com/watch?v=-ZI0ea5O2oA)
 
 # Modern JavaScript
 
@@ -302,13 +302,13 @@ ECMAScript 2015 or ES2015 is a significant update to the JavaScript programming 
 
 Visit the following resources to learn more:
 
-- [ES6 Tutorial](https://www.javascripttutorial.net/es6/)
-- [W3Schools: Javascript ES6](https://www.w3schools.com/js/js_es6.asp)
-- [Learn Modern JavaScript in 1 Hour](https://www.youtube.com/watch?v=NCwa_xi0Uuc)
-- [JavaScript ES6, ES7, ES8](https://www.youtube.com/watch?v=nZ1DMMsyVyI)
-- [Build 15 JavaScript Projects - Vanilla JavaScript](https://www.youtube.com/watch?v=3PHXvlpOkf4)
-- [Modern JavaScript ES6, ES7 & ES8](https://codeloop.org/learn-modern-javascript-es6-es7-es8)
-- [Easy ES6 Goodies for Busy JavaScript Developers](https://thenewstack.io/fat-arrow-points-way-easy-es6-goodies-busy-js-devs/)
+- [ ] [ES6 Tutorial](https://www.javascripttutorial.net/es6/)
+- [ ] [W3Schools: Javascript ES6](https://www.w3schools.com/js/js_es6.asp)
+- [ ] [Learn Modern JavaScript in 1 Hour](https://www.youtube.com/watch?v=NCwa_xi0Uuc)
+- [ ] [JavaScript ES6, ES7, ES8](https://www.youtube.com/watch?v=nZ1DMMsyVyI)
+- [ ] [Build 15 JavaScript Projects - Vanilla JavaScript](https://www.youtube.com/watch?v=3PHXvlpOkf4)
+- [ ] [Modern JavaScript ES6, ES7 & ES8](https://codeloop.org/learn-modern-javascript-es6-es7-es8)
+- [ ] [Easy ES6 Goodies for Busy JavaScript Developers](https://thenewstack.io/fat-arrow-points-way-easy-es6-goodies-busy-js-devs/)
 
 # JavaScript Concepts
 
@@ -316,15 +316,15 @@ Learn and understand the concepts such as Hoisting, Event Bubbling, Scope, Proto
 
 Visit the following resources to learn more:
 
-- [JavaScript Hoisting](https://developer.mozilla.org/en-US/docs/Glossary/Hoisting)
-- [Event Bubbling and Capturing](https://javascript.info/bubbling-and-capturing)
-- [Scope in JavaScript](https://developer.mozilla.org/en-US/docs/Glossary/Scope)
-- [Var, Let and Const — Whats the difference?](https://www.freecodecamp.org/news/var-let-and-const-whats-the-difference/)
-- [Inheritance and Prototype Chain](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain)
-- [JavaScript Strict Mode](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode)
-- [JavaScript Visualized (7 Part Series)](https://dev.to/lydiahallie/javascript-visualized-event-loop-3dif)
-- [DOM vs Shadow DOM vs Virtual DOM](https://www.youtube.com/watch?v=7Tok22qxPzQ)
-- [Demystifying JavaScript Promises](https://blog.greenroots.info/series/javascript-promises)
+- [ ] [JavaScript Hoisting](https://developer.mozilla.org/en-US/docs/Glossary/Hoisting)
+- [ ] [Event Bubbling and Capturing](https://javascript.info/bubbling-and-capturing)
+- [ ] [Scope in JavaScript](https://developer.mozilla.org/en-US/docs/Glossary/Scope)
+- [ ] [Var, Let and Const — Whats the difference?](https://www.freecodecamp.org/news/var-let-and-const-whats-the-difference/)
+- [ ] [Inheritance and Prototype Chain](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain)
+- [ ] [JavaScript Strict Mode](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode)
+- [ ] [JavaScript Visualized (7 Part Series)](https://dev.to/lydiahallie/javascript-visualized-event-loop-3dif)
+- [ ] [DOM vs Shadow DOM vs Virtual DOM](https://www.youtube.com/watch?v=7Tok22qxPzQ)
+- [ ] [Demystifying JavaScript Promises](https://blog.greenroots.info/series/javascript-promises)
 
 # Version Control Systems
 
@@ -332,11 +332,11 @@ Version control systems allow you to track changes to your codebase/files over t
 
 Visit the following resources to learn more:
 
-- [Version Control System Introduction](https://www.youtube.com/watch?v=zbKdDsNNOhg)
-- [Git & GitHub Crash Course For Beginners](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
-- [Learn Git in 20 Minutes](https://youtu.be/Y9XZQO1n_7c?t=21)
-- [Git Documentation](https://git-scm.com/docs)
-- [Learn Git by Atlassian](https://www.atlassian.com/git)
+- [ ] [Version Control System Introduction](https://www.youtube.com/watch?v=zbKdDsNNOhg)
+- [ ] [Git & GitHub Crash Course For Beginners](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
+- [ ] [Learn Git in 20 Minutes](https://youtu.be/Y9XZQO1n_7c?t=21)
+- [ ] [Git Documentation](https://git-scm.com/docs)
+- [ ] [Learn Git by Atlassian](https://www.atlassian.com/git)
 
 # Git
 
@@ -344,13 +344,13 @@ Visit the following resources to learn more:
 
 Visit the following resources to learn more:
 
-- [Visual Git Guide](https://marklodato.github.io/visual-git-guide/index-en.html)
-- [Git and Github full course](https://youtu.be/apGV9Kg7ics)
-- [Version Control System Introduction](https://www.youtube.com/watch?v=zbKdDsNNOhg)
-- [Git & GitHub Crash Course For Beginners](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
-- [Learn Git in 20 Minutes](https://youtu.be/Y9XZQO1n_7c?t=21)
-- [Tutorial: Git for Absolutely Everyone](https://thenewstack.io/tutorial-git-for-absolutely-everyone/)
-- [Interactive Git Branching Guide](https://learngitbranching.js.org/)
+- [ ] [Visual Git Guide](https://marklodato.github.io/visual-git-guide/index-en.html)
+- [ ] [Git and Github full course](https://youtu.be/apGV9Kg7ics)
+- [ ] [Version Control System Introduction](https://www.youtube.com/watch?v=zbKdDsNNOhg)
+- [ ] [Git & GitHub Crash Course For Beginners](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
+- [ ] [Learn Git in 20 Minutes](https://youtu.be/Y9XZQO1n_7c?t=21)
+- [ ] [Tutorial: Git for Absolutely Everyone](https://thenewstack.io/tutorial-git-for-absolutely-everyone/)
+- [ ] [Interactive Git Branching Guide](https://learngitbranching.js.org/)
 
 # Repo Hosting Services
 
@@ -358,9 +358,9 @@ There are different repository hosting services with the most famous one being G
 
 Visit the following resources to learn more:
 
-- [GitHub: Where the world builds software](https://github.com)
-- [GitLab: Iterate faster, innovate together](https://gitlab.com)
-- [BitBucket: The Git solution for professional teams](https://bitbucket.com)
+- [ ] [GitHub: Where the world builds software](https://github.com)
+- [ ] [GitLab: Iterate faster, innovate together](https://gitlab.com)
+- [ ] [BitBucket: The Git solution for professional teams](https://bitbucket.com)
 
 # GitHub
 
@@ -368,12 +368,12 @@ Visit the following resources to learn more:
 
 Visit the following resources to learn more:
 
-- [GitHub: Quickstart](https://docs.github.com/en/get-started/quickstart/hello-world)
-- [Learn GitHub by doing](https://skills.github.com/)
-- [What is GitHub?](https://www.youtube.com/watch?v=w3jLJU7DT5E)
-- [Git vs. GitHub: Whats the difference?](https://www.youtube.com/watch?v=wpISo9TNjfU)
-- [Git and GitHub for Beginners](https://www.youtube.com/watch?v=RGOj5yH7evk)
-- [Git and GitHub - CS50 Beyond 2019](https://www.youtube.com/watch?v=eulnSXkhE7I)
+- [ ] [GitHub: Quickstart](https://docs.github.com/en/get-started/quickstart/hello-world)
+- [ ] [Learn GitHub by doing](https://skills.github.com/)
+- [ ] [What is GitHub?](https://www.youtube.com/watch?v=w3jLJU7DT5E)
+- [ ] [Git vs. GitHub: Whats the difference?](https://www.youtube.com/watch?v=wpISo9TNjfU)
+- [ ] [Git and GitHub for Beginners](https://www.youtube.com/watch?v=RGOj5yH7evk)
+- [ ] [Git and GitHub - CS50 Beyond 2019](https://www.youtube.com/watch?v=eulnSXkhE7I)
 
 # GitLab
 
@@ -381,9 +381,9 @@ Visit the following resources to learn more:
 
 Visit the following resources to learn more:
 
-- [GitLab Documentation](https://docs.gitlab.com/)
-- [GitLab Website](https://gitlab.com/)
-- [Development: Connect git to GitLab for Small Projects](https://thenewstack.io/development-connect-git-to-gitlab-for-small-projects/)
+- [ ] [GitLab Documentation](https://docs.gitlab.com/)
+- [ ] [GitLab Website](https://gitlab.com/)
+- [ ] [Development: Connect git to GitLab for Small Projects](https://thenewstack.io/development-connect-git-to-gitlab-for-small-projects/)
 
 # BitBucket
 
@@ -391,8 +391,8 @@ Visit the following resources to learn more:
 
 Visit the following resources to learn more:
 
-- [How to use BitBucket?](https://bitbucket.org/product/guides)
-- [BitBucket Website](https://bitbucket.com/)
+- [ ] [How to use BitBucket?](https://bitbucket.org/product/guides)
+- [ ] [BitBucket Website](https://bitbucket.com/)
 
 # Web Security Knowledge
 
@@ -400,13 +400,13 @@ Web security refers to the protective measures taken by the developers to protec
 
 Visit the following resources to learn more:
 
-- [Why HTTPS Matters](https://developers.google.com/web/fundamentals/security/encrypt-in-transit/why-https)
-- [Wikipedia - OWASP](https://en.wikipedia.org/wiki/OWASP)
-- [OWASP Web Application Security Testing Checklist](https://github.com/0xRadi/OWASP-Web-Checklist)
-- [OWASP Top 10 Security Risks](https://sucuri.net/guides/owasp-top-10-security-vulnerabilities-2021/)
-- [OWASP Cheatsheets](https://cheatsheetseries.owasp.org/cheatsheets/AJAX_Security_Cheat_Sheet.html)
-- [Content Security Policy (CSP)](https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP)
-- [OWASP ZAP Step-by-Step Tutorial](https://www.youtube.com/playlist?list=PLH8n_ayg-60J9i3nsLybper-DR3zJw6Z5)
+- [ ] [Why HTTPS Matters](https://developers.google.com/web/fundamentals/security/encrypt-in-transit/why-https)
+- [ ] [Wikipedia - OWASP](https://en.wikipedia.org/wiki/OWASP)
+- [ ] [OWASP Web Application Security Testing Checklist](https://github.com/0xRadi/OWASP-Web-Checklist)
+- [ ] [OWASP Top 10 Security Risks](https://sucuri.net/guides/owasp-top-10-security-vulnerabilities-2021/)
+- [ ] [OWASP Cheatsheets](https://cheatsheetseries.owasp.org/cheatsheets/AJAX_Security_Cheat_Sheet.html)
+- [ ] [Content Security Policy (CSP)](https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP)
+- [ ] [OWASP ZAP Step-by-Step Tutorial](https://www.youtube.com/playlist?list=PLH8n_ayg-60J9i3nsLybper-DR3zJw6Z5)
 
 # HTTPS
 
@@ -416,12 +416,12 @@ Hypertext transfer protocol secure (HTTPS) is the secure version of HTTP, which 
 
 Visit the following resources to learn more:
 
-- [What is HTTPS?](https://www.cloudflare.com/en-gb/learning/ssl/what-is-https/)
-- [Why HTTPS Matters](https://developers.google.com/web/fundamentals/security/encrypt-in-transit/why-https)
-- [Enabling HTTPS on Your Servers](https://web.dev/enable-https/)
-- [How HTTPS works (comic)](https://howhttps.works/)
-- [SSL, TLS, HTTP, HTTPS Explained](https://www.youtube.com/watch?v=hExRDVZHhig)
-- [HTTPS — Stories from the field](https://www.youtube.com/watch?v=GoXgl9r0Kjk)
+- [ ] [What is HTTPS?](https://www.cloudflare.com/en-gb/learning/ssl/what-is-https/)
+- [ ] [Why HTTPS Matters](https://developers.google.com/web/fundamentals/security/encrypt-in-transit/why-https)
+- [ ] [Enabling HTTPS on Your Servers](https://web.dev/enable-https/)
+- [ ] [How HTTPS works (comic)](https://howhttps.works/)
+- [ ] [SSL, TLS, HTTP, HTTPS Explained](https://www.youtube.com/watch?v=hExRDVZHhig)
+- [ ] [HTTPS — Stories from the field](https://www.youtube.com/watch?v=GoXgl9r0Kjk)
 
 # Content Security Policy
 
@@ -429,8 +429,8 @@ Content Security Policy is a computer security standard introduced to prevent cr
 
 Visit the following resources to learn more:
 
-- [MDN — Content Security Policy (CSP)](https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP)
-- [Google Devs — Content Security Policy (CSP)](https://developers.google.com/web/fundamentals/security/csp)
+- [ ] [MDN — Content Security Policy (CSP)](https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP)
+- [ ] [Google Devs — Content Security Policy (CSP)](https://developers.google.com/web/fundamentals/security/csp)
 
 # CORS
 
@@ -438,7 +438,7 @@ Cross-Origin Resource Sharing (CORS) is an HTTP-header based mechanism that allo
 
 Visit the following resources to learn more:
 
-- [CORS — Cross-Origin Resource Sharing](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
+- [ ] [CORS — Cross-Origin Resource Sharing](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
 
 # OWASP Security Risks
 
@@ -446,11 +446,11 @@ OWASP or Open Web Application Security Project is an online community that produ
 
 Visit the following resources to learn more:
 
-- [Wikipedia - OWASP](https://en.wikipedia.org/wiki/OWASP)
-- [OWASP Web Application Security Testing Checklist](https://github.com/0xRadi/OWASP-Web-Checklist)
-- [OWASP Top 10 Security Risks](https://sucuri.net/guides/owasp-top-10-security-vulnerabilities-2021/)
-- [OWASP Cheatsheets](https://cheatsheetseries.owasp.org/cheatsheets/AJAX_Security_Cheat_Sheet.html)
-- [OWASP Top 10: A Guide to the Worst Software Vulnerabilities](https://thenewstack.io/owasp-top-10-a-guide-to-the-worst-software-vulnerabilities/)
+- [ ] [Wikipedia - OWASP](https://en.wikipedia.org/wiki/OWASP)
+- [ ] [OWASP Web Application Security Testing Checklist](https://github.com/0xRadi/OWASP-Web-Checklist)
+- [ ] [OWASP Top 10 Security Risks](https://sucuri.net/guides/owasp-top-10-security-vulnerabilities-2021/)
+- [ ] [OWASP Cheatsheets](https://cheatsheetseries.owasp.org/cheatsheets/AJAX_Security_Cheat_Sheet.html)
+- [ ] [OWASP Top 10: A Guide to the Worst Software Vulnerabilities](https://thenewstack.io/owasp-top-10-a-guide-to-the-worst-software-vulnerabilities/)
 
 # Package Managers
 
@@ -458,12 +458,12 @@ Package managers allow you to manage the dependencies (external code written by 
 
 Visit the following resources to learn more:
 
-- [Modern JavaScript for Dinosaurs](https://peterxjang.com/blog/modern-javascript-explained-for-dinosaurs.html)
-- [An Absolute Beginners Guide to Using npm](https://nodesource.com/blog/an-absolute-beginners-guide-to-using-npm/)
-- [Yarn - Getting Started](https://yarnpkg.com/en/docs/getting-started)
-- [NPM tutorial for Beginners](https://www.youtube.com/watch?v=2V1UUhBJ62Y)
-- [NPM Crash Course](https://www.youtube.com/watch?v=jHDhaSSKmB0)
-- [Yarn Crash Course](https://www.youtube.com/watch?v=g9_6KmiBISk)
+- [ ] [Modern JavaScript for Dinosaurs](https://peterxjang.com/blog/modern-javascript-explained-for-dinosaurs.html)
+- [ ] [An Absolute Beginners Guide to Using npm](https://nodesource.com/blog/an-absolute-beginners-guide-to-using-npm/)
+- [ ] [Yarn - Getting Started](https://yarnpkg.com/en/docs/getting-started)
+- [ ] [NPM tutorial for Beginners](https://www.youtube.com/watch?v=2V1UUhBJ62Y)
+- [ ] [NPM Crash Course](https://www.youtube.com/watch?v=jHDhaSSKmB0)
+- [ ] [Yarn Crash Course](https://www.youtube.com/watch?v=g9_6KmiBISk)
 
 # npm
 
@@ -471,11 +471,11 @@ npm is a package manager for the JavaScript programming language maintained by n
 
 Visit the following resources to learn more:
 
-- [Modern JavaScript for Dinosaurs](https://peterxjang.com/blog/modern-javascript-explained-for-dinosaurs.html)
-- [An Absolute Beginners Guide to Using npm](https://nodesource.com/blog/an-absolute-beginners-guide-to-using-npm/)
-- [How to NPM](https://github.com/workshopper/how-to-npm)
-- [NPM tutorial for Beginners](https://www.youtube.com/watch?v=2V1UUhBJ62Y)
-- [NPM Crash Course](https://www.youtube.com/watch?v=jHDhaSSKmB0)
+- [ ] [Modern JavaScript for Dinosaurs](https://peterxjang.com/blog/modern-javascript-explained-for-dinosaurs.html)
+- [ ] [An Absolute Beginners Guide to Using npm](https://nodesource.com/blog/an-absolute-beginners-guide-to-using-npm/)
+- [ ] [How to NPM](https://github.com/workshopper/how-to-npm)
+- [ ] [NPM tutorial for Beginners](https://www.youtube.com/watch?v=2V1UUhBJ62Y)
+- [ ] [NPM Crash Course](https://www.youtube.com/watch?v=jHDhaSSKmB0)
 
 # Yarn
 
@@ -483,9 +483,9 @@ Yarn is a software packaging system developed in 2016 by Facebook for Node.js Ja
 
 Visit the following resources to learn more:
 
-- [Modern JavaScript for Dinosaurs](https://peterxjang.com/blog/modern-javascript-explained-for-dinosaurs.html)
-- [Yarn - Getting Started](https://yarnpkg.com/en/docs/getting-started)
-- [Yarn Crash Course](https://www.youtube.com/watch?v=g9_6KmiBISk)
+- [ ] [Modern JavaScript for Dinosaurs](https://peterxjang.com/blog/modern-javascript-explained-for-dinosaurs.html)
+- [ ] [Yarn - Getting Started](https://yarnpkg.com/en/docs/getting-started)
+- [ ] [Yarn Crash Course](https://www.youtube.com/watch?v=g9_6KmiBISk)
 
 # pnpm
 
@@ -493,8 +493,8 @@ PNPM is an alternative package manager for Node. js which stands for “Performa
 
 Visit the following resources to learn more:
 
-- [Official Website](https://pnpm.io)
-- [Meet PNPM: The Faster, More Performant NPM](https://blog.bitsrc.io/pnpm-javascript-package-manager-4b5abd59dc9)
+- [ ] [Official Website](https://pnpm.io)
+- [ ] [Meet PNPM: The Faster, More Performant NPM](https://blog.bitsrc.io/pnpm-javascript-package-manager-4b5abd59dc9)
 
 # CSS Architecture
 
@@ -502,10 +502,10 @@ CSS is notoriously difficult to manage in large, complex, rapidly-iterated syste
 
 Visit the following resources to learn more:
 
-- [A Look at Some CSS Methodologies](https://www.webfx.com/blog/web-design/css-methodologies/)
-- [BEM Official Website](https://en.bem.info)
-- [OOCSS Official Website](http://oocss.org/)
-- [SMACSS Official Website](http://smacss.com/)
+- [ ] [A Look at Some CSS Methodologies](https://www.webfx.com/blog/web-design/css-methodologies/)
+- [ ] [BEM Official Website](https://en.bem.info)
+- [ ] [OOCSS Official Website](http://oocss.org/)
+- [ ] [SMACSS Official Website](http://smacss.com/)
 
 # BEM
 
@@ -513,10 +513,10 @@ The Block, Element, Modifier methodology (commonly referred to as BEM) is a popu
 
 Visit the following resources to learn more:
 
-- [BEM Official Website](https://en.bem.info)
-- [BEM Documentation](https://en.bem.info/methodology/quick-start)
-- [BEM 101](https://css-tricks.com/bem-101)
-- [BEM Tutorials](https://en.bem.info/tutorials/)
+- [ ] [BEM Official Website](https://en.bem.info)
+- [ ] [BEM Documentation](https://en.bem.info/methodology/quick-start)
+- [ ] [BEM 101](https://css-tricks.com/bem-101)
+- [ ] [BEM Tutorials](https://en.bem.info/tutorials/)
 
 # OOCSS
 
@@ -524,8 +524,8 @@ As with any object-based coding method, the purpose of OOCSS or Object Oriented 
 
 Visit the following resources to learn more:
 
-- [OOCSS Official Website](http://oocss.org/)
-- [Introduction to Object Oriented CSS](https://www.smashingmagazine.com/2011/12/an-introduction-to-object-oriented-css-oocss/)
+- [ ] [OOCSS Official Website](http://oocss.org/)
+- [ ] [Introduction to Object Oriented CSS](https://www.smashingmagazine.com/2011/12/an-introduction-to-object-oriented-css-oocss/)
 
 # SMACSS
 
@@ -533,7 +533,7 @@ SMACSS (pronounced “smacks”) is more style guide than rigid framework. SMACS
 
 Visit the following resources to learn more:
 
-- [SMACSS Official Website](http://smacss.com/)
+- [ ] [SMACSS Official Website](http://smacss.com/)
 
 # CSS Preprocessors
 
@@ -541,8 +541,8 @@ CSS Preprocessors are scripting languages that extend the default capabilities o
 
 Visit the following resources to learn more:
 
-- [CSS Preprocessors Explained](https://www.freecodecamp.org/news/css-preprocessors/)
-- [Why Use Preprocessors?](https://sherocommerce.com/what-is-a-css-preprocessors-why-use-them/)
+- [ ] [CSS Preprocessors Explained](https://www.freecodecamp.org/news/css-preprocessors/)
+- [ ] [Why Use Preprocessors?](https://sherocommerce.com/what-is-a-css-preprocessors-why-use-them/)
 
 # Sass
 
@@ -550,10 +550,10 @@ Sass is a preprocessor scripting language that is interpreted or compiled into C
 
 Visit the following resources to learn more:
 
-- [Sass Website](https://sass-lang.com/)
-- [Official Documentation](https://sass-lang.com/documentation)
-- [Sass Tutorial for Beginners](https://www.youtube.com/watch?v=_a5j7KoflTs)
-- [Sass, BEM, & Responsive Design](https://www.youtube.com/watch?v=jfMHA8SqUL4)
+- [ ] [Sass Website](https://sass-lang.com/)
+- [ ] [Official Documentation](https://sass-lang.com/documentation)
+- [ ] [Sass Tutorial for Beginners](https://www.youtube.com/watch?v=_a5j7KoflTs)
+- [ ] [Sass, BEM, & Responsive Design](https://www.youtube.com/watch?v=jfMHA8SqUL4)
 
 # PostCSS
 
@@ -561,7 +561,7 @@ PostCSS is a tool for transforming styles with JS plugins. These plugins can lin
 
 Visit the following resources to learn more:
 
-- [Official Website](https://postcss.org/)
+- [ ] [Official Website](https://postcss.org/)
 
 # Less
 
@@ -569,9 +569,9 @@ Less extends CSS with dynamic behavior such as variables, mixins, operations and
 
 Visit the following resources to learn more:
 
-- [Official Website](https://lesscss.org/)
-- [Official Documentation](https://lesscss.org/usage/)
-- [Less CSS Pre-Processor Tutorial](https://www.youtube.com/watch?v=YD91G8DdUsw)
+- [ ] [Official Website](https://lesscss.org/)
+- [ ] [Official Documentation](https://lesscss.org/usage/)
+- [ ] [Less CSS Pre-Processor Tutorial](https://www.youtube.com/watch?v=YD91G8DdUsw)
 
 # Build Tools
 
@@ -581,9 +581,9 @@ Common usages of task runners include numerous development tasks such as: spinni
 
 Visit the following resources to learn more:
 
-- [webpack is a static module bundler for modern JavaScript applications](https://webpack.js.org/)
-- [Vite Next Generation Frontend Tooling](https://vitejs.dev)
-- [Parcel is a zero configuration build tool for the web](https://parceljs.org/)
+- [ ] [webpack is a static module bundler for modern JavaScript applications](https://webpack.js.org/)
+- [ ] [Vite Next Generation Frontend Tooling](https://vitejs.dev)
+- [ ] [Parcel is a zero configuration build tool for the web](https://parceljs.org/)
 
 # Pick a Framework
 
@@ -591,8 +591,8 @@ Web frameworks are designed to write web applications. Frameworks are collection
 
 Visit the following resources to learn more:
 
-- [What is the difference between a framework and a library?](https://www.youtube.com/watch?v=D_MO9vIRBcA)
-- [Which JS Framework is best?](https://www.youtube.com/watch?v=cuHDQhDhvPE)
+- [ ] [What is the difference between a framework and a library?](https://www.youtube.com/watch?v=D_MO9vIRBcA)
+- [ ] [Which JS Framework is best?](https://www.youtube.com/watch?v=cuHDQhDhvPE)
 
 # Svelte
 
@@ -600,11 +600,11 @@ Svelte is a javascript framework that unlike Vue and React does not use vertical
 
 Visit the following resources to learn more:
 
-- [Svelte Website](https://svelte.dev/)
-- [Svelte Documentation](https://svelte.dev/docs)
-- [Svelte Course Playlist for beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hlbrVO_2QFVqVPhlZmz7tO)
-- [All About Svelte, the Much-Loved, State-Driven Web Framework](https://thenewstack.io/all-about-svelte-the-much-loved-state-driven-web-framework/)
-- [Svelte and the Future of Frontend Development](https://thenewstack.io/svelte-and-the-future-of-front-end-development/)
+- [ ] [Svelte Website](https://svelte.dev/)
+- [ ] [Svelte Documentation](https://svelte.dev/docs)
+- [ ] [Svelte Course Playlist for beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hlbrVO_2QFVqVPhlZmz7tO)
+- [ ] [All About Svelte, the Much-Loved, State-Driven Web Framework](https://thenewstack.io/all-about-svelte-the-much-loved-state-driven-web-framework/)
+- [ ] [Svelte and the Future of Frontend Development](https://thenewstack.io/svelte-and-the-future-of-front-end-development/)
 
 # SolidJS
 
@@ -612,8 +612,8 @@ Solid is a reactive JavaScript toolkit for building user interfaces without a vi
 
 Visit the following resources to learn more:
 
-- [Official Website - SolidJS](https://www.solidjs.com/)
-- [SolidJS Tutorial](https://www.solidjs.com/tutorial/introduction_basics)
+- [ ] [Official Website - SolidJS](https://www.solidjs.com/)
+- [ ] [SolidJS Tutorial](https://www.solidjs.com/tutorial/introduction_basics)
 
 # Modern CSS
 
@@ -625,9 +625,9 @@ Styled-components is a CSS-in-JS library that enables you to write regular CSS a
 
 Visit the following resources to learn more:
 
-- [Official Website](https://styled-components.com/)
-- [Official Docs](https://styled-components.com/docs)
-- [Styled Components Crash Course & Project](https://www.youtube.com/watch?v=02zO0hZmwnw)
+- [ ] [Official Website](https://styled-components.com/)
+- [ ] [Official Docs](https://styled-components.com/docs)
+- [ ] [Styled Components Crash Course & Project](https://www.youtube.com/watch?v=02zO0hZmwnw)
 
 # CSS Modules
 
@@ -635,9 +635,9 @@ CSS files in which all class names and animation names are scoped locally by def
 
 Visit the following resources to learn more:
 
-- [Project GitHub Repository](https://github.com/css-modules/css-modules)
-- [Using CSS Modules In React App](https://medium.com/@ralph1786/using-css-modules-in-react-app-c2079eadbb87)
-- [CSS Modules: Why are they great?](https://www.youtube.com/watch?v=pKMWU9OrA2s)
+- [ ] [Project GitHub Repository](https://github.com/css-modules/css-modules)
+- [ ] [Using CSS Modules In React App](https://medium.com/@ralph1786/using-css-modules-in-react-app-c2079eadbb87)
+- [ ] [CSS Modules: Why are they great?](https://www.youtube.com/watch?v=pKMWU9OrA2s)
 
 # Styled JSX
 
@@ -645,8 +645,8 @@ Styled JSX is a CSS-in-JS library that allows you to write encapsulated and scop
 
 Visit the following resources to learn more:
 
-- [Getting started](https://github.com/vercel/styled-jsx)
-- [Styled JSX in Next.js: Master Next.js](https://www.youtube.com/watch?v=SM5uVbfgfdo)
+- [ ] [Getting started](https://github.com/vercel/styled-jsx)
+- [ ] [Styled JSX in Next.js: Master Next.js](https://www.youtube.com/watch?v=SM5uVbfgfdo)
 
 # Emotion
 
@@ -654,8 +654,8 @@ Emotion is a library designed for writing css styles with JavaScript. It provide
 
 Visit the following resources to learn more:
 
-- [Official Website and Docs](https://emotion.sh/docs/introduction)
-- [Styled components using emotion in React](https://www.youtube.com/watch?v=yO3JU2bMLGA)
+- [ ] [Official Website and Docs](https://emotion.sh/docs/introduction)
+- [ ] [Styled components using emotion in React](https://www.youtube.com/watch?v=yO3JU2bMLGA)
 
 # Web Components
 
@@ -663,9 +663,9 @@ Web Components is a suite of different technologies allowing you to create reusa
 
 Visit the following resources to learn more:
 
-- [Web Components | MDN](https://developer.mozilla.org/en-US/docs/Web/Web_Components)
-- [WebComponents.org](https://webcomponents.github.io/)
-- [Web Components Crash Course](https://www.youtube.com/watch?v=PCWaFLy3VUo)
+- [ ] [Web Components | MDN](https://developer.mozilla.org/en-US/docs/Web/Web_Components)
+- [ ] [WebComponents.org](https://webcomponents.github.io/)
+- [ ] [Web Components Crash Course](https://www.youtube.com/watch?v=PCWaFLy3VUo)
 
 # HTML Templates
 
@@ -673,7 +673,7 @@ The `<template>` HTML element is a mechanism for holding HTML that is not to be 
 
 Visit the following resources to learn more:
 
-- [Using templates and slots | MDN web docs](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_templates_and_slots)
+- [ ] [Using templates and slots | MDN web docs](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_templates_and_slots)
 
 # Custom Elements
 
@@ -681,7 +681,7 @@ One of the key features of the Web Components standard is the ability to create 
 
 Visit the following resources to learn more:
 
-- [Using custom elements | MDN web docs](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_custom_elements)
+- [ ] [Using custom elements | MDN web docs](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_custom_elements)
 
 # Shadow DOM
 
@@ -689,7 +689,7 @@ An important aspect of web components is encapsulation — being able to keep th
 
 Visit the following resources to learn more:
 
-- [Using shadow DOM | MDN web docs](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_shadow_DOM)
+- [ ] [Using shadow DOM | MDN web docs](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_shadow_DOM)
 
 # CSS frameworks
 
@@ -697,8 +697,8 @@ A CSS framework provides the user with a fully functional CSS stylesheet, allowi
 
 Visit the following resources to learn more:
 
-- [CSS Frameworks Introduction](https://en.wikipedia.org/wiki/CSS_framework)
-- [What are the benefits of using a css framework](https://css-tricks.com/what-are-the-benefits-of-using-a-css-framework/)
+- [ ] [CSS Frameworks Introduction](https://en.wikipedia.org/wiki/CSS_framework)
+- [ ] [What are the benefits of using a css framework](https://css-tricks.com/what-are-the-benefits-of-using-a-css-framework/)
 
 # Testing your apps
 
@@ -706,9 +706,9 @@ Before delivering your application to users, you need to be sure that your app m
 
 Visit the following resources to learn more:
 
-- [A comprehensive dive into software testing.](https://www.softwaretestingmaterial.com/software-testing/)
-- [The different types of software tests](https://www.atlassian.com/continuous-delivery/software-testing/types-of-software-testing)
-- [Testing React apps with Jest](https://jestjs.io/docs/tutorial-react)
+- [ ] [A comprehensive dive into software testing.](https://www.softwaretestingmaterial.com/software-testing/)
+- [ ] [The different types of software tests](https://www.atlassian.com/continuous-delivery/software-testing/types-of-software-testing)
+- [ ] [Testing React apps with Jest](https://jestjs.io/docs/tutorial-react)
 
 # Jest
 
@@ -717,7 +717,7 @@ It works with projects using: Babel, TypeScript, Node, React, Angular, Vue and m
 
 Visit the following resources to learn more:
 
-- [Jest Website](https://jestjs.io/)
+- [ ] [Jest Website](https://jestjs.io/)
 
 # React Testing Library
 
@@ -725,7 +725,7 @@ The React Testing Library is a very lightweight solution for testing React compo
 
 Visit the following resources to learn more:
 
-- [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/)
+- [ ] [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/)
 
 # Cypress
 
@@ -733,9 +733,9 @@ Cypress framework is a JavaScript-based end-to-end testing framework built on to
 
 Visit the following resources to learn more:
 
-- [Official Website](https://www.cypress.io/)
-- [Official Documentation](https://docs.cypress.io/guides/overview/why-cypress#Other)
-- [Cypress End-to-End Testing](https://www.youtube.com/watch?v=7N63cMKosIE)
+- [ ] [Official Website](https://www.cypress.io/)
+- [ ] [Official Documentation](https://docs.cypress.io/guides/overview/why-cypress#Other)
+- [ ] [Cypress End-to-End Testing](https://www.youtube.com/watch?v=7N63cMKosIE)
 
 # Other options
 
@@ -745,9 +745,9 @@ Playwright is an open-source test automation library initially developed by Micr
 
 Visit the following resources to learn more:
 
-- [Playwright Website](https://playwright.dev/)
-- [Playwright Tutorial: Learn Basics and Setup](https://www.browserstack.com/guide/playwright-tutorial)
-- [Playwright, a Time-Saving End-to-End Testing Framework](https://thenewstack.io/playwright-a-time-saving-end-to-end-testing-framework/)
+- [ ] [Playwright Website](https://playwright.dev/)
+- [ ] [Playwright Tutorial: Learn Basics and Setup](https://www.browserstack.com/guide/playwright-tutorial)
+- [ ] [Playwright, a Time-Saving End-to-End Testing Framework](https://thenewstack.io/playwright-a-time-saving-end-to-end-testing-framework/)
 
 # Mocha
 
@@ -755,8 +755,8 @@ Mocha is a feature-rich JavaScript test framework running on Node.js and in the 
 
 Visit the following resources to learn more:
 
-- [Official Website and Docs](https://mochajs.org/)
-- [Testing Node.js with Mocha](https://www.youtube.com/watch?v=Bs68k6xfR3E)
+- [ ] [Official Website and Docs](https://mochajs.org/)
+- [ ] [Testing Node.js with Mocha](https://www.youtube.com/watch?v=Bs68k6xfR3E)
 
 # Chai
 
@@ -764,9 +764,9 @@ Chai is a BDD / TDD assertion library for node and the browser that can be delig
 
 Visit the following resources to learn more:
 
-- [Official Website and Docs](https://www.chaijs.com/)
-- [Official Docs](https://www.chaijs.com/guide/)
-- [Intro To JavaScript Unit Testing With Mocha JS & Chai](https://www.youtube.com/watch?v=MLTRHc5dk6s)
+- [ ] [Official Website and Docs](https://www.chaijs.com/)
+- [ ] [Official Docs](https://www.chaijs.com/guide/)
+- [ ] [Intro To JavaScript Unit Testing With Mocha JS & Chai](https://www.youtube.com/watch?v=MLTRHc5dk6s)
 
 # Ava
 
@@ -774,9 +774,9 @@ Ava is a JavaScript test runner. It utilizes the async I/O nature of Node and ru
 
 Visit the following resources to learn more:
 
-- [Official Repository](https://github.com/avajs/ava)
-- [Testing your Node.js applications with Ava.js](https://www.freecodecamp.org/news/testing-your-nodejs-applications-with-ava-js-99e806a226a7/)
-- [AVA Tutorial](https://www.youtube.com/watch?v=RxLW6-3dk5A)
+- [ ] [Official Repository](https://github.com/avajs/ava)
+- [ ] [Testing your Node.js applications with Ava.js](https://www.freecodecamp.org/news/testing-your-nodejs-applications-with-ava-js-99e806a226a7/)
+- [ ] [AVA Tutorial](https://www.youtube.com/watch?v=RxLW6-3dk5A)
 
 # Jasmine
 
@@ -784,10 +784,10 @@ Jasmine is a behavior-driven development framework for testing JavaScript code. 
 
 Visit the following resources to learn more:
 
-- [Official Website](https://jasmine.github.io/)
-- [Official Docs](https://jasmine.github.io/pages/docs_home.html)
-- [Official Repository](https://github.com/jasmine/jasmine)
-- [Javascript Unit Testing with Jasmine](https://www.youtube.com/watch?v=rw4KlxKEENQ)
+- [ ] [Official Website](https://jasmine.github.io/)
+- [ ] [Official Docs](https://jasmine.github.io/pages/docs_home.html)
+- [ ] [Official Repository](https://github.com/jasmine/jasmine)
+- [ ] [Javascript Unit Testing with Jasmine](https://www.youtube.com/watch?v=rw4KlxKEENQ)
 
 # Vitest
 
@@ -796,7 +796,7 @@ Works on React, Vue, Svelte and more projects created with Vite
 
 Visit the following resources to learn more:
 
-- [Vitest Website](https://vitest.dev/)
+- [ ] [Vitest Website](https://vitest.dev/)
 
 # Authentication Strategies
 
@@ -813,12 +813,12 @@ You don't necessarily need to learn all of these, how to implement and the ins a
 
 Visit the following resources to learn more:
 
-- [Basic Authentication](https://roadmap.sh/guides/basic-authentication)
-- [Session Based Authentication](https://roadmap.sh/guides/session-authentication)
-- [Token Based Authentication](https://roadmap.sh/guides/token-authentication)
-- [JWT Authentication](https://roadmap.sh/guides/jwt-authentication)
-- [OAuth](https://roadmap.sh/guides/oauth)
-- [SSO - Single Sign On](https://roadmap.sh/guides/sso)
+- [ ] [Basic Authentication](https://roadmap.sh/guides/basic-authentication)
+- [ ] [Session Based Authentication](https://roadmap.sh/guides/session-authentication)
+- [ ] [Token Based Authentication](https://roadmap.sh/guides/token-authentication)
+- [ ] [JWT Authentication](https://roadmap.sh/guides/jwt-authentication)
+- [ ] [OAuth](https://roadmap.sh/guides/oauth)
+- [ ] [SSO - Single Sign On](https://roadmap.sh/guides/sso)
 
 # Type Checkers
 
@@ -830,15 +830,15 @@ TypeScript is a strongly typed programming language that builds on JavaScript, g
 
 Visit the following resources to learn more:
 
-- [Official Website](https://www.typescriptlang.org/)
-- [Official Docs for Deep Dives](https://www.typescriptlang.org/docs/)
-- [The TypeScript Handbook](https://www.typescriptlang.org/docs/handbook/intro.html)
-- [TypeScript Tutorial](https://www.tutorialspoint.com/typescript/index.htm)
-- [Scrimba — TypeScript Basics](https://scrimba.com/learn/typescript)
-- [TypeScript for Beginners](https://www.youtube.com/watch?v=BwuLxPH8IDs)
-- [What Is TypeScript?](https://thenewstack.io/what-is-typescript/)
-- [TypeScript Tutorial: Go beyond ‘Hello, World!’](https://thenewstack.io/typescript-tutorial-go-beyond-hello-world/)
-- [TypeScript Tutorial: A Guide to Using the Programming Language](https://thenewstack.io/typescript-tutorial-a-guide-to-using-the-programming-language/)
+- [ ] [Official Website](https://www.typescriptlang.org/)
+- [ ] [Official Docs for Deep Dives](https://www.typescriptlang.org/docs/)
+- [ ] [The TypeScript Handbook](https://www.typescriptlang.org/docs/handbook/intro.html)
+- [ ] [TypeScript Tutorial](https://www.tutorialspoint.com/typescript/index.htm)
+- [ ] [Scrimba — TypeScript Basics](https://scrimba.com/learn/typescript)
+- [ ] [TypeScript for Beginners](https://www.youtube.com/watch?v=BwuLxPH8IDs)
+- [ ] [What Is TypeScript?](https://thenewstack.io/what-is-typescript/)
+- [ ] [TypeScript Tutorial: Go beyond ‘Hello, World!’](https://thenewstack.io/typescript-tutorial-go-beyond-hello-world/)
+- [ ] [TypeScript Tutorial: A Guide to Using the Programming Language](https://thenewstack.io/typescript-tutorial-a-guide-to-using-the-programming-language/)
 
 # Flow
 
@@ -846,9 +846,9 @@ Flow is a static type checker, designed to find type errors in JavaScript progra
 
 Visit the following resources to learn more:
 
-- [Official Website](https://flow.org/)
-- [Official Documentation](https://flow.org/en/docs/)
-- [Flow for Beginners](https://www.youtube.com/watch?v=0HlqX4lQZas)
+- [ ] [Official Website](https://flow.org/)
+- [ ] [Official Documentation](https://flow.org/en/docs/)
+- [ ] [Flow for Beginners](https://www.youtube.com/watch?v=0HlqX4lQZas)
 
 # Progressive Web Apps
 
@@ -856,10 +856,10 @@ Progressive Web Apps (PWAs) are websites that are progressively enhanced to func
 
 Visit the following resources to learn more:
 
-- [Progressive Web Apps for Beginners](https://www.freecodecamp.org/news/what-are-progressive-web-apps/)
-- [Learn PWA](https://web.dev/learn/pwa/)
-- [MDN Web Docs: Progressive Web Apps](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/)
-- [Build a Progressive Web App](https://www.youtube.com/watch?v=sFsRylCQblw)
+- [ ] [Progressive Web Apps for Beginners](https://www.freecodecamp.org/news/what-are-progressive-web-apps/)
+- [ ] [Learn PWA](https://web.dev/learn/pwa/)
+- [ ] [MDN Web Docs: Progressive Web Apps](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/)
+- [ ] [Build a Progressive Web App](https://www.youtube.com/watch?v=sFsRylCQblw)
 
 # Web Storage API
 
@@ -869,7 +869,7 @@ The Web Storage API is designed to be simple and easy to use, and it is widely s
 
 Visit the following resources to learn more:
 
-- [Web Storage API - MDN](https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API)
+- [ ] [Web Storage API - MDN](https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API)
 
 # Web Sockets
 
@@ -881,7 +881,7 @@ Web Sockets is supported by most modern web browsers and can be used with a vari
 
 Visit the following resources to learn more:
 
-- [Web Sockets - MDN](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)
+- [ ] [Web Sockets - MDN](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)
 
 # Server Sent Events
 
@@ -893,7 +893,7 @@ To use SSE, the client must create an EventSource object and specify the URL of 
 
 Visit the following resources to learn more:
 
-- [Server-Sent Events - MDN](https://developer.mozilla.org/en-US/docs/Web/API/Server-sent_events)
+- [ ] [Server-Sent Events - MDN](https://developer.mozilla.org/en-US/docs/Web/API/Server-sent_events)
 
 # Service Workers
 
@@ -905,7 +905,7 @@ Service Workers are supported by most modern web browsers, and they are an essen
 
 Visit the following resources to learn more:
 
-- [Service Workers - MDN](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API)
+- [ ] [Service Workers - MDN](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API)
 
 # Location API
 
@@ -915,7 +915,7 @@ To use the Geolocation API, a web page must first request permission from the us
 
 Visit the following resources to learn more:
 
-- [Geolocation API - MDN](https://developer.mozilla.org/en-US/docs/Web/API/Geolocation_API)
+- [ ] [Geolocation API - MDN](https://developer.mozilla.org/en-US/docs/Web/API/Geolocation_API)
 
 # Notifications API
 
@@ -925,7 +925,7 @@ To use the Notifications API, a web page must first request permission from the 
 
 Visit the following resources to learn more:
 
-- [Notifications API - MDN](https://developer.mozilla.org/en-US/docs/Web/API/Notifications_API)
+- [ ] [Notifications API - MDN](https://developer.mozilla.org/en-US/docs/Web/API/Notifications_API)
 
 # Device Orientation API
 
@@ -937,7 +937,7 @@ The Device Orientation API is supported by most modern web browsers and is often
 
 Visit the following resources to learn more:
 
-- [Device Orientation API - MDN](https://developer.mozilla.org/en-US/docs/Web/API/Device_orientation_events)
+- [ ] [Device Orientation API - MDN](https://developer.mozilla.org/en-US/docs/Web/API/Device_orientation_events)
 
 # Payments
 
@@ -949,7 +949,7 @@ The Payment Request API is supported by most modern web browsers and is designed
 
 Visit the following resources to learn more:
 
-- [Payment Request API - MDN](https://developer.mozilla.org/en-US/docs/Web/API/Payment_Request_API)
+- [ ] [Payment Request API - MDN](https://developer.mozilla.org/en-US/docs/Web/API/Payment_Request_API)
 
 # Credentials API
 
@@ -961,7 +961,7 @@ The Credential Management API is supported by most modern web browsers and is de
 
 Visit the following resources to learn more:
 
-- [Credential Management API - MDN](https://developer.mozilla.org/en-US/docs/Web/API/Credential_Management_API)
+- [ ] [Credential Management API - MDN](https://developer.mozilla.org/en-US/docs/Web/API/Credential_Management_API)
 
 # PRPL Pattern
 
@@ -976,7 +976,7 @@ The PRPL pattern is designed to improve the perceived performance of a web page 
 
 Visit the following resources to learn more:
 
-- [PRPL Pattern - Google Developers](https://developers.google.com/web/fundamentals/performance/prpl-pattern)
+- [ ] [PRPL Pattern - Google Developers](https://developers.google.com/web/fundamentals/performance/prpl-pattern)
 
 # RAIL Model
 
@@ -991,7 +991,7 @@ The RAIL model is designed to provide a framework for optimizing the performance
 
 Visit the following resources to learn more:
 
-- [RAIL Model - Google Developers](https://developers.google.com/web/fundamentals/performance/rail)
+- [ ] [RAIL Model - Google Developers](https://developers.google.com/web/fundamentals/performance/rail)
 
 # Performance Metrics
 
@@ -1007,9 +1007,9 @@ There are many tools and techniques available for measuring web performance metr
 
 Visit the following resources to learn more:
 
-- [Web Performance Metrics - Google Developers](https://developers.google.com/web/fundamentals/performance/user-centric-performance-metrics)
-- [Measuring performance and user experience - Google Developers](https://web.dev/metrics/)
-- [Measuring performance and user experience - MDN](https://developer.mozilla.org/en-US/docs/Web/Guide/Performance)
+- [ ] [Web Performance Metrics - Google Developers](https://developers.google.com/web/fundamentals/performance/user-centric-performance-metrics)
+- [ ] [Measuring performance and user experience - Google Developers](https://web.dev/metrics/)
+- [ ] [Measuring performance and user experience - MDN](https://developer.mozilla.org/en-US/docs/Web/Guide/Performance)
 
 # Lighthouse
 
@@ -1021,7 +1021,7 @@ Lighthouse provides a comprehensive and easy-to-use tool for identifying and fix
 
 Visit the following resources to learn more:
 
-- [Lighthouse - Google Developers](https://developers.google.com/web/tools/lighthouse)
+- [ ] [Lighthouse - Google Developers](https://developers.google.com/web/tools/lighthouse)
 
 # Browser DevTools
 
@@ -1041,7 +1041,7 @@ Chrome DevTools is a powerful and essential tool for web developers, and it is w
 
 Visit the following resources to learn more:
 
-- [Chrome DevTools - Google Developers](https://developers.google.com/web/tools/chrome-devtools)
+- [ ] [Chrome DevTools - Google Developers](https://developers.google.com/web/tools/chrome-devtools)
 
 # Server-side rendering
 
@@ -1049,11 +1049,11 @@ Server-side rendering refers to the process that the service side completes the 
 
 Visit the following resources to learn more:
 
-- [what is server side rendering](https://www.educative.io/answers/what-is-server-side-rendering)
-- [When should I Server-Side Render?](https://medium.com/@mbleigh/when-should-i-server-side-render-c2a383ff2d0f)
-- [Server-Side Rendering (SSR)](https://vuejs.org/guide/scaling-up/ssr.html)
-- [what is server side rendering?](https://www.youtube.com/watch?v=GQzn7XRdzxY)
-- [What is server-side rendering for web development?](https://www.youtube.com/watch?v=okvg3MRAPs0)
+- [ ] [what is server side rendering](https://www.educative.io/answers/what-is-server-side-rendering)
+- [ ] [When should I Server-Side Render?](https://medium.com/@mbleigh/when-should-i-server-side-render-c2a383ff2d0f)
+- [ ] [Server-Side Rendering (SSR)](https://vuejs.org/guide/scaling-up/ssr.html)
+- [ ] [what is server side rendering?](https://www.youtube.com/watch?v=GQzn7XRdzxY)
+- [ ] [What is server-side rendering for web development?](https://www.youtube.com/watch?v=okvg3MRAPs0)
 
 # Graphql
 
@@ -1061,12 +1061,12 @@ GraphQL is a query language for APIs and a runtime for fulfilling those queries 
 
 Visit the following resources to learn more:
 
-- [Introduction to GraphQL](https://graphql.org/learn/)
-- [The Fullstack Tutorial for GraphQL](https://www.howtographql.com/)
-- [GraphQL Tutorials](https://odyssey.apollographql.com/)
-- [GraphQL Course for Beginners](https://www.youtube.com/watch?v=ed8SzALpx1Q)
-- [Introduction to GraphQL](https://thenewstack.io/introduction-to-graphql/)
-- [How to Execute a Simple GraphQL Query](https://thenewstack.io/how-to-execute-a-simple-graphql-query/)
+- [ ] [Introduction to GraphQL](https://graphql.org/learn/)
+- [ ] [The Fullstack Tutorial for GraphQL](https://www.howtographql.com/)
+- [ ] [GraphQL Tutorials](https://odyssey.apollographql.com/)
+- [ ] [GraphQL Course for Beginners](https://www.youtube.com/watch?v=ed8SzALpx1Q)
+- [ ] [Introduction to GraphQL](https://thenewstack.io/introduction-to-graphql/)
+- [ ] [How to Execute a Simple GraphQL Query](https://thenewstack.io/how-to-execute-a-simple-graphql-query/)
 
 # Apollo
 
@@ -1074,10 +1074,10 @@ Apollo is a platform for building a unified graph, a communication layer that he
 
 Visit the following resources to learn more:
 
-- [Apollo Website](https://www.apollographql.com)
-- [Official Docs](https://www.apollographql.com/docs/)
-- [Official YouTube Channel](https://www.youtube.com/c/ApolloGraphQL/)
-- [GraphQL With React Tutorial - Apollo Client](https://www.youtube.com/watch?v=YyUWW04HwKY)
+- [ ] [Apollo Website](https://www.apollographql.com)
+- [ ] [Official Docs](https://www.apollographql.com/docs/)
+- [ ] [Official YouTube Channel](https://www.youtube.com/c/ApolloGraphQL/)
+- [ ] [GraphQL With React Tutorial - Apollo Client](https://www.youtube.com/watch?v=YyUWW04HwKY)
 
 # Relay Modern
 
@@ -1085,8 +1085,8 @@ Relay is a JavaScript client used in the browser to fetch GraphQL data. It's a J
 
 Visit the following resources to learn more:
 
-- [Official Website](https://relay.dev/)
-- [Introduction to Relay modern](https://relay.dev/docs/)
+- [ ] [Official Website](https://relay.dev/)
+- [ ] [Introduction to Relay modern](https://relay.dev/docs/)
 
 # Static Site Generators
 
@@ -1094,11 +1094,11 @@ A static site generator is a tool that generates a full static HTML website base
 
 Visit the following resources to learn more:
 
-- [What is a static site generator?](https://www.cloudflare.com/learning/performance/static-site-generator/)
-- [Next.js SSG](https://nextjs.org/docs/advanced-features/static-html-export)
-- [Gatsby SSG](https://www.gatsbyjs.com/docs/glossary/static-site-generator/)
-- [SSG — An 11ty, Vite And JAM Sandwich](https://www.smashingmagazine.com/2021/10/building-ssg-11ty-vite-jam-sandwich/)
-- [Get Back to Basics With Static Website Generators](https://thenewstack.io/get-back-basics-static-website-generators/)
+- [ ] [What is a static site generator?](https://www.cloudflare.com/learning/performance/static-site-generator/)
+- [ ] [Next.js SSG](https://nextjs.org/docs/advanced-features/static-html-export)
+- [ ] [Gatsby SSG](https://www.gatsbyjs.com/docs/glossary/static-site-generator/)
+- [ ] [SSG — An 11ty, Vite And JAM Sandwich](https://www.smashingmagazine.com/2021/10/building-ssg-11ty-vite-jam-sandwich/)
+- [ ] [Get Back to Basics With Static Website Generators](https://thenewstack.io/get-back-basics-static-website-generators/)
 
 # Next.js
 
@@ -1108,11 +1108,11 @@ rendering and generating static websites.
 
 Visit the following resources to learn more:
 
-- [Official Website](https://nextjs.org/)
-- [Official Docs for Getting Started](https://nextjs.org/docs/getting-started)
-- [The Next.js Handbook — FreeCodeCamp](https://www.freecodecamp.org/news/the-next-js-handbook/)
-- [Mastering Next.js](https://masteringnextjs.com/)
-- [Next.js for Beginners - Full Course at freeCodeCamp YouTube Channel](https://youtu.be/1WmNXEVia8I)
+- [ ] [Official Website](https://nextjs.org/)
+- [ ] [Official Docs for Getting Started](https://nextjs.org/docs/getting-started)
+- [ ] [The Next.js Handbook — FreeCodeCamp](https://www.freecodecamp.org/news/the-next-js-handbook/)
+- [ ] [Mastering Next.js](https://masteringnextjs.com/)
+- [ ] [Next.js for Beginners - Full Course at freeCodeCamp YouTube Channel](https://youtu.be/1WmNXEVia8I)
 
 # Gatsby
 
@@ -1120,11 +1120,11 @@ Gatsby is a React-based open source framework with performance, scalability and 
 
 Visit the following resources to learn more:
 
-- [Gatsby Website](https://www.gatsbyjs.com/)
-- [Gatsby Docs](https://www.gatsbyjs.com/docs)
-- [Gatsby Tutorial](https://youtube.com/playlist?list=PL4cUxeGkcC9hw1g77I35ZivVLe8k2nvjB)
-- [Getting Started with Gatsby, the Cloud Native Static Site Generator](https://thenewstack.io/getting-started-with-gatsby-the-cloud-native-static-site-generator/)
-- [Static Site Revolution: Top Websites Built with Gatsby](https://thenewstack.io/static-site-revolution-top-websites-built-with-gatsby/)
+- [ ] [Gatsby Website](https://www.gatsbyjs.com/)
+- [ ] [Gatsby Docs](https://www.gatsbyjs.com/docs)
+- [ ] [Gatsby Tutorial](https://youtube.com/playlist?list=PL4cUxeGkcC9hw1g77I35ZivVLe8k2nvjB)
+- [ ] [Getting Started with Gatsby, the Cloud Native Static Site Generator](https://thenewstack.io/getting-started-with-gatsby-the-cloud-native-static-site-generator/)
+- [ ] [Static Site Revolution: Top Websites Built with Gatsby](https://thenewstack.io/static-site-revolution-top-websites-built-with-gatsby/)
 
 # Nuxt js
 
@@ -1134,10 +1134,10 @@ rendering and generating static websites.
 
 Visit the following resources to learn more:
 
-- [Official Website](https://nuxtjs.org/)
-- [Official Docs for Getting Started](https://nuxtjs.org/docs/get-started)
-- [Mastering Nuxt.js](https://masteringnuxt.com/)
-- [Vue.js for Beginners - Full Course at freeCodeCamp YouTube Channel](https://www.youtube.com/watch?v=FXpIoQ_rT_c)
+- [ ] [Official Website](https://nuxtjs.org/)
+- [ ] [Official Docs for Getting Started](https://nuxtjs.org/docs/get-started)
+- [ ] [Mastering Nuxt.js](https://masteringnuxt.com/)
+- [ ] [Vue.js for Beginners - Full Course at freeCodeCamp YouTube Channel](https://www.youtube.com/watch?v=FXpIoQ_rT_c)
 
 # Vuepress
 
@@ -1145,9 +1145,9 @@ VuePress is composed of two parts: a minimalistic static site generator (opens n
 
 Visit the following resources to learn more:
 
-- [Official Website](https://vuepress.vuejs.org/)
-- [Official Docs for Getting Started](https://vuepress.vuejs.org/guide/getting-started.html)
-- [Introduction to VuePress](https://www.youtube.com/watch?v=lIv1ItUzktc)
+- [ ] [Official Website](https://vuepress.vuejs.org/)
+- [ ] [Official Docs for Getting Started](https://vuepress.vuejs.org/guide/getting-started.html)
+- [ ] [Introduction to VuePress](https://www.youtube.com/watch?v=lIv1ItUzktc)
 
 # Jekyll
 
@@ -1155,8 +1155,8 @@ Jekyll is a static site generator. It takes text written in your favorite markup
 
 Visit the following resources to learn more:
 
-- [Jekyll Website](https://jekyllrb.com/)
-- [Jekyll Docs](https://jekyllrb.com/docs/)
+- [ ] [Jekyll Website](https://jekyllrb.com/)
+- [ ] [Jekyll Docs](https://jekyllrb.com/docs/)
 
 # Hugo
 
@@ -1164,10 +1164,10 @@ Hugo is the world’s fastest static website engine. It’s written in Go (aka G
 
 Visit the following resources to learn more:
 
-- [Official Website](https://gohugo.io/)
-- [Official Docs for Getting Started](https://gohugo.io/documentation/)
-- [Introduction to Hugo - Static Site Generator](https://www.youtube.com/watch?v=qtIqKaDlqXo&list=PLLAZ4kZ9dFpOnyRlyS-liKL5ReHDcj4G3)
-- [Tutorial: Use Hugo to Generate a Static Website](https://thenewstack.io/tutorial-use-hugo-to-generate-a-static-website/)
+- [ ] [Official Website](https://gohugo.io/)
+- [ ] [Official Docs for Getting Started](https://gohugo.io/documentation/)
+- [ ] [Introduction to Hugo - Static Site Generator](https://www.youtube.com/watch?v=qtIqKaDlqXo&list=PLLAZ4kZ9dFpOnyRlyS-liKL5ReHDcj4G3)
+- [ ] [Tutorial: Use Hugo to Generate a Static Website](https://thenewstack.io/tutorial-use-hugo-to-generate-a-static-website/)
 
 # Astro
 
@@ -1182,8 +1182,8 @@ Astro is an all-in-one web framework for building fast, content-focused websites
 
 Visit the following resources to learn more:
 
-- [Official Astro Website](https://astro.build/)
-- [Official Astro Docs](https://docs.astro.build/)
+- [ ] [Official Astro Website](https://astro.build/)
+- [ ] [Official Astro Docs](https://docs.astro.build/)
 
 # Gridsome
 
@@ -1191,8 +1191,8 @@ Gridsome is a Vue.js powered Jamstack framework for building static generated we
 
 Visit the following resources to learn more:
 
-- [Gridsome Website](https://gridsome.org/)
-- [Gridsome Documentation](https://gridsome.org/docs/)
+- [ ] [Gridsome Website](https://gridsome.org/)
+- [ ] [Gridsome Documentation](https://gridsome.org/docs/)
 
 # Eleventy
 
@@ -1200,9 +1200,9 @@ Eleventy (11ty) is a simple to use, easy to customize, highly performant and pow
 
 Visit the following resources to learn more:
 
-- [Official Website](https://www.11ty.dev/)
-- [A collection of 11ty starters, projects, plugins, and resources](https://11ty.rocks/)
-- [Introduction to Eleventy](https://www.youtube.com/watch?v=-dM6AmNmMFA)
+- [ ] [Official Website](https://www.11ty.dev/)
+- [ ] [A collection of 11ty starters, projects, plugins, and resources](https://11ty.rocks/)
+- [ ] [Introduction to Eleventy](https://www.youtube.com/watch?v=-dM6AmNmMFA)
 
 # Remix
 
@@ -1210,17 +1210,17 @@ Remix is a full stack web framework that lets you focus on the user interface an
 
 Visit the following resources to learn more:
 
-- [Official Website](https://remix.run/)
-- [Official Docs for Getting Started](https://remix.run/docs/en/v1#getting-started)
+- [ ] [Official Website](https://remix.run/)
+- [ ] [Official Docs for Getting Started](https://remix.run/docs/en/v1#getting-started)
 
 # Mobile applications
 
 A while back, developing a mobile app using JavaScript was impossible. But now JavaScript developers can create mobile applications using their knowledge for web development. Here is the list of options to create mobile applications in JavaScript.
 
-- [React Native](https://reactnative.dev/)
-- [Flutter](https://flutter.dev)
-- [Ionic](https://ionicframework.com)
-- [NativeScript](https://nativescript.org/)
+- [ ] [React Native](https://reactnative.dev/)
+- [ ] [Flutter](https://flutter.dev)
+- [ ] [Ionic](https://ionicframework.com)
+- [ ] [NativeScript](https://nativescript.org/)
 
 # React Native
 
@@ -1228,10 +1228,10 @@ React Native is a popular JavaScript-based mobile app framework that allows you 
 
 Visit the following resources to learn more:
 
-- [Official Website](https://reactnative.dev/)
-- [Official Getting Started to React Native](https://reactnative.dev/docs/getting-started)
-- [Build a React Native App by Mosh](https://www.youtube.com/watch?v=0-S5a0eXPoc)
-- [Learn React Native by CodeAcademy](https://www.codecademy.com/learn/learn-react-native)
+- [ ] [Official Website](https://reactnative.dev/)
+- [ ] [Official Getting Started to React Native](https://reactnative.dev/docs/getting-started)
+- [ ] [Build a React Native App by Mosh](https://www.youtube.com/watch?v=0-S5a0eXPoc)
+- [ ] [Learn React Native by CodeAcademy](https://www.codecademy.com/learn/learn-react-native)
 
 # NativeScript
 
@@ -1239,9 +1239,9 @@ NativeScript is an open source framework for creating native iOS and Android app
 
 Visit the following resources to learn more:
 
-- [Official Website](https://nativescript.org/)
-- [Official Getting Started to NativeScript](https://docs.nativescript.org/)
-- [NativeScript Tutorial for Beginners](https://www.youtube.com/watch?v=DcCSq2Y9bow)
+- [ ] [Official Website](https://nativescript.org/)
+- [ ] [Official Getting Started to NativeScript](https://docs.nativescript.org/)
+- [ ] [NativeScript Tutorial for Beginners](https://www.youtube.com/watch?v=DcCSq2Y9bow)
 
 # Flutter
 
@@ -1259,13 +1259,13 @@ If you know a bit of programming, Dart is a typed object programming language. Y
 
 Visit the following resources to learn more:
 
-- [Visit Dedicated Flutter Roadmap](/flutter)
-- [Flutter Website](https://flutter.dev)
-- [Flutter Tutorial](https://www.w3adda.com/flutter-tutorial)
-- [Flutter Tutorial for Beginners](https://www.youtube.com/watch?v=1ukSR1GRtMU&list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ)
-- [Flutter Tutorial](https://www.w3adda.com/flutter-tutorial)
-- [Learn Dart Programming](https://www.tutorialspoint.com/dart_programming/index.htm)
-- [12 Ways Flutter Streamlines App Development](https://thenewstack.io/12-ways-flutter-streamlines-app-development/)
+- [ ] [Visit Dedicated Flutter Roadmap](/flutter)
+- [ ] [Flutter Website](https://flutter.dev)
+- [ ] [Flutter Tutorial](https://www.w3adda.com/flutter-tutorial)
+- [ ] [Flutter Tutorial for Beginners](https://www.youtube.com/watch?v=1ukSR1GRtMU&list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ)
+- [ ] [Flutter Tutorial](https://www.w3adda.com/flutter-tutorial)
+- [ ] [Learn Dart Programming](https://www.tutorialspoint.com/dart_programming/index.htm)
+- [ ] [12 Ways Flutter Streamlines App Development](https://thenewstack.io/12-ways-flutter-streamlines-app-development/)
 
 # Ionic
 
@@ -1273,18 +1273,18 @@ Ionic framework is an open-source UI toolkit for building performant, high-quali
 
 Visit the following resources to learn more:
 
-- [Official Website](https://ionicframework.com/)
-- [Official Getting Started to Ionic framework](https://ionicframework.com/docs/)
-- [Ionic Framework 4 - Full Tutorial](https://www.youtube.com/watch?v=AvbuIRg8_Jg)
+- [ ] [Official Website](https://ionicframework.com/)
+- [ ] [Official Getting Started to Ionic framework](https://ionicframework.com/docs/)
+- [ ] [Ionic Framework 4 - Full Tutorial](https://www.youtube.com/watch?v=AvbuIRg8_Jg)
 
 # Desktop Applications in JavaScript
 
 A while back, developing a desktop app using JavaScript was impossible. But now JavaScript developers can create desktop applications using their knowledge for web development. Here is the list of options to create desktop applications in JavaScript.
 
-- [Electron](https://www.electronjs.org/)
-- [NodeGUI](https://docs.nodegui.org/)
-- [NW.js](https://nwjs.io/)
-- [Meteor](https://www.meteor.com/)
+- [ ] [Electron](https://www.electronjs.org/)
+- [ ] [NodeGUI](https://docs.nodegui.org/)
+- [ ] [NW.js](https://nwjs.io/)
+- [ ] [Meteor](https://www.meteor.com/)
 
 # Electron
 
@@ -1292,8 +1292,8 @@ Electron allows you to build cross-platform desktop applications with HTML, CSS,
 
 Visit the following resources to learn more:
 
-- [Electron Website](https://www.electronjs.org/)
-- [Electron Docs](https://www.electronjs.org/docs/latest/)
+- [ ] [Electron Website](https://www.electronjs.org/)
+- [ ] [Electron Docs](https://www.electronjs.org/docs/latest/)
 
 # Carlo
 
@@ -1301,8 +1301,8 @@ Carlo is a headful Node app framework for building desktop applications.
 
 Visit the following resources to learn more:
 
-- [Github Repository](https://github.com/GoogleChromeLabs/carlo)
-- [Carlo development on a web server](https://blog.agney.dev/carlo-on-web-server/)
+- [ ] [Github Repository](https://github.com/GoogleChromeLabs/carlo)
+- [ ] [Carlo development on a web server](https://blog.agney.dev/carlo-on-web-server/)
 
 # Tauri
 
@@ -1310,9 +1310,9 @@ Tauri is a toolkit that helps developers make applications for the major desktop
 
 Visit the following resources to learn more:
 
-- [Tauri Website](https://tauri.app/)
-- [Tauri Docs](https://tauri.app/v1/guides/)
-- [How Tauri Turns Web Designs into Compact Native Apps](https://thenewstack.io/how-tauri-turns-web-designs-into-compact-native-apps/)
+- [ ] [Tauri Website](https://tauri.app/)
+- [ ] [Tauri Docs](https://tauri.app/v1/guides/)
+- [ ] [How Tauri Turns Web Designs into Compact Native Apps](https://thenewstack.io/how-tauri-turns-web-designs-into-compact-native-apps/)
 
 # Flutter
 
@@ -1320,11 +1320,11 @@ Flutter is a free and open-source multi-platform UI framework created by Google 
 
 Visit the following resources to learn more:
 
-- [Visit Dedicated Flutter Roadmap](/flutter)
-- [Flutter Website](https://flutter.dev)
-- [Flutter for Desktop](https://flutter.dev/multi-platform/desktop)
-- [Flutter Tutorial](https://www.w3adda.com/flutter-tutorial)
-- [Flutter Tutorial for Beginners](https://www.youtube.com/watch?v=1ukSR1GRtMU&list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ)
-- [Flutter Tutorial](https://www.w3adda.com/flutter-tutorial)
-- [Learn Dart Programming](https://www.tutorialspoint.com/dart_programming/index.htm)
-- [12 Ways Flutter Streamlines App Development](https://thenewstack.io/12-ways-flutter-streamlines-app-development/)
+- [ ] [Visit Dedicated Flutter Roadmap](/flutter)
+- [ ] [Flutter Website](https://flutter.dev)
+- [ ] [Flutter for Desktop](https://flutter.dev/multi-platform/desktop)
+- [ ] [Flutter Tutorial](https://www.w3adda.com/flutter-tutorial)
+- [ ] [Flutter Tutorial for Beginners](https://www.youtube.com/watch?v=1ukSR1GRtMU&list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ)
+- [ ] [Flutter Tutorial](https://www.w3adda.com/flutter-tutorial)
+- [ ] [Learn Dart Programming](https://www.tutorialspoint.com/dart_programming/index.htm)
+- [ ] [12 Ways Flutter Streamlines App Development](https://thenewstack.io/12-ways-flutter-streamlines-app-development/)

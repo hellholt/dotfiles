@@ -6,14 +6,14 @@ Learn about the fundamentals of Java such as basic syntax, data types, variables
 
 Visit the following resources to learn more:
 
-- [Java Basics - W3Schools](https://www.w3schools.com/java/)
-- [Java Tutorial for Beginners](https://youtu.be/eIrMbAQSU34)
-- [Java + DSA + Interview Preparation Course (For beginners)](https://youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ)
-- [Head First Java](https://www.amazon.co.uk/Head-First-Java-3rd-Brain-Friendly/dp/1491910771)
-- [Thinking in Java](https://www.amazon.co.uk/Thinking-Java-Eckel-Bruce-February/dp/B00IBON6C6)
-- [Effective Java](https://www.amazon.com/Effective-Java-Joshua-Bloch/dp/0134685997)
-- [Java: A Beginners Guide](https://www.amazon.co.uk/Java-Beginners-Guide-Herbert-Schildt/dp/1260463559)
-- [Java: The Complete Reference](https://www.amazon.co.uk/gp/product/B09JL8BMK7/ref=dbs_a_def_rwt_bibl_vppi_i2)
+- [ ] [Java Basics - W3Schools](https://www.w3schools.com/java/)
+- [ ] [Java Tutorial for Beginners](https://youtu.be/eIrMbAQSU34)
+- [ ] [Java + DSA + Interview Preparation Course (For beginners)](https://youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ)
+- [ ] [Head First Java](https://www.amazon.co.uk/Head-First-Java-3rd-Brain-Friendly/dp/1491910771)
+- [ ] [Thinking in Java](https://www.amazon.co.uk/Thinking-Java-Eckel-Bruce-February/dp/B00IBON6C6)
+- [ ] [Effective Java](https://www.amazon.com/Effective-Java-Joshua-Bloch/dp/0134685997)
+- [ ] [Java: A Beginners Guide](https://www.amazon.co.uk/Java-Beginners-Guide-Herbert-Schildt/dp/1260463559)
+- [ ] [Java: The Complete Reference](https://www.amazon.co.uk/gp/product/B09JL8BMK7/ref=dbs_a_def_rwt_bibl_vppi_i2)
 
 # Basic Syntax
 
@@ -24,9 +24,9 @@ Understanding the basics is the key to a solid foundation. In this section, lear
 
 Visit the following resources to learn more:
 
-- [Basic Java Syntax](https://www.geeksforgeeks.org/java-basic-syntax/)
-- [Java - Basic Syntax](https://www.youtube.com/watch?v=81piDKqPxjQ)
-- [Java Tutorial for Beginners](https://www.youtube.com/watch?v=RRubcjpTkks)
+- [ ] [Basic Java Syntax](https://www.geeksforgeeks.org/java-basic-syntax/)
+- [ ] [Java - Basic Syntax](https://www.youtube.com/watch?v=81piDKqPxjQ)
+- [ ] [Java Tutorial for Beginners](https://www.youtube.com/watch?v=RRubcjpTkks)
 
 # Data Types and Variables
 
@@ -38,9 +38,9 @@ Data Types are divided into two group -
 
 Visit the following resources to learn more:
 
-- [What are Data Types & Variables?](https://www.guru99.com/java-variables.html)
-- [Java Variables](https://www.javatpoint.com/java-variables)
-- [Learn more about Data types and Variables](https://www.javatpoint.com/java-data-types)
+- [ ] [What are Data Types & Variables?](https://www.guru99.com/java-variables.html)
+- [ ] [Java Variables](https://www.javatpoint.com/java-variables)
+- [ ] [Learn more about Data types and Variables](https://www.javatpoint.com/java-data-types)
 
 # Conditionals
 
@@ -54,10 +54,10 @@ Java has the following conditional statements:
 
 Visit the following resources to learn more:
 
-- [What are Conditional statements?](https://www.educative.io/answers/what-are-conditional-statements-in-programming)
-- [Conditionals in Java](https://www.javatpoint.com/java-if-else)
-- [Conditionals and Loops in Java](https://youtu.be/ldYLYRNaucM)
-- [Switch Statements + Nested Case in Java](https://youtu.be/mA23x39DjbI)
+- [ ] [What are Conditional statements?](https://www.educative.io/answers/what-are-conditional-statements-in-programming)
+- [ ] [Conditionals in Java](https://www.javatpoint.com/java-if-else)
+- [ ] [Conditionals and Loops in Java](https://youtu.be/ldYLYRNaucM)
+- [ ] [Switch Statements + Nested Case in Java](https://youtu.be/mA23x39DjbI)
 
 # Functions
 
@@ -70,10 +70,10 @@ Steps -
 
 Visit the following resources to learn more:
 
-- [Methods/Functions in Java.](https://www.javatpoint.com/method-in-java)
-- [What are methods or functions in Java.](https://www.geeksforgeeks.org/methods-in-java/)
-- [Learn Functions/Methods in Java](https://www.w3schools.com/java/java_methods.asp)
-- [Functions / Methods in Java](https://www.youtube.com/watch?v=vvanI8NRlSI)
+- [ ] [Methods/Functions in Java.](https://www.javatpoint.com/method-in-java)
+- [ ] [What are methods or functions in Java.](https://www.geeksforgeeks.org/methods-in-java/)
+- [ ] [Learn Functions/Methods in Java](https://www.w3schools.com/java/java_methods.asp)
+- [ ] [Functions / Methods in Java](https://www.youtube.com/watch?v=vvanI8NRlSI)
 
 # Datastructures
 
@@ -86,29 +86,29 @@ As the name indicates itself, a **Data Structure** is a way of organizing the da
 
 Visit the following resources to learn more:
 
-- [What are Data Structures?](https://www.geeksforgeeks.org/data-structures)
-- [Data Structures and Algorithms](https://www.javatpoint.com/data-structure-tutorial)
-- [Java + DSA + Interview Preparation Course](https://youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ)
-- [Data Structures Illustrated](https://www.youtube.com/watch?v=9rhT3P1MDHk&list=PLkZYeFmDuaN2-KUIv-mvbjfKszIGJ4FaY)
+- [ ] [What are Data Structures?](https://www.geeksforgeeks.org/data-structures)
+- [ ] [Data Structures and Algorithms](https://www.javatpoint.com/data-structure-tutorial)
+- [ ] [Java + DSA + Interview Preparation Course](https://youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ)
+- [ ] [Data Structures Illustrated](https://www.youtube.com/watch?v=9rhT3P1MDHk&list=PLkZYeFmDuaN2-KUIv-mvbjfKszIGJ4FaY)
 
 # OOP
 
 Object-oriented programming is a core of Java Programming, which is used for designing a program using classes and objects. This can also be characterized as data controlling for accessing the code.
 
-- [Class](https://www.javatpoint.com/object-and-class-in-java)
-- [Interfaces](https://www.geeksforgeeks.org/interfaces-in-java/)
-- [Object](https://www.geeksforgeeks.org/classes-objects-java/)
-- [Inheritance](https://www.geeksforgeeks.org/inheritance-in-java)
-- [Polymorphism](https://www.javatpoint.com/runtime-polymorphism-in-java)
-- [Abstraction](https://www.softwaretestinghelp.com/what-is-abstraction-in-java/)
-- [Encapsulation](https://www.programiz.com/java-programming/encapsulation)
+- [ ] [Class](https://www.javatpoint.com/object-and-class-in-java)
+- [ ] [Interfaces](https://www.geeksforgeeks.org/interfaces-in-java/)
+- [ ] [Object](https://www.geeksforgeeks.org/classes-objects-java/)
+- [ ] [Inheritance](https://www.geeksforgeeks.org/inheritance-in-java)
+- [ ] [Polymorphism](https://www.javatpoint.com/runtime-polymorphism-in-java)
+- [ ] [Abstraction](https://www.softwaretestinghelp.com/what-is-abstraction-in-java/)
+- [ ] [Encapsulation](https://www.programiz.com/java-programming/encapsulation)
 
 Visit the following resources to learn more:
 
-- [OOPs Concept in Java](https://www.geeksforgeeks.org/object-oriented-programming-oops-concept-in-java/)
-- [Java OOPs Concepts](https://www.javatpoint.com/java-oops-concepts)
-- [Java complete OOPs playlist](https://youtube.com/playlist?list=PL9gnSGHSqcno1G3XjUbwzXHL8_EttOuKk)
-- [Java OOPs Concepts](https://www.youtube.com/watch?v=6T_HgnjoYwM)
+- [ ] [OOPs Concept in Java](https://www.geeksforgeeks.org/object-oriented-programming-oops-concept-in-java/)
+- [ ] [Java OOPs Concepts](https://www.javatpoint.com/java-oops-concepts)
+- [ ] [Java complete OOPs playlist](https://youtube.com/playlist?list=PL9gnSGHSqcno1G3XjUbwzXHL8_EttOuKk)
+- [ ] [Java OOPs Concepts](https://www.youtube.com/watch?v=6T_HgnjoYwM)
 
 # Files and APIs
 
@@ -119,11 +119,11 @@ Learn how to work with files i.e., reading, writing and deleting, files and fold
 
 Visit the following resources to learn more:
 
-- [How To Work With Files In Java](https://www.marcobehler.com/guides/java-files)
-- [Java File Class](https://www.javatpoint.com/java-file-class)
-- [Java.io.File Class in Java](https://www.geeksforgeeks.org/file-class-in-java/)
-- [Java HttpURLConnection Example - Java HTTP Request GET, POST](https://www.digitalocean.com/community/tutorials/java-httpurlconnection-example-java-http-request-get-post)
-- [5 ways to make HTTP requests in Java](https://www.twilio.com/blog/5-ways-to-make-http-requests-in-java)
+- [ ] [How To Work With Files In Java](https://www.marcobehler.com/guides/java-files)
+- [ ] [Java File Class](https://www.javatpoint.com/java-file-class)
+- [ ] [Java.io.File Class in Java](https://www.geeksforgeeks.org/file-class-in-java/)
+- [ ] [Java HttpURLConnection Example - Java HTTP Request GET, POST](https://www.digitalocean.com/community/tutorials/java-httpurlconnection-example-java-http-request-get-post)
+- [ ] [5 ways to make HTTP requests in Java](https://www.twilio.com/blog/5-ways-to-make-http-requests-in-java)
 
 # Packages
 
@@ -133,9 +133,9 @@ To create package use this command -> javac -d directory javafilename
 
 Visit the following resources to learn more:
 
-- [Packages in Java](https://docs.oracle.com/javase/8/docs/api/java/lang/Package.html)
-- [Java Package](https://www.javatpoint.com/package)
-- [Packages In Java](https://www.geeksforgeeks.org/packages-in-java/)
+- [ ] [Packages in Java](https://docs.oracle.com/javase/8/docs/api/java/lang/Package.html)
+- [ ] [Java Package](https://www.javatpoint.com/package)
+- [ ] [Packages In Java](https://www.geeksforgeeks.org/packages-in-java/)
 
 # Loops
 
@@ -146,8 +146,8 @@ In Java and other programming languages, loops are used to iterate a part of the
 
 Visit the following resources to learn more:
 
-- [What are loops in Java?](https://www.javatpoint.com/java-for-loop)
-- [Loops in Java.](https://www.programiz.com/java-programming/for-loop)
+- [ ] [What are loops in Java?](https://www.javatpoint.com/java-for-loop)
+- [ ] [Loops in Java.](https://www.programiz.com/java-programming/for-loop)
 
 # Exception Handling
 
@@ -161,8 +161,8 @@ There are three types of exceptions -
 
 Visit the following resources to learn more:
 
-- [Exception Handling - G4G](https://www.geeksforgeeks.org/exceptions-in-java/)
-- [Understanding Java Exceptions](https://www.youtube.com/watch?v=W-N2ltgU-X4)
+- [ ] [Exception Handling - G4G](https://www.geeksforgeeks.org/exceptions-in-java/)
+- [ ] [Understanding Java Exceptions](https://www.youtube.com/watch?v=W-N2ltgU-X4)
 
 # Java advanced topics
 
@@ -172,10 +172,10 @@ Java Generic methods and generic classes enable programmers to specify, with a s
 
 Visit the following resources to learn more:
 
-- [Generics in Java](https://www.geeksforgeeks.org/generics-in-java/)
-- [Java - Generics](https://www.tutorialspoint.com/java/java_generics.htm)
-- [Generics in Java](https://www.javatpoint.com/generics-in-java)
-- [Generics in Java](https://www.youtube.com/watch?v=XMvznsY02Mk)
+- [ ] [Generics in Java](https://www.geeksforgeeks.org/generics-in-java/)
+- [ ] [Java - Generics](https://www.tutorialspoint.com/java/java_generics.htm)
+- [ ] [Generics in Java](https://www.javatpoint.com/generics-in-java)
+- [ ] [Generics in Java](https://www.youtube.com/watch?v=XMvznsY02Mk)
 
 # Memory Management
 
@@ -183,8 +183,8 @@ In Java, memory management is the process of allocation and de-allocation of obj
 
 Visit the following resources to learn more:
 
-- [Java Memory Management](https://www.geeksforgeeks.org/java-memory-management/)
-- [Memory Management in Java](https://www.javatpoint.com/memory-management-in-java)
+- [ ] [Java Memory Management](https://www.geeksforgeeks.org/java-memory-management/)
+- [ ] [Memory Management in Java](https://www.javatpoint.com/memory-management-in-java)
 
 # Collection Framework
 
@@ -192,8 +192,8 @@ The Collection in Java is a framework that provides an architecture to store and
 
 Visit the following resources to learn more:
 
-- [Collections in Java](https://www.javatpoint.com/collections-in-java)
-- [Java - Collections Framework](https://www.tutorialspoint.com/java/java_collections.htm)
+- [ ] [Collections in Java](https://www.javatpoint.com/collections-in-java)
+- [ ] [Java - Collections Framework](https://www.tutorialspoint.com/java/java_collections.htm)
 
 # Serialization
 
@@ -201,9 +201,9 @@ Serialization is the conversion of the state of an object into a byte stream; de
 
 Visit the following resources to learn more:
 
-- [Serialization and Deserialization in Java](https://www.geeksforgeeks.org/serialization-in-java/)
-- [Serialization and Deserialization in Java](https://www.javatpoint.com/serialization-in-java)
-- [Introduction to Java Serialization](https://www.baeldung.com/java-serialization)
+- [ ] [Serialization and Deserialization in Java](https://www.geeksforgeeks.org/serialization-in-java/)
+- [ ] [Serialization and Deserialization in Java](https://www.javatpoint.com/serialization-in-java)
+- [ ] [Introduction to Java Serialization](https://www.baeldung.com/java-serialization)
 
 # Networking sockets
 
@@ -213,10 +213,10 @@ Visit the following resources to learn more:
 
 Visit the following resources to learn more:
 
-- [Sockets](https://docs.oracle.com/javase/tutorial/networking/sockets/index.html)
-- [What is Socket Programming?](https://youtu.be/BqBKEXLqdvI)
-- [Socket Programming](https://www.geeksforgeeks.org/socket-programming-in-java/)
-- [Java Networking](https://www.tutorialspoint.com/java/java_networking.htm)
+- [ ] [Sockets](https://docs.oracle.com/javase/tutorial/networking/sockets/index.html)
+- [ ] [What is Socket Programming?](https://youtu.be/BqBKEXLqdvI)
+- [ ] [Socket Programming](https://www.geeksforgeeks.org/socket-programming-in-java/)
+- [ ] [Java Networking](https://www.tutorialspoint.com/java/java_networking.htm)
 
 # Streams
 
@@ -224,10 +224,10 @@ Java provides a new additional package in Java 8 called java.util.stream. This p
 
 Visit the following resources to learn more:
 
-- [Streams in Java](https://www.geeksforgeeks.org/stream-in-java/)
-- [Java 8 Stream](https://www.javatpoint.com/java-8-stream)
-- [Streams API Tutorial in Java 8+](https://www.youtube.com/watch?v=VNovNwHr9jY)
-- [Java 8 Streams Tutorial](https://www.youtube.com/watch?v=t1-YZ6bF-g0)
+- [ ] [Streams in Java](https://www.geeksforgeeks.org/stream-in-java/)
+- [ ] [Java 8 Stream](https://www.javatpoint.com/java-8-stream)
+- [ ] [Streams API Tutorial in Java 8+](https://www.youtube.com/watch?v=VNovNwHr9jY)
+- [ ] [Java 8 Streams Tutorial](https://www.youtube.com/watch?v=t1-YZ6bF-g0)
 
 # How JVM Works
 
@@ -235,12 +235,12 @@ The Java Virtual Machine is a program whose purpose is to execute other programs
 
 Visit the following resources to learn more:
 
-- [Packages in Java](https://docs.oracle.com/javase/8/docs/api/java/lang/Package.html)
-- [What is JVM?](https://www.javatpoint.com/jvm-java-virtual-machine)
-- [Introducing the Java Virtual Machine](https://www.infoworld.com/article/3272244/what-is-the-jvm-introducing-the-java-virtual-machine.html)
-- [JVM Architecture](https://www.geeksforgeeks.org/jvm-works-jvm-architecture/)
-- [JVM (Java Virtual Machine) Architecture](https://www.javatpoint.com/jvm-java-virtual-machine)
-- [How JVM works?](https://youtu.be/G1ubVOl9IBw)
+- [ ] [Packages in Java](https://docs.oracle.com/javase/8/docs/api/java/lang/Package.html)
+- [ ] [What is JVM?](https://www.javatpoint.com/jvm-java-virtual-machine)
+- [ ] [Introducing the Java Virtual Machine](https://www.infoworld.com/article/3272244/what-is-the-jvm-introducing-the-java-virtual-machine.html)
+- [ ] [JVM Architecture](https://www.geeksforgeeks.org/jvm-works-jvm-architecture/)
+- [ ] [JVM (Java Virtual Machine) Architecture](https://www.javatpoint.com/jvm-java-virtual-machine)
+- [ ] [How JVM works?](https://youtu.be/G1ubVOl9IBw)
 
 # Garbage Collection
 
@@ -248,9 +248,9 @@ Java garbage collection is the process by which Java programs perform automatic 
 
 Visit the following resources to learn more:
 
-- [Java Garbage Collection](https://stackify.com/what-is-java-garbage-collection/)
-- [Garbage Collection in Java](https://www.geeksforgeeks.org/garbage-collection-java/)
-- [Java Garbage Collection](https://www.javatpoint.com/Garbage-Collection)
+- [ ] [Java Garbage Collection](https://stackify.com/what-is-java-garbage-collection/)
+- [ ] [Garbage Collection in Java](https://www.geeksforgeeks.org/garbage-collection-java/)
+- [ ] [Java Garbage Collection](https://www.javatpoint.com/Garbage-Collection)
 
 # Basics of Threads
 
@@ -258,11 +258,11 @@ A thread in Java is the direction or path that is taken while a program is being
 
 Visit the following resources to learn more:
 
-- [Threads in Java](https://docs.oracle.com/javase/7/docs/api/java/lang/Thread.html)
-- [An Introduction to Thread in Java](https://www.simplilearn.com/tutorials/java-tutorial/thread-in-java)
-- [Java Threads](https://www.geeksforgeeks.org/java-threads/)
-- [How to Create a Thread in Java?](https://www.javatpoint.com/how-to-create-a-thread-in-java)
-- [Java Threads Tutorial](https://www.youtube.com/watch?v=TCd8QIS-2KI)
+- [ ] [Threads in Java](https://docs.oracle.com/javase/7/docs/api/java/lang/Thread.html)
+- [ ] [An Introduction to Thread in Java](https://www.simplilearn.com/tutorials/java-tutorial/thread-in-java)
+- [ ] [Java Threads](https://www.geeksforgeeks.org/java-threads/)
+- [ ] [How to Create a Thread in Java?](https://www.javatpoint.com/how-to-create-a-thread-in-java)
+- [ ] [Java Threads Tutorial](https://www.youtube.com/watch?v=TCd8QIS-2KI)
 
 # Build Tools
 
@@ -276,11 +276,11 @@ Gradle is an open-source build automation tool that helps software engineers to 
 
 Visit the following resources to learn more:
 
-- [Gradle](https://gradle.org/)
-- [Gradle Tutorial](https://youtu.be/kONQCIAcWeI)
-- [Working with Gradle](https://youtu.be/6V6G3RyxEMk)
-- [Gradle](https://www.javatpoint.com/gradle)
-- [Building Java Projects with Gradle](https://spring.io/guides/gs/gradle/)
+- [ ] [Gradle](https://gradle.org/)
+- [ ] [Gradle Tutorial](https://youtu.be/kONQCIAcWeI)
+- [ ] [Working with Gradle](https://youtu.be/6V6G3RyxEMk)
+- [ ] [Gradle](https://www.javatpoint.com/gradle)
+- [ ] [Building Java Projects with Gradle](https://spring.io/guides/gs/gradle/)
 
 # Maven
 
@@ -288,8 +288,8 @@ Maven is an open-source build tool, used primarily for Java projects.
 
 Visit the following resources to learn more:
 
-- [Getting started](https://maven.apache.org/guides/getting-started/)
-- [Building Java Projects with Maven](https://spring.io/guides/gs/maven/)
+- [ ] [Getting started](https://maven.apache.org/guides/getting-started/)
+- [ ] [Building Java Projects with Maven](https://spring.io/guides/gs/maven/)
 
 # Ant
 
@@ -297,10 +297,10 @@ Apache Ant is a Java library and command-line tool whose mission is to drive pro
 
 Visit the following resources to learn more:
 
-- [Apache Ant](https://ant.apache.org/)
-- [Apache Ant Tutorial](https://www.javatpoint.com/apache-ant-tutorial)
-- [Apache Ant](https://en.wikipedia.org/wiki/Apache_Ant)
-- [What is Apache Ant?](https://youtu.be/3rizinq7bng)
+- [ ] [Apache Ant](https://ant.apache.org/)
+- [ ] [Apache Ant Tutorial](https://www.javatpoint.com/apache-ant-tutorial)
+- [ ] [Apache Ant](https://en.wikipedia.org/wiki/Apache_Ant)
+- [ ] [What is Apache Ant?](https://youtu.be/3rizinq7bng)
 
 # Web Frameworks
 
@@ -312,12 +312,12 @@ Spring is a powerful open-source Java platform (framework), that is used to crea
 
 Visit the following resources to learn more:
 
-- [Official Site](https://spring.io/)
-- [Quickstart guide](https://spring.io/quickstart)
-- [Official guides](https://spring.io/guides)
-- [Spring Framework Documentation](https://docs.spring.io/spring-framework/docs/current/reference/html/)
-- [Different Spring tutorials](https://www.baeldung.com/spring-boot)
-- [What is Spring Framework? An Unorthodox Guide](https://www.marcobehler.com/guides/spring-framework)
+- [ ] [Official Site](https://spring.io/)
+- [ ] [Quickstart guide](https://spring.io/quickstart)
+- [ ] [Official guides](https://spring.io/guides)
+- [ ] [Spring Framework Documentation](https://docs.spring.io/spring-framework/docs/current/reference/html/)
+- [ ] [Different Spring tutorials](https://www.baeldung.com/spring-boot)
+- [ ] [What is Spring Framework? An Unorthodox Guide](https://www.marcobehler.com/guides/spring-framework)
 
 # Spring Boot
 
@@ -325,12 +325,12 @@ Spring Boot is an open source, microservice-based Java web framework. The Spring
 
 Visit the following resources to learn more:
 
-- [Spring Boot](https://spring.io/projects/spring-boot/)
-- [What is Spring Boot?](https://www.ibm.com/cloud/learn/java-spring-boot)
-- [Spring Boot Tutorial](https://www.javaguides.net/2021/07/spring-boot-tutorial-for-beginners.html)
-- [Learn Spring Boot](https://www.baeldung.com/spring-boot)
-- [Spring Boot Tutorial](https://youtu.be/vtPkZShrvXQ)
-- [Spring Boot for Beginners](https://youtu.be/UfOxcrxhC0s)
+- [ ] [Spring Boot](https://spring.io/projects/spring-boot/)
+- [ ] [What is Spring Boot?](https://www.ibm.com/cloud/learn/java-spring-boot)
+- [ ] [Spring Boot Tutorial](https://www.javaguides.net/2021/07/spring-boot-tutorial-for-beginners.html)
+- [ ] [Learn Spring Boot](https://www.baeldung.com/spring-boot)
+- [ ] [Spring Boot Tutorial](https://youtu.be/vtPkZShrvXQ)
+- [ ] [Spring Boot for Beginners](https://youtu.be/UfOxcrxhC0s)
 
 # Play Framework
 
@@ -338,10 +338,10 @@ Play Framework is a high-productivity web application framework that allows the 
 
 Visit the following resources to learn more:
 
-- [Play Framework Website](https://www.playframework.com/)
-- [Introduction to Play Framework](https://youtu.be/bLrmnjPQsZc)
-- [What is Play Framework?](https://en.wikipedia.org/wiki/Play_Framework)
-- [Intro to Play Framework](https://www.baeldung.com/java-intro-to-the-play-framework)
+- [ ] [Play Framework Website](https://www.playframework.com/)
+- [ ] [Introduction to Play Framework](https://youtu.be/bLrmnjPQsZc)
+- [ ] [What is Play Framework?](https://en.wikipedia.org/wiki/Play_Framework)
+- [ ] [Intro to Play Framework](https://www.baeldung.com/java-intro-to-the-play-framework)
 
 # Spark
 
@@ -349,9 +349,9 @@ Spark is a micro framework for creating web applications in Kotlin and Java 8. S
 
 Visit the following resources to learn more:
 
-- [Spark Java](https://sparkjava.com/)
-- [Intro to Spark Java Framework](https://www.baeldung.com/spark-framework-rest-api)
-- [What is Spark java?](https://www.javatpoint.com/spark-java)
+- [ ] [Spark Java](https://sparkjava.com/)
+- [ ] [Intro to Spark Java Framework](https://www.baeldung.com/spark-framework-rest-api)
+- [ ] [What is Spark java?](https://www.javatpoint.com/spark-java)
 
 # ORM (Object-Relational Mapping)
 
@@ -363,8 +363,8 @@ A programming method to map objects in Java to relational entities in a database
 
 Visit the following resources to learn more:
 
-- [ORM tutorial](https://www.altexsoft.com/blog/object-relational-mapping/)
-- [Java Databases: An Overview of Libraries & APIs](https://www.marcobehler.com/guides/java-databases)
+- [ ] [ORM tutorial](https://www.altexsoft.com/blog/object-relational-mapping/)
+- [ ] [Java Databases: An Overview of Libraries & APIs](https://www.marcobehler.com/guides/java-databases)
 
 # JPA
 
@@ -382,10 +382,10 @@ The Jakarta Persistence API provides Java developers with an object/relational m
 
 Visit the following resources to learn more:
 
-- [TutorialsPoint JPA](https://www.tutorialspoint.com/jpa/)
-- [Official Java doc - Package javax.persistence](https://docs.oracle.com/javaee/7/api/javax/persistence/package-summary.html)
-- [Pro Jakarta Persistence in Jakarta EE 10](https://www.amazon.com/Pro-Jakarta-Persistence-Depth-Development/dp/1484274423)
-- [Java Persistence with Spring Data and Hibernate by Catalin Tudose](https://www.simonandschuster.com/books/Java-Persistence-with-Spring-Data-and-Hibernate/Catalin-Tudose/9781617299186)
+- [ ] [TutorialsPoint JPA](https://www.tutorialspoint.com/jpa/)
+- [ ] [Official Java doc - Package javax.persistence](https://docs.oracle.com/javaee/7/api/javax/persistence/package-summary.html)
+- [ ] [Pro Jakarta Persistence in Jakarta EE 10](https://www.amazon.com/Pro-Jakarta-Persistence-Depth-Development/dp/1484274423)
+- [ ] [Java Persistence with Spring Data and Hibernate by Catalin Tudose](https://www.simonandschuster.com/books/Java-Persistence-with-Spring-Data-and-Hibernate/Catalin-Tudose/9781617299186)
 
 # Spring data jpa
 
@@ -393,12 +393,12 @@ Spring Data JPA aims to significantly improve the implementation of data access 
 
 Visit the following resources to learn more:
 
-- [Spring Data JPA](https://spring.io/projects/spring-data-jpa)
-- [Introduction to Spring Data JPA](https://www.baeldung.com/the-persistence-layer-with-spring-data-jpa)
-- [Spring Data JPA Tutorial](https://www.javatpoint.com/spring-and-jpa-integration)
-- [Spring Boot – Spring Data JPA](https://www.geeksforgeeks.org/spring-boot-spring-data-jpa/)
-- [Spring Data JPA Tutorial](https://youtu.be/XszpXoII9Sg)
-- [Spring Boot Tutorial - Spring Data  JPA](https://youtu.be/8SGI_XS5OPw)
+- [ ] [Spring Data JPA](https://spring.io/projects/spring-data-jpa)
+- [ ] [Introduction to Spring Data JPA](https://www.baeldung.com/the-persistence-layer-with-spring-data-jpa)
+- [ ] [Spring Data JPA Tutorial](https://www.javatpoint.com/spring-and-jpa-integration)
+- [ ] [Spring Boot – Spring Data JPA](https://www.geeksforgeeks.org/spring-boot-spring-data-jpa/)
+- [ ] [Spring Data JPA Tutorial](https://youtu.be/XszpXoII9Sg)
+- [ ] [Spring Boot Tutorial - Spring Data  JPA](https://youtu.be/8SGI_XS5OPw)
 
 # Hibernate
 
@@ -406,8 +406,8 @@ Hibernate is an open source object-relational mapping tool that provides a frame
 
 Visit the following resources to learn more:
 
-- [Hibernate](https://hibernate.org/)
-- [Hibernate Tutorial](https://www.javatpoint.com/hibernate-tutorial)
+- [ ] [Hibernate](https://hibernate.org/)
+- [ ] [Hibernate Tutorial](https://www.javatpoint.com/hibernate-tutorial)
 
 # Ebean
 
@@ -415,9 +415,9 @@ Ebean is an object-relational mapping tool written in Java. It supports the stan
 
 Visit the following resources to learn more:
 
-- [Ebean](https://ebean.io/)
-- [Ebean Documentation](https://ebean.io/docs/)
-- [Guide to Ebean](https://www.baeldung.com/ebean-orm)
+- [ ] [Ebean](https://ebean.io/)
+- [ ] [Ebean Documentation](https://ebean.io/docs/)
+- [ ] [Guide to Ebean](https://www.baeldung.com/ebean-orm)
 
 # Logging Frameworks
 
@@ -425,10 +425,10 @@ Logging is an important feature that helps developers to trace out the errors. I
 
 Visit the following resources to learn more:
 
-- [Introduction to Java Logging](https://www.baeldung.com/java-logging-intro)
-- [Java Logger](https://www.javatpoint.com/java-logger)
-- [Java Logging Frameworks](https://en.wikipedia.org/wiki/Java_logging_framework)
-- [How to Do Logging In Java](https://www.marcobehler.com/guides/java-logging)
+- [ ] [Introduction to Java Logging](https://www.baeldung.com/java-logging-intro)
+- [ ] [Java Logger](https://www.javatpoint.com/java-logger)
+- [ ] [Java Logging Frameworks](https://en.wikipedia.org/wiki/Java_logging_framework)
+- [ ] [How to Do Logging In Java](https://www.marcobehler.com/guides/java-logging)
 
 # Log4j2
 
@@ -438,8 +438,8 @@ Log4j2 is the updated version of the popular and influential log4j library, used
 
 Visit the following resources to learn more:
 
-- [Official Website](https://logging.apache.org/log4j/2.x/manual/configuration.html)
-- [Log4j explained: Everything you need to know](https://www.techtarget.com/whatis/feature/Log4j-explained-Everything-you-need-to-know)
+- [ ] [Official Website](https://logging.apache.org/log4j/2.x/manual/configuration.html)
+- [ ] [Log4j explained: Everything you need to know](https://www.techtarget.com/whatis/feature/Log4j-explained-Everything-you-need-to-know)
 
 # Logback
 
@@ -447,7 +447,7 @@ Logback is one of the most widely used logging frameworks in the Java Community.
 
 Visit the following resources to learn more:
 
-- [Official Website](https://logback.qos.ch/manual/configuration.html)
+- [ ] [Official Website](https://logback.qos.ch/manual/configuration.html)
 
 # Slf4j
 
@@ -455,7 +455,7 @@ The SLF4J or the Simple Logging Facade for Java is an abstraction layer for vari
 
 Visit the following resources to learn more:
 
-- [Official Website](https://www.slf4j.org/)
+- [ ] [Official Website](https://www.slf4j.org/)
 
 # Tinylog
 
@@ -463,7 +463,7 @@ Tinylog is a lightweight open-source logging framework for Java and Android, opt
 
 Visit the following resources to learn more:
 
-- [Official Website](https://tinylog.org/v1/)
+- [ ] [Official Website](https://tinylog.org/v1/)
 
 # Java JDBC
 
@@ -471,8 +471,8 @@ JDBC is an API(Application programming interface) used in java programming to in
 
 Visit the following resources to learn more:
 
-- [Introduction to JDBC](https://www.geeksforgeeks.org/introduction-to-jdbc/)
-- [IBM: What is JDBC](https://www.ibm.com/docs/en/informix-servers/12.10?topic=started-what-is-jdbc)
+- [ ] [Introduction to JDBC](https://www.geeksforgeeks.org/introduction-to-jdbc/)
+- [ ] [IBM: What is JDBC](https://www.ibm.com/docs/en/informix-servers/12.10?topic=started-what-is-jdbc)
 
 # Jdbi3
 
@@ -480,8 +480,8 @@ Jdbi is an open source Java library (Apache license) that uses lambda expression
 
 Visit the following resources to learn more:
 
-- [Jdbi](https://jdbi.org/)
-- [Jdbi Tutorial](https://www.baeldung.com/jdbi)
+- [ ] [Jdbi](https://jdbi.org/)
+- [ ] [Jdbi Tutorial](https://www.baeldung.com/jdbi)
 
 # JDBC Template
 
@@ -489,7 +489,7 @@ JDBCTemplate is a central class in Spring's JDBC core package that simplifies th
 
 Visit the following resources to learn more:
 
-- [JDBC Template tutorial](https://www.baeldung.com/spring-jdbc-jdbctemplate)
+- [ ] [JDBC Template tutorial](https://www.baeldung.com/spring-jdbc-jdbctemplate)
 
 # Testing
 
@@ -497,8 +497,8 @@ A key to building software that meets requirements without defects is testing. S
 
 Visit the following resources to learn more:
 
-- [What is Software Testing?](https://www.guru99.com/software-testing-introduction-importance.html)
-- [Testing Pyramid](https://www.browserstack.com/guide/testing-pyramid-for-test-automation)
+- [ ] [What is Software Testing?](https://www.guru99.com/software-testing-introduction-importance.html)
+- [ ] [Testing Pyramid](https://www.browserstack.com/guide/testing-pyramid-for-test-automation)
 
 # Mocking
 
@@ -512,7 +512,7 @@ Mocking removes external dependencies from a unit test to create a sense of an e
 
 Visit the following resources to learn more:
 
-- [Mockito - Mocking Framework for Java](https://site.mockito.org/)
+- [ ] [Mockito - Mocking Framework for Java](https://site.mockito.org/)
 
 # Cucumber JVM
 
@@ -520,10 +520,10 @@ Cucumber is a testing tool that supports Behavior Driven Development (BDD). It o
 
 Visit the following resources to learn more:
 
-- [Cucumber](https://cucumber.io/)
-- [Cucumber Documentation](https://cucumber.io/docs/cucumber/)
-- [Cucumber-JVM for Java](https://automationpanda.com/2017/10/24/cucumber-jvm-for-java/)
-- [Cucumber-JVM 5 with Enhanced Cucumber Expression](https://www.youtube.com/watch?v=jCzpxvAJoZM)
+- [ ] [Cucumber](https://cucumber.io/)
+- [ ] [Cucumber Documentation](https://cucumber.io/docs/cucumber/)
+- [ ] [Cucumber-JVM for Java](https://automationpanda.com/2017/10/24/cucumber-jvm-for-java/)
+- [ ] [Cucumber-JVM 5 with Enhanced Cucumber Expression](https://www.youtube.com/watch?v=jCzpxvAJoZM)
 
 # Cukes
 
@@ -531,8 +531,8 @@ cukes-rest takes simplicity of Cucumber and provides bindings for HTTP specifica
 
 Visit the following resources to learn more:
 
-- [Cukes Github](https://github.com/ctco/cukes)
-- [Getting Started with Cukes-REST](https://speakerdeck.com/larchaon/getting-started-with-cukes-rest?slide=23)
+- [ ] [Cukes Github](https://github.com/ctco/cukes)
+- [ ] [Getting Started with Cukes-REST](https://speakerdeck.com/larchaon/getting-started-with-cukes-rest?slide=23)
 
 # Jbehave
 
@@ -540,8 +540,8 @@ JBehave is a framework for Behaviour-Driven Development (BDD). BDD is an evoluti
 
 Visit the following resources to learn more:
 
-- [Jbehave](https://jbehave.org/)
-- [Jbehave Tutorial](https://jbehave.org/tutorials.html)
+- [ ] [Jbehave](https://jbehave.org/)
+- [ ] [Jbehave Tutorial](https://jbehave.org/tutorials.html)
 
 # JUnit
 
@@ -549,11 +549,11 @@ JUnit is a testing framework for Java.
 
 Visit the following resources to learn more:
 
-- [JUnit](https://junit.org/junit5)
-- [JUnit Documentation](https://junit.org/junit5/docs/current/user-guide/)
-- [JUnit tutorial](https://www.guru99.com/junit-tutorial.html)
-- [Basic JUnit tutorial](https://www.baeldung.com/junit-5)
-- [Testing with JUnit crash course](https://www.youtube.com/watch?v=flpmSXVTqBI)
+- [ ] [JUnit](https://junit.org/junit5)
+- [ ] [JUnit Documentation](https://junit.org/junit5/docs/current/user-guide/)
+- [ ] [JUnit tutorial](https://www.guru99.com/junit-tutorial.html)
+- [ ] [Basic JUnit tutorial](https://www.baeldung.com/junit-5)
+- [ ] [Testing with JUnit crash course](https://www.youtube.com/watch?v=flpmSXVTqBI)
 
 # Testng
 
@@ -561,9 +561,9 @@ TestNG is a testing framework inspired from JUnit and NUnit but introducing some
 
 Visit the following resources to learn more:
 
-- [Testng](https://testng.org)
-- [Testng Documentation](https://testng.org/doc/documentation-main.html)
-- [Testng tutorial](https://www.guru99.com/all-about-testng-and-selenium.html)
+- [ ] [Testng](https://testng.org)
+- [ ] [Testng Documentation](https://testng.org/doc/documentation-main.html)
+- [ ] [Testng tutorial](https://www.guru99.com/all-about-testng-and-selenium.html)
 
 # Rest assured
 
@@ -571,8 +571,8 @@ Testing and validating REST services in Java is harder than in dynamic languages
 
 Visit the following resources to learn more:
 
-- [Rest-assured](https://rest-assured.io/)
-- [Rest-assured Documentation](https://github.com/rest-assured/rest-assured/wiki)
+- [ ] [Rest-assured](https://rest-assured.io/)
+- [ ] [Rest-assured Documentation](https://github.com/rest-assured/rest-assured/wiki)
 
 # JMeter
 
@@ -580,4 +580,4 @@ Apache JMeter is an Apache project that can be used as a load testing tool for a
 
 Visit the following resources to learn more:
 
-- [Apache JMeter Website](https://jmeter.apache.org/)
+- [ ] [Apache JMeter Website](https://jmeter.apache.org/)
