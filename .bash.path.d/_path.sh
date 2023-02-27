@@ -17,6 +17,7 @@ common_paths=(
   '/volume1/@appstore/synocli-monitor/bin'
   '/volume1/@appstore/synocli-net/bin'
   '/volume1/@appstore/python38/bin'
+  '/Applications/Visual Studio Code.app/Contents/Resources/app/bin'
 )
 
 for common_path in "${common_paths[@]}"; do
