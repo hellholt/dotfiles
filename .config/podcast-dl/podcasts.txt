@@ -101,6 +101,8 @@ https://audioboom.com/channels/5044584.rss
 https://feeds.simplecast.com/qm_9xx0g
 # Criminal
 https://feeds.megaphone.fm/VMP7924981569
+# The Curious Cases of Rutherford & Fry
+https://podcasts.files.bbci.co.uk/b07dx75g.rss
 
 # D
 
@@ -136,6 +138,8 @@ https://diceshame.libsyn.com/DiceShame
 https://pinecast.com/feed/dimension-door-podcast
 # Dirty John
 https://rss.art19.com/dirty-john
+# Dissect
+https://feeds.megaphone.fm/dissectwide
 # The Dollop
 https://www.omnycontent.com/d/playlist/885ace83-027a-47ad-ad67-aca7002f1df8/22b063ac-654d-428f-bd69-ae2400349cde/65ff0206-b585-4e2a-9872-ae240034c9c9/podcast.rss
 # The Dork Forest
@@ -231,6 +235,8 @@ https://feeds.megaphone.fm/ADV7475920787
 https://rss.art19.com/imagined-life
 # Important If True
 https://www.idlethumbs.net/feeds/importantiftrue
+# The Infinite Monkey Cage
+https://podcasts.files.bbci.co.uk/b00snr0w.rss
 # In Our Time
 https://podcasts.files.bbci.co.uk/b006qykl.rss
 # In the Dark
@@ -409,6 +415,8 @@ https://feeds.fireside.fm/selfhosted/rss
 https://feeds.simplecast.com/xl36XBC2
 # The Shrink Next Door
 https://rss.art19.com/the-shrink-next-door
+# The Skeptics' Guide to the Universe
+https://feed.theskepticsguide.org/feed/rss.aspx?feed=sgu
 # Slow Burn
 http://feeds.megaphone.fm/watergate
 # Small Town Murder
@@ -446,6 +454,8 @@ https://feeds.megaphone.fm/ADL8288293115
 
 # T
 
+# Teen Creeps
+https://feeds.megaphone.fm/teencreeps
 # Ten Percent Happier with Dan Harris
 https://rss.art19.com/ten-percent-happier
 # Terrible, Thanks for Asking
@@ -538,8 +548,12 @@ https://www.omnycontent.com/d/playlist/aaea4e69-af51-495e-afc9-a9760146922b/8a75
 
 # Year of Plenty
 https://feeds.buzzsprout.com/143116.rss
+# You Made It Weird
+https://feeds.megaphone.fm/tpc5248074763
 # You Must Remember This
 https://feeds.megaphone.fm/YMRT7068253588
+# You're Dead To Me
+https://podcasts.files.bbci.co.uk/p07mdbhg.rss
 # You're Wrong About
 https://feeds.buzzsprout.com/1112270.rss
 # Your Brain on Facts
