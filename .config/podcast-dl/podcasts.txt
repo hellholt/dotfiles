@@ -120,6 +120,8 @@ http://feeds.feedburner.com/deathsexmoney
 https://anchor.fm/s/2fe43930/podcast/rss
 # Deep Into History
 https://anchor.fm/s/f573dd4/podcast/rss
+# Derry Public Radio
+https://feeds.soundcloud.com/users/soundcloud:users:423846832/sounds.rss
 # Detective Trapp
 https://rss.art19.com/detective-trapp
 # Dice Populi - A Tabletop Roleplaying Anthology Series
@@ -247,6 +249,8 @@ https://rss.art19.com/killer-psyche
 https://feeds.buzzsprout.com/337850.rss
 # King Falls AM
 https://audioboom.com/channels/4256036.rss
+# Kingslingers
+https://kingslingers.libsyn.com/rss
 
 # L
 
@@ -344,6 +348,8 @@ https://feeds.npr.org/510289/podcast.xml
 https://www.omnycontent.com/d/playlist/d83f52e4-2455-47f4-982e-ab790120b954/5a7a823c-9ff1-4b8f-b3e1-ab8a00fb5958/be877694-ac0f-4cff-9d46-ab8a00fbced8/podcast.rss
 # Pod Yourself a Gun
 https://podyourselfagun.blubrry.net/feed/podcast/
+# Post Mortem With Mick Garris
+https://rss.art19.com/post-mortem-with-mick-garris
 
 # Q
 
@@ -419,6 +425,8 @@ https://www.omnycontent.com/d/playlist/bad5d079-8dcb-4630-8770-aa090049131d/32b2
 https://thesonarnetwork.com/spooked/feed/podcast
 # SpyHards
 https://feed.podbean.com/www.spyhards.com/feed.xml
+# Strict Scrutiny
+https://feeds.simplecast.com/EyrYWMW2
 # Stuff They Don't Want You To Know
 https://feeds.megaphone.fm/stufftheydontwantyoutoknow
 # Stuff You Missed in History Class
