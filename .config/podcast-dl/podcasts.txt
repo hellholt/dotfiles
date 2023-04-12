@@ -84,6 +84,8 @@ https://rss.art19.com/alternate_feeds/radiopublic/cold/iflK1omSrLPRbPL7T-z38sBn2
 https://feeds.buzzsprout.com/167223.rss
 # Comedy Bang Bang
 https://feeds.simplecast.com/byb4nhvN
+# Conan O'Brien Needs a Friend
+https://feeds.simplecast.com/dHoohVNH
 # Court Junkie
 http://www.podcastone.com/podcast?categoryID2=1983
 # The Creation Stories
@@ -125,6 +127,8 @@ https://diceshame.libsyn.com/DiceShame
 https://pinecast.com/feed/dimension-door-podcast
 # Dirty John
 https://rss.art19.com/dirty-john
+# The Dork Forest
+https://feeds.megaphone.fm/NSM7546490835
 # Down These Mean Streets (Old Time Radio Detectives)
 https://downthesemeanstreetspodcast.libsyn.com/rss
 # Dr. Death
@@ -140,6 +144,8 @@ https://feeds.feedburner.com/earhustlesq
 https://feeds.megaphone.fm/QCD1489535626
 # Encounter Party!
 https://feeds.redcircle.com/793674f9-4d9e-49a9-b8e4-d068b04bcd8e
+# ExploreAStory
+https://exploreastory.com/rss
 
 # F
 
@@ -179,6 +185,8 @@ https://feeds.publicradio.org/public_feeds/the-hilarious-world-of-depression/itu
 https://feed.podbean.com/historycachepodcast/feed.xml
 # History of Philosophy Without Any Gaps
 https://feed.podbean.com/hopwag/feed.xml
+# The History of Rome
+https://historyofrome.libsyn.com/rss
 # Homecoming
 https://feeds.megaphone.fm/homecoming
 # Hope in Darkness: The Josh Holt Story
@@ -198,6 +206,8 @@ https://feeds.transistor.fm/i-used-to-watch-this
 https://feeds.megaphone.fm/lovethatsong
 # Idle Thumbs
 http://www.idlethumbs.net/feeds/idle-thumbs
+# If Books Could Kill
+https://feeds.buzzsprout.com/2040953.rss
 # Imaginary Worlds
 https://feeds.megaphone.fm/ADV7475920787
 # Imagined Life
@@ -335,6 +345,8 @@ http://rss.acast.com/radiowesteros
 http://feeds.wnyc.org/radiolab
 # Reply All
 https://feeds.megaphone.fm/replyall
+# The Rest Is History
+https://feeds.acast.com/public/shows/031c2dcb-c66c-42b5-819e-2452031fe4f9
 # Reveal
 http://feeds.revealradio.org/revealpodcast
 # Reverie True Crime
@@ -470,6 +482,8 @@ http://feeds.nightvalepresents.com/welcometonightvalepodcast
 https://feed.podbean.com/wtyppod/feed.xml
 # What the Riff?
 https://feeds.simplecast.com/NMNuUazR
+# What'sHerName
+https://feeds.megaphone.fm/NSR7999761010
 # The White Vault
 https://feeds.acast.com/public/shows/ff85aaca-80bc-4206-8c0d-cb45bcb4e332
 # Wind of Change
