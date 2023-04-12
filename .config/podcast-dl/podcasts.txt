@@ -33,6 +33,8 @@ https://rss.art19.com/american-scandal
 https://rss.art19.com/american-history-tellers
 # Anatomy of Murder
 https://feeds.simplecast.com/GdzgJRQH
+# Archaeological Fantasies Podcast
+https://anchor.fm/s/6b89199c/podcast/rss
 # The Atlas Obscura Podcast
 https://feeds.simplecast.com/xKJ93w_w
 
@@ -52,6 +54,8 @@ https://feeds.npr.org/510326/podcast.xml
 https://anchor.fm/s/df14dcc/podcast/rss
 # The Black Tapes
 https://theblacktapes.libsyn.com/rss
+# Blowback
+https://feeds.redcircle.com/e30b9f10-8c86-432e-9fa0-ba287fb94e7f
 # Book of Lies
 https://www.spreaker.com/show/4216099/episodes/feed
 # Borderland Crimes
@@ -154,6 +158,8 @@ https://exploreastory.com/rss
 
 # Fantasy Friendship
 https://anchor.fm/s/2e099fec/podcast/rss
+# The Film Reroll
+http://www.filmreroll.com/?feed=podcast
 # Freakonomics Radio
 https://feeds.simplecast.com/Y8lFbOT4
 # Fresh Air
@@ -273,6 +279,8 @@ https://rss.art19.com/man-in-the-window
 https://themondayamerican.libsyn.com/rss
 # The Mental Illness Happy Hour
 http://mentalpod.libsyn.com/rss
+# MonsterTalk
+https://feeds.megaphone.fm/monstertalk
 # Morbid- A True Crime Podcast
 https://audioboom.com/channels/4997220.rss
 # More Perfect
@@ -311,6 +319,8 @@ https://feed.podbean.com/nooksandcrannies/feed.xml
 
 # O
 
+# Oh No Ross and Carrie
+https://feeds.simplecast.com/ftB6Gihc
 # Old Gods of Appalachia
 https://access.acast.com/rss/61ba0a431a8cbeb6ea3cf11a/
 # Ologies with Alie Ward
@@ -405,6 +415,8 @@ https://feeds.simplecast.com/FKx4CI_n
 http://feed.songexploder.net/SongExploder
 # Song of the Day [KEXP]
 https://www.omnycontent.com/d/playlist/bad5d079-8dcb-4630-8770-aa090049131d/32b2ac38-5a48-4300-9fa6-aa40002038b5/4ac1c451-4315-4096-ab9b-aa40002038c4/podcast.rss
+# Spooked!
+https://thesonarnetwork.com/spooked/feed/podcast
 # SpyHards
 https://feed.podbean.com/www.spyhards.com/feed.xml
 # Stuff They Don't Want You To Know
@@ -430,10 +442,14 @@ https://anchor.fm/s/11575e84/podcast/rss
 https://www.spreaker.com/show/4761852/episodes/feed
 # This American Life
 http://feed.thisamericanlife.org/talpodcast
+# This Past Weekend with Theo Von
+https://feeds.megaphone.fm/thispastweekend
 # This Podcast Will Kill You
 https://www.podchaser.com/podcasts/this-podcast-will-kill-you-582761
 # Throughline
 https://feeds.npr.org/510333/podcast.xml
+# Timesuck With Dan Cummins
+https://feeds.simplecast.com/Llc7KL2K
 # Tone Control
 http://www.idlethumbs.net/feeds/tonecontrol
 # Top of the Round
