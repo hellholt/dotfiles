@@ -75,6 +75,8 @@ https://feeds.simplecast.com/uUplVtAS
 https://audioboom.com/channels/4940872.rss
 # CATtales
 https://audioboom.com/channels/4867717.rss
+# Cautionary Tales With Tim Harford
+https://omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/C0AE8C6E-22F0-4E9B-AC1C-AE390037AC53/7F5A4714-6B10-4CCF-A424-AE390037AC70/podcast.rss
 # The Clearing
 https://feeds.megaphone.fm/the-clearing
 # Coding Blocks
@@ -112,6 +114,8 @@ https://www.omnycontent.com/d/playlist/fdc2ad13-d199-4e97-b2db-a59300cb6cc2/e03d
 https://feeds.megaphone.fm/darknetdiaries
 # Dead Eyes
 https://www.omnycontent.com/d/playlist/77bedd50-a734-42aa-9c08-ad86013ca0f9/2d19c94e-5da0-4ea5-95b1-ad8d012c3386/3c109dc9-8fa7-4ea7-b84b-ad8d012c3390/podcast.rss
+# Dead Meat Podcast
+https://feeds.megaphone.fm/deadmeat
 # Death by Dying
 https://feeds.megaphone.fm/deathbydying
 # Death, Sex & Money
@@ -158,6 +162,8 @@ https://exploreastory.com/rss
 
 # F
 
+# Fall of Civilizations
+https://feeds.soundcloud.com/users/soundcloud:users:572119410/sounds.rss
 # Fantasy Friendship
 https://anchor.fm/s/2e099fec/podcast/rss
 # The Film Reroll
