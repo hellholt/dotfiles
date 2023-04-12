@@ -89,8 +89,12 @@ https://rss.art19.com/alternate_feeds/radiopublic/cold/iflK1omSrLPRbPL7T-z38sBn2
 https://feeds.buzzsprout.com/167223.rss
 # Comedy Bang Bang
 https://feeds.simplecast.com/byb4nhvN
+# The Common Descent Podcast
+https://feed.podbean.com/commondescentpodcast/feed.xml
 # Conan O'Brien Needs a Friend
 https://feeds.simplecast.com/dHoohVNH
+# The Constant: A History of Getting Things Wrong
+https://feeds.megaphone.fm/ADV8582947768
 # Court Junkie
 http://www.podcastone.com/podcast?categoryID2=1983
 # The Creation Stories
@@ -202,6 +206,8 @@ https://rss.art19.com/hello-from-magic-tavern
 https://feeds.simplecast.com/kwWc0lhf
 # The Hilarious World of Depression
 https://feeds.publicradio.org/public_feeds/the-hilarious-world-of-depression/itunes/rss
+# Historium
+https://feeds.buzzsprout.com/1663594.rss
 # The History Cache
 https://feed.podbean.com/historycachepodcast/feed.xml
 # History of Philosophy Without Any Gaps
@@ -250,6 +256,8 @@ https://feeds.npr.org/510307/podcast.xml
 
 # J
 
+# The Joy of Why
+https://api.quantamagazine.org/feed/the-joy-of-why
 # The Jury Room
 https://feed.podbean.com/thejuryroom/feed.xml
 
@@ -263,6 +271,8 @@ https://feeds.buzzsprout.com/337850.rss
 https://audioboom.com/channels/4256036.rss
 # Kingslingers
 https://kingslingers.libsyn.com/rss
+# Knifepoint Horror
+https://knifepointhorror.libsyn.com/rss
 
 # L
 
@@ -343,6 +353,8 @@ https://access.acast.com/rss/61ba0a431a8cbeb6ea3cf11a/
 https://feeds.simplecast.com/FO6kxYGj
 # One Year
 https://feeds.megaphone.fm/SLT7210881615
+# Our Fake History
+https://www.podcastone.com/podcast?categoryID2=2142
 # Our True Crime Podcast
 https://www.spreaker.com/show/3647242/episodes/feed
 # Oz 9
