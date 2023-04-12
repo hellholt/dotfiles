@@ -1,8 +1,3 @@
-# *
-
-# 'The Wire' - Way Down in the Hole
-https://feeds.megaphone.fm/GLT1266862077
-
 # 0-9
 
 # 10 Things That Scare Me
@@ -13,6 +8,8 @@ https://feeds.megaphone.fm/BLU2909536983
 https://pinecast.com/feed/3-hours-later
 # 3 Spooked Girls
 https://audioboom.com/channels/5057253.rss
+# 60 Songs That Explain the 90s
+https://feeds.megaphone.fm/60-songs
 # 99% Invisible
 https://feeds.simplecast.com/BqbsxVfO
 
@@ -36,6 +33,8 @@ https://rss.art19.com/american-scandal
 https://rss.art19.com/american-history-tellers
 # Anatomy of Murder
 https://feeds.simplecast.com/GdzgJRQH
+# The Atlas Obscura Podcast
+https://feeds.simplecast.com/xKJ93w_w
 
 # B
 
@@ -127,6 +126,8 @@ https://diceshame.libsyn.com/DiceShame
 https://pinecast.com/feed/dimension-door-podcast
 # Dirty John
 https://rss.art19.com/dirty-john
+# The Dollop
+https://www.omnycontent.com/d/playlist/885ace83-027a-47ad-ad67-aca7002f1df8/22b063ac-654d-428f-bd69-ae2400349cde/65ff0206-b585-4e2a-9872-ae240034c9c9/podcast.rss
 # The Dork Forest
 https://feeds.megaphone.fm/NSM7546490835
 # Down These Mean Streets (Old Time Radio Detectives)
@@ -135,6 +136,8 @@ https://downthesemeanstreetspodcast.libsyn.com/rss
 https://rss.art19.com/dr-death
 # Drilled
 https://www.spreaker.com/show/5103163/episodes/feed
+# Dungeons and Daddies
+https://feeds.acast.com/public/shows/46e42ca7-4921-5f04-a297-1970e72fd86d
 
 # E
 
@@ -258,6 +261,8 @@ https://feeds.megaphone.fm/lore
 
 # The Magnus Archives
 http://rss.acast.com/themagnusarchives
+# Maintenance Phase
+https://feeds.buzzsprout.com/1411126.rss
 # Making Sense with Sam Harris
 https://wakingup.libsyn.com/rss
 # Malevolent
@@ -490,6 +495,8 @@ https://feeds.acast.com/public/shows/ff85aaca-80bc-4206-8c0d-cb45bcb4e332
 https://feeds.megaphone.fm/wind-of-change-wide
 # The Wire Stripped
 https://feeds.acast.com/public/shows/f1873bf2-6d8e-4785-8a63-0b28b1a9f640
+# 'The Wire' - Way Down in the Hole
+https://feeds.megaphone.fm/GLT1266862077
 # Wolf 359
 https://feeds.acast.com/public/shows/614e5b579de1aa0013021b6b
 # Wrongful Conviction
