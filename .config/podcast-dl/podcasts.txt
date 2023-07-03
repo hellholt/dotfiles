@@ -87,6 +87,8 @@ https://anchor.fm/s/34840b0/podcast/rss
 https://rss.art19.com/alternate_feeds/radiopublic/cold/iflK1omSrLPRbPL7T-z38sBn2XLqJysy
 # Cold War Conversations
 https://feeds.buzzsprout.com/167223.rss
+# The Coldest Case in Laramie
+https://feeds.simplecast.com/wHqls8d1
 # Comedy Bang Bang
 https://feeds.simplecast.com/byb4nhvN
 # The Common Descent Podcast
