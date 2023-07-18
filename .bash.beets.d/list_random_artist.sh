@@ -4,7 +4,14 @@
 beets_list_random_artist() {
   music_root="${MUSIC_ROOT:-/Music}";
   count="${1:-1}";
-  find /volume1/Music -mindepth 4 -maxdepth 4 -type d -not \( -ipath '*@eaDir*' \) -print \
+  find "${music_root}" \
+    -mindepth 4 \
+    -maxdepth 4 \
+    -type d \
+    -not \(\
+      -path "*@eaDir*" \
+    \)\
+    -print \
     | shuf -n"${count}" \
     | while read the_artist_path; do
         basename "${the_artist_path}";

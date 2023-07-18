@@ -5,7 +5,15 @@ beets_list_artist_album_tracks() {
   : "${1?"Usage: ${FUNCNAME[0]} ARTIST_EXPRESSION"}";
   artist_expression="${@}";
   music_root="${MUSIC_ROOT:-/Music}";
-  find "${music_root}" -mindepth 4 -maxdepth 4 -type d -iname "*${artist_expression}*" -print \
+  find "${music_root}" \
+    -mindepth 4 \
+    -maxdepth 4 \
+    -type d \
+    -iname "*${artist_expression}*" \
+    -not \(\
+      -path "*@eaDir*" \
+    \)\
+    -print \
     | sort -h \
     | while read the_artist_path; do
         the_library="$(basename "$(dirname "$(dirname "$(dirname "${the_artist_path}")")")")";

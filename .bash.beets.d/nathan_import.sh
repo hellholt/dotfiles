@@ -7,10 +7,23 @@ beets_nathan_import() {
   album_expression="${2}";
   music_root="${MUSIC_ROOT:-/Music}";
   path_file="$(mktemp)";
-  find "${music_root}/All" -mindepth 3 -maxdepth 3 -type d -iname "*${artist_expression}*" -print \
+  find "${music_root}/All" \
+    -mindepth 3 \
+    -maxdepth 3 \
+    -type d \
+    -iname "*${artist_expression}*" \
+    -not \(\
+      -path "*@eaDir*" \
+    \)\
+    -print \
     | sort -h \
     | while read the_artist_path; do
-        find "${the_artist_path}" -mindepth 1 -maxdepth 1 -type d -iname "*${album_expression}*" -print \
+        find "${the_artist_path}" \
+          -mindepth 1 \
+          -maxdepth 1 \
+          -type d \
+          -iname "*${album_expression}*" \
+          -print \
           | sort -h \
           | while read the_album_path; do
               if [ -d "${the_album_path/\/All\//\/Nathan\/}" ]; then
@@ -29,7 +42,7 @@ beets_nathan_import() {
               fi;
             done;
       done;
-  cat "${path_file}" | while read the_album_path || [[ -n $the_album_path ]]; do
+  cat "${path_file}" | while read the_album_path || [[ -n "${the_album_path}" ]]; do
     beets_nathan import "${the_album_path}" < /dev/tty;
   done;
 }
