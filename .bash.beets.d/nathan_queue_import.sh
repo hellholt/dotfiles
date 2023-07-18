@@ -42,9 +42,6 @@ beets_nathan_queue_import() {
               fi;
             done;
       done;
-  cat "${path_file}" | while read the_album_path || [[ -n "${the_album_path}" ]]; do
-    beets_nathan import "${the_album_path}" < /dev/tty;
-  done;
 }
 
 bnqi() {
