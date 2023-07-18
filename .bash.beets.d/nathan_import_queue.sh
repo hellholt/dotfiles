@@ -2,7 +2,8 @@
 
 # Import a previously generated queue of albums.
 beets_nathan_queue_import() {
-  path_file="~/import_queue.txt";
+  music_root="${MUSIC_ROOT:-/Music}";
+  path_file="${music_root}/import_queue.txt";
   cat "${path_file}" | while read the_album_path || [[ -n "${the_album_path}" ]]; do
     read -p "Import ${the_album_path}? (y/n) " response;
     if [[ $response =~ ^[Yy]$ ]]; then

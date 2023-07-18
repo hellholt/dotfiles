@@ -6,7 +6,7 @@ beets_nathan_queue_import() {
   artist_expression="${1}";
   album_expression="${2}";
   music_root="${MUSIC_ROOT:-/Music}";
-  path_file="~/import_queue.txt";
+  path_file="${music_root}/import_queue.txt";
   find "${music_root}/All" \
     -mindepth 3 \
     -maxdepth 3 \
