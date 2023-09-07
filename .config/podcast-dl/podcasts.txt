@@ -537,6 +537,8 @@ https://www.omnycontent.com/d/playlist/bad5d079-8dcb-4630-8770-aa090049131d/2a8d
 https://feeds.megaphone.fm/wefixspacejunk
 # Welcome to Night Vale
 http://feeds.nightvalepresents.com/welcometonightvalepodcast
+# We're In
+https://feeds.simplecast.com/_SsyS46z
 # Well There's Your Problem
 https://feed.podbean.com/wtyppod/feed.xml
 # What the Riff?
