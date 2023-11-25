@@ -19,8 +19,6 @@ https://feeds.simplecast.com/BqbsxVfO
 https://feeds.simplecast.com/cYQVc__c
 # Alba Salix, Royal Physician
 https://feeds.megaphone.fm/albasalix
-# The Album Club
-https://www.podcasts.com/rss_feed/b1036836c6dbdf10124d4a603ab87525
 # Alice Isn't Dead
 http://feeds.nightvalepresents.com/aliceisntdeadpodcast
 # All Songs Considered
@@ -50,10 +48,6 @@ https://bearbrook.feed.nhpr.org/
 https://feeds.megaphone.fm/behindthebastards
 # Believed
 https://feeds.npr.org/510326/podcast.xml
-# Better Than Robin Hood?
-https://anchor.fm/s/df14dcc/podcast/rss
-# The Black Tapes
-https://theblacktapes.libsyn.com/rss
 # Blowback
 https://feeds.redcircle.com/e30b9f10-8c86-432e-9fa0-ba287fb94e7f
 # Book of Lies
@@ -69,8 +63,6 @@ https://feeds.megaphone.fm/HSW2732644812
 
 # C
 
-# Caliphate
-https://feeds.simplecast.com/uUplVtAS
 # Casefile True Crime
 https://audioboom.com/channels/4940872.rss
 # CATtales
@@ -99,8 +91,6 @@ https://feeds.simplecast.com/dHoohVNH
 https://feeds.megaphone.fm/ADV8582947768
 # Court Junkie
 http://www.podcastone.com/podcast?categoryID2=1983
-# The Creation Stories
-https://feeds.captivate.fm/thecreationstories/
 # Crime Analyst
 https://audioboom.com/channels/5044584.rss
 # Crime Junkie
@@ -165,8 +155,6 @@ https://feeds.acast.com/public/shows/46e42ca7-4921-5f04-a297-1970e72fd86d
 https://feeds.feedburner.com/earhustlesq
 # The Edge of Sleep
 https://feeds.megaphone.fm/QCD1489535626
-# Encounter Party!
-https://feeds.redcircle.com/793674f9-4d9e-49a9-b8e4-d068b04bcd8e
 # ExploreAStory
 https://exploreastory.com/rss
 
@@ -206,8 +194,6 @@ http://feeds.megaphone.fm/heavyweight
 https://rss.art19.com/hello-from-magic-tavern
 # Hidden Brain
 https://feeds.simplecast.com/kwWc0lhf
-# The Hilarious World of Depression
-https://feeds.publicradio.org/public_feeds/the-hilarious-world-of-depression/itunes/rss
 # Historium
 https://feeds.buzzsprout.com/1663594.rss
 # The History Cache
@@ -216,8 +202,6 @@ https://feed.podbean.com/historycachepodcast/feed.xml
 https://feed.podbean.com/hopwag/feed.xml
 # The History of Rome
 https://historyofrome.libsyn.com/rss
-# Homecoming
-https://feeds.megaphone.fm/homecoming
 # Hope in Darkness: The Josh Holt Story
 https://rss.art19.com/hope-in-darkness
 # How Did This Get Made?
@@ -247,8 +231,6 @@ https://www.idlethumbs.net/feeds/importantiftrue
 https://podcasts.files.bbci.co.uk/b00snr0w.rss
 # In Our Time
 https://podcasts.files.bbci.co.uk/b006qykl.rss
-# In the Dark
-https://feeds.publicradio.org/public_feeds/in-the-dark/itunes/rss
 # Infectious Groove
 https://www.spreaker.com/show/4661462/episodes/feed
 # The Infinite Monkey Cage
@@ -260,8 +242,6 @@ https://feeds.npr.org/510307/podcast.xml
 
 # The Joy of Why
 https://api.quantamagazine.org/feed/the-joy-of-why
-# The Jury Room
-https://feed.podbean.com/thejuryroom/feed.xml
 
 # K
 
@@ -284,8 +264,6 @@ https://feeds.megaphone.fm/HSW9972842155
 https://feeds.megaphone.fm/glt8292019621
 # The Left Right Game
 https://feeds.simplecast.com/wTHk7_y_
-# Limetown
-http://feeds.megaphone.fm/PPY5621646923
 # Lolita Podcast
 https://omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/10CAB470-3B61-45A6-9C6C-AE2D0142AB09/3D8F2E05-156F-49D8-BBE0-AE2D0142AB20/podcast.rss
 # Lore
@@ -309,18 +287,10 @@ https://themondayamerican.libsyn.com/rss
 http://mentalpod.libsyn.com/rss
 # MonsterTalk
 https://feeds.megaphone.fm/monstertalk
-# Morbid- A True Crime Podcast
-https://audioboom.com/channels/4997220.rss
-# More Perfect
-http://feeds.wnyc.org/moreperfect
 # The Moth
 http://feeds.feedburner.com/themothpodcast
-# Murder In Alliance
-https://audioboom.com/channels/5046380.rss
 # Murder With My Husband
 https://feeds.megaphone.fm/HSW2364749129
-# Murderville
-https://feeds.acast.com/public/shows/c66d3932-72a5-49e9-bc88-ca2080d23735
 # My Brother, My Brother, and Me
 https://feeds.simplecast.com/wjQvYtdl
 # My Dad Wrote A Porno
@@ -336,8 +306,6 @@ https://rss.art19.com/myths-and-legends
 
 # Nakedly Examined Music
 https://nakedlyexaminedmusic.com/feed/podcast/
-# Naptime Nancy True Crime Podcast
-http://feeds.soundcloud.com/users/soundcloud:users:601454916/sounds.rss
 # No Life Skills
 https://feeds.buzzsprout.com/1600156.rss
 # No Such Thing as a Fish
@@ -386,12 +354,10 @@ https://feeds.megaphone.fm/HSW1112098164
 
 # R
 
-# Rabbits
-https://rabbits.libsyn.com/rss
 # Radio Westeros ASoIaF Podcasts
 http://rss.acast.com/radiowesteros
 # Radiolab
-http://feeds.wnyc.org/radiolab
+https://feeds.feedburner.com/radiolab
 # Reply All
 https://feeds.megaphone.fm/replyall
 # The Rest Is History
@@ -417,8 +383,6 @@ https://rss.art19.com/eli-roths-history-of-horror-uncut
 
 # S
 
-# S-Town
-https://anchor.fm/s/3a4615b0/podcast/rss
 # Sawbones
 https://feeds.simplecast.com/y1LF_sn2
 # The Science of Birds
@@ -443,8 +407,6 @@ https://snap.feed.snapjudgment.org/
 https://feeds.spookedpodcast.org/
 # Sold in America
 https://www.omnycontent.com/d/playlist/aaea4e69-af51-495e-afc9-a9760146922b/e165cd7e-dffd-4266-89f1-aa3200e14be9/6f5eb083-1add-46db-a492-aa3200e14bed/podcast.rss
-# Someone Knows Something
-https://www.cbc.ca/podcasting/includes/sks.xml
 # Something Was Wrong
 https://feeds.simplecast.com/FKx4CI_n
 # Song Exploder
@@ -457,10 +419,6 @@ https://thesonarnetwork.com/spooked/feed/podcast
 https://feed.podbean.com/www.spyhards.com/feed.xml
 # Strict Scrutiny
 https://feeds.simplecast.com/EyrYWMW2
-# Stuff They Don't Want You To Know
-https://feeds.megaphone.fm/stufftheydontwantyoutoknow
-# Stuff You Missed in History Class
-https://feeds.megaphone.fm/stuffyoumissedinhistoryclass
 # Stuff You Should Know
 https://feeds.megaphone.fm/stuffyoushouldknow
 # Suspect
@@ -476,8 +434,6 @@ https://feeds.megaphone.fm/teencreeps
 https://rss.art19.com/ten-percent-happier
 # Terrible, Thanks for Asking
 https://feeds.publicradio.org/public_feeds/terrible-thanks-for-asking/itunes/rss
-# Them, That and This
-https://anchor.fm/s/11575e84/podcast/rss
 # There Might Be Cupcakes
 https://www.spreaker.com/show/4761852/episodes/feed
 # This American Life
@@ -490,8 +446,6 @@ https://www.podchaser.com/podcasts/this-podcast-will-kill-you-582761
 https://feeds.npr.org/510333/podcast.xml
 # Timesuck With Dan Cummins
 https://feeds.simplecast.com/Llc7KL2K
-# Tone Control
-http://www.idlethumbs.net/feeds/tonecontrol
 # Top of the Round
 https://topoftheround.libsyn.com/rss
 # True Crime All the Time
@@ -533,8 +487,6 @@ https://feeds.simplecast.com/hQ1_tt0K
 
 # Watch If You Dare
 https://watchifyoudare.podbean.com/feed.xml
-# The Weekly Mix [fka Music That Matters]
-https://www.omnycontent.com/d/playlist/bad5d079-8dcb-4630-8770-aa090049131d/2a8dbc3b-941c-445b-a311-aa400020390f/02c3cab1-f35c-4281-94a8-aa400020391d/podcast.rss
 # We Fix Space Junk
 https://feeds.megaphone.fm/wefixspacejunk
 # Welcome to Night Vale
@@ -553,8 +505,6 @@ https://feeds.acast.com/public/shows/ff85aaca-80bc-4206-8c0d-cb45bcb4e332
 https://feeds.megaphone.fm/wind-of-change-wide
 # The Wire Stripped
 https://feeds.acast.com/public/shows/f1873bf2-6d8e-4785-8a63-0b28b1a9f640
-# 'The Wire' - Way Down in the Hole
-https://feeds.megaphone.fm/GLT1266862077
 # Wolf 359
 https://feeds.acast.com/public/shows/614e5b579de1aa0013021b6b
 # Wrongful Conviction
@@ -574,7 +524,5 @@ https://feeds.megaphone.fm/YMRT7068253588
 https://podcasts.files.bbci.co.uk/p07mdbhg.rss
 # You're Wrong About
 https://feeds.buzzsprout.com/1112270.rss
-# Your Brain on Facts
-https://yourbrainonfacts.libsyn.com/rss
 # Your Own Backyard
 https://yourownbackyard.libsyn.com/rss
