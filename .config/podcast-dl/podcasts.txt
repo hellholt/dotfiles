@@ -33,6 +33,8 @@ https://rss.art19.com/american-history-tellers
 https://feeds.simplecast.com/GdzgJRQH
 # Archaeological Fantasies Podcast
 https://anchor.fm/s/6b89199c/podcast/rss
+# Art of Manliness
+https://feeds.simplecast.com/azy33G8_
 # The Atlas Obscura Podcast
 https://feeds.simplecast.com/xKJ93w_w
 
