@@ -4,6 +4,8 @@
 http://feeds.wnyc.org/10-things-scare-me
 # 10ish
 https://feeds.megaphone.fm/BLU2909536983
+# 22 Hours: An American Nightmare
+https://www.omnycontent.com/d/playlist/820f09cf-2ace-4180-a92d-aa4c0008f5fb/3f7ab18c-1ed3-4a4c-a62b-aa760005453a/9e4e538f-e9d1-4ad8-bb9e-aa760005454d/podcast.rss
 # 3 Hours Later
 https://pinecast.com/feed/3-hours-later
 # 3 Spooked Girls
@@ -15,6 +17,8 @@ https://feeds.simplecast.com/BqbsxVfO
 
 # A
 
+# Accused
+https://rss.art19.com/accused
 # The Adventure Zone
 https://feeds.simplecast.com/cYQVc__c
 # Alba Salix, Royal Physician
@@ -37,19 +41,28 @@ https://anchor.fm/s/6b89199c/podcast/rss
 https://feeds.simplecast.com/azy33G8_
 # The Atlas Obscura Podcast
 https://feeds.simplecast.com/xKJ93w_w
+# Authentic Sex
+https://authenticsex.libsyn.com/rss
+
 
 # B
 
 # Back to the Double R: A Twin Peaks Rewatch
 https://feeds.buzzsprout.com/1707028.rss
+# Bad Bad Thing
+https://www.podcastone.com/podcast?categoryid2=2208
 # Bardstown
 https://feeds.megaphone.fm/bardstown
 # Bear Brook
 https://bearbrook.feed.nhpr.org/
 # Behind the Bastards
 https://feeds.megaphone.fm/behindthebastards
+# Believe Her
+https://www.omnycontent.com/d/playlist/796469f9-ea34-46a2-8776-ad0f015d6beb/ffa1138e-0666-4787-bf08-adb4014e6cad/f1b8e1da-6f01-426f-a4e4-adb4015084a5/podcast.rss
 # Believed
 https://feeds.npr.org/510326/podcast.xml
+# Bite
+http://feeds.feedburner.com/bite-podcast
 # Blowback
 https://feeds.redcircle.com/e30b9f10-8c86-432e-9fa0-ba287fb94e7f
 # Book of Lies
@@ -62,6 +75,8 @@ https://feeds.megaphone.fm/thebrightsessions
 https://feeds.megaphone.fm/bringontheweird
 # Broken Harts
 https://feeds.megaphone.fm/HSW2732644812
+# Buried Bones
+https://feeds.megaphone.fm/ERM1095342797
 
 # C
 
@@ -71,6 +86,10 @@ https://audioboom.com/channels/4940872.rss
 https://audioboom.com/channels/4867717.rss
 # Cautionary Tales With Tim Harford
 https://omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/C0AE8C6E-22F0-4E9B-AC1C-AE390037AC53/7F5A4714-6B10-4CCF-A424-AE390037AC70/podcast.rss
+# Christopher Kimball's Milk Street Radio
+https://feeds.acast.com/public/shows/4920ba31-408c-416d-8544-38ddd0ef17ad
+# The City
+https://rss.art19.com/the-city
 # The Clearing
 https://feeds.megaphone.fm/the-clearing
 # Coding Blocks
@@ -87,18 +106,32 @@ https://feeds.simplecast.com/wHqls8d1
 https://feeds.simplecast.com/byb4nhvN
 # The Common Descent Podcast
 https://feed.podbean.com/commondescentpodcast/feed.xml
+# Complicit, a True Mystery Podcast
+https://feeds.resonaterecordings.com/complicit
 # Conan O'Brien Needs a Friend
 https://feeds.simplecast.com/dHoohVNH
+# Confronting
+https://rss.art19.com/confronting-oj-simpson
 # The Constant: A History of Getting Things Wrong
 https://feeds.megaphone.fm/ADV8582947768
+# Convicted
+https://podsforjustice.libsyn.com/rss
+# CounterClock
+https://feeds.simplecast.com/MTPwrbcY
 # Court Junkie
 http://www.podcastone.com/podcast?categoryID2=1983
+# Cousins by Blood
+https://anchor.fm/s/40df8a14/podcast/rss
 # Crime Analyst
 https://audioboom.com/channels/5044584.rss
 # Crime Junkie
 https://feeds.simplecast.com/qm_9xx0g
 # Criminal
 https://feeds.megaphone.fm/VMP7924981569
+# Criminal Conduct
+https://feeds.megaphone.fm/criminalconductpod
+# Culpable
+https://feeds.megaphone.fm/culpable
 # The Curious Cases of Rutherford & Fry
 https://podcasts.files.bbci.co.uk/b07dx75g.rss
 
@@ -170,6 +203,14 @@ https://feeds.soundcloud.com/users/soundcloud:users:572119410/sounds.rss
 https://anchor.fm/s/2e099fec/podcast/rss
 # The Film Reroll
 http://www.filmreroll.com/?feed=podcast
+# The Food Chain
+https://podcasts.files.bbci.co.uk/p028z2z0.rss
+# The Food Programme
+https://podcasts.files.bbci.co.uk/b006qnx3.rss
+# Food With Mark Bittman
+https://feeds.acast.com/public/shows/6216896fd584d100134d4d24
+# Fox Hunter
+https://feeds.megaphone.fm/foxhunter
 # Freakonomics Radio
 https://feeds.simplecast.com/Y8lFbOT4
 # Fresh Air
@@ -179,10 +220,16 @@ https://rss.art19.com/frigay-the-13th-horror-podcast
 
 # G
 
+# The Genius Recipe Tapes
+https://feeds.simplecast.com/ujXpEaMF
 # Girl in Space
 https://girlinspace.libsyn.com/rss
+# Gone South
+https://feeds.megaphone.fm/gone-south
 # Good Luck Sleeping
 https://goodlucksleeping.libsyn.com/rss
+# Gravy
+https://feeds.megaphone.fm/TPG7691102500
 # The Great Albums
 https://thegreatalbums.libsyn.com/rss
 # Grief Burrito Gaming Podcast
@@ -206,6 +253,8 @@ https://feed.podbean.com/historycachepodcast/feed.xml
 https://feed.podbean.com/hopwag/feed.xml
 # The History of Rome
 https://historyofrome.libsyn.com/rss
+# Home Cooking
+http://feeds.feedburner.com/homecookingshow
 # Hope in Darkness: The Josh Holt Story
 https://rss.art19.com/hope-in-darkness
 # How Did This Get Made?
@@ -219,6 +268,8 @@ https://www.cbc.ca/podcasting/includes/huntingwarhead.xml
 
 # I Used to Watch This?
 https://feeds.transistor.fm/i-used-to-watch-this
+# The Idaho Massacre
+https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/7c2dc20b-580d-4663-a18b-ae2e01440392/a3f5ba46-d2b0-42a9-aafa-ae2e014403a0/podcast.rss
 # I'm in Love With That Song
 https://feeds.megaphone.fm/lovethatsong
 # Idle Thumbs
@@ -231,10 +282,12 @@ https://feeds.megaphone.fm/ADV7475920787
 https://rss.art19.com/imagined-life
 # Important If True
 https://www.idlethumbs.net/feeds/importantiftrue
-# The Infinite Monkey Cage
-https://podcasts.files.bbci.co.uk/b00snr0w.rss
+# In the Land of Lies
+https://feeds.megaphone.fm/inthelandoflies
 # In Our Time
 https://podcasts.files.bbci.co.uk/b006qykl.rss
+# The Infinite Monkey Cage
+https://podcasts.files.bbci.co.uk/b00snr0w.rss
 # Infectious Groove
 https://www.spreaker.com/show/4661462/episodes/feed
 # The Infinite Monkey Cage
@@ -268,8 +321,12 @@ https://feeds.megaphone.fm/HSW9972842155
 https://feeds.megaphone.fm/glt8292019621
 # The Left Right Game
 https://feeds.simplecast.com/wTHk7_y_
+# LISK: Long Island Serial Killer
+https://feeds.megaphone.fm/glss6562856790
 # Lolita Podcast
 https://omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/10CAB470-3B61-45A6-9C6C-AE2D0142AB09/3D8F2E05-156F-49D8-BBE0-AE2D0142AB20/podcast.rss
+# Looking for the Todt Family
+https://anchor.fm/s/e019c874/podcast/rss
 # Lore
 https://feeds.megaphone.fm/lore
 
@@ -293,14 +350,20 @@ http://mentalpod.libsyn.com/rss
 https://feeds.megaphone.fm/monstertalk
 # The Moth
 http://feeds.feedburner.com/themothpodcast
+# Murder in Miami
+https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/d8a056dd-3601-4d2d-8147-ae32006cd47a/4096435f-49d3-4b27-807b-ae32006cd49b/podcast.rss
 # Murder With My Husband
 https://feeds.megaphone.fm/HSW2364749129
+# My Aloof Vagina
+https://feeds.buzzsprout.com/2074107.rss
 # My Brother, My Brother, and Me
 https://feeds.simplecast.com/wjQvYtdl
 # My Dad Wrote A Porno
 http://rss.acast.com/mydadwroteaporno
 # My Favorite Murder
 https://feeds.simplecast.com/dI7UJjtl
+# My Fugitive
+https://feeds.megaphone.fm/CAD2765173836
 # Mystery Show
 https://feeds.megaphone.fm/mysteryshow
 # Myths and Legends
@@ -327,15 +390,21 @@ https://access.acast.com/rss/61ba0a431a8cbeb6ea3cf11a/
 https://feeds.simplecast.com/FO6kxYGj
 # One Year
 https://feeds.megaphone.fm/SLT7210881615
+# The Order of Death
+https://theorderofdeath.libsyn.com/rss
 # Our Fake History
 https://www.podcastone.com/podcast?categoryID2=2142
 # Our True Crime Podcast
 https://www.spreaker.com/show/3647242/episodes/feed
+# Over My Dead Body
+https://rss.art19.com/over-my-dead-body
 # Oz 9
 https://oz9podcast.libsyn.com/rss
 
 # P
 
+# Paper Ghosts
+https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/fb8d36cf-b165-4399-b277-ae2701747cf3/664846e2-642c-49b7-82d8-ae2701747d14/podcast.rss
 # The Phenomenon
 https://phenomenonpod.libsyn.com/rss
 # Philosophize This!
@@ -362,6 +431,10 @@ https://feeds.megaphone.fm/HSW1112098164
 http://rss.acast.com/radiowesteros
 # Radiolab
 https://feeds.feedburner.com/radiolab
+# The Real Killer
+https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/c8c92d21-1a81-4bdd-80a8-ae2801492e32/96bd66f1-d7c4-4ee1-8fee-ae2801492e58/podcast.rss
+# Recipe Club
+https://feeds.megaphone.fm/dave-chang-recipe-club
 # Reply All
 https://feeds.megaphone.fm/replyall
 # The Rest Is History
@@ -397,6 +470,10 @@ https://feeds.megaphone.fm/sciencevs
 https://feeds.fireside.fm/selfhosted/rss
 # Serial
 https://feeds.simplecast.com/xl36XBC2
+# Sex Talk With My Mom
+https://up.audio/rss/1044963177/feeds.megaphone.fm/EDGY1067420096
+# Sex With Emily
+https://feeds.megaphone.fm/CFP9686758960
 # The Shrink Next Door
 https://rss.art19.com/the-shrink-next-door
 # The Skeptics' Guide to the Universe
@@ -417,12 +494,24 @@ https://feeds.simplecast.com/FKx4CI_n
 http://feed.songexploder.net/SongExploder
 # Song of the Day [KEXP]
 https://www.omnycontent.com/d/playlist/bad5d079-8dcb-4630-8770-aa090049131d/32b2ac38-5a48-4300-9fa6-aa40002038b5/4ac1c451-4315-4096-ab9b-aa40002038c4/podcast.rss
+# Special Sauce With Ed Levine
+https://feed.thespecialsaucepodcast.com/
+# The Splendid Table
+https://feeds.publicradio.org/public_feeds/the-splendid-table/itunes/rss.rss
 # Spooked!
 https://thesonarnetwork.com/spooked/feed/podcast
+# The Sporkful
+https://feeds.simplecast.com/n91GPFY5
 # SpyHards
 https://feed.podbean.com/www.spyhards.com/feed.xml
+# Stolen: The Search for Jermain
+https://feeds.megaphone.fm/stolen-jermain
+# Strangeland
+https://feeds.simplecast.com/Gg33ecoK
 # Strict Scrutiny
 https://feeds.simplecast.com/EyrYWMW2
+# Stronger By Science
+https://feeds.simplecast.com/Fxu1mrhe
 # Stuff You Should Know
 https://feeds.megaphone.fm/stuffyoushouldknow
 # Suspect
@@ -432,6 +521,8 @@ https://feeds.megaphone.fm/ADL8288293115
 
 # T
 
+# A Taste of the Past
+https://feeds.simplecast.com/D9RDEA3I
 # Teen Creeps
 https://feeds.megaphone.fm/teencreeps
 # Ten Percent Happier with Dan Harris
@@ -456,6 +547,8 @@ https://topoftheround.libsyn.com/rss
 https://rss.art19.com/true-crime-all-the-time
 # True Crime Garage
 https://feeds.simplecast.com/zatU8XEL
+# True Sunlight
+https://feeds.megaphone.fm/BER9965516640
 # The Truth
 http://feeds.thetruthpodcast.com/thetruthapm
 # Twenty Thousand Hertz
@@ -467,10 +560,16 @@ https://twinpeaksunwrapped.podbean.com/feed.xml
 
 # U
 
+# Undisclosed
+https://audioboom.com/channels/3709182.rss
 # Unfinished
 https://www.omnycontent.com/d/playlist/aaea4e69-af51-495e-afc9-a9760146922b/cf211900-ef7b-4b40-8c88-ab7b013b52cb/45a27844-ef72-40f7-82c4-ab7b013b710c/podcast.rss
+# Unraveled
+https://feeds.acast.com/public/shows/5ea17537-f11f-4532-8202-294d976b9d5c
 # Unsolved Mysteries
 https://feeds.megaphone.fm/unsolved-mysteries
+# Unwasted
+https://feeds.buzzsprout.com/383413.rss
 # Unwell, a Midwestern Gothic Mystery
 https://feeds.megaphone.fm/unwell
 # Up and Vanished
@@ -482,6 +581,8 @@ https://feeds.megaphone.fm/up-and-vanished
 https://rss.art19.com/the-vanished-podcast-wondery
 # Verbal Diorama
 https://feeds.captivate.fm/verbaldiorama/
+# Verified
+https://feeds.megaphone.fm/adv7825946717
 # Victoriocity
 https://victoriocity.libsyn.com/rss
 # The Video Archives Podcast With Quentin Tarantino and Roger Avary
@@ -505,12 +606,18 @@ https://feeds.simplecast.com/NMNuUazR
 https://feeds.megaphone.fm/NSR7999761010
 # The White Vault
 https://feeds.acast.com/public/shows/ff85aaca-80bc-4206-8c0d-cb45bcb4e332
+# Who Killed Bob?
+https://www.omnycontent.com/d/playlist/2fb3740d-3436-44af-8cc0-a91900716aa5/2af893a0-4993-40a5-8546-af8701637e0b/c587b2fb-bdca-4593-9db4-af8701637e27/podcast.rss
+# Who Killed Emma?
+https://podcasts.files.bbci.co.uk/p09bxhkf.rss
 # Wind of Change
 https://feeds.megaphone.fm/wind-of-change-wide
 # The Wire Stripped
 https://feeds.acast.com/public/shows/f1873bf2-6d8e-4785-8a63-0b28b1a9f640
 # Wolf 359
 https://feeds.acast.com/public/shows/614e5b579de1aa0013021b6b
+# Wolves Among Us
+https://feeds.megaphone.fm/wolves-among-us
 # Wrongful Conviction
 https://www.omnycontent.com/d/playlist/aaea4e69-af51-495e-afc9-a9760146922b/95311bc7-5f16-4a15-90ad-acbd0160120e/9678644f-7e58-4c56-b5a0-acbd01601226/podcast.rss
 # WTF with Marc Maron Podcast
