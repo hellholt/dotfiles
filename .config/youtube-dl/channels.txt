@@ -143,6 +143,8 @@ https://www.youtube.com/@CuriousArchive
 https://www.youtube.com/channel/UCIbHATwqbDvoDWgW8B7UQTg
 # Dark History
 https://www.youtube.com/c/darkhistoryyoutube
+# Darkfry
+https://www.youtube.com/@Darkfry
 # Daryl Talks Games
 https://www.youtube.com/@DarylTalksGames
 # David Lightbringer
@@ -151,6 +153,8 @@ https://www.youtube.com/channel/UCXNXT2MxtKPhsBmhFWE6xsg
 https://www.youtube.com/channel/UCfqPst3x4TrBUsYAF83uOBg
 # Deep Cuts
 https://www.youtube.com/channel/UCRYhCg0DHloE9gn-PAiAYNg
+# Design Doc
+https://www.youtube.com/@DesignDoc
 # Design Frame: Video Game Case Studies
 https://www.youtube.com/@DesignFrameCaseStudies
 # Designing For
@@ -189,12 +193,16 @@ https://www.youtube.com/@FieldOfViewGameDesign
 https://www.youtube.com/channel/UCEtB-nx5ngoNJWEzYa-yXBg
 # Film School Comments
 https://www.youtube.com/channel/UCyGi33538KzB1ILhEUUNnVw
+# First Five Reviews
+https://www.youtube.com/@FirstFive
 # Folding Ideas
 https://www.youtube.com/channel/UCyNtlmLB73-7gtlBz00XOQQ
 # Fredrik Knudsen
 https://www.youtube.com/@FredrikKnudsen
 # Freya Holmér
 https://www.youtube.com/@Acegikmo
+# FUNKe
+https://www.youtube.com/@FUNKe
 
 # G
 
@@ -228,6 +236,8 @@ https://www.youtube.com/@Game-wisdom
 https://www.youtube.com/@GamesOverCoffee
 # Games With Gabe
 https://www.youtube.com/channel/UCQP4qSCj1eHMHisDDR4iPzw
+# Garbaj
+https://www.youtube.com/@garbaj
 # Geography Now
 https://www.youtube.com/channel/UCmmPgObSUPw1HL2lq6H4ffA
 # The Great Repertoire
@@ -236,6 +246,8 @@ https://www.youtube.com/channel/UCUhfJn88d32udI3ePN9V15A
 https://www.youtube.com/user/greatscottlab
 # The Great War
 https://www.youtube.com/channel/UCUcyEsEjhPEDf69RRVhRh4A
+# GVMERS
+https://www.youtube.com/@GVMERS
 
 # H
 
@@ -321,12 +333,16 @@ https://www.youtube.com/channel/UC0KaZd_ki4l2EUc1GY9u5Ew
 
 # Last Best Tool
 https://www.youtube.com/@lastbesttool
+# Leadhead - A Postmodernist perspective applied to video games
+https://www.youtube.com/@Leadhead
 # Lessons From the Screenplay
 https://www.youtube.com/channel/UCErSSa3CaP_GJxmFpdjG9Jw
 # Let's Talk Game Design
 https://www.youtube.com/@LTGD
 # Level 0 Game Dev
 https://www.youtube.com/c/Level0Gamedev
+# Level Design Lobby
+https://www.youtube.com/@LevelDesignLobby
 # A Life Engineered
 https://www.youtube.com/c/ALifeEngineered
 # Life Is a Story
@@ -360,6 +376,8 @@ https://www.youtube.com/@MikeontheMandolin
 https://www.youtube.com/channel/UCXzn66XFtpyKdGf8JDJOpCQ
 # Minute Physics
 https://www.youtube.com/channel/UCUHW94eEFW7hkUMVaZz4eDg
+# Mix and Jam
+https://www.youtube.com/@mixandjam
 # Molly Rocket
 https://www.youtube.com/c/MollyRocket
 # Movies I Love (and So Can You)
@@ -371,12 +389,18 @@ https://www.youtube.com/channel/UCfPni-XauIF97mSckAxYL_w
 https://www.youtube.com/@NakeyJakey
 # Nerdwriter1
 https://www.youtube.com/channel/UCJkMlOu7faDgqh4PfzbpLdg
+# New Frame Plus
+https://www.youtube.com/@newframeplus
 # nextProgram
 https://www.youtube.com/channel/UC-MGHRKbmkden1SjxdL8UzA
 # Nile Red
 https://www.youtube.com/channel/UCFhXFikryT4aFcLkLw2LBLA
+# No Cap Gaming
+https://www.youtube.com/@chromerot
 # Noah Caldwell-Gervais
 https://www.youtube.com/@broadcaststsatic
+# Noclip - Video Game Documentaries
+https://www.youtube.com/@noclipdocs
 # Nomadic Ambience
 https://www.youtube.com/@NomadicAmbience
 # Nostalgia Nerd
@@ -432,6 +456,8 @@ https://www.youtube.com/channel/UC1rFmaGLYr0Ve_Y_soxZNWQ
 
 # R
 
+# Razbuten
+https://www.youtube.com/@razbuten
 # RC Test Flight
 https://www.youtube.com/@rctestflight
 # Real Bass Lessons
@@ -448,6 +474,8 @@ https://www.youtube.com/channel/UCwRqWnW5ZkVaP_lZF7caZ-g
 https://www.youtube.com/channel/UCqp8oXLR84eiryfhNXK-nTA
 # Rob MacKillop
 https://www.youtube.com/channel/UCUPHrp2nfs0qymFe4TXEt9A
+# Robokast
+https://www.youtube.com/@robokast
 # Roguelike Celebration
 https://www.youtube.com/@roguelikecelebration
 # The Royal Ocean Film Society
@@ -520,6 +548,8 @@ https://www.youtube.com/@upandatom
 
 # V
 
+# Video Game Animation Study
+https://www.youtube.com/@VideoGameAnimationStudy
 # Video Game Dunkey
 https://www.youtube.com/@videogamedunkey
 # Visual Novel Design
@@ -537,6 +567,8 @@ https://www.youtube.com/c/WolfgangsChannel
 https://www.youtube.com/@WorldofGameDesign
 # Wortheffort
 https://www.youtube.com/channel/UCxOSP6n0wTzGIDWfNHqHCgA
+# Writing on Games
+https://www.youtube.com/@WritingOnGames
 
 # Y
 
