@@ -147,6 +147,8 @@ https://www.youtube.com/channel/UCfqPst3x4TrBUsYAF83uOBg
 https://www.youtube.com/channel/UCRYhCg0DHloE9gn-PAiAYNg
 # Design Frame: Video Game Case Studies
 https://www.youtube.com/@DesignFrameCaseStudies
+# Designing Play
+https://www.youtube.com/@DesigningPlay
 # Displaced Gamers
 https://www.youtube.com/channel/UCWoSKWs8h6lFdiEDAjuIfpA
 # The Dungeon Synth Archives
@@ -182,12 +184,18 @@ https://www.youtube.com/@Acegikmo
 
 # G
 
+# Game Design Foundry
+https://www.youtube.com/@GameDesignFoundry
+# Game Design With Michael
+https://www.youtube.com/@gamedesignwithmichael
 # Game Dev Guide
 https://www.youtube.com/c/GameDevGuide
 # Game From Scratch
 https://www.youtube.com/c/gamefromscratch
 # Game Maker's Toolkit
-https://www.youtube.com/channel/UCqJ-Xo29CKyLTjn6z2XwYAw
+https://www.youtube.com/@GMTK
+# The Game Overanalyser
+https://www.youtube.com/@thegameoveranalyser4835
 # Games With Gabe
 https://www.youtube.com/channel/UCQP4qSCj1eHMHisDDR4iPzw
 # Geography Now
@@ -283,6 +291,8 @@ https://www.youtube.com/channel/UC0KaZd_ki4l2EUc1GY9u5Ew
 https://www.youtube.com/@lastbesttool
 # Lessons From the Screenplay
 https://www.youtube.com/channel/UCErSSa3CaP_GJxmFpdjG9Jw
+# Let's Talk Game Design
+https://www.youtube.com/@LTGD
 # A Life Engineered
 https://www.youtube.com/c/ALifeEngineered
 # Life Is a Story
@@ -368,6 +378,8 @@ https://www.youtube.com/@PROCJAM
 https://www.youtube.com/@ProjectFarm
 # PsyFile
 https://www.youtube.com/channel/UCNGSLqZab4TkgY8cnJQxgtA
+# PulsipherGames
+https://www.youtube.com/@Pulsiphergames
 
 # Q
 
@@ -440,6 +452,8 @@ https://www.youtube.com/channel/UCUyvQV2JsICeLZP4c_h40kA
 https://www.youtube.com/@Thoughty2
 # Thunk
 https://www.youtube.com/channel/UC4Aq2sSeNrb6-n6Ib4hR4Mw
+# Timberdev
+https://www.youtube.com/@timberdev
 # Todd in the Shadows
 https://www.youtube.com/channel/UCaTSjmqzOO-P8HmtVW3t7sA
 # Tom Does Tech
