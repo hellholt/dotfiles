@@ -57,6 +57,8 @@ https://feeds.megaphone.fm/bardstown
 https://bearbrook.feed.nhpr.org/
 # Behind the Bastards
 https://feeds.megaphone.fm/behindthebastards
+# Beholder to No One
+https://feed.podbean.com/beholdertonoone/feed.xml
 # Believe Her
 https://www.omnycontent.com/d/playlist/796469f9-ea34-46a2-8776-ad0f015d6beb/ffa1138e-0666-4787-bf08-adb4014e6cad/f1b8e1da-6f01-426f-a4e4-adb4015084a5/podcast.rss
 # Believed
@@ -88,10 +90,14 @@ https://feeds.megaphone.fm/ERM1095342797
 
 # Casefile True Crime
 https://audioboom.com/channels/4940872.rss
+# Cast Party: A Dungeons and Dragons Podcast
+https://feeds.megaphone.fm/NSR5910490795
 # CATtales
 https://audioboom.com/channels/4867717.rss
 # Cautionary Tales With Tim Harford
 https://omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/C0AE8C6E-22F0-4E9B-AC1C-AE390037AC53/7F5A4714-6B10-4CCF-A424-AE390037AC70/podcast.rss
+# Chaotic Creations
+https://feed.podbean.com/chaoticpod/feed.xml
 # Christopher Kimball's Milk Street Radio
 https://feeds.acast.com/public/shows/4920ba31-408c-416d-8544-38ddd0ef17ad
 # The City
@@ -149,6 +155,8 @@ https://rss.art19.com/the-daily-stoic
 http://feeds.feedburner.com/dancarlin/history?format=xml
 # Dark Poutine: True Crime and Dark History
 https://www.omnycontent.com/d/playlist/fdc2ad13-d199-4e97-b2db-a59300cb6cc2/e03d4e1e-d40b-4706-82d2-a95f010d0639/4f01b694-96f6-408f-9d02-a95f010d064d/podcast.rss
+# Darker Days
+https://feed.podbean.com/podcast.darker-days.org/feed.xml
 # Darknet Diaries
 https://feeds.megaphone.fm/darknetdiaries
 # Dead Eyes
@@ -171,6 +179,8 @@ https://www.idlethumbs.net/feeds/designer-notes
 https://rss.art19.com/detective-trapp
 # Dev Game Club
 https://devgameclub.libsyn.com/rss
+# Of Dice and DMs
+https://feeds.soundcloud.com/users/soundcloud:users:543541722/sounds.rss
 # Dice Populi - A Tabletop Roleplaying Anthology Series
 https://feed.podbean.com/dicepopuli/feed.xml
 # Dice Shame
@@ -193,6 +203,8 @@ https://feeds.megaphone.fm/NSM7546490835
 https://downthesemeanstreetspodcast.libsyn.com/rss
 # Dr. Death
 https://rss.art19.com/dr-death
+# Dragons Duel
+https://feeds.captivate.fm/dragons-duel/
 # Drilled
 https://www.spreaker.com/show/5103163/episodes/feed
 # Dungeon Delve
@@ -242,6 +254,8 @@ http://airpodcast.com/category/gamedevsquest/feed/
 https://tgdrt.libsyn.com/rss
 # Gaming and BS RPG Podcast
 https://anchor.fm/s/1da1ab4/podcast/rss
+# The Gauntlet Podcast
+https://gauntletpodcast.libsyn.com/rss
 # The Genius Recipe Tapes
 https://feeds.simplecast.com/ujXpEaMF
 # Girl in Space
@@ -263,6 +277,10 @@ https://rss.art19.com/guru
 
 # H
 
+# Happy Jacks RPG Actual Plays
+http://www.happyjacks.org/feed/actualplay/
+# Hearty Dice Friends
+https://feeds.soundcloud.com/users/soundcloud:users:16244270/sounds.rss
 # Heavyweight
 http://feeds.megaphone.fm/heavyweight
 # Hello From the Magic Tavern
@@ -343,6 +361,8 @@ https://knifepointhorror.libsyn.com/rss
 https://feeds.megaphone.fm/HSW9972842155
 # Last Podcast on the Left
 https://feeds.megaphone.fm/glt8292019621
+# The Lazy RPG Podcast
+https://feed.podbean.com/slyflourish/feed.xml
 # The Left Right Game
 https://feeds.simplecast.com/wTHk7_y_
 # LISK: Long Island Serial Killer
@@ -362,12 +382,16 @@ https://ludology.libsyn.com/rss
 http://rss.acast.com/themagnusarchives
 # Maintenance Phase
 https://feeds.buzzsprout.com/1411126.rss
+# Making a Monster
+https://feeds.captivate.fm/makingamonster/
 # Making Sense with Sam Harris
 https://wakingup.libsyn.com/rss
 # Malevolent
 https://malevolent.libsyn.com/rss
 # Man in the Window: The Golden State Killer
 https://rss.art19.com/man-in-the-window
+# Mastering Dungeons
+http://misdirectedmark.com/category/podcasts/dwdd/feed/
 # The Monday American: American History Podcast
 https://themondayamerican.libsyn.com/rss
 # The Mental Illness Happy Hour
@@ -439,6 +463,8 @@ https://phenomenonpod.libsyn.com/rss
 https://philosophizethis.libsyn.com/rss/
 # Planet Money
 https://feeds.npr.org/510289/podcast.xml
+# Plot Points
+https://plotpoints.libsyn.com/rss
 # The Plot Thickens
 https://www.omnycontent.com/d/playlist/d83f52e4-2455-47f4-982e-ab790120b954/5a7a823c-9ff1-4b8f-b3e1-ab8a00fb5958/be877694-ac0f-4cff-9d46-ab8a00fbced8/podcast.rss
 # Pod Yourself a Gun
@@ -477,6 +503,8 @@ https://feeds.megaphone.fm/revisionisthistory
 https://revolutionspodcast.libsyn.com/rss
 # Riddle Me That! True Crime
 https://www.spreaker.com/login?redirect=https%3A%2F%2Fwww.spreaker.com%2Fcms%2Fshows%2F4630563%2Fdashboard%3Ffilter%3DNETWORK%26network%3D13229097
+# Rise of the Rulelords
+https://anchor.fm/s/5c713cc8/podcast/rss
 # RISK!
 https://feeds.simplecast.com/3gWG8IjT
 # Roguelike Radio
@@ -506,6 +534,8 @@ https://up.audio/rss/1044963177/feeds.megaphone.fm/EDGY1067420096
 https://feeds.megaphone.fm/CFP9686758960
 # The Shrink Next Door
 https://rss.art19.com/the-shrink-next-door
+# Sidekicks and Sidequests
+https://feeds.fireside.fm/sidekicksandsidequests/rss
 # The Skeptics' Guide to the Universe
 https://feed.theskepticsguide.org/feed/rss.aspx?feed=sgu
 # Slow Burn
@@ -516,6 +546,8 @@ https://feeds.simplecast.com/j5smh9eZ
 https://snap.feed.snapjudgment.org/
 # Snap Judgment Presents- Spooked
 https://feeds.spookedpodcast.org/
+# Sneak Attack!
+https://sneakattack.libsyn.com/rss
 # Sold in America
 https://www.omnycontent.com/d/playlist/aaea4e69-af51-495e-afc9-a9760146922b/e165cd7e-dffd-4266-89f1-aa3200e14be9/6f5eb083-1add-46db-a492-aa3200e14bed/podcast.rss
 # Something Was Wrong
@@ -579,6 +611,8 @@ https://feeds.npr.org/510333/podcast.xml
 https://feeds.simplecast.com/Llc7KL2K
 # Top of the Round
 https://topoftheround.libsyn.com/rss
+# The Travel Log: A Dungeons and Dragons Podcast
+https://anchor.fm/s/66ad0ab4/podcast/rss
 # True Crime All the Time
 https://rss.art19.com/true-crime-all-the-time
 # True Crime Garage
@@ -642,6 +676,8 @@ https://feed.podbean.com/wtyppod/feed.xml
 https://feeds.simplecast.com/NMNuUazR
 # What'sHerName
 https://feeds.megaphone.fm/NSR7999761010
+# What Would the Smart Party Do?
+https://anchor.fm/s/d8f41e50/podcast/rss
 # The White Vault
 https://feeds.acast.com/public/shows/ff85aaca-80bc-4206-8c0d-cb45bcb4e332
 # Who Killed Bob?
