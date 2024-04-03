@@ -65,6 +65,10 @@ https://feeds.npr.org/510326/podcast.xml
 http://feeds.feedburner.com/bite-podcast
 # Blowback
 https://feeds.redcircle.com/e30b9f10-8c86-432e-9fa0-ba287fb94e7f
+# Boards and Swords
+http://feeds.feedburner.com/BoardsandSwords
+# The Board Game Design Lab
+https://boardgamedesignlab.com/feed/podcast
 # Book of Lies
 https://www.spreaker.com/show/4216099/episodes/feed
 # Borderland Crimes
@@ -75,6 +79,8 @@ https://feeds.megaphone.fm/thebrightsessions
 https://feeds.megaphone.fm/bringontheweird
 # Broken Harts
 https://feeds.megaphone.fm/HSW2732644812
+# Building the Game
+https://www.buildingthegamepodcast.com/feed/podcast/
 # Buried Bones
 https://feeds.megaphone.fm/ERM1095342797
 
@@ -159,12 +165,18 @@ https://anchor.fm/s/2fe43930/podcast/rss
 https://anchor.fm/s/f573dd4/podcast/rss
 # Derry Public Radio
 https://feeds.soundcloud.com/users/soundcloud:users:423846832/sounds.rss
+# Designer Notes
+https://www.idlethumbs.net/feeds/designer-notes
 # Detective Trapp
 https://rss.art19.com/detective-trapp
+# Dev Game Club
+https://devgameclub.libsyn.com/rss
 # Dice Populi - A Tabletop Roleplaying Anthology Series
 https://feed.podbean.com/dicepopuli/feed.xml
 # Dice Shame
 https://diceshame.libsyn.com/DiceShame
+# The Dice Tower
+https://dicetower.libsyn.com/rss
 # The Dimension Door Podcast
 https://pinecast.com/feed/dimension-door-podcast
 # Dirty John
@@ -183,6 +195,8 @@ https://downthesemeanstreetspodcast.libsyn.com/rss
 https://rss.art19.com/dr-death
 # Drilled
 https://www.spreaker.com/show/5103163/episodes/feed
+# Dungeon Delve
+https://feeds.transistor.fm/dungeon-delve
 # Dungeons and Daddies
 https://feeds.acast.com/public/shows/46e42ca7-4921-5f04-a297-1970e72fd86d
 
@@ -192,6 +206,8 @@ https://feeds.acast.com/public/shows/46e42ca7-4921-5f04-a297-1970e72fd86d
 https://feeds.feedburner.com/earhustlesq
 # The Edge of Sleep
 https://feeds.megaphone.fm/QCD1489535626
+# Eggplant: The Secret Lives of Games
+https://thespelunkyshowlike.libsyn.com/rss
 # ExploreAStory
 https://exploreastory.com/rss
 
@@ -220,6 +236,12 @@ https://rss.art19.com/frigay-the-13th-horror-podcast
 
 # G
 
+# Game Dev's Quest
+http://airpodcast.com/category/gamedevsquest/feed/
+# The Game Design Round Table
+https://tgdrt.libsyn.com/rss
+# Gaming and BS RPG Podcast
+https://anchor.fm/s/1da1ab4/podcast/rss
 # The Genius Recipe Tapes
 https://feeds.simplecast.com/ujXpEaMF
 # Girl in Space
@@ -234,6 +256,8 @@ https://feeds.megaphone.fm/TPG7691102500
 https://thegreatalbums.libsyn.com/rss
 # Grief Burrito Gaming Podcast
 https://feed.podbean.com/griefburrito/feed.xml
+# Grogpod Roguelike Podcast
+https://grogpod.zone/feed.xml
 # Guru: The Dark Side of Enlightenment
 https://rss.art19.com/guru
 
@@ -329,6 +353,8 @@ https://omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/10CAB470
 https://anchor.fm/s/e019c874/podcast/rss
 # Lore
 https://feeds.megaphone.fm/lore
+# Ludology
+https://ludology.libsyn.com/rss
 
 # M
 
@@ -373,6 +399,8 @@ https://rss.art19.com/myths-and-legends
 
 # Nakedly Examined Music
 https://nakedlyexaminedmusic.com/feed/podcast/
+# Nerdlab Games Podcast
+https://nerdlab-games.com/feed/podcast/
 # No Life Skills
 https://feeds.buzzsprout.com/1600156.rss
 # No Such Thing as a Fish
@@ -466,6 +494,8 @@ https://feeds.simplecast.com/y1LF_sn2
 https://feeds.buzzsprout.com/937816.rss
 # Science Vs.
 https://feeds.megaphone.fm/sciencevs
+# The Secret Cabal Gaming Podcast
+http://cdn.thesecretcabal.com/scpodcast.xml
 # Self-Hosted
 https://feeds.fireside.fm/selfhosted/rss
 # Serial
@@ -496,6 +526,8 @@ http://feed.songexploder.net/SongExploder
 https://www.omnycontent.com/d/playlist/bad5d079-8dcb-4630-8770-aa090049131d/32b2ac38-5a48-4300-9fa6-aa40002038b5/4ac1c451-4315-4096-ab9b-aa40002038c4/podcast.rss
 # Special Sauce With Ed Levine
 https://feed.thespecialsaucepodcast.com/
+# Spellburn
+https://spellburn.net/feed/
 # The Splendid Table
 https://feeds.publicradio.org/public_feeds/the-splendid-table/itunes/rss.rss
 # Spooked!
@@ -518,6 +550,8 @@ https://feeds.megaphone.fm/stuffyoushouldknow
 https://anchor.fm/s/19429938/podcast/rss
 # Swindled
 https://feeds.megaphone.fm/ADL8288293115
+# System Mastery
+https://systemmasterypodcast.com/feed/
 
 # T
 
@@ -531,6 +565,8 @@ https://rss.art19.com/ten-percent-happier
 https://feeds.publicradio.org/public_feeds/terrible-thanks-for-asking/itunes/rss
 # There Might Be Cupcakes
 https://www.spreaker.com/show/4761852/episodes/feed
+# Think Like a Game Designer
+https://api.substack.com/feed/podcast/1945614/s/82824.rss
 # This American Life
 http://feed.thisamericanlife.org/talpodcast
 # This Past Weekend with Theo Von
@@ -587,6 +623,8 @@ https://feeds.megaphone.fm/adv7825946717
 https://victoriocity.libsyn.com/rss
 # The Video Archives Podcast With Quentin Tarantino and Roger Avary
 https://feeds.simplecast.com/hQ1_tt0K
+# The Vintage RPG Podcast
+https://feeds.libsyn.com/125567/rss
 
 # W
 
