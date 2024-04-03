@@ -23,6 +23,8 @@ https://feeds.simplecast.com/BqbsxVfO
 https://rss.art19.com/accused
 # The Adventure Zone
 https://feeds.simplecast.com/cYQVc__c
+# The Adventuring Party
+https://theadventuringparty.libsyn.com/rss
 # Alba Salix, Royal Physician
 https://feeds.megaphone.fm/albasalix
 # Alice Isn't Dead
@@ -55,6 +57,8 @@ https://feeds.buzzsprout.com/1707028.rss
 https://feeds.simplecast.com/35fgFP9F
 # Bad Bad Thing
 https://www.podcastone.com/podcast?categoryid2=2208
+# Ballad of the Seven Dice
+https://feed.podbean.com/balladofthesevendice/feed.xml
 # Bardstown
 https://feeds.megaphone.fm/bardstown
 # Bear Brook
@@ -102,10 +106,14 @@ https://feeds.megaphone.fm/NSR5910490795
 https://audioboom.com/channels/4867717.rss
 # Cautionary Tales With Tim Harford
 https://omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/C0AE8C6E-22F0-4E9B-AC1C-AE390037AC53/7F5A4714-6B10-4CCF-A424-AE390037AC70/podcast.rss
+# Celtic Myths and Legends Podcast
+https://celticmythspodcast.libsyn.com/rss
 # Chaotic Creations
 https://feed.podbean.com/chaoticpod/feed.xml
 # Cheaper by the Dungeon
 https://feeds.castos.com/51ko7
+# Chinese Mythology Podcast
+https://feeds.soundcloud.com/users/soundcloud:users:360602597/sounds.rss
 # Christopher Kimball's Milk Street Radio
 https://feeds.acast.com/public/shows/4920ba31-408c-416d-8544-38ddd0ef17ad
 # The City
@@ -169,8 +177,12 @@ https://www.omnycontent.com/d/playlist/fdc2ad13-d199-4e97-b2db-a59300cb6cc2/e03d
 https://feed.podbean.com/podcast.darker-days.org/feed.xml
 # Darknet Diaries
 https://feeds.megaphone.fm/darknetdiaries
+# DCCRPG AP - The Iron Tavern
+http://feeds.feedburner.com/IronTavernPodcastDCCAp
 # Dead Eyes
 https://www.omnycontent.com/d/playlist/77bedd50-a734-42aa-9c08-ad86013ca0f9/2d19c94e-5da0-4ea5-95b1-ad8d012c3386/3c109dc9-8fa7-4ea7-b84b-ad8d012c3390/podcast.rss
+# Dead Games Society
+https://dgsociety.libsyn.com/rss
 # Dead Meat Podcast
 https://feeds.megaphone.fm/deadmeat
 # Death by Dying
@@ -189,7 +201,7 @@ https://www.idlethumbs.net/feeds/designer-notes
 https://rss.art19.com/detective-trapp
 # Dev Game Club
 https://devgameclub.libsyn.com/rss
-# Of Dice and DMs
+# Of Dice & DMs
 https://feeds.soundcloud.com/users/soundcloud:users:543541722/sounds.rss
 # Dice Populi - A Tabletop Roleplaying Anthology Series
 https://feed.podbean.com/dicepopuli/feed.xml
@@ -239,20 +251,30 @@ https://exploreastory.com/rss
 https://feeds.soundcloud.com/users/soundcloud:users:572119410/sounds.rss
 # Fantasy Friendship
 https://anchor.fm/s/2e099fec/podcast/rss
+# Fear of a Black Dragon
+https://foabd.libsyn.com/rss
 # The Film Reroll
 http://www.filmreroll.com/?feed=podcast
+# Fine Blueprint
+https://feeds.buzzsprout.com/1249355.rss
+# The Folklore Podcast
+https://feeds.blubrry.com/feeds/thefolklorepodcast.xml
 # The Food Chain
 https://podcasts.files.bbci.co.uk/p028z2z0.rss
 # The Food Programme
 https://podcasts.files.bbci.co.uk/b006qnx3.rss
 # Food With Mark Bittman
 https://feeds.acast.com/public/shows/6216896fd584d100134d4d24
+# Forging Farrir
+https://wizardonthewynd.libsyn.com/rss
 # Fox Hunter
 https://feeds.megaphone.fm/foxhunter
 # Freakonomics Radio
 https://feeds.simplecast.com/Y8lFbOT4
 # Fresh Air
 https://feeds.npr.org/381444908/podcast.xml
+# Friends at the Table
+https://friendsatthetable.libsyn.com/rss
 # FriGay the 13th
 https://rss.art19.com/frigay-the-13th-horror-podcast
 
@@ -262,6 +284,10 @@ https://rss.art19.com/frigay-the-13th-horror-podcast
 http://airpodcast.com/category/gamedevsquest/feed/
 # The Game Design Round Table
 https://tgdrt.libsyn.com/rss
+# Game Wisdom
+https://game-wisdom.com/feed/podcast
+# Games We Never Play
+https://www.gamesweneverplay.com/podcast?format=rss
 # Gaming and BS RPG Podcast
 https://anchor.fm/s/1da1ab4/podcast/rss
 # The Gauntlet Podcast
@@ -309,6 +335,8 @@ https://feed.podbean.com/hopwag/feed.xml
 https://historyofrome.libsyn.com/rss
 # Home Cooking
 http://feeds.feedburner.com/homecookingshow
+# Hook and Chance
+https://hookandchance.com/episodes?format=rss
 # Hope in Darkness: The Josh Holt Story
 https://rss.art19.com/hope-in-darkness
 # How Did This Get Made?
@@ -381,6 +409,8 @@ https://feed.podbean.com/slyflourish/feed.xml
 https://feeds.simplecast.com/wTHk7_y_
 # LISK: Long Island Serial Killer
 https://feeds.megaphone.fm/glss6562856790
+# Literate Gamer
+https://media.zencast.fm/literate-gamer/rss
 # Lolita Podcast
 https://omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/10CAB470-3B61-45A6-9C6C-AE2D0142AB09/3D8F2E05-156F-49D8-BBE0-AE2D0142AB20/podcast.rss
 # Looking for the Todt Family
@@ -410,6 +440,8 @@ http://misdirectedmark.com/category/podcasts/dwdd/feed/
 https://themondayamerican.libsyn.com/rss
 # The Mental Illness Happy Hour
 http://mentalpod.libsyn.com/rss
+# Midnight Burger
+https://feeds.megaphone.fm/midnightburger
 # MonsterTalk
 https://feeds.megaphone.fm/monstertalk
 # The Moth
@@ -430,6 +462,8 @@ https://feeds.simplecast.com/dI7UJjtl
 https://feeds.megaphone.fm/CAD2765173836
 # Mystery Show
 https://feeds.megaphone.fm/mysteryshow
+# Mythunderstood
+https://mythunderstood.libsyn.com/rss
 # Myths and Legends
 https://rss.art19.com/myths-and-legends
 
@@ -445,6 +479,10 @@ https://feeds.buzzsprout.com/1600156.rss
 https://audioboom.com/channels/2399216.rss
 # Nooks and Crannies
 https://feed.podbean.com/nooksandcrannies/feed.xml
+# Nordic Mythology Podcast
+https://feeds.buzzsprout.com/666307.rss
+# Northern Myths Podcast
+https://feed.podbean.com/www.northernmyths.com/feed.xml
 
 # O
 
@@ -471,6 +509,8 @@ https://oz9podcast.libsyn.com/rss
 
 # Paper Ghosts
 https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/fb8d36cf-b165-4399-b277-ae2701747cf3/664846e2-642c-49b7-82d8-ae2701747d14/podcast.rss
+# Paper Worlds
+https://feeds.acast.com/public/shows/5cb4cbd4fe324a2e6bebb539
 # The Phenomenon
 https://phenomenonpod.libsyn.com/rss
 # Philosophize This!
@@ -483,6 +523,8 @@ https://plotpoints.libsyn.com/rss
 https://www.omnycontent.com/d/playlist/d83f52e4-2455-47f4-982e-ab790120b954/5a7a823c-9ff1-4b8f-b3e1-ab8a00fb5958/be877694-ac0f-4cff-9d46-ab8a00fbced8/podcast.rss
 # Pod Yourself a Gun
 https://podyourselfagun.blubrry.net/feed/podcast/
+# The Polyhedron Collider Podcast
+https://polyhedroncollider.libsyn.com/rss
 # Post Mortem With Mick Garris
 https://rss.art19.com/post-mortem-with-mick-garris
 # Premodernist
@@ -523,6 +565,8 @@ https://anchor.fm/s/5c713cc8/podcast/rss
 https://feeds.simplecast.com/3gWG8IjT
 # Roguelike Radio
 http://feeds.feedburner.com/RoguelikeRadio
+# The Roleplaying Exchange
+https://roleplayingexchange.com/feed/podcast/
 # Rolling Dice & Taking Names
 https://rolldicetakenames.com/feed/podcast
 # Root of Evil: The True Story of the Hodel Family and the Black Dahlia
@@ -533,9 +577,15 @@ https://rss.art19.com/eli-roths-history-of-horror-uncut
 https://feed.podbean.com/genesisoflegend/feed.xml
 # RPG Heroes
 https://feeds.buzzsprout.com/774893.rss
+# The RPG Show
+https://therpgshow.com/blog?format=rss
 
 # S
 
+# Save for Half 
+https://saveforhalf.com/feed/podcast/
+# The Save or Die Podcast
+http://feeds.feedburner.com/TheSaveOrDiePodcast
 # Sawbones
 https://feeds.simplecast.com/y1LF_sn2
 # The Science of Birds
@@ -556,6 +606,8 @@ https://feeds.megaphone.fm/CFP9686758960
 https://rss.art19.com/the-shrink-next-door
 # Sidekicks and Sidequests
 https://feeds.fireside.fm/sidekicksandsidequests/rss
+# Singing Bones
+http://singingbonespodcast.com/podcast?format=rss
 # The Skeptics' Guide to the Universe
 https://feed.theskepticsguide.org/feed/rss.aspx?feed=sgu
 # Slow Burn
@@ -621,6 +673,8 @@ https://feeds.megaphone.fm/teencreeps
 https://rss.art19.com/ten-percent-happier
 # Terrible, Thanks for Asking
 https://feeds.publicradio.org/public_feeds/terrible-thanks-for-asking/itunes/rss
+# THACO's Hammer
+https://app.talkshoe.com/rss-thacos-hammer.xml
 # There Might Be Cupcakes
 https://www.spreaker.com/show/4761852/episodes/feed
 # Think Like a Game Designer
@@ -712,6 +766,8 @@ https://feeds.acast.com/public/shows/ff85aaca-80bc-4206-8c0d-cb45bcb4e332
 https://www.omnycontent.com/d/playlist/2fb3740d-3436-44af-8cc0-a91900716aa5/2af893a0-4993-40a5-8546-af8701637e0b/c587b2fb-bdca-4593-9db4-af8701637e27/podcast.rss
 # Who Killed Emma?
 https://podcasts.files.bbci.co.uk/p09bxhkf.rss
+# The Who? What? Why? Game Design Podcast
+https://ninjavspirates.libsyn.com/rss
 # Wind of Change
 https://feeds.megaphone.fm/wind-of-change-wide
 # The Wire Stripped
@@ -720,6 +776,10 @@ https://feeds.acast.com/public/shows/f1873bf2-6d8e-4785-8a63-0b28b1a9f640
 https://feeds.acast.com/public/shows/614e5b579de1aa0013021b6b
 # Wolves Among Us
 https://feeds.megaphone.fm/wolves-among-us
+# Worldbuilding for Masochists
+https://feed.podbean.com/worldbuildingformasochists/feed.xml
+# Writing Excuses
+https://feeds.redcircle.com/848724f4-c420-4a75-b4be-fa3db1e46546
 # Wrongful Conviction
 https://www.omnycontent.com/d/playlist/aaea4e69-af51-495e-afc9-a9760146922b/95311bc7-5f16-4a15-90ad-acbd0160120e/9678644f-7e58-4c56-b5a0-acbd01601226/podcast.rss
 # WTF with Marc Maron Podcast
@@ -734,6 +794,8 @@ https://feed.podbean.com/xpbillionaires/feed.xml
 
 # Year of Plenty
 https://feeds.buzzsprout.com/143116.rss
+# Yokai Mythology
+https://anchor.fm/s/27210e68/podcast/rss
 # You Made It Weird
 https://feeds.megaphone.fm/tpc5248074763
 # You Must Remember This
