@@ -154,6 +154,8 @@ https://feeds.simplecast.com/MTPwrbcY
 http://www.podcastone.com/podcast?categoryID2=1983
 # Cousins by Blood
 https://anchor.fm/s/40df8a14/podcast/rss
+# Creamed Corn and the Universe
+https://feed.podbean.com/creamedcornandtheuniverse/feed.xml
 # Crime Analyst
 https://audioboom.com/channels/5044584.rss
 # Crime Junkie
