@@ -205,6 +205,8 @@ https://www.idlethumbs.net/feeds/designer-notes
 https://rss.art19.com/detective-trapp
 # Dev Game Club
 https://devgameclub.libsyn.com/rss
+# Diane
+https://diane.libsyn.com/rss
 # Of Dice & DMs
 https://feeds.soundcloud.com/users/soundcloud:users:543541722/sounds.rss
 # Dice Populi - A Tabletop Roleplaying Anthology Series
@@ -318,6 +320,8 @@ https://feeds.megaphone.fm/TPG7691102500
 https://thegreatalbums.libsyn.com/rss
 # Grief Burrito Gaming Podcast
 https://feed.podbean.com/griefburrito/feed.xml
+# Grizzly Peaks
+https://anchor.fm/s/34549690/podcast/rss
 # The Grognard Files
 https://thegrognardfiles.com/category/podcast/feed/
 # Grogpod Roguelike Podcast
