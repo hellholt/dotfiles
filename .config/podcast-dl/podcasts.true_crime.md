@@ -70,3 +70,5 @@ https://feeds.megaphone.fm/foxhunter
 https://feeds.megaphone.fm/gone-south
 # Guru: The Dark Side of Enlightenment
 https://rss.art19.com/guru
+# Hunting Warhead
+https://www.spreaker.com/show/5922486/episodes/feed
