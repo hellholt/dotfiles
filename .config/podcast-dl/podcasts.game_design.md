@@ -18,3 +18,5 @@ https://tgdrt.libsyn.com/rss
 https://game-wisdom.com/feed/podcast
 # Games We Never Play
 https://www.gamesweneverplay.com/podcast?format=rss
+# Ludology
+https://ludology.libsyn.com/rss

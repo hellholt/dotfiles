@@ -8,3 +8,7 @@ https://audioboom.com/channels/4867717.rss
 https://feeds.megaphone.fm/dissectwide
 # The Great Albums
 https://thegreatalbums.libsyn.com/rss
+# I'm in Love With That Song
+https://feeds.megaphone.fm/lovethatsong
+# Infectious Groove
+https://www.spreaker.com/show/4661462/episodes/feed

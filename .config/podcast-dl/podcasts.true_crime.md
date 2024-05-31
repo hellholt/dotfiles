@@ -70,5 +70,19 @@ https://feeds.megaphone.fm/foxhunter
 https://feeds.megaphone.fm/gone-south
 # Guru: The Dark Side of Enlightenment
 https://rss.art19.com/guru
+# Hope in Darkness: The Josh Holt Story
+https://rss.art19.com/hope-in-darkness
 # Hunting Warhead
 https://www.spreaker.com/show/5922486/episodes/feed
+# The Idaho Massacre
+https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/7c2dc20b-580d-4663-a18b-ae2e01440392/a3f5ba46-d2b0-42a9-aafa-ae2e014403a0/podcast.rss
+# In the Land of Lies
+https://feeds.megaphone.fm/inthelandoflies
+# Killer Psyche
+https://rss.art19.com/killer-psyche
+# LISK: Long Island Serial Killer
+https://feeds.megaphone.fm/glss6562856790
+# Looking for the Todt Family
+https://anchor.fm/s/e019c874/podcast/rss
+# Man in the Window: The Golden State Killer
+https://rss.art19.com/man-in-the-window

@@ -14,3 +14,13 @@ https://feeds.megaphone.fm/NSM7546490835
 https://anchor.fm/s/2e099fec/podcast/rss
 # Fresh Air
 https://feeds.npr.org/381444908/podcast.xml
+# Heavyweight
+http://feeds.megaphone.fm/heavyweight
+# Imagined Life
+https://rss.art19.com/imagined-life
+# Important If True
+https://www.idlethumbs.net/feeds/importantiftrue
+# In Our Time
+https://podcasts.files.bbci.co.uk/b006qykl.rss
+# Invisibilia
+https://feeds.npr.org/510307/podcast.xml

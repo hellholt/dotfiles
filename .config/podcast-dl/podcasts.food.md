@@ -12,3 +12,5 @@ https://feeds.acast.com/public/shows/6216896fd584d100134d4d24
 https://feeds.simplecast.com/ujXpEaMF
 # Gravy
 https://feeds.megaphone.fm/TPG7691102500
+# Home Cooking
+http://feeds.feedburner.com/homecookingshow

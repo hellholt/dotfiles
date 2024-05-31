@@ -4,3 +4,7 @@ https://feeds.libsyn.com/91191/rss
 https://feed.podbean.com/griefburrito/feed.xml
 # Grogpod Roguelike Podcast
 https://grogpod.zone/feed.xml
+# Idle Thumbs
+http://www.idlethumbs.net/feeds/idle-thumbs
+# Literate Gamer
+https://media.zencast.fm/literate-gamer/rss

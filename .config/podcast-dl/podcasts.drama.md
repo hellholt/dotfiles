@@ -12,3 +12,11 @@ https://downthesemeanstreetspodcast.libsyn.com/rss
 https://feeds.megaphone.fm/QCD1489535626
 # Girl in Space
 https://girlinspace.libsyn.com/rss
+# King Falls AM
+https://audioboom.com/channels/4256036.rss
+# The Left Right Game
+https://feeds.simplecast.com/wTHk7_y_
+# The Magnus Archives
+http://rss.acast.com/themagnusarchives
+# Malevolent
+https://malevolent.libsyn.com/rss

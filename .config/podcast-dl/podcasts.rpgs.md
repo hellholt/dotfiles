@@ -64,3 +64,15 @@ https://thegrognardfiles.com/category/podcast/feed/
 http://www.happyjacks.org/feed/actualplay/
 # Hearty Dice Friends
 https://feeds.soundcloud.com/users/soundcloud:users:16244270/sounds.rss
+# Hello From the Magic Tavern
+https://rss.art19.com/hello-from-magic-tavern
+# Hook and Chance
+https://hookandchance.com/episodes?format=rss
+# Inter-Party Conflict
+https://feeds.soundcloud.com/users/soundcloud:users:277170853/sounds.rss
+# The Lazy RPG Podcast
+https://feed.podbean.com/slyflourish/feed.xml
+# Making a Monster
+https://feeds.captivate.fm/makingamonster/
+# Mastering Dungeons
+http://misdirectedmark.com/category/podcasts/dwdd/feed/

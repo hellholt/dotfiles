@@ -12,3 +12,9 @@ https://www.spreaker.com/show/5103163/episodes/feed
 https://exploreastory.com/rss
 # Freakonomics Radio
 https://feeds.simplecast.com/Y8lFbOT4
+# Hidden Brain
+https://feeds.simplecast.com/kwWc0lhf
+# The Infinite Monkey Cage
+https://podcasts.files.bbci.co.uk/b00snr0w.rss
+# The Joy of Why
+https://api.quantamagazine.org/feed/the-joy-of-why
