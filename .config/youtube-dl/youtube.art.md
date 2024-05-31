@@ -8,3 +8,5 @@ https://www.youtube.com/@thebradcolbow
 https://www.youtube.com/@BravetheWoods
 # James Julier Art Tutorials
 https://www.youtube.com/@JamesJulier-Artist
+# Tatyworks
+https://www.youtube.com/@Tatyworks

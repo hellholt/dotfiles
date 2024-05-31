@@ -8,3 +8,5 @@ https://www.youtube.com/@FarmCraft101
 https://www.youtube.com/@lastbesttool
 # Popular Woodworking
 https://www.youtube.com/@popularwoodworking
+# Wortheffort
+https://www.youtube.com/@wortheffort

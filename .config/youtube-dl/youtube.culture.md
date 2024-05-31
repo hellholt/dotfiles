@@ -28,3 +28,7 @@ https://www.youtube.com/@PopCultureDetective
 https://www.youtube.com/@renegadecut9875
 # Slightly Sociable
 https://www.youtube.com/@SlightlySociable
+# Thoughty2
+https://www.youtube.com/@Thoughty2
+# Wendigoon
+https://www.youtube.com/@Wendigoon

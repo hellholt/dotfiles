@@ -12,3 +12,9 @@ https://www.youtube.com/@rctestflight
 https://www.youtube.com/@RealLifeLore
 # Soft White Underbelly
 https://www.youtube.com/@SoftWhiteUnderbelly
+# Thunk
+https://www.youtube.com/@THUNKShow
+# Tomb of 3-D Printed Horrors
+https://www.youtube.com/c/Tombof3DPrintedHorrors
+# Yoga With Adriene
+https://www.youtube.com/@yogawithadriene

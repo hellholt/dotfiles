@@ -12,3 +12,5 @@ https://www.youtube.com/@KazRowe
 https://www.youtube.com/@premodernist_history
 # Sam O'Nella
 https://www.youtube.com/@SamONellaAcademy
+# Voices of the Past
+https://www.youtube.com/@VoicesofthePast

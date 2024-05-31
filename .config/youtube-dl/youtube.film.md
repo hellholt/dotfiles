@@ -46,3 +46,7 @@ https://www.youtube.com/@NowYouSeeIt
 https://www.youtube.com/@TheRoyalOceanFilmSociety
 # Storyograph
 https://www.youtube.com/@Storyograph
+# Thomas Flight
+https://www.youtube.com/@ThomasFlight
+# Topher Ames
+https://www.youtube.com/@FoolFantastic

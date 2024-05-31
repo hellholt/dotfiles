@@ -52,3 +52,11 @@ https://www.youtube.com/@Pulsiphergames
 https://www.youtube.com/@razbuten
 # Snoman Gaming
 https://www.youtube.com/@snomangaming
+# Video Game Animation Study
+https://www.youtube.com/@VideoGameAnimationStudy
+# Visual Novel Design
+https://www.youtube.com/@vimi
+# World of Game Design
+https://www.youtube.com/@WorldofGameDesign
+# Writing on Games
+https://www.youtube.com/@WritingOnGames
