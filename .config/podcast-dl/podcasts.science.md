@@ -18,3 +18,13 @@ https://feeds.simplecast.com/kwWc0lhf
 https://podcasts.files.bbci.co.uk/b00snr0w.rss
 # The Joy of Why
 https://api.quantamagazine.org/feed/the-joy-of-why
+# Ologies with Alie Ward
+https://feeds.simplecast.com/FO6kxYGj
+# Radiolab
+https://feeds.feedburner.com/radiolab
+# The Science of Birds
+https://feeds.buzzsprout.com/937816.rss
+# Science Vs.
+https://feeds.megaphone.fm/sciencevs
+# The Skeptics' Guide to the Universe
+https://feed.theskepticsguide.org/feed/rss.aspx?feed=sgu

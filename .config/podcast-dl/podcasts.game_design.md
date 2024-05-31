@@ -20,3 +20,8 @@ https://game-wisdom.com/feed/podcast
 https://www.gamesweneverplay.com/podcast?format=rss
 # Ludology
 https://ludology.libsyn.com/rss
+# Think Like a Game Designer
+https://api.substack.com/feed/podcast/1945614/s/82824.rss
+# The Who? What? Why? Game Design Podcast
+https://ninjavspirates.libsyn.com/rss
+

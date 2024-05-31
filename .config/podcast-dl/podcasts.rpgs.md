@@ -76,3 +76,55 @@ https://feed.podbean.com/slyflourish/feed.xml
 https://feeds.captivate.fm/makingamonster/
 # Mastering Dungeons
 http://misdirectedmark.com/category/podcasts/dwdd/feed/
+# Paper Worlds
+https://feeds.acast.com/public/shows/5cb4cbd4fe324a2e6bebb539
+# Plot Points
+https://plotpoints.libsyn.com/rss
+# The Polyhedron Collider Podcast
+https://polyhedroncollider.libsyn.com/rss
+# Rise of the Rulelords
+https://anchor.fm/s/5c713cc8/podcast/rss
+# The Roleplaying Exchange
+https://roleplayingexchange.com/feed/podcast/
+# Rolling Dice & Taking Names
+https://rolldicetakenames.com/feed/podcast
+# RPG Design Panelcast
+https://feed.podbean.com/genesisoflegend/feed.xml
+# RPG Heroes
+https://feeds.buzzsprout.com/774893.rss
+# The RPG Show
+https://therpgshow.com/blog?format=rss
+# Save for Half
+https://saveforhalf.com/feed/podcast/
+# The Save or Die Podcast
+http://feeds.feedburner.com/TheSaveOrDiePodcast
+# The Secret Cabal Gaming Podcast
+http://cdn.thesecretcabal.com/scpodcast.xml
+# Sidekicks and Sidequests
+https://feeds.fireside.fm/sidekicksandsidequests/rss
+# Sneak Attack!
+https://sneakattack.libsyn.com/rss
+# Spellburn
+https://spellburn.net/feed/
+# System Mastery
+https://systemmasterypodcast.com/feed/
+# Table Top Babble
+https://anchor.fm/s/e8a9a9f0/podcast/rss
+# Tabletop Game Talk
+https://tabletopgametalk.com/feed/podcast/?redirect=no
+# Tabletop Games Blog
+https://anchor.fm/s/6f3a52f4/podcast/rss
+# THACO's Hammer
+https://app.talkshoe.com/rss-thacos-hammer.xml
+# Thinking Critically: A D&D Discussion
+https://anchor.fm/s/39ff3aa0/podcast/rss
+# Top of the Round
+https://topoftheround.libsyn.com/rss
+# The Travel Log: A Dungeons and Dragons Podcast
+https://anchor.fm/s/66ad0ab4/podcast/rss
+# The Vintage RPG Podcast
+https://feeds.libsyn.com/125567/rss
+# What Would the Smart Party Do?
+https://anchor.fm/s/d8f41e50/podcast/rss
+# The XP Billionaires
+https://feed.podbean.com/xpbillionaires/feed.xml

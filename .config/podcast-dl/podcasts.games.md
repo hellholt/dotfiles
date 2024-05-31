@@ -8,3 +8,7 @@ https://grogpod.zone/feed.xml
 http://www.idlethumbs.net/feeds/idle-thumbs
 # Literate Gamer
 https://media.zencast.fm/literate-gamer/rss
+# Nerdlab Games Podcast
+https://nerdlab-games.com/feed/podcast/
+# Roguelike Radio
+http://feeds.feedburner.com/RoguelikeRadio

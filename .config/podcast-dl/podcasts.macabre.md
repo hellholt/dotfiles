@@ -10,3 +10,9 @@ https://goodlucksleeping.libsyn.com/rss
 https://feeds.megaphone.fm/glt8292019621
 # Lore
 https://feeds.megaphone.fm/lore
+# Post Mortem With Mick Garris
+https://rss.art19.com/post-mortem-with-mick-garris
+# Teen Creeps
+https://feeds.megaphone.fm/teencreeps
+# Timesuck With Dan Cummins
+https://feeds.simplecast.com/Llc7KL2K

@@ -14,3 +14,17 @@ https://feeds.simplecast.com/ujXpEaMF
 https://feeds.megaphone.fm/TPG7691102500
 # Home Cooking
 http://feeds.feedburner.com/homecookingshow
+# Recipe Club
+https://feeds.megaphone.fm/dave-chang-recipe-club
+# Special Sauce With Ed Levine
+https://feed.thespecialsaucepodcast.com/
+# The Splendid Table
+https://feeds.publicradio.org/public_feeds/the-splendid-table/itunes/rss.rss
+# The Sporkful
+https://feeds.simplecast.com/n91GPFY5
+# A Taste of the Past
+https://feeds.simplecast.com/D9RDEA3I
+# Unwasted Podcast
+https://feeds.buzzsprout.com/383413.rss
+# Year of Plenty
+https://feeds.buzzsprout.com/143116.rss

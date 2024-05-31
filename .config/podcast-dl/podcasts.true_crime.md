@@ -86,3 +86,73 @@ https://feeds.megaphone.fm/glss6562856790
 https://anchor.fm/s/e019c874/podcast/rss
 # Man in the Window: The Golden State Killer
 https://rss.art19.com/man-in-the-window
+# Murder in Miami
+https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/d8a056dd-3601-4d2d-8147-ae32006cd47a/4096435f-49d3-4b27-807b-ae32006cd49b/podcast.rss
+# Murder With My Husband
+https://feeds.megaphone.fm/HSW2364749129
+# My Favorite Murder
+https://feeds.simplecast.com/dI7UJjtl
+# My Fugitive
+https://feeds.megaphone.fm/CAD2765173836
+# The Order of Death
+https://theorderofdeath.libsyn.com/rss
+# Our True Crime Podcast
+https://www.spreaker.com/show/3647242/episodes/feed
+# Over My Dead Body
+https://rss.art19.com/over-my-dead-body
+# Paper Ghosts
+https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/fb8d36cf-b165-4399-b277-ae2701747cf3/664846e2-642c-49b7-82d8-ae2701747d14/podcast.rss
+# The Real Killer
+https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/c8c92d21-1a81-4bdd-80a8-ae2801492e32/96bd66f1-d7c4-4ee1-8fee-ae2801492e58/podcast.rss
+# Reverie True Crime
+https://www.spreaker.com/show/4442888/episodes/feed
+# Riddle Me That! True Crime
+https://www.spreaker.com/login?redirect=https%3A%2F%2Fwww.spreaker.com%2Fcms%2Fshows%2F4630563%2Fdashboard%3Ffilter%3DNETWORK%26network%3D13229097
+# Root of Evil: The True Story of the Hodel Family and the Black Dahlia
+https://www.omnycontent.com/d/playlist/d83f52e4-2455-47f4-982e-ab790120b954/746fc97b-db2e-4fef-919f-ab850163e13d/8264c1d0-8a91-4e78-827f-ab850163e14b/podcast.rss
+# Serial
+https://feeds.simplecast.com/xl36XBC2
+# Small Town Murder
+https://feeds.simplecast.com/j5smh9eZ
+# Sold in America
+https://www.omnycontent.com/d/playlist/aaea4e69-af51-495e-afc9-a9760146922b/e165cd7e-dffd-4266-89f1-aa3200e14be9/6f5eb083-1add-46db-a492-aa3200e14bed/podcast.rss
+# Something Was Wrong
+https://feeds.simplecast.com/FKx4CI_n
+# Stolen: The Search for Jermain
+https://feeds.megaphone.fm/stolen-jermain
+# Strangeland
+https://feeds.simplecast.com/Gg33ecoK
+# Suspect
+https://anchor.fm/s/19429938/podcast/rss
+# Swindled
+https://feeds.megaphone.fm/ADL8288293115
+# True Crime All the Time
+https://rss.art19.com/true-crime-all-the-time
+# True Crime Garage
+https://feeds.simplecast.com/zatU8XEL
+# True Sunlight
+https://feeds.megaphone.fm/BER9965516640
+# Undisclosed
+https://audioboom.com/channels/3709182.rss
+# Unfinished
+https://www.omnycontent.com/d/playlist/aaea4e69-af51-495e-afc9-a9760146922b/cf211900-ef7b-4b40-8c88-ab7b013b52cb/45a27844-ef72-40f7-82c4-ab7b013b710c/podcast.rss
+# Unraveled
+https://feeds.acast.com/public/shows/5ea17537-f11f-4532-8202-294d976b9d5c
+# Unsolved Mysteries
+https://feeds.megaphone.fm/unsolved-mysteries
+# Up and Vanished
+https://feeds.megaphone.fm/up-and-vanished
+# The Vanished Podcast
+https://rss.art19.com/the-vanished-podcast-wondery
+# Verified
+https://feeds.megaphone.fm/adv7825946717
+# Who Killed Bob?
+https://www.omnycontent.com/d/playlist/2fb3740d-3436-44af-8cc0-a91900716aa5/2af893a0-4993-40a5-8546-af8701637e0b/c587b2fb-bdca-4593-9db4-af8701637e27/podcast.rss
+# Who Killed Emma?
+https://podcasts.files.bbci.co.uk/p09bxhkf.rss
+# Wolves Among Us
+https://feeds.megaphone.fm/wolves-among-us
+# Wrongful Conviction
+https://www.omnycontent.com/d/playlist/aaea4e69-af51-495e-afc9-a9760146922b/95311bc7-5f16-4a15-90ad-acbd0160120e/9678644f-7e58-4c56-b5a0-acbd01601226/podcast.rss
+# Your Own Backyard
+https://yourownbackyard.libsyn.com/rss

@@ -10,3 +10,7 @@ https://feed.podbean.com/creamedcornandtheuniverse/feed.xml
 https://diane.libsyn.com/rss
 # Ghostwood
 https://ghostwood.libsyn.com/rss
+# Twin Peaks Rewatch
+https://www.idlethumbs.net/feeds/twinpeaks
+# Twin Peaks Unwrapped
+https://twinpeaksunwrapped.podbean.com/feed.xml

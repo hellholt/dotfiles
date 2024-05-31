@@ -20,3 +20,25 @@ https://feeds.buzzsprout.com/1663594.rss
 https://feed.podbean.com/historycachepodcast/feed.xml
 # The History of Rome
 https://historyofrome.libsyn.com/rss
+# The Monday American: American History Podcast
+https://themondayamerican.libsyn.com/rss
+# One Year
+https://feeds.megaphone.fm/SLT7210881615
+# Our Fake History
+https://www.podcastone.com/podcast?categoryID2=2142
+# The Rest Is History
+https://feeds.acast.com/public/shows/031c2dcb-c66c-42b5-819e-2452031fe4f9
+# Revisionist History
+https://feeds.megaphone.fm/revisionisthistory
+# Revolutions
+https://revolutionspodcast.libsyn.com/rss
+# Slow Burn
+http://feeds.megaphone.fm/watergate
+# Throughline
+https://feeds.npr.org/510333/podcast.xml
+# What'sHerName
+https://feeds.megaphone.fm/NSR7999761010
+# Wind of Change
+https://feeds.megaphone.fm/wind-of-change-wide
+# You're Dead To Me
+https://podcasts.files.bbci.co.uk/p07mdbhg.rss
