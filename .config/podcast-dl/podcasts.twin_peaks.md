@@ -6,3 +6,7 @@ https://feed.podbean.com/www.thebickspod.com/feed.xml
 https://feeds.transistor.fm/blue-rose-task-force-a-twin-peaks-obsessive-podcast
 # Creamed Corn and the Universe
 https://feed.podbean.com/creamedcornandtheuniverse/feed.xml
+# Diane
+https://diane.libsyn.com/rss
+# Ghostwood
+https://ghostwood.libsyn.com/rss
