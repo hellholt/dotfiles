@@ -1,0 +1,30 @@
+# Atrocity Guide
+https://www.youtube.com/@AtrocityGuide
+# Barely Sociable
+https://www.youtube.com/@BarelySociable
+# Broey Deschanel
+https://www.youtube.com/@BroeyDeschanel
+# Casually Explained
+https://www.youtube.com/@CasuallyExplained
+# ContraPoints
+https://www.youtube.com/@ContraPoints
+# Folding Ideas
+https://www.youtube.com/@FoldingIdeas
+# Fredrik Knudsen
+https://www.youtube.com/@FredrikKnudsen
+# Hbomberguy
+https://www.youtube.com/@hbomberguy
+# Innuendo Studios
+https://www.youtube.com/@InnuendoStudios
+# Kyle Kallgren
+https://www.youtube.com/@KyleKallgrenBHH
+# Maggie Mae Fish
+https://www.youtube.com/@MaggieMaeFish
+# Oliver Lugg
+https://www.youtube.com/@OliverLugg
+# Pop Culture Detective
+https://www.youtube.com/@PopCultureDetective
+# Renegade Cut
+https://www.youtube.com/@renegadecut9875
+# Slightly Sociable
+https://www.youtube.com/@SlightlySociable

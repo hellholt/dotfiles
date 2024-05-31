@@ -76,6 +76,8 @@ https://rss.art19.com/hope-in-darkness
 https://www.spreaker.com/show/5922486/episodes/feed
 # The Idaho Massacre
 https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/7c2dc20b-580d-4663-a18b-ae2e01440392/a3f5ba46-d2b0-42a9-aafa-ae2e014403a0/podcast.rss
+# In the Dark
+https://publicfeeds.net/f/5770/in-the-dark
 # In the Land of Lies
 https://feeds.megaphone.fm/inthelandoflies
 # Killer Psyche
