@@ -10,8 +10,12 @@ https://feeds.megaphone.fm/END5064265457
 http://feeds.feedburner.com/deathsexmoney
 # Decent Takes
 https://anchor.fm/s/2fe43930/podcast/rss
+# Desert Oracle
+https://www.omnycontent.com/d/playlist/33bd51d8-cd0c-4607-84d5-af0901305df5/d53a0c5a-2f7f-4b69-8f9d-af090132fd33/be70cec1-18b9-4f9a-8092-af090132fd41/podcast.rss
 # The Dork Forest
 https://feeds.megaphone.fm/NSM7546490835
+# Everything Is Alive
+http://feeds.everythingisalive.com/everythingisalive
 # Fantasy Friendship
 https://anchor.fm/s/2e099fec/podcast/rss
 # Fresh Air
@@ -58,6 +62,8 @@ https://podcasts.files.bbci.co.uk/m0011cpr.rss
 http://feed.thisamericanlife.org/talpodcast
 # This Past Weekend with Theo Von
 https://feeds.megaphone.fm/thispastweekend
+# The Trojan Horse Affair
+https://feeds.simplecast.com/B9KgArY4
 # You Made It Weird
 https://feeds.megaphone.fm/tpc5248074763
 # You're Wrong About

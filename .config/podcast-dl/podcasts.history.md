@@ -14,6 +14,8 @@ https://anchor.fm/s/f573dd4/podcast/rss
 https://www.omnycontent.com/d/playlist/885ace83-027a-47ad-ad67-aca7002f1df8/22b063ac-654d-428f-bd69-ae2400349cde/65ff0206-b585-4e2a-9872-ae240034c9c9/podcast.rss
 # Fall of Civilizations
 https://feeds.soundcloud.com/users/soundcloud:users:572119410/sounds.rss
+# Historically High
+https://feeds.buzzsprout.com/1975766.rss
 # Historium
 https://feeds.buzzsprout.com/1663594.rss
 # The History Cache

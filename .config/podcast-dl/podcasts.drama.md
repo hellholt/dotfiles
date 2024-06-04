@@ -4,6 +4,8 @@ https://feeds.megaphone.fm/albasalix
 http://feeds.nightvalepresents.com/aliceisntdeadpodcast
 # The Bright Sessions
 https://feeds.megaphone.fm/thebrightsessions
+# Celeritas
+https://feeds.megaphone.fm/SBP2001311146
 # Death by Dying
 https://feeds.megaphone.fm/deathbydying
 # Down These Mean Streets (Old Time Radio Detectives)

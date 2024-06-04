@@ -104,6 +104,8 @@ https://www.spreaker.com/show/3647242/episodes/feed
 https://rss.art19.com/over-my-dead-body
 # Paper Ghosts
 https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/fb8d36cf-b165-4399-b277-ae2701747cf3/664846e2-642c-49b7-82d8-ae2701747d14/podcast.rss
+# Queen of the Con
+https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/56fdafe4-fb54-425f-90f3-ae2d0142ad44/377ed552-7b8a-4681-b3af-ae2d0142ad61/podcast.rss
 # The Real Killer
 https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/c8c92d21-1a81-4bdd-80a8-ae2801492e32/96bd66f1-d7c4-4ee1-8fee-ae2801492e58/podcast.rss
 # Reverie True Crime
@@ -112,6 +114,8 @@ https://www.spreaker.com/show/4442888/episodes/feed
 https://www.spreaker.com/login?redirect=https%3A%2F%2Fwww.spreaker.com%2Fcms%2Fshows%2F4630563%2Fdashboard%3Ffilter%3DNETWORK%26network%3D13229097
 # Root of Evil: The True Story of the Hodel Family and the Black Dahlia
 https://www.omnycontent.com/d/playlist/d83f52e4-2455-47f4-982e-ab790120b954/746fc97b-db2e-4fef-919f-ab850163e13d/8264c1d0-8a91-4e78-827f-ab850163e14b/podcast.rss
+# Scamanda
+https://feeds.megaphone.fm/scamanda
 # Serial
 https://feeds.simplecast.com/xl36XBC2
 # Small Town Murder
