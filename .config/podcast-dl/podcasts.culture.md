@@ -60,6 +60,8 @@ https://www.spreaker.com/show/4761852/episodes/feed
 https://podcasts.files.bbci.co.uk/m0011cpr.rss
 # This American Life
 http://feed.thisamericanlife.org/talpodcast
+# This American Life Archive
+http://tal.ankar.io/
 # This Past Weekend with Theo Von
 https://feeds.megaphone.fm/thispastweekend
 # The Trojan Horse Affair
