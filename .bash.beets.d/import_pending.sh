@@ -13,4 +13,9 @@ bim() {
   beets_import_pending "${@}";
 }
 
+bip() {
+  beets_import_pending "${@}";
+}
+
 export -f bim;
+export -f bip;

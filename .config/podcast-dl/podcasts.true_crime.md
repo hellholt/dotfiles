@@ -2,6 +2,8 @@
 https://www.omnycontent.com/d/playlist/820f09cf-2ace-4180-a92d-aa4c0008f5fb/3f7ab18c-1ed3-4a4c-a62b-aa760005453a/9e4e538f-e9d1-4ad8-bb9e-aa760005454d/podcast.rss
 # Accused
 https://rss.art19.com/accused
+# American Radical
+https://podcastfeeds.nbcnews.com/4ezcaoc8
 # Anatomy of Murder
 https://feeds.simplecast.com/GdzgJRQH
 # Bad Bad Thing
@@ -14,10 +16,16 @@ https://bearbrook.feed.nhpr.org/
 https://www.omnycontent.com/d/playlist/796469f9-ea34-46a2-8776-ad0f015d6beb/ffa1138e-0666-4787-bf08-adb4014e6cad/f1b8e1da-6f01-426f-a4e4-adb4015084a5/podcast.rss
 # Believed
 https://feeds.npr.org/510326/podcast.xml
+# Beyond All Repair
+https://rss.wbur.org/violation/podcast
+# Black Hands - A Family Mass Murder
+https://www.omnycontent.com/d/playlist/67518c6e-6d4e-4cde-83f2-aa8c00461d05/1a1784c1-d005-4d8a-aae1-ae97003bef75/faedc90f-8838-47d1-a25b-ae97003bef83/podcast.rss
 # Book of Lies
 https://www.spreaker.com/show/4216099/episodes/feed
 # Borderland Crimes
 https://feed.podbean.com/borderlandcrimes/feed.xml
+# Boys Like Me
+https://www.cbc.ca/podcasting/includes/boyslikeme.xml
 # Casefile True Crime
 https://audioboom.com/channels/4940872.rss
 # Bring on the Weird
