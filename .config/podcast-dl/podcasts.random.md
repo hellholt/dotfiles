@@ -18,7 +18,7 @@ https://authenticsex.libsyn.com/rss
 https://www.omnycontent.com/d/playlist/77bedd50-a734-42aa-9c08-ad86013ca0f9/2d19c94e-5da0-4ea5-95b1-ad8d012c3386/3c109dc9-8fa7-4ea7-b84b-ad8d012c3390/podcast.rss
 # Ear Hustle
 https://feeds.feedburner.com/earhustlesq
-# Eaten by a Grue: Infocom, Text Adventures, and Interactive Fiction
-https://feeds.libsyn.com/91191/rss
-# Grogpod Roguelike Podcast
-https://grogpod.zone/feed.xml
+# Futility Closet
+https://futilitycloset.libsyn.com/rss
+# Lateral
+https://feeds.megaphone.fm/lateralcast
