@@ -20,6 +20,8 @@ https://www.youtube.com/@InnuendoStudios
 https://www.youtube.com/@KyleKallgrenBHH
 # Maggie Mae Fish
 https://www.youtube.com/@MaggieMaeFish
+# The Morbid Zoo
+https://www.youtube.com/@themorbidzoo
 # Oliver Lugg
 https://www.youtube.com/@OliverLugg
 # Pop Culture Detective
