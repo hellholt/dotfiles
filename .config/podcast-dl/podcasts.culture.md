@@ -14,6 +14,8 @@ https://anchor.fm/s/2fe43930/podcast/rss
 https://www.omnycontent.com/d/playlist/33bd51d8-cd0c-4607-84d5-af0901305df5/d53a0c5a-2f7f-4b69-8f9d-af090132fd33/be70cec1-18b9-4f9a-8092-af090132fd41/podcast.rss
 # The Dork Forest
 https://feeds.megaphone.fm/NSM7546490835
+# Downlowd: The Rise and Fall of Harry Knowles and Ain't It Cool News
+https://anchor.fm/s/69a00a00/podcast/rss
 # Everything Is Alive
 http://feeds.everythingisalive.com/everythingisalive
 # Fantasy Friendship

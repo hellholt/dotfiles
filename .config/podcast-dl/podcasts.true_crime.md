@@ -64,8 +64,6 @@ https://feeds.simplecast.com/MTPwrbcY
 https://anchor.fm/s/40df8a14/podcast/rss
 # Dark Poutine: True Crime and Dark History
 https://www.omnycontent.com/d/playlist/fdc2ad13-d199-4e97-b2db-a59300cb6cc2/e03d4e1e-d40b-4706-82d2-a95f010d0639/4f01b694-96f6-408f-9d02-a95f010d064d/podcast.rss
-# Darknet Diaries
-https://feeds.megaphone.fm/darknetdiaries
 # Detective Trapp
 https://rss.art19.com/detective-trapp
 # Dirty John
