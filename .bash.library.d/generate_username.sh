@@ -7,6 +7,6 @@ nd_generate_username() {
     suffix="$(echo "$(date +%N) $RANDOM" | sha256sum | head -c 3)";
     echo "${the_word}${suffix}" | tr '[:upper:]' '[:lower:]';
   else
-    echo "$(date +%N) $RANDOM" | sha256sum | base64;
+    echo "$(date +%N) $RANDOM" | shasum | base64;
   fi;
 }
