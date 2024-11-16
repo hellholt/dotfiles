@@ -2,6 +2,8 @@
 https://www.youtube.com/@52Miniatures
 # Artis Opus
 https://www.youtube.com/@ArtisOpus
+# Black Magic Craft
+https://www.youtube.com/@BlackMagicCraftOfficial
 # Brushstroke Painting Guides
 https://www.youtube.com/@BrushstrokePaintingGuides
 # Dana Howl
