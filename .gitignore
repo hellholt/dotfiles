@@ -1,2 +1,3 @@
 .DS_Store
 .config/youtube-dl/cookies.txt
+.config/configstore/update-notifier-npm.json
