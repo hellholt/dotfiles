@@ -26,6 +26,8 @@ https://historyofrome.libsyn.com/rss
 https://themondayamerican.libsyn.com/rss
 # One Year
 https://feeds.megaphone.fm/SLT7210881615
+# Operation Morning Light
+https://feeds.megaphone.fm/operationmorninglight
 # Our Fake History
 https://www.podcastone.com/podcast?categoryID2=2142
 # The Rest Is History

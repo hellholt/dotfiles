@@ -4,6 +4,8 @@ https://feeds.megaphone.fm/behindthebastards
 https://feeds.redcircle.com/e30b9f10-8c86-432e-9fa0-ba287fb94e7f
 # The City
 https://rss.art19.com/the-city
+# Cocaine & Rhinestones
+https://anchor.fm/s/52444bf0/podcast/rss
 # Conspiracy Theories
 https://feeds.megaphone.fm/END5064265457
 # Death, Sex & Money

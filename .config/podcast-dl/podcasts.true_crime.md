@@ -36,6 +36,8 @@ https://feeds.megaphone.fm/HSW2732644812
 https://feeds.megaphone.fm/ERM1095342797
 # The Coldest Case in Laramie
 https://feeds.simplecast.com/wHqls8d1
+# Collapse: Disaster in Surfside
+https://feeds.megaphone.fm/TREE4477237774
 # Complicit, a True Mystery Podcast
 https://feeds.resonaterecordings.com/complicit
 # Convicted
@@ -110,6 +112,8 @@ https://www.spreaker.com/show/3647242/episodes/feed
 https://rss.art19.com/over-my-dead-body
 # Paper Ghosts
 https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/fb8d36cf-b165-4399-b277-ae2701747cf3/664846e2-642c-49b7-82d8-ae2701747d14/podcast.rss
+# Pretend
+https://feeds.megaphone.fm/ADV1293150108
 # Queen of the Con
 https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/56fdafe4-fb54-425f-90f3-ae2d0142ad44/377ed552-7b8a-4681-b3af-ae2d0142ad61/podcast.rss
 # The Real Killer
@@ -138,8 +142,12 @@ https://feeds.simplecast.com/Gg33ecoK
 https://anchor.fm/s/19429938/podcast/rss
 # Swindled
 https://feeds.megaphone.fm/ADL8288293115
+# Trace Evidence
+https://www.spreaker.com/show/3207798/episodes/feed
 # True Crime All the Time
 https://rss.art19.com/true-crime-all-the-time
+# True Crime Bullsh**
+https://www.spreaker.com/show/3588169/episodes/feed
 # True Crime Garage
 https://feeds.simplecast.com/zatU8XEL
 # True Sunlight
