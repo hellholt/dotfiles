@@ -78,6 +78,8 @@ https://feeds.megaphone.fm/foxhunter
 https://feeds.megaphone.fm/gone-south
 # Guru: The Dark Side of Enlightenment
 https://rss.art19.com/guru
+# Heaven's Gate
+https://www.omnycontent.com/d/playlist/aaea4e69-af51-495e-afc9-a9760146922b/2dcc6ca3-4f1b-4fc9-bf46-aa3200e14bd1/0531a059-991a-4e77-a64e-aa3200e14bd1/podcast.rss
 # Hope in Darkness: The Josh Holt Story
 https://rss.art19.com/hope-in-darkness
 # Hunting Warhead
