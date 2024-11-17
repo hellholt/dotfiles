@@ -34,8 +34,12 @@ https://feeds.megaphone.fm/bringontheweird
 https://feeds.megaphone.fm/HSW2732644812
 # Buried Bones
 https://feeds.megaphone.fm/ERM1095342797
+# Camp Hell: Anneewakee
+https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/f93e3ef1-d568-4516-9b53-ae3100473272/511b64d1-58de-4400-9bc8-ae310047327b/podcast.rss
 # The Coldest Case in Laramie
 https://feeds.simplecast.com/wHqls8d1
+# Collapse: Disaster in Surfside
+https://feeds.megaphone.fm/TREE4477237774
 # Complicit, a True Mystery Podcast
 https://feeds.resonaterecordings.com/complicit
 # Convicted
@@ -68,14 +72,22 @@ https://www.omnycontent.com/d/playlist/fdc2ad13-d199-4e97-b2db-a59300cb6cc2/e03d
 https://rss.art19.com/detective-trapp
 # Dirty John
 https://rss.art19.com/dirty-john
+# Disgraceland
+https://feeds.megaphone.fm/dep5407482957
+# Down the Hill: The Delphi Murders
+https://feeds.acast.com/public/shows/64d6483e2f7c3a00118df744
 # Dr. Death
 https://rss.art19.com/dr-death
+# Firecracker
+https://feeds.megaphone.fm/firecrackerpodcast
 # Fox Hunter
 https://feeds.megaphone.fm/foxhunter
 # Gone South
 https://feeds.megaphone.fm/gone-south
 # Guru: The Dark Side of Enlightenment
 https://rss.art19.com/guru
+# Heaven's Gate
+https://www.omnycontent.com/d/playlist/aaea4e69-af51-495e-afc9-a9760146922b/2dcc6ca3-4f1b-4fc9-bf46-aa3200e14bd1/0531a059-991a-4e77-a64e-aa3200e14bd1/podcast.rss
 # Hope in Darkness: The Josh Holt Story
 https://rss.art19.com/hope-in-darkness
 # Hunting Warhead
@@ -94,6 +106,8 @@ https://feeds.megaphone.fm/glss6562856790
 https://anchor.fm/s/e019c874/podcast/rss
 # Man in the Window: The Golden State Killer
 https://rss.art19.com/man-in-the-window
+# MrBallen's Medical Mysteries
+https://rss.art19.com/mrballens-medical-mysteries
 # Murder in Miami
 https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/d8a056dd-3601-4d2d-8147-ae32006cd47a/4096435f-49d3-4b27-807b-ae32006cd49b/podcast.rss
 # Murder With My Husband
@@ -102,14 +116,20 @@ https://feeds.megaphone.fm/HSW2364749129
 https://feeds.simplecast.com/dI7UJjtl
 # My Fugitive
 https://feeds.megaphone.fm/CAD2765173836
+# Night Watch
+https://feeds.megaphone.fm/ADL7883243868
 # The Order of Death
 https://theorderofdeath.libsyn.com/rss
 # Our True Crime Podcast
 https://www.spreaker.com/show/3647242/episodes/feed
+# The Outlaw Ocean
+https://www.cbc.ca/podcasting/includes/outlawocean.xml
 # Over My Dead Body
 https://rss.art19.com/over-my-dead-body
 # Paper Ghosts
 https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/fb8d36cf-b165-4399-b277-ae2701747cf3/664846e2-642c-49b7-82d8-ae2701747d14/podcast.rss
+# Pretend
+https://feeds.megaphone.fm/ADV1293150108
 # Queen of the Con
 https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/56fdafe4-fb54-425f-90f3-ae2d0142ad44/377ed552-7b8a-4681-b3af-ae2d0142ad61/podcast.rss
 # The Real Killer
@@ -138,8 +158,12 @@ https://feeds.simplecast.com/Gg33ecoK
 https://anchor.fm/s/19429938/podcast/rss
 # Swindled
 https://feeds.megaphone.fm/ADL8288293115
+# Trace Evidence
+https://www.spreaker.com/show/3207798/episodes/feed
 # True Crime All the Time
 https://rss.art19.com/true-crime-all-the-time
+# True Crime Bullsh**
+https://www.spreaker.com/show/3588169/episodes/feed
 # True Crime Garage
 https://feeds.simplecast.com/zatU8XEL
 # True Sunlight

@@ -22,6 +22,8 @@ https://www.youtube.com/@MarcoFrisoniNJM
 https://www.youtube.com/@MidwinterMinis
 # Mike Meeple
 https://www.youtube.com/@MikeMeeple
+# Night Shift Scale Models
+https://www.youtube.com/@NightShiftScaleModels
 # Ninjon
 https://www.youtube.com/@Ninjon
 # Sonic Sledgehammer
