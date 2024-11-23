@@ -188,6 +188,8 @@ https://www.omnycontent.com/d/playlist/2fb3740d-3436-44af-8cc0-a91900716aa5/2af8
 https://podcasts.files.bbci.co.uk/p09bxhkf.rss
 # Wolves Among Us
 https://feeds.megaphone.fm/wolves-among-us
+# The World's Greatest Con
+https://feeds.acast.com/public/shows/630fb274cbfa130012217d46
 # Wrongful Conviction
 https://www.omnycontent.com/d/playlist/aaea4e69-af51-495e-afc9-a9760146922b/95311bc7-5f16-4a15-90ad-acbd0160120e/9678644f-7e58-4c56-b5a0-acbd01601226/podcast.rss
 # Your Own Backyard
