@@ -14,6 +14,7 @@ pod_download_podcast() {
     --include-episode-meta \
     --include-episode-transcripts \
     --add-mp3-metadata \
+    --always-postprocess \
     --url "${the_url}";
 }
 
