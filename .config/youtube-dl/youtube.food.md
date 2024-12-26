@@ -4,6 +4,8 @@ https://www.youtube.com/@HowToCookThat
 https://www.youtube.com/@MakeSushi1
 # J. Kenji Lopez-Alt
 https://www.youtube.com/@JKenjiLopezAlt
+# Pailin's Kitchen
+https://www.youtube.com/@PailinsKitchen
 # Simply Mama Cooks
 https://www.youtube.com/@SimplyMamaCooks
 # Tasting History
