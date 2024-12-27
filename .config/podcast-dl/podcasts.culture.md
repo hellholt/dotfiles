@@ -2,6 +2,8 @@
 https://feeds.megaphone.fm/behindthebastards
 # Blowback
 https://feeds.redcircle.com/e30b9f10-8c86-432e-9fa0-ba287fb94e7f
+# Breaking Down: Collapse
+https://feeds.acast.com/public/shows/64e11b3fcc399200115010f0
 # The City
 https://rss.art19.com/the-city
 # Cocaine & Rhinestones
