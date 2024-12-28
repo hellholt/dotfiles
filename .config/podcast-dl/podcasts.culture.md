@@ -28,6 +28,8 @@ https://anchor.fm/s/2e099fec/podcast/rss
 https://feeds.npr.org/381444908/podcast.xml
 # Heavyweight
 http://feeds.megaphone.fm/heavyweight
+# Ice Age Farmer
+https://feeds.feedburner.com/iceagefarmer
 # Imagined Life
 https://rss.art19.com/imagined-life
 # Important If True
@@ -54,6 +56,8 @@ https://feeds.megaphone.fm/replyall
 http://feeds.revealradio.org/revealpodcast
 # The Shrink Next Door
 https://rss.art19.com/the-shrink-next-door
+# Sold a Story
+https://feeds.publicradio.org/public_feeds/sold-a-story
 # Strict Scrutiny
 https://feeds.simplecast.com/EyrYWMW2
 # Stuff You Should Know
