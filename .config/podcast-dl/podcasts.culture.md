@@ -26,6 +26,8 @@ http://feeds.everythingisalive.com/everythingisalive
 https://anchor.fm/s/2e099fec/podcast/rss
 # Fresh Air
 https://feeds.npr.org/381444908/podcast.xml
+# The Good Whale
+https://feeds.simplecast.com/d6hpUM18
 # Heavyweight
 http://feeds.megaphone.fm/heavyweight
 # Ice Age Farmer

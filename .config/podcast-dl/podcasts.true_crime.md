@@ -36,16 +36,28 @@ https://feeds.megaphone.fm/HSW2732644812
 https://feeds.megaphone.fm/ERM1095342797
 # Camp Hell: Anneewakee
 https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/f93e3ef1-d568-4516-9b53-ae3100473272/511b64d1-58de-4400-9bc8-ae310047327b/podcast.rss
+# The Children in the Pictures
+https://www.omnycontent.com/d/playlist/820f09cf-2ace-4180-a92d-aa4c0008f5fb/1cfcd7b0-665c-4d6a-a453-b04c0001e5d4/728f6b5e-3b76-47c5-84fb-b04c0002e96f/podcast.rss
+# The Clearing
+https://feeds.megaphone.fm/the-clearing
+# Cold
+https://rss.art19.com/alternate_feeds/radiopublic/cold/iflK1omSrLPRbPL7T-z38sBn2XLqJysy
 # The Coldest Case in Laramie
 https://feeds.simplecast.com/wHqls8d1
 # Collapse: Disaster in Surfside
 https://feeds.megaphone.fm/TREE4477237774
 # Complicit, a True Mystery Podcast
 https://feeds.resonaterecordings.com/complicit
+# Confronting
+https://rss.art19.com/confronting-oj-simpson
 # Convicted
 https://podsforjustice.libsyn.com/rss
+# CounterClock
+https://feeds.simplecast.com/MTPwrbcY
 # Court Junkie
 http://www.podcastone.com/podcast?categoryID2=1983
+# Cousins by Blood
+https://anchor.fm/s/40df8a14/podcast/rss
 # Crime Analyst
 https://audioboom.com/channels/5044584.rss
 # Crime Junkie
@@ -56,16 +68,6 @@ https://feeds.megaphone.fm/VMP7924981569
 https://feeds.megaphone.fm/criminalconductpod
 # Culpable
 https://feeds.megaphone.fm/culpable
-# The Clearing
-https://feeds.megaphone.fm/the-clearing
-# Cold
-https://rss.art19.com/alternate_feeds/radiopublic/cold/iflK1omSrLPRbPL7T-z38sBn2XLqJysy
-# Confronting
-https://rss.art19.com/confronting-oj-simpson
-# CounterClock
-https://feeds.simplecast.com/MTPwrbcY
-# Cousins by Blood
-https://anchor.fm/s/40df8a14/podcast/rss
 # Dark Poutine: True Crime and Dark History
 https://www.omnycontent.com/d/playlist/fdc2ad13-d199-4e97-b2db-a59300cb6cc2/e03d4e1e-d40b-4706-82d2-a95f010d0639/4f01b694-96f6-408f-9d02-a95f010d064d/podcast.rss
 # Detective Trapp
@@ -100,12 +102,16 @@ https://publicfeeds.net/f/5770/in-the-dark
 https://feeds.megaphone.fm/inthelandoflies
 # Killer Psyche
 https://rss.art19.com/killer-psyche
+# Kuper Island
+https://www.cbc.ca/podcasting/includes/kuperisland.xml
 # LISK: Long Island Serial Killer
 https://feeds.megaphone.fm/glss6562856790
 # Looking for the Todt Family
 https://anchor.fm/s/e019c874/podcast/rss
 # Man in the Window: The Golden State Killer
 https://rss.art19.com/man-in-the-window
+# Missing and Murdered: Finding Cleo
+https://www.cbc.ca/podcasting/includes/missing.xml
 # MrBallen's Medical Mysteries
 https://rss.art19.com/mrballens-medical-mysteries
 # Murder in Miami
