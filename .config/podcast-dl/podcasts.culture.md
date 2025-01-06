@@ -1,5 +1,7 @@
 # Behind the Bastards
 https://feeds.megaphone.fm/behindthebastards
+# The Bitter Southerner Podcast
+https://gpb-od.streamguys1.com/gpb/bitter-southerner-itunes.xml
 # Blowback
 https://feeds.redcircle.com/e30b9f10-8c86-432e-9fa0-ba287fb94e7f
 # Breaking Down: Collapse
