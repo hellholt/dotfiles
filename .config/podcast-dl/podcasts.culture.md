@@ -2,6 +2,8 @@
 https://feeds.megaphone.fm/behindthebastards
 # The Bitter Southerner Podcast
 https://gpb-od.streamguys1.com/gpb/bitter-southerner-itunes.xml
+# The Blindboy Podcast
+https://feeds.acast.com/public/shows/9d5c107b-68d6-4c1b-8c80-45ee6a84c947
 # Blowback
 https://feeds.redcircle.com/e30b9f10-8c86-432e-9fa0-ba287fb94e7f
 # Breaking Down: Collapse
@@ -42,6 +44,8 @@ https://www.idlethumbs.net/feeds/importantiftrue
 https://podcasts.files.bbci.co.uk/b006qykl.rss
 # Invisibilia
 https://feeds.npr.org/510307/podcast.xml
+# The Joe Frank Podcast
+https://feeds.libsyn.com/461397/rss
 # MonsterTalk
 https://feeds.megaphone.fm/monstertalk
 # Mystery Show
