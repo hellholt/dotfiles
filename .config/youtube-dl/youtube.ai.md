@@ -12,5 +12,7 @@ https://www.youtube.com/@b2stud
 https://www.youtube.com/@davidrandallmiller
 # Edan Meyer
 https://www.youtube.com/@EdanMeyer
+# Latent Space
+https://www.youtube.com/@LatentSpacePod
 # Primer
 https://www.youtube.com/@PrimerBlobs
