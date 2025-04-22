@@ -22,6 +22,8 @@ https://feeds.360.audion.fm/HZrgBsvnXo8yqsqsP7bI7
 https://feeds.acast.com/public/shows/66068d998268a800165e07b2
 # Le Fil IA (~B1)
 https://feeds.acast.com/public/shows/le-fil-ia
+# Le Français avec Fluidité (~B1)
+https://lefranchute.libsyn.com/rss
 # Maintenant, vous savez (~C1-C2)
 https://feeds.megaphone.fm/BABA2900401712
 # Philosophy Is Sexy (~C1-C2)
