@@ -16,6 +16,8 @@ https://feeds.simplecast.com/Y8lFbOT4
 https://feeds.simplecast.com/kwWc0lhf
 # The Infinite Monkey Cage
 https://podcasts.files.bbci.co.uk/b00snr0w.rss
+# The Jim Rutt Show
+https://jimruttshow.blubrry.net/feed/podcast/
 # The Joy of Why
 https://api.quantamagazine.org/feed/the-joy-of-why
 # Ologies with Alie Ward
