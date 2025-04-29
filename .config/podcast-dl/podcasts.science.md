@@ -30,3 +30,5 @@ https://feeds.buzzsprout.com/937816.rss
 https://feeds.megaphone.fm/sciencevs
 # The Skeptics' Guide to the Universe
 https://feed.theskepticsguide.org/feed/rss.aspx?feed=sgu
+# Your Undivided Attention
+https://feeds.simplecast.com/rZ0cYk12
