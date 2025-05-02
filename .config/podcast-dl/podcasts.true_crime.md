@@ -148,6 +148,8 @@ https://www.spreaker.com/login?redirect=https%3A%2F%2Fwww.spreaker.com%2Fcms%2Fs
 https://www.omnycontent.com/d/playlist/d83f52e4-2455-47f4-982e-ab790120b954/746fc97b-db2e-4fef-919f-ab850163e13d/8264c1d0-8a91-4e78-827f-ab850163e14b/podcast.rss
 # Scamanda
 https://feeds.megaphone.fm/scamanda
+# The Secret History of Flight 149
+https://feeds.megaphone.fm/secrethistory
 # Serial
 https://feeds.simplecast.com/xl36XBC2
 # Small Town Murder
