@@ -137,6 +137,10 @@ When multiple valid approaches exist, choose based on:
 - Use existing test utilities/helpers
 - Tests should be deterministic
 
+## Environment
+
+See [workspace-layout.md](workspace-layout.md) for repository organization, GitHub orgs, and directory conventions.
+
 ## Preferences
 
 - **Always use subagent-driven development** for executing implementation plans — don't ask, just do it
