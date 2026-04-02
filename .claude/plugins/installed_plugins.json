@@ -1,0 +1,34 @@
+{
+  "version": 2,
+  "plugins": {
+    "frontend-design@claude-code-plugins": [
+      {
+        "scope": "user",
+        "installPath": "/Users/nathan/.claude/plugins/cache/claude-code-plugins/frontend-design/1.0.0",
+        "version": "1.0.0",
+        "installedAt": "2025-12-03T23:15:35.285Z",
+        "lastUpdated": "2025-12-03T23:15:35.285Z",
+        "gitCommitSha": "5e3e9408feea99c66bd2344f0e19b5f25d2a6b11"
+      }
+    ],
+    "rust-analyzer-lsp@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "/Users/nathan/.claude/plugins/cache/claude-plugins-official/rust-analyzer-lsp/1.0.0",
+        "version": "1.0.0",
+        "installedAt": "2026-01-01T22:31:29.283Z",
+        "lastUpdated": "2026-01-01T22:31:29.283Z"
+      }
+    ],
+    "superpowers@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "/Users/nathan/.claude/plugins/cache/claude-plugins-official/superpowers/5.0.7",
+        "version": "5.0.7",
+        "installedAt": "2026-02-10T13:09:46.269Z",
+        "lastUpdated": "2026-03-31T20:30:49.555Z",
+        "gitCommitSha": "a98c5dfc9de0df5318f4980d91d24780a566ee60"
+      }
+    ]
+  }
+}

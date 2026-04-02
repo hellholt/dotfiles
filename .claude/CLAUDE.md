@@ -137,6 +137,12 @@ When multiple valid approaches exist, choose based on:
 - Use existing test utilities/helpers
 - Tests should be deterministic
 
+## Preferences
+
+- **Always use subagent-driven development** for executing implementation plans — don't ask, just do it
+- **Always use the visual companion** during brainstorming — don't ask, just set it up
+- **Worktree directory**: `~/.config/superpowers/worktrees/<project-name>/` (global, not project-local)
+
 ## Important Reminders
 
 **NEVER**:

@@ -15,3 +15,5 @@ for source_file in "${source_files[@]}"; do
     source "${source_file}";
   fi;
 done;
+
+export PATH="$HOME/.elan/bin:$PATH"
