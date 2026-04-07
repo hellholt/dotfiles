@@ -137,6 +137,14 @@ When multiple valid approaches exist, choose based on:
 - Use existing test utilities/helpers
 - Tests should be deterministic
 
+## CLI Tools
+
+The following tools should be available for use. If you try to use one and it's not installed, install it via Homebrew.
+
+- **shellcheck** (`brew install shellcheck`) — Validates shell scripts for common pitfalls (unquoted variables, POSIX issues). Run on any shell script before committing.
+- **yq** (`brew install yq`) — Query and modify YAML/JSON/TOML files while preserving formatting and comments. Use for structured edits to workflow files and configs.
+- **scc** (`brew install scc`) — Fast code counter with language stats, line counts, and complexity estimates. Use to get a quick overview of project structure.
+
 ## Environment
 
 See [workspace-layout.md](workspace-layout.md) for repository organization, GitHub orgs, and directory conventions.
