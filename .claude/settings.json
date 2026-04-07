@@ -163,10 +163,6 @@
     "rust-analyzer-lsp@claude-plugins-official": true,
     "superpowers@claude-plugins-official": true
   },
-  "skipDangerousModePermissionPrompt": true,
-  "feedbackSurveyState": {
-    "lastShownTime": 1754011993969
-  },
   "extraKnownMarketplaces": {
     "superpowers-marketplace": {
       "source": {
@@ -174,5 +170,9 @@
         "repo": "obra/superpowers-marketplace"
       }
     }
+  },
+  "skipDangerousModePermissionPrompt": true,
+  "feedbackSurveyState": {
+    "lastShownTime": 1754011993969
   }
 }
