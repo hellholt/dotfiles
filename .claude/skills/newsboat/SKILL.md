@@ -2,7 +2,7 @@
 name: newsboat
 description: Manage Newsboat RSS feeds — add, remove, or list feeds in ~/.config/newsboat/urls
 user_invocable: true
-arguments: subcommand and arguments (e.g. "add https://example.com/feed.xml blogs", "remove example.com", "list tech")
+argument-hint: add URL tag, remove URL, list tag
 ---
 
 # Newsboat Feed Manager
