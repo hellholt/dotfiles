@@ -174,5 +174,20 @@
   "skipDangerousModePermissionPrompt": true,
   "feedbackSurveyState": {
     "lastShownTime": 1754011993969
+  },
+  "hooks": {
+    "PostToolUse": [
+      {
+        "matcher": "Edit|Write",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "bash /Users/nathan/.claude/hooks/yadm-check.sh",
+            "timeout": 10,
+            "statusMessage": "Checking yadm tracking..."
+          }
+        ]
+      }
+    ]
   }
 }
