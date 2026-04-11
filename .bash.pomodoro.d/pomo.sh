@@ -10,7 +10,7 @@
 #   log [--today|--week|--month]  Show log entries (default: --today)
 #   summary [--week|--month]      Show aggregated stats (default: --week)
 pomo() {
-  local command="${1}"
+  local command="${1:-}"
 
   if [ -z "${command}" ]; then
     echo "Usage: pomo <command> [args...]" >&2
