@@ -1,0 +1,13 @@
+default_duration: 25  # minutes
+
+activities:
+  math-academy:
+    name: "Math Academy"
+    url: "https://mathacademy.com/"
+    category: learning
+    aliases: ["ma", "math"]
+  leetcode:
+    name: "LeetCode"
+    url: "https://leetcode.com/"
+    category: coding
+    aliases: ["lc", "leet"]
