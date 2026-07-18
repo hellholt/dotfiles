@@ -17,3 +17,4 @@ for source_file in "${source_files[@]}"; do
 done;
 
 export PATH="$HOME/.elan/bin:$PATH"
+. "$HOME/.cargo/env"
